@@ -3,19 +3,20 @@
 TACHE : composition
 STYLE : classique
 FORMAT : piano_solo
-NIVEAU : simple
-Titre : Piano_Sonatas_3-1
-Date : ?
-Auteur : Beethoven
+NIVEAU : avance
+Titre : Sonate pour piano n°3 en Do majeur, op.2 n°3, 1er mouvement (Allegro con brio)
+Date : 1795
+Auteur : Ludwig van Beethoven
 Tonalite : Do_majeur
 Unite : quarter
-Intention : Pièce pour piano solo, modéré, lumineux, au cadre binaire régulier. Tonalité : Do majeur. 258 mesures.
+Intention : Le premier mouvement de la Sonate op.2 n°3 est le plus virtuose et brillant des trois, d'une envergure quasi-concertante, exigeant une technique pianistique avancée et une parfaite maîtrise des contrastes dynamiques. Forme sonate en Do majeur, à 4/4, Allegro con brio, 90 BPM, 258 mesures, avec un second thème remarquable par son entrée en mode mineur de dominante (Sol mineur) et une coda comportant une cadence de style concertant.
 </tete>
 
 <meta>
-Section d'ouverture — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+8 mesures (mm.1-13), Allegro con brio, Do majeur, 90 BPM.
+Le premier thème est construit presque entièrement sur le rythme de la première mesure. Il s'ouvre sur un motif en tierces en doubles croches, exposant une énergie brillante et virtuose. La fin du thème intervient à la mesure 8, les mesures 9-13 constituant une répétition variée et prolongée des mesures 5-8. Ce caractère concertant annonce la dimension quasi-orchestrale de la sonate. Jouer avec prestance et clarté, en soulignant les articulations staccato.
 </meta>
-    <section=section_1, n_mesure=8, bpm=90, format=4/4, tonalite=Do_majeur>
+    <section=exposition_theme_1, n_mesure=8, bpm=90, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |do4 mi4, -, ({si3 re4, do4 mi4}, si3 re4, do4 mi4), (re4 fa4, do4 mi4)|
             <piano_1_v5>  |do3 sol3, -, -, -|
@@ -58,9 +59,10 @@ Section d'ouverture — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 1 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+8 mesures (mm.9-16), Allegro con brio, Do majeur vers Sol majeur, 90 BPM.
+La fin du premier thème (mm.9-13) est une répétition variée des mesures 5-8. La transition s'ouvre à la mesure 13 avec un matériau nouveau, inhabituel par son caractère, qui se conclut sur la dominante (Sol). Cette transition se distingue par sa fin sur le dominant plutôt que sur un accord de passage, ce qui est peu courant dans la forme sonate classique. Jouer le passage de transition avec fluidité et en préparant l'arrivée du second thème.
 </meta>
-    <section=section_2, n_mesure=8, bpm=90, format=4/4, tonalite=Do_majeur>
+    <section=exposition_theme_1, n_mesure=8, bpm=90, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |_, sol4, -, fa4|
             <piano_1_v2>  |_, mi4, re4, re4|
@@ -105,9 +107,10 @@ Section de développement 1 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 2 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+8 mesures (mm.17-24), Allegro con brio, Sol majeur, 90 BPM.
+La transition continue avec son matériau neuf, modulant fermement vers Sol majeur. La conduite harmonique illustre la maîtrise de Beethoven dans la modulation. La conclusion sur la dominante (Sol), tonalité du second thème, est ici confirmée. Maintenir la fluidité et la direction harmonique, en anticipant le départ du second thème.
 </meta>
-    <section=section_3, n_mesure=8, bpm=90, format=4/4, tonalite=Do_majeur>
+    <section=transition, n_mesure=8, bpm=90, format=4/4, tonalite=Sol_majeur>
         <mesure num=1>
             <piano_1_v1>  |({do4, mi4}, sol4, do5), ({mi4, mi5}, mi4, mi5), ({mi4, sol4}, do5, mi5), ({sol4, sol5}, sol4, sol5)|
             <piano_1_v2>  |_, (do4, do4), do4, (mi4, mi4)|
@@ -147,9 +150,10 @@ Section de développement 2 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 3 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+8 mesures (mm.25-32), Allegro con brio, Sol mineur, 90 BPM.
+Le second thème débute à la mesure 27 en Sol mineur (dominante mineur), ce qui est inhabituel dans la forme sonate classique. Ce choix modal donne au second thème un caractère plus sombre et expressif, contrastant avec l'éclat du premier thème. Le thème s'ouvre sur une phrase de deux mesures, suivie d'une phrase de quatre mesures. Jouer avec une expressivité plus intérieure, en laissant le mode mineur teinter le phrasé.
 </meta>
-    <section=section_4, n_mesure=8, bpm=90, format=4/4, tonalite=Do_majeur>
+    <section=exposition_theme_2, n_mesure=8, bpm=90, format=4/4, tonalite=Sol_mineur>
         <mesure num=1>
             <piano_1_v1>  |({si4 re5, sol5}, fa#5, mi5), ({re5, do5}, si4, la4), ({sol4, sol4}, fa#4, mi4), ({re4, do4}, si3, la3)|
             <piano_1_v5>  |sol2, _, ({_, sol3}, fa#3, mi3), ({re3, do3}, si2, la2)|
@@ -186,9 +190,10 @@ Section de développement 3 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 4 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+8 mesures (mm.33-40), Allegro con brio, Sol mineur, 90 BPM.
+Le second thème se développe en Sol mineur. Cette première partie du second thème (mm.27-45) est entièrement en mineur, créant un contraste expressif marqué avec le premier thème en Do majeur. La ligne mélodique est plus chantante et lyrique. Maintenir le legato et la ligne mélodique, en soulignant le caractère expressif du mineur.
 </meta>
-    <section=section_5, n_mesure=8, bpm=90, format=4/4, tonalite=Do_majeur>
+    <section=exposition_theme_2, n_mesure=8, bpm=90, format=4/4, tonalite=Sol_mineur>
         <mesure num=1>
             <piano_1_v1>  |(fa5, la5), (si5, do#6), (re6, mi6), (fa6, la5)|
             <piano_1_v5>  |(re3, fa3), (la3, fa3), (la3, fa3), (re3, fa3)|
@@ -224,9 +229,10 @@ Section de développement 4 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 5 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+8 mesures (mm.41-48), Allegro con brio, Sol mineur, 90 BPM.
+Le second thème en Sol mineur se prolonge jusqu'à la mesure 45, avant de basculer vers Sol majeur. Cette alternance mineur/majeur illustre la richesse harmonique de la sonate. La transition entre les deux modes doit être soignée. Jouer en préparant le changement de couleur vers Sol majeur.
 </meta>
-    <section=section_6, n_mesure=8, bpm=90, format=4/4, tonalite=Do_majeur>
+    <section=exposition_theme_2, n_mesure=8, bpm=90, format=4/4, tonalite=Sol_mineur>
         <mesure num=1>
             <piano_1_v1>  |sol4 la#4 re5 sol5, ({sol5, fa5}, re#5, re5), ({do5, la#4}, la4, sol4), ({fa#4, sol4}, la4, fa#4)|
             <piano_1_v5>  |(sol3, la#3 re4), (la#3 re4, la#3 re4), (la#3 re4, la#3 re4), (la#3 re4, la#3 re4)|
@@ -265,9 +271,10 @@ Section de développement 5 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 6 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+8 mesures (mm.49-56), Allegro con brio, Sol majeur, 90 BPM.
+La seconde partie du thème 2 (mm.47-77) se déploie en Sol majeur (dominante majeure). Le caractère s'éclaircit, retrouvant une énergie virtuose proche du premier thème. L'écriture brillante en Sol majeur confirme la tonalité de la dominante. Jouer avec une énergie renouvelée, en soulignant la brillance de Sol majeur.
 </meta>
-    <section=section_7, n_mesure=8, bpm=90, format=4/4, tonalite=Do_majeur>
+    <section=exposition_theme_2, n_mesure=8, bpm=90, format=4/4, tonalite=Sol_majeur>
         <mesure num=1>
             <piano_1_v1>  |(fa#4, re4), (do#4, re4), (fa#4, re4), (la4, re4)|
             <piano_1_v5>  |do4, -, la3, fa#3|
@@ -307,9 +314,10 @@ Section de développement 6 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 7 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+8 mesures (mm.57-64), Allegro con brio, Sol majeur, 90 BPM.
+Le second thème en Sol majeur continue son déploiement brillant. Les traits virtuoses et les progressions harmoniques affirmées caractérisent cette section. L'écriture tend vers un style quasi-concertant. Maintenir la virtuosité et la clarté articulaire.
 </meta>
-    <section=section_8, n_mesure=8, bpm=90, format=4/4, tonalite=Do_majeur>
+    <section=exposition_theme_2, n_mesure=8, bpm=90, format=4/4, tonalite=Sol_majeur>
         <mesure num=1>
             <piano_1_v1>  |do6, -, la5, fa#5|
             <piano_1_v5>  |(fa#3, re3), (do#3, re3), (fa#3, re3), (la3, re3)|
@@ -353,9 +361,10 @@ Section de développement 7 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 8 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+8 mesures (mm.65-72), Allegro con brio, Sol majeur, 90 BPM.
+Le second thème en Sol majeur s'approche de sa conclusion, les traits brillants maintenant le caractère virtuose. La préparation de la coda de l'exposition commence. Jouer avec énergie et précision jusqu'à la cadence conclusive.
 </meta>
-    <section=section_9, n_mesure=8, bpm=90, format=4/4, tonalite=Do_majeur>
+    <section=exposition_theme_2, n_mesure=8, bpm=90, format=4/4, tonalite=Sol_majeur>
         <mesure num=1>
             <piano_1_v1>  |({si3, re4}, sol4, si4), ({re4, re5}, re4, re5), ({re4, sol4}, si4, re5), ({sol4, sol5}, sol4, sol5)|
             <piano_1_v5>  |si2 re3 sol3, (sol3 si3, sol3 si3), sol3 si3, (si3 re4, si3 re4)|
@@ -393,9 +402,10 @@ Section de développement 8 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 9 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+8 mesures (mm.73-80), Allegro con brio, Sol majeur, 90 BPM.
+La coda de l'exposition débute à la mesure 77. Elle s'ouvre sur un sujet court qui sera réintroduit au début du développement, créant un lien structurel original entre les deux sections. Ce passage brillant confirme Sol majeur et clôt l'exposition avec panache. Jouer avec brillance et une sonorité pleine.
 </meta>
-    <section=section_10, n_mesure=8, bpm=90, format=4/4, tonalite=Do_majeur>
+    <section=coda_exposition, n_mesure=8, bpm=90, format=4/4, tonalite=Sol_majeur>
         <mesure num=1>
             <piano_1_v1>  |sol3 si3 re4, _, (sol3, {si3, re4}), ({sol4, si4}, re5, sol5)|
             <piano_1_v5>  |_, sol1 sol2, _, _|
@@ -435,9 +445,10 @@ Section de développement 9 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 10 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+8 mesures (mm.81-88), Allegro con brio, Sol majeur, 90 BPM.
+La coda de l'exposition se poursuit avec le passage en arpèges. Ces arpèges brillants contribuent à l'impression de concerto que crée la sonate. La clôture de l'exposition est affirmée avec panache. Maintenir la brillance et la précision des arpèges.
 </meta>
-    <section=section_11, n_mesure=8, bpm=90, format=4/4, tonalite=Do_majeur>
+    <section=coda_exposition, n_mesure=8, bpm=90, format=4/4, tonalite=Sol_majeur>
         <mesure num=1>
             <piano_1_v1>  |sol4 si4, _, do4, do4|
             <piano_1_v5>  |sol3 si3, _, do3, do3|
@@ -478,9 +489,10 @@ Section de développement 10 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 11 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+8 mesures (mm.89-96), Allegro con brio, Sol majeur vers Do majeur, 90 BPM.
+Le développement commence à la mesure 91 avec le sujet introduit dans la coda de l'exposition. Après un passage d'arpèges brillants, une modulation enharmonique remarquable conduit à la mesure 103-104, menant au premier thème en Ré majeur (mesure 110). Jouer avec attention aux transitions harmoniques et en valorisant la modulation inattendue.
 </meta>
-    <section=section_12, n_mesure=8, bpm=90, format=4/4, tonalite=Do_majeur>
+    <section=developpement, n_mesure=8, bpm=90, format=4/4, tonalite=Sol_majeur>
         <mesure num=1>
             <piano_1_v1>  |_, _, fa#4 la4 do5 re5 fa#5, _|
             <piano_1_v5>  |sol3, -, -, -|
@@ -525,9 +537,10 @@ Section de développement 11 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 12 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+8 mesures (mm.97-104), Allegro con brio, Ré majeur, 90 BPM.
+Le développement présente une modulation enharmonique (mm.103-104) qui conduit au premier thème en Ré majeur (mesure 110). Cette relation de ton harmonique (tierce au-dessus de Si bémol, lui-même à distance de Do) illustre l'audace modulatoire beethovénienne. Jouer la modulation avec expressivité, en laissant la surprise harmonique colorer le phrasé.
 </meta>
-    <section=section_13, n_mesure=8, bpm=90, format=4/4, tonalite=Do_majeur>
+    <section=developpement, n_mesure=8, bpm=90, format=4/4, tonalite=Re_majeur>
         <mesure num=1>
             <piano_1_v1>  |({fa5, re6}, sol#5, fa6), ({re5, sol#5}, fa5, re6), ({sol#4, fa5}, re5, sol#5), ({fa4, re5}, sol#4, fa5)|
             <piano_1_v5>  |la#1 re2 fa2 la#2, -, -, -|
@@ -567,9 +580,10 @@ Section de développement 12 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 13 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+8 mesures (mm.105-112), Allegro con brio, Ré majeur, 90 BPM.
+Le premier thème réapparaît en Ré majeur (mesure 110), confirmant la modulation enharmonique préparée précédemment. Cette transposition du premier thème en Ré majeur constitue un moment de grande clarté au cœur du développement. Jouer le retour du thème avec toute sa clarté et son énergie originales, mais dans la nouvelle couleur harmonique.
 </meta>
-    <section=section_14, n_mesure=8, bpm=90, format=4/4, tonalite=Do_majeur>
+    <section=developpement, n_mesure=8, bpm=90, format=4/4, tonalite=Re_majeur>
         <mesure num=1>
             <piano_1_v1>  |({la4, fa#5}, do#5, la5), ({fa#4, do#5}, la4, fa#5), ({do#4, la4}, fa#4, do#5), ({la3, fa#4}, do#4, la4)|
             <piano_1_v5>  |do#2 fa#2 la2 do#3, -, -, -|
@@ -609,9 +623,10 @@ Section de développement 13 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 14 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+8 mesures (mm.113-120), Allegro con brio, Ré majeur vers Do majeur, 90 BPM.
+Le développement s'achemine vers sa conclusion sur une pédale de dominante de Do majeur. Les figurations motiviques du développement se resserrent en préparation de la réexposition. Accentuer la direction harmonique vers la pédale de dominante.
 </meta>
-    <section=section_15, n_mesure=8, bpm=90, format=4/4, tonalite=Do_majeur>
+    <section=developpement, n_mesure=8, bpm=90, format=4/4, tonalite=Re_majeur>
         <mesure num=1>
             <piano_1_v1>  |fa#4 re5, -, ({do5, re5}, do5, re5), (re#5, do5)|
             <piano_1_v5>  |re3 fa#3 la3 re4, re2 re3, _, _|
@@ -649,9 +664,10 @@ Section de développement 14 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 15 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+8 mesures (mm.121-128), Allegro con brio, Do majeur (pédale de dominante), 90 BPM.
+La pédale de dominante de Do majeur s'établit, préparant de façon soutenue le retour du premier thème. La tension harmonique s'accumule vers la réexposition. Jouer avec une intensité croissante, en maintenant la pédale de dominante bien en évidence.
 </meta>
-    <section=section_16, n_mesure=8, bpm=90, format=4/4, tonalite=Do_majeur>
+    <section=developpement, n_mesure=8, bpm=90, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |mi5 sol5 do6 mi6, _, ({la#5, do6}, la#5, do6), (do#6, la#5)|
             <piano_1_v2>  |_, do4 do5, -, -|
@@ -690,9 +706,10 @@ Section de développement 15 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 16 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+8 mesures (mm.129-136), Allegro con brio, Do majeur (pédale de dominante), 90 BPM.
+La pédale de dominante se prolonge, intensifiant l'attente de la réexposition. L'urgence harmonique est à son comble. Maintenir la tension maximale jusqu'à la résolution.
 </meta>
-    <section=section_17, n_mesure=8, bpm=90, format=4/4, tonalite=Do_majeur>
+    <section=developpement, n_mesure=8, bpm=90, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |re4 si4 re5, _, _, _|
             <piano_1_v5>  |_, _, _, la3|
@@ -741,9 +758,10 @@ Section de développement 16 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 17 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+8 mesures (mm.137-144), Allegro con brio, Do majeur, 90 BPM.
+La réexposition du premier thème commence à la mesure 140. Contrairement à l'exposition (deux sections), le thème est ici raccourci, la répétition variée des mesures 5-8 étant omise. Ce raccourcissement est typique du traitement beethovénien de la réexposition. Jouer le retour du thème avec toute son énergie, en notant sa concision accrue.
 </meta>
-    <section=section_18, n_mesure=8, bpm=90, format=4/4, tonalite=Do_majeur>
+    <section=recapitulation_theme_1, n_mesure=8, bpm=90, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |({re5, mi5}, re5, mi5), (fa5, re5), ({si4, do5}, si4, do5), (re5, si4)|
             <piano_1_v5>  |sol2 re3 fa3 si3, -, -, -|
@@ -783,9 +801,10 @@ Section de développement 17 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 18 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+8 mesures (mm.145-152), Allegro con brio, Do majeur, 90 BPM.
+La transition de la réexposition débute à la mesure 148. Les huit mesures brillantes du début de la transition de l'exposition sont omises et remplacées par un développement des deux dernières mesures du premier thème. La dernière partie de la transition est inchangée. Jouer avec fluidité, en laissant percevoir les différences avec l'exposition.
 </meta>
-    <section=section_19, n_mesure=8, bpm=90, format=4/4, tonalite=Do_majeur>
+    <section=transition, n_mesure=8, bpm=90, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |sol4, do5, re4, la4|
             <piano_1_v2>  |_, _, do4 re4, -|
@@ -824,9 +843,10 @@ Section de développement 18 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 19 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+8 mesures (mm.153-160), Allegro con brio, Do majeur vers Do mineur, 90 BPM.
+La transition de la réexposition s'achève, menant cette fois-ci vers Do mineur (tonique mineur) pour préparer l'entrée du second thème dans la tonique. Cette modification par rapport à l'exposition (qui modulait vers Sol) est la modification attendue de toute réexposition en forme sonate. Jouer en laissant la couleur de Do mineur préparer l'entrée du second thème.
 </meta>
-    <section=section_20, n_mesure=8, bpm=90, format=4/4, tonalite=Do_majeur>
+    <section=transition, n_mesure=8, bpm=90, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |si3 si4, sol4 sol5, la#3 la#4, sol4 sol5|
             <piano_1_v5>  |(_, sol2 sol3), fa2 fa3, (fa2 fa3, mi2 mi3), (re2 re3, do2 do3)|
@@ -864,9 +884,10 @@ Section de développement 19 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 20 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+8 mesures (mm.161-168), Allegro con brio, Do mineur, 90 BPM.
+Le second thème en réexposition débute à la mesure 162 en Do mineur, parallèle exact de son exposition en Sol mineur. Beethoven réalise ici une symétrie formelle parfaite en transposant fidèlement le plan de l'exposition. La couleur sombre du mineur est maintenue. Jouer avec la même expressivité que l'exposition du second thème, mais dans la nouvelle couleur harmonique de Do mineur.
 </meta>
-    <section=section_21, n_mesure=8, bpm=90, format=4/4, tonalite=Do_majeur>
+    <section=recapitulation_theme_2, n_mesure=8, bpm=90, format=4/4, tonalite=Do_mineur>
         <mesure num=1>
             <piano_1_v1>  |sol5, (la5, si5), (do6, re6), (re#6, sol5)|
             <piano_1_v2>  |(sol5, {la5, sol5}, {fa#5, sol5})|
@@ -903,9 +924,10 @@ Section de développement 20 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 21 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+8 mesures (mm.169-176), Allegro con brio, Do mineur, 90 BPM.
+Le second thème en Do mineur se développe, maintenant le caractère expressif de la première partie du thème. L'alternance mineur/majeur qui suit sera à Do mineur/Do majeur, en parallèle avec Sol mineur/Sol majeur de l'exposition. Maintenir le legato et la ligne expressive.
 </meta>
-    <section=section_22, n_mesure=8, bpm=90, format=4/4, tonalite=Do_majeur>
+    <section=recapitulation_theme_2, n_mesure=8, bpm=90, format=4/4, tonalite=Do_mineur>
         <mesure num=1>
             <piano_1_v1>  |(do5, fa#5), (la5, fa#5), (do6, la5), (fa#5, do5)|
             <piano_1_v5>  |(fa#3, la3), (re4, la3), (re4, la3), (fa#3, la3)|
@@ -941,9 +963,10 @@ Section de développement 21 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 22 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+8 mesures (mm.177-184), Allegro con brio, Do mineur vers Do majeur, 90 BPM.
+La transition de Do mineur à Do majeur dans la réexposition du second thème s'effectue à la mesure 182, en parallèle avec la transition Sol mineur/Sol majeur de l'exposition. Ce passage de la modalité mineure à la majeure apporte une lumière bienvenue. Jouer le changement modal avec expressivité.
 </meta>
-    <section=section_23, n_mesure=8, bpm=90, format=4/4, tonalite=Do_majeur>
+    <section=recapitulation_theme_2, n_mesure=8, bpm=90, format=4/4, tonalite=Do_mineur>
         <mesure num=1>
             <piano_1_v1>  |sol4 si4 re5 sol5, ({sol5, fa#5}, mi5, re5), ({do5, si4}, la4, sol4), ({fa#4, sol4}, la4, fa4)|
             <piano_1_v5>  |(sol2, si3 re4), (si3 re4, si3 re4), (si3 re4, si3 re4), (sol3, do4 re4)|
@@ -984,9 +1007,10 @@ Section de développement 22 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 23 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+8 mesures (mm.185-192), Allegro con brio, Do majeur, 90 BPM.
+Le second thème en Do majeur confirme la tonique pour la conclusion du mouvement. L'écriture brillante et virtuose retrouve toute son énergie dans la couleur lumineuse de Do majeur. Jouer avec éclat et précision.
 </meta>
-    <section=section_24, n_mesure=8, bpm=90, format=4/4, tonalite=Do_majeur>
+    <section=recapitulation_theme_2, n_mesure=8, bpm=90, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |(do5, sol4), (fa#4, sol4), (do5, sol4), (mi5, do5)|
             <piano_1_v5>  |mi4, -, do4, sol3|
@@ -1028,9 +1052,10 @@ Section de développement 23 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 24 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+8 mesures (mm.193-200), Allegro con brio, Do majeur, 90 BPM.
+Le second thème en Do majeur continue de se déployer. La dimension quasi-concertante de la sonate est ici particulièrement sensible. Maintenir la brillance et l'énergie de l'écriture.
 </meta>
-    <section=section_25, n_mesure=8, bpm=90, format=4/4, tonalite=Do_majeur>
+    <section=recapitulation_theme_2, n_mesure=8, bpm=90, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |(mi6, do5), (si4, do5), (mi5, do5), (sol5, do5)|
             <piano_1_v2>  |({re5, do5}, {re5, do5})|
@@ -1068,9 +1093,10 @@ Section de développement 24 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 25 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+8 mesures (mm.201-208), Allegro con brio, Do majeur, 90 BPM.
+La réexposition du second thème s'achève à la mesure 212. La cadence finale du second thème confirme Do majeur de façon solide. Préparer le départ de la coda par une cadence bien résolue.
 </meta>
-    <section=section_26, n_mesure=8, bpm=90, format=4/4, tonalite=Do_majeur>
+    <section=recapitulation_theme_2, n_mesure=8, bpm=90, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |({mi5, mi6}, re#5, re#6), ({fa5, fa6}, mi5, mi6), ({mi5, mi6}, re#5, re#6), ({fa5, fa6}, mi5, mi6)|
             <piano_1_v2>  |(sol4 do5, fa#4 do5), (la4 do5, sol4 do5), (sol4 do5, fa#4 do5), (la4 do5, sol4 do5)|
@@ -1106,9 +1132,10 @@ Section de développement 25 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 26 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+8 mesures (mm.209-216), Allegro con brio, Do majeur, 90 BPM.
+La coda commence à la mesure 212 avec le même sujet que la coda de l'exposition, suivie d'un passage en arpèges. Ces arpèges mènent à une cadence, après laquelle le mouvement se termine par une référence au premier thème. Jouer avec brillance et assurance.
 </meta>
-    <section=section_27, n_mesure=8, bpm=90, format=4/4, tonalite=Do_majeur>
+    <section=coda, n_mesure=8, bpm=90, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |do5, _, (do4, {mi4, la4}), ({do5, mi5}, la5, do6)|
             <piano_1_v5>  |_, la1 la2, _, _|
@@ -1150,9 +1177,10 @@ Section de développement 26 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 27 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+8 mesures (mm.217-224), Allegro con brio, Do majeur, 90 BPM.
+La coda poursuit son passage en arpèges brillants. Le caractère quasi-cadentiel de la coda est ici renforcé. Ces arpèges sont un défi technique demandant une égalité parfaite. Travailler l'égalité des doigts et la fluidité du phrasé.
 </meta>
-    <section=section_28, n_mesure=8, bpm=90, format=4/4, tonalite=Do_majeur>
+    <section=coda, n_mesure=8, bpm=90, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |({sol5, fa5}, mi5, fa5), re5, ({do6, si5}, la5, si5), sol5|
             <piano_1_v2>  |({sol5, fa5, sol5}, fa5), ({do6, si5, do6}, si5)|
@@ -1209,9 +1237,10 @@ Section de développement 27 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 28 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+8 mesures (mm.225-232), Allegro con brio, Do majeur, 90 BPM.
+La coda approche de la cadence. La tension harmonique s'accumule vers la résolution finale. Le passage en arpèges continues constituent l'un des moments les plus brillants et virtuoses de l'ensemble du recueil op.2. Maintenir l'énergie et la précision jusqu'à la cadence.
 </meta>
-    <section=section_29, n_mesure=8, bpm=90, format=4/4, tonalite=Do_majeur>
+    <section=coda, n_mesure=8, bpm=90, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |sol3 do#4, -, _, _|
             <piano_1_v2>  |(sol3, mi3), re3, re3, -|
@@ -1271,9 +1300,10 @@ Section de développement 28 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 29 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+8 mesures (mm.233-240), Allegro con brio, Do majeur, 90 BPM.
+La cadence de la coda est jouée, dans un style quasi-improvisé, rappelant les cadences des concertos. Ce passage est l'un des rares éléments de la coda des premières sonates de Beethoven à anticiper l'écriture des concertos. Jouer avec une liberté relative, en valorisant le caractère virtuose de la cadence.
 </meta>
-    <section=section_30, n_mesure=8, bpm=90, format=4/4, tonalite=Do_majeur>
+    <section=coda, n_mesure=8, bpm=90, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |re#5, -, -, -, {do#5, re#5, fa5}, ({mi5, re#5}, re#5, do#5), ({do5, si4}, la#4, la4), ({sol#4, sol4}, fa#4, fa4)|
             <piano_1_v2>  |({mi5, re#5, mi5}, {re#5, mi5, re#5}, {mi5, re#5}), ({mi5, re#5, mi5}, {re#5, mi5, re#5}, {mi5, re#5}), ({mi5, re#5, mi5}, {re#5, mi5, re#5}, {mi5, re#5}), ({mi5, re#5, mi5}, {re#5, mi5, re#5}, {mi5, re#5})|
@@ -1313,9 +1343,10 @@ Section de développement 29 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 30 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+8 mesures (mm.241-248), Allegro con brio, Do majeur, 90 BPM.
+Après la cadence, la coda présente une référence au premier thème, assurant l'unité cyclique du mouvement. Ce retour thématique en fin de coda est un procédé que Beethoven utilisera de façon de plus en plus systématique dans ses œuvres ultérieures. Jouer le retour thématique avec pleine clarté.
 </meta>
-    <section=section_31, n_mesure=8, bpm=90, format=4/4, tonalite=Do_majeur>
+    <section=coda, n_mesure=8, bpm=90, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |do5, sol5, sol5, fa5|
             <piano_1_v2>  |sol4, -, -, -|
@@ -1354,9 +1385,10 @@ Section de développement 30 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 31 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+8 mesures (mm.249-256), Allegro con brio, Do majeur, 90 BPM.
+La coda finale affirme Do majeur avec force et éclat. Les dernières mesures constituent une brillante conclusion à ce premier mouvement de vaste envergure. Jouer avec toute la sonorité disponible et une parfaite clarté rythmique.
 </meta>
-    <section=section_32, n_mesure=8, bpm=90, format=4/4, tonalite=Do_majeur>
+    <section=coda, n_mesure=8, bpm=90, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |_, _, _, _|
             <piano_1_v5>  |_, _, _, _|
@@ -1393,9 +1425,10 @@ Section de développement 31 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section conclusive — 2 mesures. Tonalité Do majeur, tempo 90 BPM.
+2 mesures (mm.257-258), Allegro con brio, Do majeur, 90 BPM.
+Les deux mesures conclusives referment le mouvement sur un accord de Do majeur affirmé en fortissimo. Ce geste conclusif, bref mais décisif, est caractéristique du style classique viennois dans sa version beethovénienne. Jouer l'accord final avec toute la vigueur nécessaire.
 </meta>
-    <section=section_33, n_mesure=2, bpm=90, format=4/4, tonalite=Do_majeur>
+    <section=coda, n_mesure=2, bpm=90, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |do4, _, si4 re5 fa5 sol5 si5, _|
             <piano_1_v5>  |do2 do3, _, sol2 si2 re3 sol3, _|
