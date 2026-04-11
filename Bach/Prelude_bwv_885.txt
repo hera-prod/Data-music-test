@@ -3,19 +3,19 @@
 TACHE : composition
 STYLE : baroque
 FORMAT : piano_solo
-NIVEAU : intermediaire
-Titre : Prelude_bwv_885
-Date : ?
-Auteur : Bach
+NIVEAU : avance
+Titre : Prélude en Sol mineur, BWV 885, Clavier bien tempéré II n°16
+Date : 1742
+Auteur : Johann Sebastian Bach
 Tonalite : Sol_mineur
 Unite : quarter
-Intention : Pièce pour piano solo, modéré, mélancolique, au cadre binaire régulier. Tonalité : Sol mineur. 21 mesures.
+Intention : Prélude au caractère grave, désespéré et mélancolique, bâti sur une figure rythmique pointée qui évoque l'ouverture à la française avec sa noblesse sombre et son inexorable progression harmonique, renforcée par des dissonances liées et des enchaînements harmoniques surprenants qui semblent étirer le temps. Tonalité de Sol mineur, mesure 4/4, 21 mesures en trois périodes, tempo largo environ 56 BPM, avec une cadence sur la dominante ré mineur à la mesure 9 et un retour à la tonique sol mineur à la mesure 20.
 </tete>
 
 <meta>
-Section d'ouverture — 8 mesures. Tonalité Sol mineur, tempo 90 BPM.
+21 mesures, 56 BPM, mesure 4/4, Sol mineur. Prélude du Clavier bien tempéré II de Bach (1742), n°16. La rythmique pointée caractéristique de l'ouverture à la française, jouée largement, impose une gravité saisissante. Christine Schornsheim décrit cette pièce comme "désespérée, mélancolique et stricte". Bach renforce ce caractère avec des dissonances liées et des surprises harmoniques constantes. La structure est bipartite : une première période (mesures 1 à 9) cadençant sur la dominante ré mineur, une seconde période (mesures 9 à 20) revenant à la tonique, suivie d'une brève coda (mesures 20 à 21). Jouer très lentement et avec une plénitude sonore dans chaque accord, en soulignant les dissonances expressives.
 </meta>
-    <section=section_1, n_mesure=8, bpm=90, format=4/4, tonalite=Sol_mineur>
+    <section=periode_1, n_mesure=8, bpm=56, format=4/4, tonalite=Sol_mineur>
         <mesure num=1>
             <piano_1_v1>  |(_, {sol4, re4}, fa4), mib4, (mib4, {mib4, re4}, do4), (la4, {do4, sib3}, la3)|
             <piano_1_v4>  |_, (_, {sib3, la3}, do4), solb3, -|
@@ -68,9 +68,9 @@ Section d'ouverture — 8 mesures. Tonalité Sol mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 1 — 8 mesures. Tonalité Sol mineur, tempo 90 BPM.
+Seconde période, départ de ré mineur et retour progressif à sol mineur. Mesures 9 à 16, ré mineur vers sol mineur. Cette période reprend exactement la figure d'ouverture transposée en ré mineur (dominante), explore do mineur (mesure 12) et fa mineur (mesure 15) avant de revenir à sol mineur (mesure 16). La pédale de tonique aux mesures 20 à 21 ancre le retour définitif. Les surprises harmoniques sont encore plus prononcées dans cette seconde période. Maintenir la même gravité de tempo, en laissant chaque accord résonner dans toute sa profondeur.
 </meta>
-    <section=section_2, n_mesure=8, bpm=90, format=4/4, tonalite=Sol_mineur>
+    <section=periode_2, n_mesure=8, bpm=56, format=4/4, tonalite=Sol_mineur>
         <mesure num=1>
             <piano_1_v1>  |(mi5, {re5, la4}, do5), sib4, (sib4, {sib4, la4}, sol4), (mi5, {sol4, solb4}, mi4)|
             <piano_1_v2>  |fa4, (_, {fa4, mi4}, sol4), reb4, -|
@@ -123,9 +123,9 @@ Section de développement 1 — 8 mesures. Tonalité Sol mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section conclusive — 5 mesures. Tonalité Sol mineur, tempo 90 BPM.
+Coda avec pédale de tonique et cadence finale en sol mineur. Mesures 17 à 21, sol mineur. Cette coda de cinq mesures reprend la figure rythmique pointée sur une pédale de tonique sol (mesures 20 à 21) qui ancre définitivement la tonalité et crée une tension croissante jusqu'à la cadence parfaite conclusive. Les deux haltes harmoniques avant la cadence renforcent le caractère solennel de la conclusion. Jouer avec une intensité retenue, en faisant ressortir la pédale de basse et les derniers gestes harmoniques.
 </meta>
-    <section=section_3, n_mesure=5, bpm=90, format=4/4, tonalite=Sol_mineur>
+    <section=coda, n_mesure=5, bpm=56, format=4/4, tonalite=Sol_mineur>
         <mesure num=1>
             <piano_1_v1>  |(do5, {do5, re5}, la4), sib4, (sib4, {mib5, sol4}, sib4), (lab4, do5)|
             <piano_1_v2>  |re4, (re4, {solb4, sol4}, re4), mib4, -|
