@@ -3,19 +3,20 @@
 TACHE : composition
 STYLE : classique
 FORMAT : piano_solo
-NIVEAU : simple
-Titre : Piano_Sonatas_2-1
-Date : ?
-Auteur : Beethoven
-Tonalite : La_mineur
+NIVEAU : avance
+Titre : Sonate pour piano n°2 en La majeur, op.2 n°2, 1er mouvement (Allegro vivace)
+Date : 1795
+Auteur : Ludwig van Beethoven
+Tonalite : La_majeur
 Unite : quarter
-Intention : Pièce pour piano solo, modéré, mélancolique, au cadre binaire régulier. Tonalité : La mineur. 327 mesures.
+Intention : Le premier mouvement de la Sonate op.2 n°2 déploie un caractère athlétique et brillant, alliant virtuosité pianistique et audace harmonique dans les modulations du second thème, tout en laissant une conclusion étonnamment discrète. Forme sonate en La majeur, à 2/4, Allegro vivace, 66 BPM, 327 mesures, avec un développement marqué par une section canonique et un passage prolongé en Fa majeur.
 </tete>
 
 <meta>
-Section d'ouverture — 8 mesures. Tonalité La mineur, tempo 66 BPM.
+8 mesures (mm.1-8), Allegro vivace, La majeur, 66 BPM.
+Le premier thème s'ouvre sur un motif vif et affirmé en La majeur, présentant un caractère athlétique et brillant. Le thème est entièrement construit dans le ton de la tonique, à l'exception d'une brève incursion au dominant (mm.17-21). L'écriture en doubles octaves aux deux mains crée une texture dense et énergique. Jouer avec précision rythmique et sonorité pleine, en soulignant les accents naturels du motif.
 </meta>
-    <section=section_1, n_mesure=8, bpm=66, format=2/4, tonalite=La_mineur>
+    <section=exposition_theme_1, n_mesure=8, bpm=66, format=2/4, tonalite=La_majeur>
         <mesure num=1>
             <piano_1_v1>  |la4 la5|
             <piano_1_v3>  |la3|
@@ -52,9 +53,10 @@ Section d'ouverture — 8 mesures. Tonalité La mineur, tempo 66 BPM.
     </section>
 
 <meta>
-Section de développement 1 — 8 mesures. Tonalité La mineur, tempo 66 BPM.
+8 mesures (mm.9-16), Allegro vivace, La majeur, 66 BPM.
+Le premier thème se développe en maintenant le ton de la tonique, avec une écriture brillante et une conduite mélodique claire. La répétition du motif initial renforce le caractère affirmé du thème. La texture se maintient, préparant le passage vers le dominant. Maintenir l'énergie rythmique et la clarté articulaire tout au long de la section.
 </meta>
-    <section=section_2, n_mesure=8, bpm=66, format=2/4, tonalite=La_mineur>
+    <section=exposition_theme_1, n_mesure=8, bpm=66, format=2/4, tonalite=La_majeur>
         <mesure num=1>
             <piano_1_v1>  |mi4, (_, {la3, do#4}, mi4)|
             <piano_1_v3>  |mi3, -|
@@ -94,9 +96,10 @@ Section de développement 1 — 8 mesures. Tonalité La mineur, tempo 66 BPM.
     </section>
 
 <meta>
-Section de développement 2 — 8 mesures. Tonalité La mineur, tempo 66 BPM.
+8 mesures (mm.17-24), Allegro vivace, La majeur, 66 BPM.
+Le premier thème explore brièvement le dominant avant de revenir fermement à la tonique. La conduite harmonique reste dans l'orbite de La majeur, affirmant la solidité du premier thème. La cadence parfaite à la mesure 33 clôt le premier thème avec netteté. Jouer avec assurance, en soulignant la force cadentielle.
 </meta>
-    <section=section_3, n_mesure=8, bpm=66, format=2/4, tonalite=La_mineur>
+    <section=exposition_theme_1, n_mesure=8, bpm=66, format=2/4, tonalite=La_majeur>
         <mesure num=1>
             <piano_1_v1>  |(do#5, si4), (la4, si4)|
             <piano_1_v2>  |mi4, re#4|
@@ -137,9 +140,10 @@ Section de développement 2 — 8 mesures. Tonalité La mineur, tempo 66 BPM.
     </section>
 
 <meta>
-Section de développement 3 — 8 mesures. Tonalité La mineur, tempo 66 BPM.
+8 mesures (mm.25-32), Allegro vivace, La majeur, 66 BPM.
+La fin du premier thème confirme La majeur par une cadence parfaite à la mesure 33. L'écriture brillante des deux mains maintient le caractère vif et énergique. Accentuer la résolution cadentielle finale et préparer le changement de caractère pour la transition.
 </meta>
-    <section=section_4, n_mesure=8, bpm=66, format=2/4, tonalite=La_mineur>
+    <section=exposition_theme_1, n_mesure=8, bpm=66, format=2/4, tonalite=La_majeur>
         <mesure num=1>
             <piano_1_v1>  |_, _|
             <piano_1_v3>  |(mi3, fa#3), (sol#3, la3)|
@@ -179,9 +183,10 @@ Section de développement 3 — 8 mesures. Tonalité La mineur, tempo 66 BPM.
     </section>
 
 <meta>
-Section de développement 4 — 8 mesures. Tonalité La mineur, tempo 66 BPM.
+8 mesures (mm.33-40), Allegro vivace, La majeur vers Mi mineur, 66 BPM.
+La transition s'ouvre immédiatement après la cadence du premier thème, développant les motifs thématiques par séquences modulantes. La conduite harmonique progresse de La majeur vers Mi mineur, prenant appui sur la dominante. L'écriture de transition présente une texture plus fluide. Accentuer les progressions harmoniques et maintenir la fluidité du phrasé.
 </meta>
-    <section=section_5, n_mesure=8, bpm=66, format=2/4, tonalite=La_mineur>
+    <section=transition, n_mesure=8, bpm=66, format=2/4, tonalite=La_majeur>
         <mesure num=1>
             <piano_1_v1>  |do#5 mi5 la5, _|
             <piano_1_v2>  |_, ({re4, mi4, fa#4}, sol#4)|
@@ -219,9 +224,10 @@ Section de développement 4 — 8 mesures. Tonalité La mineur, tempo 66 BPM.
     </section>
 
 <meta>
-Section de développement 5 — 8 mesures. Tonalité La mineur, tempo 66 BPM.
+8 mesures (mm.41-48), Allegro vivace, Mi mineur, 66 BPM.
+La transition progresse vers Mi mineur, établissant le cadre tonal du second thème. Le matériau motivique est développé séquentiellement, avec une instabilité harmonique caractéristique. La ligne mélodique module par enchaînements de quintes. Jouer avec souplesse et netteté, en laissant percevoir la direction harmonique.
 </meta>
-    <section=section_6, n_mesure=8, bpm=66, format=2/4, tonalite=La_mineur>
+    <section=transition, n_mesure=8, bpm=66, format=2/4, tonalite=Mi_mineur>
         <mesure num=1>
             <piano_1_v1>  |(mi5, re#5), (do#5, si4)|
             <piano_1_v3>  |(sol#3, fa#3), (mi3, re#3)|
@@ -262,9 +268,10 @@ Section de développement 5 — 8 mesures. Tonalité La mineur, tempo 66 BPM.
     </section>
 
 <meta>
-Section de développement 6 — 8 mesures. Tonalité La mineur, tempo 66 BPM.
+8 mesures (mm.49-56), Allegro vivace, Mi mineur, 66 BPM.
+La transition s'achève en préparant l'entrée du second thème en Mi mineur. La cadence à la dominante de Mi est confirmée par des répétitions de l'accord de dominante. L'écriture devient plus transparente pour préparer le changement de caractère. Maintenir le phrasé fluide jusqu'à l'entrée du second thème.
 </meta>
-    <section=section_7, n_mesure=8, bpm=66, format=2/4, tonalite=La_mineur>
+    <section=transition, n_mesure=8, bpm=66, format=2/4, tonalite=Mi_mineur>
         <mesure num=1>
             <piano_1_v1>  |_, (_, si3)|
             <piano_1_v3>  |(la3, sol#3), (la3, _)|
@@ -311,9 +318,10 @@ Section de développement 6 — 8 mesures. Tonalité La mineur, tempo 66 BPM.
     </section>
 
 <meta>
-Section de développement 7 — 8 mesures. Tonalité La mineur, tempo 66 BPM.
+8 mesures (mm.57-64), Allegro vivace, Mi mineur, 66 BPM.
+Le second thème s'établit en Mi mineur dès la mesure 59, débutant par une phrase de quatre mesures suivie d'une répétition immédiate à différentes hauteurs. Les modulations frappantes caractérisent cette section. Le second thème présente des modulations saisissantes pour l'époque : Mi mineur, Sol majeur, Sib majeur, Ré majeur. Jouer avec souplesse et laisser les changements harmoniques colorer le phrasé.
 </meta>
-    <section=section_8, n_mesure=8, bpm=66, format=2/4, tonalite=La_mineur>
+    <section=exposition_theme_2, n_mesure=8, bpm=66, format=2/4, tonalite=Mi_mineur>
         <mesure num=1>
             <piano_1_v1>  |mi4, (_, mi5)|
             <piano_1_v3>  |({mi3 sol3, si3}, mi3 sol3, si3), ({mi3 sol3, si3}, mi3 sol3, si3)|
@@ -349,9 +357,10 @@ Section de développement 7 — 8 mesures. Tonalité La mineur, tempo 66 BPM.
     </section>
 
 <meta>
-Section de développement 8 — 8 mesures. Tonalité La mineur, tempo 66 BPM.
+8 mesures (mm.65-72), Allegro vivace, Mi mineur vers Mi majeur, 66 BPM.
+Le second thème se développe par répétitions séquentielles du motif initial, modulant progressivement vers Mi majeur. La texture s'enrichit au fil des enchaînements. Maintenir la cohérence thématique tout en laissant les modulations surprenantes enrichir l'expression.
 </meta>
-    <section=section_9, n_mesure=8, bpm=66, format=2/4, tonalite=La_mineur>
+    <section=exposition_theme_2, n_mesure=8, bpm=66, format=2/4, tonalite=Mi_mineur>
         <mesure num=1>
             <piano_1_v1>  |fa5, la#5|
             <piano_1_v3>  |({la#3 re4, re#4}, la#3 re4, fa4), ({la#3 re4, fa4}, la#3 re4, fa4)|
@@ -389,9 +398,10 @@ Section de développement 8 — 8 mesures. Tonalité La mineur, tempo 66 BPM.
     </section>
 
 <meta>
-Section de développement 9 — 8 mesures. Tonalité La mineur, tempo 66 BPM.
+8 mesures (mm.73-80), Allegro vivace, Mi majeur, 66 BPM.
+Le second thème s'établit fermement en Mi majeur. Une phrase de quatre mesures cadence en Mi majeur, immédiatement répétée (avec inversion des mesures 85-86 par rapport aux mesures 89-92). Ce travail de variation à petite échelle est typique du style beethovénien. Jouer la répétition variée avec une articulation légèrement différente pour faire entendre la variation.
 </meta>
-    <section=section_10, n_mesure=8, bpm=66, format=2/4, tonalite=La_mineur>
+    <section=exposition_theme_2, n_mesure=8, bpm=66, format=2/4, tonalite=Mi_mineur>
         <mesure num=1>
             <piano_1_v1>  |do#6, mi5 mi6|
             <piano_1_v2>  |({do#6, re#6}, {do#6, do6, do#6}, re#6)|
@@ -434,9 +444,10 @@ Section de développement 9 — 8 mesures. Tonalité La mineur, tempo 66 BPM.
     </section>
 
 <meta>
-Section de développement 10 — 8 mesures. Tonalité La mineur, tempo 66 BPM.
+8 mesures (mm.81-88), Allegro vivace, Mi majeur, 66 BPM.
+La conclusion du second thème en Mi majeur s'affirme avec énergie. Les cadences successives consolident le ton de la dominante avant la coda de l'exposition. Jouer avec clarté et conviction pour marquer la clôture du second thème.
 </meta>
-    <section=section_11, n_mesure=8, bpm=66, format=2/4, tonalite=La_mineur>
+    <section=exposition_theme_2, n_mesure=8, bpm=66, format=2/4, tonalite=Mi_majeur>
         <mesure num=1>
             <piano_1_v1>  |re#6, _|
             <piano_1_v3>  |_, do5|
@@ -477,9 +488,10 @@ Section de développement 10 — 8 mesures. Tonalité La mineur, tempo 66 BPM.
     </section>
 
 <meta>
-Section de développement 11 — 8 mesures. Tonalité La mineur, tempo 66 BPM.
+8 mesures (mm.89-96), Allegro vivace, Mi majeur, 66 BPM.
+La coda de l'exposition débute à la mesure 93 et confirme Mi majeur par une succession de cadences. Elle présente un matériau mélodique conclusif qui prépare la reprise de l'exposition. Jouer avec une sonorité pleine et des fins de phrase bien résolues.
 </meta>
-    <section=section_12, n_mesure=8, bpm=66, format=2/4, tonalite=La_mineur>
+    <section=coda_exposition, n_mesure=8, bpm=66, format=2/4, tonalite=Mi_majeur>
         <mesure num=1>
             <piano_1_v1>  |(mi5, _), ({_, sol#5}, {la5, si5, do#6}, re#6)|
             <piano_1_v3>  |({mi4, sol#4}, {la4, si4, do#5}, re#5), (mi5, _)|
@@ -516,9 +528,10 @@ Section de développement 11 — 8 mesures. Tonalité La mineur, tempo 66 BPM.
     </section>
 
 <meta>
-Section de développement 12 — 8 mesures. Tonalité La mineur, tempo 66 BPM.
+8 mesures (mm.97-104), Allegro vivace, Mi majeur, 66 BPM.
+La coda de l'exposition continue à affirmer la tonalité de Mi majeur par des progressions cadentielles répétées. L'écriture reste brillante et énergique. Maintenir l'intensité dynamique et respecter les articulations indiquées.
 </meta>
-    <section=section_13, n_mesure=8, bpm=66, format=2/4, tonalite=La_mineur>
+    <section=coda_exposition, n_mesure=8, bpm=66, format=2/4, tonalite=Mi_majeur>
         <mesure num=1>
             <piano_1_v1>  |(mi5, re#5), (do#5, si4)|
             <piano_1_v3>  |(sol#2, fa#2), (mi2, re#2)|
@@ -561,9 +574,10 @@ Section de développement 12 — 8 mesures. Tonalité La mineur, tempo 66 BPM.
     </section>
 
 <meta>
-Section de développement 13 — 8 mesures. Tonalité La mineur, tempo 66 BPM.
+8 mesures (mm.105-112), Allegro vivace, Mi majeur, 66 BPM.
+La coda de l'exposition poursuit son rôle de consolidation tonale, préparant la fermeture de la première partie. Les figurations mélodiques et rythmiques maintiennent le caractère vif du mouvement. Jouer avec précision et un phrasé soigné.
 </meta>
-    <section=section_14, n_mesure=8, bpm=66, format=2/4, tonalite=La_mineur>
+    <section=coda_exposition, n_mesure=8, bpm=66, format=2/4, tonalite=Mi_majeur>
         <mesure num=1>
             <piano_1_v1>  |si3 mi4 sol#4, -|
             <piano_1_v3>  |(mi2, fa#2), (sol#2, la2)|
@@ -604,9 +618,10 @@ Section de développement 13 — 8 mesures. Tonalité La mineur, tempo 66 BPM.
     </section>
 
 <meta>
-Section de développement 14 — 8 mesures. Tonalité La mineur, tempo 66 BPM.
+8 mesures (mm.113-120), Allegro vivace, Mi majeur, 66 BPM.
+La coda de l'exposition se conclut, fermant la double barre de reprise. Cette section prépare également la liaison vers le développement. Jouer avec une énergie maintenue jusqu'à la dernière mesure de l'exposition.
 </meta>
-    <section=section_15, n_mesure=8, bpm=66, format=2/4, tonalite=La_mineur>
+    <section=coda_exposition, n_mesure=8, bpm=66, format=2/4, tonalite=Mi_majeur>
         <mesure num=1>
             <piano_1_v1>  |_, _|
             <piano_1_v3>  |mi4, _|
@@ -642,9 +657,10 @@ Section de développement 14 — 8 mesures. Tonalité La mineur, tempo 66 BPM.
     </section>
 
 <meta>
-Section de développement 15 — 8 mesures. Tonalité La mineur, tempo 66 BPM.
+8 mesures (mm.121-128), Allegro vivace, Fa majeur, 66 BPM.
+Le développement commence en Fa majeur, tonalité en relation de tierce avec La majeur, relation caractéristique du style beethovénien. La grande partie du développement reste en Fa majeur. Le développement contient également une belle section canonique. L'instabilité harmonique s'installe progressivement. Jouer en laissant percevoir la surprise de la relation harmonique de tierce.
 </meta>
-    <section=section_16, n_mesure=8, bpm=66, format=2/4, tonalite=La_mineur>
+    <section=developpement, n_mesure=8, bpm=66, format=2/4, tonalite=Fa_majeur>
         <mesure num=1>
             <piano_1_v1>  |re4, (_, fa5 fa6)|
             <piano_1_v3>  |re3, (_, fa4)|
@@ -687,9 +703,10 @@ Section de développement 15 — 8 mesures. Tonalité La mineur, tempo 66 BPM.
     </section>
 
 <meta>
-Section de développement 16 — 8 mesures. Tonalité La mineur, tempo 66 BPM.
+8 mesures (mm.129-136), Allegro vivace, Fa majeur, 66 BPM.
+Le développement exploite le matériau du premier thème en Fa majeur par séquences et variations. La texture devient plus complexe et le discours harmonique plus aventureux. Accentuer les nouvelles couleurs harmoniques tout en maintenant la clarté du phrasé.
 </meta>
-    <section=section_17, n_mesure=8, bpm=66, format=2/4, tonalite=La_mineur>
+    <section=developpement, n_mesure=8, bpm=66, format=2/4, tonalite=Fa_majeur>
         <mesure num=1>
             <piano_1_v1>  |(re#4, re#4), (re#4, re#4)|
             <piano_1_v2>  |do6, sol#5|
@@ -735,9 +752,10 @@ Section de développement 16 — 8 mesures. Tonalité La mineur, tempo 66 BPM.
     </section>
 
 <meta>
-Section de développement 17 — 8 mesures. Tonalité La mineur, tempo 66 BPM.
+8 mesures (mm.137-144), Allegro vivace, Fa majeur, 66 BPM.
+Le développement continue en Fa majeur, exploitant les ressources motiviques des deux thèmes. La section canonique, passage difficile mais d'une grande beauté, se déploie ici. Jouer le canon avec une égalité des voix et une clarté d'articulation.
 </meta>
-    <section=section_18, n_mesure=8, bpm=66, format=2/4, tonalite=La_mineur>
+    <section=developpement, n_mesure=8, bpm=66, format=2/4, tonalite=Fa_majeur>
         <mesure num=1>
             <piano_1_v1>  |sol4, fa4|
             <piano_1_v3>  |({sol3 la#3, do#4}, sol3 la#3, do#4), ({sol3 la#3, do#4}, sol3 la#3, do#4)|
@@ -776,9 +794,10 @@ Section de développement 17 — 8 mesures. Tonalité La mineur, tempo 66 BPM.
     </section>
 
 <meta>
-Section de développement 18 — 8 mesures. Tonalité La mineur, tempo 66 BPM.
+8 mesures (mm.145-152), Allegro vivace, Fa majeur, 66 BPM.
+La section canonique du développement se poursuit, les deux mains en imitation stricte. Ce passage exige une égalité parfaite des voix et une lisibilité du contrepoint. Soigner l'équilibre sonore entre les deux mains.
 </meta>
-    <section=section_19, n_mesure=8, bpm=66, format=2/4, tonalite=La_mineur>
+    <section=developpement, n_mesure=8, bpm=66, format=2/4, tonalite=Fa_majeur>
         <mesure num=1>
             <piano_1_v1>  |do5, do5|
             <piano_1_v3>  |({fa3 sol#3, do4}, fa3 sol#3, do4), ({fa3 sol#3, do4}, fa3 sol#3, do4)|
@@ -817,9 +836,10 @@ Section de développement 18 — 8 mesures. Tonalité La mineur, tempo 66 BPM.
     </section>
 
 <meta>
-Section de développement 19 — 8 mesures. Tonalité La mineur, tempo 66 BPM.
+8 mesures (mm.153-160), Allegro vivace, Fa majeur, 66 BPM.
+Le développement progresse dans ses explorations harmoniques à partir de Fa majeur. Les modulations s'enchaînent de façon fluide. Maintenir l'élan rythmique tout au long de cette section.
 </meta>
-    <section=section_20, n_mesure=8, bpm=66, format=2/4, tonalite=La_mineur>
+    <section=developpement, n_mesure=8, bpm=66, format=2/4, tonalite=Fa_majeur>
         <mesure num=1>
             <piano_1_v1>  |_, _|
             <piano_1_v3>  |mi3 sol3 do4, -|
@@ -861,9 +881,10 @@ Section de développement 19 — 8 mesures. Tonalité La mineur, tempo 66 BPM.
     </section>
 
 <meta>
-Section de développement 20 — 8 mesures. Tonalité La mineur, tempo 66 BPM.
+8 mesures (mm.161-168), Allegro vivace, Fa majeur, 66 BPM.
+Le développement poursuit son travail motivique, multipliant les séquences et les modulations. La densité contrapuntique et harmonique est caractéristique du développement beethovénien. Jouer avec énergie et attention au contrepoint.
 </meta>
-    <section=section_21, n_mesure=8, bpm=66, format=2/4, tonalite=La_mineur>
+    <section=developpement, n_mesure=8, bpm=66, format=2/4, tonalite=Fa_majeur>
         <mesure num=1>
             <piano_1_v1>  |(do4 la4, _), (la#3 re4 sol4, _)|
             <piano_1_v3>  |(fa2, la2), (la#2, sol2)|
@@ -901,9 +922,10 @@ Section de développement 20 — 8 mesures. Tonalité La mineur, tempo 66 BPM.
     </section>
 
 <meta>
-Section de développement 21 — 8 mesures. Tonalité La mineur, tempo 66 BPM.
+8 mesures (mm.169-176), Allegro vivace, Ré mineur, 66 BPM.
+Le développement module vers Ré mineur, créant une nouvelle couleur harmonique. Ce passage illustre l'audace harmonique de Beethoven dans ce premier mouvement. Laisser la couleur sombre de Ré mineur teinter l'expression.
 </meta>
-    <section=section_22, n_mesure=8, bpm=66, format=2/4, tonalite=La_mineur>
+    <section=developpement, n_mesure=8, bpm=66, format=2/4, tonalite=Re_mineur>
         <mesure num=1>
             <piano_1_v1>  |(_, la4 do#5), (si4 re5, do#5 mi5)|
             <piano_1_v3>  |la3, sol3|
@@ -943,9 +965,10 @@ Section de développement 21 — 8 mesures. Tonalité La mineur, tempo 66 BPM.
     </section>
 
 <meta>
-Section de développement 22 — 8 mesures. Tonalité La mineur, tempo 66 BPM.
+8 mesures (mm.177-184), Allegro vivace, Ré mineur, 66 BPM.
+Le développement explore Ré mineur, approfondissant la tension harmonique avant le retour à La majeur. Les séquences modulantes maintiennent l'instabilité caractéristique du développement. Accentuer la tension harmonique et préparer le retour progressif vers La majeur.
 </meta>
-    <section=section_23, n_mesure=8, bpm=66, format=2/4, tonalite=La_mineur>
+    <section=developpement, n_mesure=8, bpm=66, format=2/4, tonalite=Re_mineur>
         <mesure num=1>
             <piano_1_v1>  |{la#4, re6}, (_, {do4, mi4}, sol4)|
             <piano_1_v2>  |do5, (re5, _)|
@@ -989,9 +1012,10 @@ Section de développement 22 — 8 mesures. Tonalité La mineur, tempo 66 BPM.
     </section>
 
 <meta>
-Section de développement 23 — 8 mesures. Tonalité La mineur, tempo 66 BPM.
+8 mesures (mm.185-192), Allegro vivace, La majeur, 66 BPM.
+Le développement retrouve progressivement La majeur dans sa préparation de la réexposition. La pédale de dominante de La majeur commence à s'établir. Jouer en laissant percevoir la direction harmonique vers la réexposition.
 </meta>
-    <section=section_24, n_mesure=8, bpm=66, format=2/4, tonalite=La_mineur>
+    <section=developpement, n_mesure=8, bpm=66, format=2/4, tonalite=La_majeur>
         <mesure num=1>
             <piano_1_v1>  |(re5, mi5), (fa5, {mi4, sol5})|
             <piano_1_v3>  |(_, {re3, fa3}, la3), (re4, _)|
@@ -1035,9 +1059,10 @@ Section de développement 23 — 8 mesures. Tonalité La mineur, tempo 66 BPM.
     </section>
 
 <meta>
-Section de développement 24 — 8 mesures. Tonalité La mineur, tempo 66 BPM.
+8 mesures (mm.193-200), Allegro vivace, La majeur, 66 BPM.
+Le développement s'oriente définitivement vers La majeur pour préparer la réexposition. La tension harmonique se concentre sur la dominante de La. Accentuer l'impulsion vers la réexposition.
 </meta>
-    <section=section_25, n_mesure=8, bpm=66, format=2/4, tonalite=La_mineur>
+    <section=developpement, n_mesure=8, bpm=66, format=2/4, tonalite=La_majeur>
         <mesure num=1>
             <piano_1_v1>  |la4, (_, la4)|
             <piano_1_v2>  |(mi4, re4), (do4, _)|
@@ -1076,9 +1101,10 @@ Section de développement 24 — 8 mesures. Tonalité La mineur, tempo 66 BPM.
     </section>
 
 <meta>
-Section de développement 25 — 8 mesures. Tonalité La mineur, tempo 66 BPM.
+8 mesures (mm.201-208), Allegro vivace, La majeur, 66 BPM.
+La préparation de la réexposition s'intensifie, la pédale de dominante maintenant une tension croissante. Les motifs thématiques fragmentés préfigurent le retour du premier thème. Jouer avec une intensité croissante vers la réexposition.
 </meta>
-    <section=section_26, n_mesure=8, bpm=66, format=2/4, tonalite=La_mineur>
+    <section=developpement, n_mesure=8, bpm=66, format=2/4, tonalite=La_majeur>
         <mesure num=1>
             <piano_1_v1>  |do4 mi4 la4, (_, mi4 do5)|
             <piano_1_v3>  |(_, {mi2, la2}, do3), mi3|
@@ -1114,9 +1140,10 @@ Section de développement 25 — 8 mesures. Tonalité La mineur, tempo 66 BPM.
     </section>
 
 <meta>
-Section de développement 26 — 8 mesures. Tonalité La mineur, tempo 66 BPM.
+8 mesures (mm.209-216), Allegro vivace, La majeur, 66 BPM.
+La pédale de dominante de La majeur est maintenue, créant une forte attente de la résolution. Les motifs se resserrent et l'écriture se clarifie en préparation de la réexposition. Jouer avec la tension maximale.
 </meta>
-    <section=section_27, n_mesure=8, bpm=66, format=2/4, tonalite=La_mineur>
+    <section=developpement, n_mesure=8, bpm=66, format=2/4, tonalite=La_majeur>
         <mesure num=1>
             <piano_1_v1>  |_, _|
             <piano_1_v2>  |(re4 mi4, re4 mi4), (re4 mi4, re4 mi4)|
@@ -1156,9 +1183,10 @@ Section de développement 26 — 8 mesures. Tonalité La mineur, tempo 66 BPM.
     </section>
 
 <meta>
-Section de développement 27 — 8 mesures. Tonalité La mineur, tempo 66 BPM.
+8 mesures (mm.217-224), Allegro vivace, La majeur, 66 BPM.
+Le développement approche de sa conclusion, maintenant la pédale de dominante et l'attente harmonique. Le retour du premier thème est imminent. Maintenir la tension jusqu'à la résolution.
 </meta>
-    <section=section_28, n_mesure=8, bpm=66, format=2/4, tonalite=La_mineur>
+    <section=developpement, n_mesure=8, bpm=66, format=2/4, tonalite=La_majeur>
         <mesure num=1>
             <piano_1_v1>  |_, (_, la4 la5)|
             <piano_1_v3>  |_, (_, la3)|
@@ -1195,9 +1223,10 @@ Section de développement 27 — 8 mesures. Tonalité La mineur, tempo 66 BPM.
     </section>
 
 <meta>
-Section de développement 28 — 8 mesures. Tonalité La mineur, tempo 66 BPM.
+8 mesures (mm.225-232), Allegro vivace, La majeur, 66 BPM.
+La réexposition du premier thème commence à la mesure 230. Il réapparaît raccourci et modifié par rapport à l'exposition. La phrase mm.21-33 de l'exposition est remplacée ici par une répétition d'une phrase de deux mesures, en Ré majeur puis en La majeur. Jouer avec la même énergie que le début, en laissant percevoir les subtiles modifications thématiques.
 </meta>
-    <section=section_29, n_mesure=8, bpm=66, format=2/4, tonalite=La_mineur>
+    <section=recapitulation_theme_1, n_mesure=8, bpm=66, format=2/4, tonalite=La_majeur>
         <mesure num=1>
             <piano_1_v1>  |mi4, (_, {la3, do#4}, mi4)|
             <piano_1_v3>  |mi3, -|
@@ -1239,9 +1268,10 @@ Section de développement 28 — 8 mesures. Tonalité La mineur, tempo 66 BPM.
     </section>
 
 <meta>
-Section de développement 29 — 8 mesures. Tonalité La mineur, tempo 66 BPM.
+8 mesures (mm.233-240), Allegro vivace, La majeur, 66 BPM.
+Le premier thème en réexposition est raccourci et modifié, notamment par la répétition de la phrase de deux mesures (mm.247-249 sur 3 mesures). Les modifications maintenant le thème dans la tonique assurent la cohérence de la réexposition. Jouer avec une pleine sonorité et en soulignant les modifications structurelles.
 </meta>
-    <section=section_30, n_mesure=8, bpm=66, format=2/4, tonalite=La_mineur>
+    <section=recapitulation_theme_1, n_mesure=8, bpm=66, format=2/4, tonalite=La_majeur>
         <mesure num=1>
             <piano_1_v1>  |(do#5, si4), (la4, si4)|
             <piano_1_v2>  |mi4, re#4|
@@ -1289,9 +1319,10 @@ Section de développement 29 — 8 mesures. Tonalité La mineur, tempo 66 BPM.
     </section>
 
 <meta>
-Section de développement 30 — 8 mesures. Tonalité La mineur, tempo 66 BPM.
+8 mesures (mm.241-248), Allegro vivace, La majeur, 66 BPM.
+La réexposition du premier thème se poursuit, s'achevant à la mesure 257. La transition qui suit est modifiée pour mener à La mineur plutôt qu'à la dominante majeure. Préparer le changement de couleur harmonique pour la transition.
 </meta>
-    <section=section_31, n_mesure=8, bpm=66, format=2/4, tonalite=La_mineur>
+    <section=recapitulation_theme_1, n_mesure=8, bpm=66, format=2/4, tonalite=La_majeur>
         <mesure num=1>
             <piano_1_v1>  |(_, la4), (re5, mi5)|
             <piano_1_v2>  |_, re4 sol#4|
@@ -1335,9 +1366,10 @@ Section de développement 30 — 8 mesures. Tonalité La mineur, tempo 66 BPM.
     </section>
 
 <meta>
-Section de développement 31 — 8 mesures. Tonalité La mineur, tempo 66 BPM.
+8 mesures (mm.249-256), Allegro vivace, La majeur, 66 BPM.
+Le premier thème en réexposition se conclut, ouvrant la voie à la transition modifiée. La cadence finale confirme La majeur avant le départ de la transition. Jouer avec clarté et précision pour préparer la suite.
 </meta>
-    <section=section_32, n_mesure=8, bpm=66, format=2/4, tonalite=La_mineur>
+    <section=recapitulation_theme_1, n_mesure=8, bpm=66, format=2/4, tonalite=La_majeur>
         <mesure num=1>
             <piano_1_v1>  |_, _|
             <piano_1_v2>  |(la4, sol#4), (fa#4, mi4)|
@@ -1377,9 +1409,10 @@ Section de développement 31 — 8 mesures. Tonalité La mineur, tempo 66 BPM.
     </section>
 
 <meta>
-Section de développement 32 — 8 mesures. Tonalité La mineur, tempo 66 BPM.
+8 mesures (mm.257-264), Allegro vivace, La mineur, 66 BPM.
+La transition de la réexposition est altérée pour mener à La mineur (mineur de la tonique) plutôt qu'à la dominante mineure. Cette modification est nécessaire pour que le second thème puisse réapparaître dans la tonique. La couleur harmonique change sensiblement. Jouer en laissant la modalité mineure colorer le phrasé.
 </meta>
-    <section=section_33, n_mesure=8, bpm=66, format=2/4, tonalite=La_mineur>
+    <section=transition, n_mesure=8, bpm=66, format=2/4, tonalite=La_mineur>
         <mesure num=1>
             <piano_1_v1>  |_, _|
             <piano_1_v3>  |sol#2 sol#3, -|
@@ -1417,9 +1450,10 @@ Section de développement 32 — 8 mesures. Tonalité La mineur, tempo 66 BPM.
     </section>
 
 <meta>
-Section de développement 33 — 8 mesures. Tonalité La mineur, tempo 66 BPM.
+8 mesures (mm.265-272), Allegro vivace, La mineur, 66 BPM.
+La transition en réexposition continue en La mineur, préparant l'entrée du second thème dans la tonique. L'écriture reste fluide et modulante. Maintenir le caractère de la transition tout en soulignant la différence avec l'exposition.
 </meta>
-    <section=section_34, n_mesure=8, bpm=66, format=2/4, tonalite=La_mineur>
+    <section=transition, n_mesure=8, bpm=66, format=2/4, tonalite=La_mineur>
         <mesure num=1>
             <piano_1_v1>  |_, _|
             <piano_1_v3>  |(_, si3)|
@@ -1466,9 +1500,10 @@ Section de développement 33 — 8 mesures. Tonalité La mineur, tempo 66 BPM.
     </section>
 
 <meta>
-Section de développement 34 — 8 mesures. Tonalité La mineur, tempo 66 BPM.
+8 mesures (mm.273-280), Allegro vivace, La mineur, 66 BPM.
+La transition de la réexposition s'achève, menant le second thème à La mineur. La demi-cadence de La mineur est confirmée. Préparer l'entrée du second thème dans la tonique mineure.
 </meta>
-    <section=section_35, n_mesure=8, bpm=66, format=2/4, tonalite=La_mineur>
+    <section=transition, n_mesure=8, bpm=66, format=2/4, tonalite=La_mineur>
         <mesure num=1>
             <piano_1_v1>  |sol5, (_, do6)|
             <piano_1_v3>  |({do4 mi4, fa4}, do4 mi4, sol4), ({do4 mi4, sol4}, do4 mi4, sol4)|
@@ -1504,9 +1539,10 @@ Section de développement 34 — 8 mesures. Tonalité La mineur, tempo 66 BPM.
     </section>
 
 <meta>
-Section de développement 35 — 8 mesures. Tonalité La mineur, tempo 66 BPM.
+8 mesures (mm.281-288), Allegro vivace, La mineur, 66 BPM.
+Le second thème en réexposition débute à la mesure 283, transposé en La mineur (contre Mi mineur à l'exposition). La réexposition suit le même plan que l'exposition, mais transposée dans la tonique. Les modulations saisissantes restent présentes mais dans d'autres tonalités. Jouer avec la même souplesse que dans l'exposition.
 </meta>
-    <section=section_36, n_mesure=8, bpm=66, format=2/4, tonalite=La_mineur>
+    <section=recapitulation_theme_2, n_mesure=8, bpm=66, format=2/4, tonalite=La_mineur>
         <mesure num=1>
             <piano_1_v1>  |re5, fa4 fa5|
             <piano_1_v2>  |({re5, mi5}, {re5, do#5, re5}, mi5)|
@@ -1545,9 +1581,10 @@ Section de développement 35 — 8 mesures. Tonalité La mineur, tempo 66 BPM.
     </section>
 
 <meta>
-Section de développement 36 — 8 mesures. Tonalité La mineur, tempo 66 BPM.
+8 mesures (mm.289-296), Allegro vivace, La mineur vers La majeur, 66 BPM.
+Le second thème en réexposition module de La mineur vers La majeur, parallèle exact de la modulation Mi mineur vers Mi majeur de l'exposition. Cette progression assure la symétrie formelle. Maintenir la cohérence thématique tout en laissant la modulation vers le majeur apporter de la lumière.
 </meta>
-    <section=section_37, n_mesure=8, bpm=66, format=2/4, tonalite=La_mineur>
+    <section=recapitulation_theme_2, n_mesure=8, bpm=66, format=2/4, tonalite=La_mineur>
         <mesure num=1>
             <piano_1_v1>  |sol#4 sol#5, (_, {fa4, mi4}, {re4, do4})|
             <piano_1_v3>  |_, (_, {fa3, mi3}, {re3, do3})|
@@ -1587,9 +1624,10 @@ Section de développement 36 — 8 mesures. Tonalité La mineur, tempo 66 BPM.
     </section>
 
 <meta>
-Section de développement 37 — 8 mesures. Tonalité La mineur, tempo 66 BPM.
+8 mesures (mm.297-304), Allegro vivace, La majeur, 66 BPM.
+Le second thème se stabilise en La majeur, confirmant le ton de la tonique pour la fin du mouvement. La comparaison avec mm.87-88 et 91-92 par rapport aux mm.311-312 et 315-316 révèle une symétrie légèrement variée. Jouer avec la même énergie et précision que l'exposition correspondante.
 </meta>
-    <section=section_38, n_mesure=8, bpm=66, format=2/4, tonalite=La_mineur>
+    <section=recapitulation_theme_2, n_mesure=8, bpm=66, format=2/4, tonalite=La_mineur>
         <mesure num=1>
             <piano_1_v1>  |mi4, -|
             <piano_1_v3>  |sol#3, -|
@@ -1628,9 +1666,10 @@ Section de développement 37 — 8 mesures. Tonalité La mineur, tempo 66 BPM.
     </section>
 
 <meta>
-Section de développement 38 — 8 mesures. Tonalité La mineur, tempo 66 BPM.
+8 mesures (mm.305-312), Allegro vivace, La majeur, 66 BPM.
+La fin du second thème en réexposition confirme La majeur. La section conclusive approche. Jouer avec assurance pour préparer la clôture du mouvement.
 </meta>
-    <section=section_39, n_mesure=8, bpm=66, format=2/4, tonalite=La_mineur>
+    <section=recapitulation_theme_2, n_mesure=8, bpm=66, format=2/4, tonalite=La_majeur>
         <mesure num=1>
             <piano_1_v1>  |(sol#4, _), _|
             <piano_1_v3>  |_, _|
@@ -1668,9 +1707,10 @@ Section de développement 38 — 8 mesures. Tonalité La mineur, tempo 66 BPM.
     </section>
 
 <meta>
-Section de développement 39 — 8 mesures. Tonalité La mineur, tempo 66 BPM.
+8 mesures (mm.313-320), Allegro vivace, La majeur, 66 BPM.
+La coda du mouvement débute à la mesure 317. Conformément à l'indication de la source, la réexposition ne comporte pas de coda séparée au sens strict, et le mouvement se termine discrètement. Le caractère calme et sobre de la conclusion est inhabituel chez Beethoven et confère à ce mouvement une fin d'une élégance particulière. Jouer avec retenue, en laissant la dynamique s'apaiser progressivement.
 </meta>
-    <section=section_40, n_mesure=8, bpm=66, format=2/4, tonalite=La_mineur>
+    <section=coda, n_mesure=8, bpm=66, format=2/4, tonalite=La_majeur>
         <mesure num=1>
             <piano_1_v1>  |(do#4, si3), (la3, sol#3)|
             <piano_1_v3>  |mi2, -|
@@ -1714,9 +1754,10 @@ Section de développement 39 — 8 mesures. Tonalité La mineur, tempo 66 BPM.
     </section>
 
 <meta>
-Section conclusive — 7 mesures. Tonalité La mineur, tempo 66 BPM.
+7 mesures (mm.321-327), Allegro vivace, La majeur, 66 BPM.
+La conclusion du mouvement s'achève discrètement en La majeur, sans coda développée. Le mouvement se termine piano, de façon calme et sans ostentation, ce qui est caractéristique de cette sonate. Jouer pianissimo, avec une grande délicatesse, pour laisser le mouvement s'éteindre sans éclat.
 </meta>
-    <section=section_41, n_mesure=7, bpm=66, format=2/4, tonalite=La_mineur>
+    <section=coda, n_mesure=7, bpm=66, format=2/4, tonalite=La_majeur>
         <mesure num=1>
             <piano_1_v1>  |re3 mi3 si3, -|
             <piano_1_v3>  |(mi2, fa#2), (sol2, sol#2)|
