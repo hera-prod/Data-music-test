@@ -3,19 +3,19 @@
 TACHE : composition
 STYLE : classique
 FORMAT : piano_solo
-NIVEAU : intermediaire
-Titre : Piano_Sonatas_29-3
-Date : ?
-Auteur : Beethoven
+NIVEAU : avance
+Titre : Sonate pour piano n°29 en Sib majeur, op.106 "Hammerklavier", 3e mouvement (Adagio sostenuto)
+Date : 1818
+Auteur : Ludwig van Beethoven
 Tonalite : Fa#_mineur
 Unite : quarter
-Intention : Pièce pour piano solo, modéré, mélancolique, au flux composé. Tonalité : Fa# mineur. 186 mesures.
+Intention : Mouvement lent le plus long de toutes les sonates de Beethoven, vaste tombeau de la mélancolie une corde, contemplation immuable en Fa# mineur, une tierce sous la tonique principale. Forme sonate en Fa# mineur, 6/8, Adagio sostenuto à 40 BPM environ, 186 mesures: exposition (mm.1-76), développement (mm.76-87), récapitulation (mm.88-155), coda (mm.155-186).
 </tete>
 
 <meta>
-Section d'ouverture — 8 mesures. Tonalité Fa# mineur, tempo 92 BPM.
+Exposition, premier thème, mesures 1-8. Thème cantabile una corda d'une douceur sépulcrale, intervalles de tierces et de sixtes, ligne mélodique suspendue sur un treillis d'arpèges. Jeu dépouillé, toucher le plus léger, pédale de soutien continue.
 </meta>
-    <section=section_1, n_mesure=8, bpm=92, format=6/8, tonalite=Fa#_mineur>
+    <section=exposition, n_mesure=8, bpm=40, format=6/8, tonalite=Fa#_mineur>
         <mesure num=1>
             <piano_1_v1>  |la3, -, -, do#4, -, -|
             <piano_1_v3>  |la1 la2, -, -, do#2 do#3, -, -|
@@ -53,9 +53,9 @@ Section d'ouverture — 8 mesures. Tonalité Fa# mineur, tempo 92 BPM.
     </section>
 
 <meta>
-Section de développement 1 — 8 mesures. Tonalité Fa# mineur, tempo 92 BPM.
+Exposition, développement du premier thème, mesures 9-16. Broderies expressives sur le thème initial, harmonisation élargie vers Sol majeur, premier éclair du napolitain.
 </meta>
-    <section=section_2, n_mesure=8, bpm=92, format=6/8, tonalite=Fa#_mineur>
+    <section=exposition, n_mesure=8, bpm=40, format=6/8, tonalite=Fa#_mineur>
         <mesure num=1>
             <piano_1_v1>  |re#4, do4, do#4, fa3 sol#3 do#4 fa4, sol#4, si4|
             <piano_1_v2>  |fa#3 la3 fa#4, -, -, -, -, -|
@@ -101,9 +101,9 @@ Section de développement 1 — 8 mesures. Tonalité Fa# mineur, tempo 92 BPM.
     </section>
 
 <meta>
-Section de développement 2 — 8 mesures. Tonalité Fa# mineur, tempo 92 BPM.
+Exposition, continuation mélodique, mesures 17-24. Ligne de droite ornée de trilles, arpèges en doubles-croches à la main gauche, tension harmonique par les septièmes diminuées.
 </meta>
-    <section=section_3, n_mesure=8, bpm=92, format=6/8, tonalite=Fa#_mineur>
+    <section=exposition, n_mesure=8, bpm=40, format=6/8, tonalite=Fa#_mineur>
         <mesure num=1>
             <piano_1_v1>  |fa4 sol#4 do#5, -, fa#4 la4, fa#4 la4, do#4 fa#4, (fa4 sol#4, fa#4 la4)|
             <piano_1_v2>  |_, _, _, _, _, do#4|
@@ -147,9 +147,9 @@ Section de développement 2 — 8 mesures. Tonalité Fa# mineur, tempo 92 BPM.
     </section>
 
 <meta>
-Section de développement 3 — 8 mesures. Tonalité Fa# mineur, tempo 92 BPM.
+Exposition, deuxième thème en Ré majeur, mesures 25-32. La main droite croise la gauche vers les basses profondes, espressivo; Ré majeur, une tierce sous le Fa#, pivot caractéristique de la structure en tierces de l'oeuvre.
 </meta>
-    <section=section_4, n_mesure=8, bpm=92, format=6/8, tonalite=Fa#_mineur>
+    <section=exposition, n_mesure=8, bpm=40, format=6/8, tonalite=Re_majeur>
         <mesure num=1>
             <piano_1_v1>  |do#5 do#6, re5 re6, sol4 sol5, si4 si5, do#4 do#5, fa4 fa5|
             <piano_1_v3>  |do#4, re4, sol3, si3, do#3, fa3|
@@ -197,9 +197,9 @@ Section de développement 3 — 8 mesures. Tonalité Fa# mineur, tempo 92 BPM.
     </section>
 
 <meta>
-Section de développement 4 — 8 mesures. Tonalité Fa# mineur, tempo 92 BPM.
+Exposition, deuxième thème, suite, mesures 33-40. Développement lyrique du deuxième thème, ornements en trilles de la main droite au-dessus de l'accompagnement en valeurs longues.
 </meta>
-    <section=section_5, n_mesure=8, bpm=92, format=6/8, tonalite=Fa#_mineur>
+    <section=exposition, n_mesure=8, bpm=40, format=6/8, tonalite=Re_majeur>
         <mesure num=1>
             <piano_1_v1>  |({si5, fa4}, fa#4, sol#4), ({la4, la#4}, si4, do5), (do#5, {re5, re#5}), (mi5, {do#5, re5}), ({re5, si5}, sol#5, fa5), ({re5, do5}, re5, do#5)|
             <piano_1_v3>  |(_, _), (_, _), (_, _), (_, _), (_, _), (_, _)|
@@ -248,9 +248,9 @@ Section de développement 4 — 8 mesures. Tonalité Fa# mineur, tempo 92 BPM.
     </section>
 
 <meta>
-Section de développement 5 — 8 mesures. Tonalité Fa# mineur, tempo 92 BPM.
+Exposition, section de fermeture, mesures 41-48. Alternances una corda et tutte le corde, arpèges de septième diminuée, accord de Si majeur, modulation par Ré majeur et Fa# majeur vers Do# majeur.
 </meta>
-    <section=section_6, n_mesure=8, bpm=92, format=6/8, tonalite=Fa#_mineur>
+    <section=exposition, n_mesure=8, bpm=40, format=6/8, tonalite=Fa#_majeur>
         <mesure num=1>
             <piano_1_v1>  |(la5, fa#5), (la5, sol5), (fa#5, sol5), (sol5, mi5), (sol5, fa#5), (mi5, fa5)|
             <piano_1_v2>  |re#5, mi5, do#5, do#5, re5, si4|
@@ -296,9 +296,9 @@ Section de développement 5 — 8 mesures. Tonalité Fa# mineur, tempo 92 BPM.
     </section>
 
 <meta>
-Section de développement 6 — 8 mesures. Tonalité Fa# mineur, tempo 92 BPM.
+Exposition, conclusion en Si majeur, mesures 49-56. Enchaînement de blocs d'accords statiques, alternance extrême entre silence et plénitude sonore, modulation vers Si majeur.
 </meta>
-    <section=section_7, n_mesure=8, bpm=92, format=6/8, tonalite=Fa#_mineur>
+    <section=exposition, n_mesure=8, bpm=40, format=6/8, tonalite=Si_majeur>
         <mesure num=1>
             <piano_1_v1>  |fa#4 fa#5, _, re2, re2, re2, (re2, {do#2, re2})|
             <piano_1_v3>  |(fa#3, {si3, la3}), (sol#3, {si3, la3}), (fa#3, {si3, la3}), (sol#3, {si3, la3}), (fa#3, {si3, la3}), (fa#3, {la#3, la3})|
@@ -346,9 +346,9 @@ Section de développement 6 — 8 mesures. Tonalité Fa# mineur, tempo 92 BPM.
     </section>
 
 <meta>
-Section de développement 7 — 8 mesures. Tonalité Fa# mineur, tempo 92 BPM.
+Exposition, coda de l'exposition, mesures 57-76. Retour progressif au Fa# mineur, ornements de trilles, préparation du développement. Jouer avec la plus grande retenue sur toute la progression harmonique.
 </meta>
-    <section=section_8, n_mesure=8, bpm=92, format=6/8, tonalite=Fa#_mineur>
+    <section=exposition, n_mesure=8, bpm=40, format=6/8, tonalite=Fa#_mineur>
         <mesure num=1>
             <piano_1_v1>  |la5, -, -, si5, -, fa#5|
             <piano_1_v2>  |re#5, -, -, si4 fa#5, -, si4 re#5|
@@ -390,9 +390,9 @@ Section de développement 7 — 8 mesures. Tonalité Fa# mineur, tempo 92 BPM.
     </section>
 
 <meta>
-Section de développement 8 — 8 mesures. Tonalité Fa# mineur, tempo 92 BPM.
+Développement, mesures 76-87. Séquences harmoniques descendantes par tierces, une corda et tutte le corde alternées pour délinéer les couleurs, arpèges ascendants en doubles-croches à la main gauche sur onze mesures seulement. Économie maximale, impression d'espace troublé.
 </meta>
-    <section=section_9, n_mesure=8, bpm=92, format=6/8, tonalite=Fa#_mineur>
+    <section=developpement, n_mesure=8, bpm=40, format=6/8, tonalite=Fa#_mineur>
         <mesure num=1>
             <piano_1_v1>  |la4 fa#5 la5, -, fa#5, la4, -, la4 la5|
             <piano_1_v3>  |re2 la2 re3, -, fa#4, la3, -, fa#2 la2 fa#3|
@@ -428,9 +428,9 @@ Section de développement 8 — 8 mesures. Tonalité Fa# mineur, tempo 92 BPM.
     </section>
 
 <meta>
-Section de développement 9 — 8 mesures. Tonalité Fa# mineur, tempo 92 BPM.
+Transition vers la récapitulation, mesures 85-88. Accord de septième diminuée en descente hésitante sur deux mesures, arpèges en septième diminuée montant en mesure 87, conduisant à la récapitulation.
 </meta>
-    <section=section_10, n_mesure=8, bpm=92, format=6/8, tonalite=Fa#_mineur>
+    <section=transition, n_mesure=8, bpm=40, format=6/8, tonalite=Fa#_mineur>
         <mesure num=1>
             <piano_1_v1>  |fa4 fa5, -, -, sol#5, -, sol#5|
             <piano_1_v2>  |_, _, _, sol#4, fa5, fa#5|
@@ -473,9 +473,9 @@ Section de développement 9 — 8 mesures. Tonalité Fa# mineur, tempo 92 BPM.
     </section>
 
 <meta>
-Section de développement 10 — 8 mesures. Tonalité Fa# mineur, tempo 92 BPM.
+Récapitulation, premier thème orné, mesures 88-95. Réexposition du thème principal magnifiquement orné de trente-deuxièmes à la main droite, accompagnement main gauche en croches statiques. Toucher perle, rubato intérieur.
 </meta>
-    <section=section_11, n_mesure=8, bpm=92, format=6/8, tonalite=Fa#_mineur>
+    <section=recapitulation, n_mesure=8, bpm=40, format=6/8, tonalite=Fa#_mineur>
         <mesure num=1>
             <piano_1_v1>  |la#4, -, fa#5 fa#6, re#5 re#6, -, do5 do6|
             <piano_1_v3>  |(fa#3, la#3), (do#4, fa#4), (re#2, re#3), (fa#2, la#2), (re#3, fa#3), (sol#2, sol#3)|
@@ -516,9 +516,9 @@ Section de développement 10 — 8 mesures. Tonalité Fa# mineur, tempo 92 BPM.
     </section>
 
 <meta>
-Section de développement 11 — 8 mesures. Tonalité Fa# mineur, tempo 92 BPM.
+Récapitulation, continuation ornée, mesures 96-103. Les ornementations deviennent plus fiévreuses, trente-deuxièmes syncopées, la basse reste immobile, évoquant une désolation intérieure.
 </meta>
-    <section=section_12, n_mesure=8, bpm=92, format=6/8, tonalite=Fa#_mineur>
+    <section=recapitulation, n_mesure=8, bpm=40, format=6/8, tonalite=Fa#_mineur>
         <mesure num=1>
             <piano_1_v1>  |({la4, la5}, si5, la5), ({si5, la#4}, si5, la#5), ({si4, si5}, do#6, si5), ({do#6, si5}, si4, si5), ({si4, si5}, do#6, si5), ({mi6, re6}, re5, re6)|
             <piano_1_v3>  |do#2 fa#2 do#3, do#2 fa#2 do#3, re2 fa#2 re3, re2 fa#2 re3, re2 fa#2 re3, si1 fa#2 si2|
@@ -554,9 +554,9 @@ Section de développement 11 — 8 mesures. Tonalité Fa# mineur, tempo 92 BPM.
     </section>
 
 <meta>
-Section de développement 12 — 8 mesures. Tonalité Fa# mineur, tempo 92 BPM.
+Récapitulation, napolitain, mesures 104-112. Réapparition du passage en Sol majeur napolitain, ce moment de lumière étrange suspendu sur une pédale en épingle, ritardando de six mesures.
 </meta>
-    <section=section_13, n_mesure=8, bpm=92, format=6/8, tonalite=Fa#_mineur>
+    <section=recapitulation, n_mesure=8, bpm=40, format=6/8, tonalite=Sol_majeur>
         <mesure num=1>
             <piano_1_v1>  |({fa5, fa#5}, fa#4, fa#5), ({sol#5, fa#5}, fa#4, fa#5), ({fa4, fa5}, fa#5, fa5), ({fa#5, fa4}, fa#5, fa5), ({sol#4, sol#5}, la5, sol#5), ({si5, si4}, re5, re6)|
             <piano_1_v3>  |la2 do3 re#3 fa#3, la2 do3 re#3 fa#3, sol#2 do#3 fa3, sol#2 do#3 fa3, (do#3 fa3, fa3 sol#3), (sol#3 si3, si3 re4)|
@@ -593,9 +593,9 @@ Section de développement 12 — 8 mesures. Tonalité Fa# mineur, tempo 92 BPM.
     </section>
 
 <meta>
-Section de développement 13 — 8 mesures. Tonalité Fa# mineur, tempo 92 BPM.
+Récapitulation, trille vocal, mesures 113-121. Trill marqué con grand espressione en mesure 118, épanouissement mélodique culminant, registre aigu, résolution partielle.
 </meta>
-    <section=section_14, n_mesure=8, bpm=92, format=6/8, tonalite=Fa#_mineur>
+    <section=recapitulation, n_mesure=8, bpm=40, format=6/8, tonalite=Fa#_mineur>
         <mesure num=1>
             <piano_1_v1>  |la3 fa#4, -, -, sol#3 do#4 fa4, sol#4, (si4, re5)|
             <piano_1_v2>  |re#4, do4, (do#4, do4)|
@@ -638,9 +638,9 @@ Section de développement 13 — 8 mesures. Tonalité Fa# mineur, tempo 92 BPM.
     </section>
 
 <meta>
-Section de développement 14 — 8 mesures. Tonalité Fa# mineur, tempo 92 BPM.
+Récapitulation, deuxième thème en Ré majeur, mesures 122-135. Passage du deuxième thème dans le registre de Fa# majeur, blocs d'accords statiques sur Lab majeur puis Fa# majeur.
 </meta>
-    <section=section_15, n_mesure=8, bpm=92, format=6/8, tonalite=Fa#_mineur>
+    <section=recapitulation, n_mesure=8, bpm=40, format=6/8, tonalite=Re_majeur>
         <mesure num=1>
             <piano_1_v1>  |_, _, _, _, _, fa#5|
             <piano_1_v3>  |_, (_, _), (_, _), (_, _), (_, _), (_, _)|
@@ -688,9 +688,9 @@ Section de développement 14 — 8 mesures. Tonalité Fa# mineur, tempo 92 BPM.
     </section>
 
 <meta>
-Section de développement 15 — 8 mesures. Tonalité Fa# mineur, tempo 92 BPM.
+Récapitulation, conclusion de la récapitulation, mesures 136-154. Modulation par Ré mineur vers Si mineur, introduction de la coda. Retour progressif au Fa# mineur après le parcours harmonique.
 </meta>
-    <section=section_16, n_mesure=8, bpm=92, format=6/8, tonalite=Fa#_mineur>
+    <section=recapitulation, n_mesure=8, bpm=40, format=6/8, tonalite=Fa#_mineur>
         <mesure num=1>
             <piano_1_v1>  |fa#5, fa#5, (fa#5, fa#5), fa#5, si5, (si5, si5)|
             <piano_1_v2>  |(si4 re5, fa#4), (fa#4, fa#4 si4 re5), (fa#4 la#4 mi5, fa#4 la#4 mi5), (fa#4 si4 re5, si4), (si4, si4 re5 fa#5), (si4 re#5 fa#5, si4 re#5 fa#5)|
@@ -737,9 +737,9 @@ Section de développement 15 — 8 mesures. Tonalité Fa# mineur, tempo 92 BPM.
     </section>
 
 <meta>
-Section de développement 16 — 8 mesures. Tonalité Fa# mineur, tempo 92 BPM.
+Coda, mesures 155-163. Introduction du La# ténor, ligne basse ascendante contestant les Fa# tenaces de la main droite, Bebung en trente-deuxièmes convulsives.
 </meta>
-    <section=section_17, n_mesure=8, bpm=92, format=6/8, tonalite=Fa#_mineur>
+    <section=coda, n_mesure=8, bpm=40, format=6/8, tonalite=Fa#_mineur>
         <mesure num=1>
             <piano_1_v1>  |la#4, _, fa#2, fa#2, -, (fa#2, do#2)|
             <piano_1_v3>  |(la#3, re#4), (do4, do#4), (la#3, re#4), (do4, do#4), (la#3, re#4), (la#3, do#4)|
@@ -783,9 +783,9 @@ Section de développement 16 — 8 mesures. Tonalité Fa# mineur, tempo 92 BPM.
     </section>
 
 <meta>
-Section de développement 17 — 8 mesures. Tonalité Fa# mineur, tempo 92 BPM.
+Coda, apaisement, mesures 163-172. Retour du thème initial en Fa# majeur, oscillation douce de la basse Fa#/Do#, sentiment d'une paix chèrement conquise.
 </meta>
-    <section=section_18, n_mesure=8, bpm=92, format=6/8, tonalite=Fa#_mineur>
+    <section=coda, n_mesure=8, bpm=40, format=6/8, tonalite=Fa#_majeur>
         <mesure num=1>
             <piano_1_v1>  |la#5, la#5, -, si5, -, -|
             <piano_1_v2>  |la#4, (la#4, {sol#5, fa#5}), (fa5, {re#5, do#5}), (si4, {do#5, la#4}), (si4, {do#5, re#5}), (fa5, {fa#5, sol#5})|
@@ -834,9 +834,9 @@ Section de développement 17 — 8 mesures. Tonalité Fa# mineur, tempo 92 BPM.
     </section>
 
 <meta>
-Section de développement 18 — 8 mesures. Tonalité Fa# mineur, tempo 92 BPM.
+Coda, dernières mesures (mesures 173-180). Bercement de la main gauche en quintes Fa#-Do#, calme total, résolution de la désolation dans l'acceptation. Le mouvement semble s'éteindre dans la paix.
 </meta>
-    <section=section_19, n_mesure=8, bpm=92, format=6/8, tonalite=Fa#_mineur>
+    <section=coda, n_mesure=8, bpm=40, format=6/8, tonalite=Fa#_majeur>
         <mesure num=1>
             <piano_1_v1>  |_, _, _, sol4 la#4, -, sol4 la#4 re#5|
             <piano_1_v3>  |re#3 sol3 la#3, -, re#3 sol3 la#3 re#4, re#3 sol3 la#3 re#4, -, re#3 sol3 la#3 re#4|
@@ -874,9 +874,9 @@ Section de développement 18 — 8 mesures. Tonalité Fa# mineur, tempo 92 BPM.
     </section>
 
 <meta>
-Section de développement 19 — 8 mesures. Tonalité Fa# mineur, tempo 92 BPM.
+Coda, deux derniers accords, mesures 181-186. Les deux accords finaux fff rouvrent brusquement la tension après la paix apparente, question sans réponse restant en suspens.
 </meta>
-    <section=section_20, n_mesure=8, bpm=92, format=6/8, tonalite=Fa#_mineur>
+    <section=coda, n_mesure=8, bpm=40, format=6/8, tonalite=Fa#_mineur>
         <mesure num=1>
             <piano_1_v1>  |fa#5 fa#6, -, re5 re6, re5 re6, si4 si5, do#5 do#6|
             <piano_1_v3>  |re2 re3, -, -, fa#2 fa#3, -, -|
@@ -916,9 +916,9 @@ Section de développement 19 — 8 mesures. Tonalité Fa# mineur, tempo 92 BPM.
     </section>
 
 <meta>
-Section de développement 20 — 8 mesures. Tonalité Fa# mineur, tempo 92 BPM.
+Coda, terminaison, mesure 186. Accord final isolé, forte, déchirant le silence contemplatif précédent.
 </meta>
-    <section=section_21, n_mesure=8, bpm=92, format=6/8, tonalite=Fa#_mineur>
+    <section=coda, n_mesure=8, bpm=40, format=6/8, tonalite=Fa#_mineur>
         <mesure num=1>
             <piano_1_v1>  |re5 re6, -, re5 re6, re5 re6, re5 re6, (re5 re6, {do#5 do#6, re5 re6})|
             <piano_1_v3>  |(la#3, {mi4, re4}), (si3, {mi4, re4}), (si3, {mi4, re4}), (si3, {mi4, re4}), (si3, {fa4, re4}), (si3, {fa4, re4})|
@@ -958,9 +958,9 @@ Section de développement 20 — 8 mesures. Tonalité Fa# mineur, tempo 92 BPM.
     </section>
 
 <meta>
-Section de développement 21 — 8 mesures. Tonalité Fa# mineur, tempo 92 BPM.
+Coda, conclusion absolue. Résolution finale en Fa# mineur, accord final suspendu.
 </meta>
-    <section=section_22, n_mesure=8, bpm=92, format=6/8, tonalite=Fa#_mineur>
+    <section=coda, n_mesure=8, bpm=40, format=6/8, tonalite=Fa#_mineur>
         <mesure num=1>
             <piano_1_v1>  |{sol4, si5}, la5, la4 la5, sol4 sol5, fa#4 fa#5|
             <piano_1_v2>  |_, si4, la4, -, -, -|
@@ -1004,9 +1004,9 @@ Section de développement 21 — 8 mesures. Tonalité Fa# mineur, tempo 92 BPM.
     </section>
 
 <meta>
-Section de développement 22 — 8 mesures. Tonalité Fa# mineur, tempo 92 BPM.
+Coda, mesures terminales. Dernier souffle du mouvement, effacement progressif sur le piano le plus extrême.
 </meta>
-    <section=section_23, n_mesure=8, bpm=92, format=6/8, tonalite=Fa#_mineur>
+    <section=coda, n_mesure=8, bpm=40, format=6/8, tonalite=Fa#_mineur>
         <mesure num=1>
             <piano_1_v1>  |la#4 do#5 fa#5 la#5, -, -, la#4 do#5 fa#5 la#5, -, la#4 do#5 fa#5 la#5|
             <piano_1_v3>  |(fa#2, {do#3, fa#2}), (fa#3, {do#3, fa#3}), (fa#2, {do#3, fa#2}), (fa#3, {do#3, fa#3}), (fa#2, {do#3, fa#2}), (fa#3, {do#3, fa#3})|
@@ -1042,9 +1042,9 @@ Section de développement 22 — 8 mesures. Tonalité Fa# mineur, tempo 92 BPM.
     </section>
 
 <meta>
-Section conclusive — 2 mesures. Tonalité Fa# mineur, tempo 92 BPM.
+Coda, extinction. Dernières vibrations du mouvement, repos sur la tonique en Fa# mineur.
 </meta>
-    <section=section_24, n_mesure=2, bpm=92, format=6/8, tonalite=Fa#_mineur>
+    <section=coda, n_mesure=2, bpm=40, format=6/8, tonalite=Fa#_mineur>
         <mesure num=1>
             <piano_1_v1>  |la#4 fa#5 do#6, -, -, la#3 fa#4 do#5, -, -|
             <piano_1_v3>  |fa#1 do#2 la#2, -, -, fa#1 do#2 la#2, -, -|

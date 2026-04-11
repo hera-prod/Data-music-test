@@ -3,19 +3,19 @@
 TACHE : composition
 STYLE : classique
 FORMAT : piano_solo
-NIVEAU : simple
-Titre : Piano_Sonatas_29-2
-Date : ?
-Auteur : Beethoven
+NIVEAU : avance
+Titre : Sonate pour piano n°29 en Sib majeur, op.106 "Hammerklavier", 2e mouvement (Scherzo: Assai vivace)
+Date : 1818
+Auteur : Ludwig van Beethoven
 Tonalite : Sib_majeur
 Unite : quarter
-Intention : Pièce pour piano solo, modéré, lumineux, au balancement ternaire. Tonalité : Sib majeur. 166 mesures.
+Intention : Bref scherzo d'une vivacité cinglante et d'un humour presque ironique, le mouvement désamorce la tension titanesque du premier allegro avant de plonger dans l'abîme de l'Adagio. Forme ternaire (ABA) en Sib majeur, 3/4, Assai vivace à 120 BPM environ, 166 mesures: partie A (mm.1-47), trio en Sib mineur/Reb majeur (mm.47-115) avec section presto intercalée, reprise de A (mm.116-162), coda (mm.163-166).
 </tete>
 
 <meta>
-Section d'ouverture — 8 mesures. Tonalité Sib majeur, tempo 90 BPM.
+Partie A, première section, mesures 1-8. Thème principal en Sib majeur, construit sur l'intervalle de tierce descendante, motif humoristique dérivé du premier mouvement. Jeu staccato, attaque franche, phrasé haché en croches liées deux à deux.
 </meta>
-    <section=section_1, n_mesure=8, bpm=90, format=3/4, tonalite=Sib_majeur>
+    <section=partie_A, n_mesure=8, bpm=120, format=3/4, tonalite=Sib_majeur>
         <mesure num=1>
             <piano_1_v1>  |(re5, la4 fa5)|
             <piano_1_v3>  |(sib3 re4, fa3 do4)|
@@ -55,9 +55,9 @@ Section d'ouverture — 8 mesures. Tonalité Sib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 1 — 8 mesures. Tonalité Sib majeur, tempo 90 BPM.
+Partie A, deuxième section, mesures 9-16. Les huit premières mesures répétées une octave plus haut, registre allégé, dialogue entre les deux mains se poursuivant sur la dominante.
 </meta>
-    <section=section_2, n_mesure=8, bpm=90, format=3/4, tonalite=Sib_majeur>
+    <section=partie_A, n_mesure=8, bpm=120, format=3/4, tonalite=Sib_majeur>
         <mesure num=1>
             <piano_1_v1>  |do6 fa6, (fa5 re6, _), (sib5, solb5 re6)|
             <piano_1_v3>  |la4 do5, (sib4 re5, _), (sol4 sib4, re4 la4)|
@@ -96,9 +96,9 @@ Section de développement 1 — 8 mesures. Tonalité Sib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 2 — 8 mesures. Tonalité Sib majeur, tempo 90 BPM.
+Partie A, développement interne, mesures 17-31. Développement du motif de tierce, modulations fugitives, accentuations syncopées créant une légèreté presque malicieuse.
 </meta>
-    <section=section_3, n_mesure=8, bpm=90, format=3/4, tonalite=Sib_majeur>
+    <section=partie_A, n_mesure=8, bpm=120, format=3/4, tonalite=Sib_majeur>
         <mesure num=1>
             <piano_1_v1>  |mib5 sol5, (do5 mib5, _), (la4 do5, do5 mib5)|
             <piano_1_v3>  |fa2 fa3, -, fa2 fa3|
@@ -141,9 +141,9 @@ Section de développement 2 — 8 mesures. Tonalité Sib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 3 — 8 mesures. Tonalité Sib majeur, tempo 90 BPM.
+Partie A, section développée, mesures 32-47. Retour du thème avec variation, accentuations déplacées, menant à la cadence sur la tonique avant le trio.
 </meta>
-    <section=section_4, n_mesure=8, bpm=90, format=3/4, tonalite=Sib_majeur>
+    <section=partie_A, n_mesure=8, bpm=120, format=3/4, tonalite=Sib_majeur>
         <mesure num=1>
             <piano_1_v1>  |fa4 re5, (re4 si4, _), (re4 si4, sol4 mib5)|
             <piano_1_v3>  |sol2 sol3, -, do2 do3|
@@ -179,9 +179,9 @@ Section de développement 3 — 8 mesures. Tonalité Sib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 4 — 8 mesures. Tonalité Sib majeur, tempo 90 BPM.
+Trio, première partie, mesures 47-55. Début du trio en Sib mineur, marqué semplice, mélodie en demi-soupirs empruntée à la Symphonie Eroïca. Caractère sombre, sombre et recueilli.
 </meta>
-    <section=section_5, n_mesure=8, bpm=90, format=3/4, tonalite=Sib_majeur>
+    <section=trio, n_mesure=8, bpm=100, format=3/4, tonalite=Sib_mineur>
         <mesure num=1>
             <piano_1_v1>  |do5 mib5, -, sib4 re5|
             <piano_1_v3>  |solb2 solb3, solb3 do4 mib4, sol3 sib3 re4|
@@ -225,9 +225,9 @@ Section de développement 4 — 8 mesures. Tonalité Sib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 5 — 8 mesures. Tonalité Sib majeur, tempo 90 BPM.
+Trio, section centrale, mesures 55-63. Le même passage réapparaît avec les voix inversées, modulant de Sib mineur à Reb majeur, enrichissement harmonique de la tierce.
 </meta>
-    <section=section_6, n_mesure=8, bpm=90, format=3/4, tonalite=Sib_majeur>
+    <section=trio, n_mesure=8, bpm=100, format=3/4, tonalite=Reb_majeur>
         <mesure num=1>
             <piano_1_v1>  |fa5 re6, (re5 si5, _), (re5 si5, sol5 mib6)|
             <piano_1_v3>  |sol3 sol4, -, do3 do4|
@@ -263,9 +263,9 @@ Section de développement 5 — 8 mesures. Tonalité Sib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 6 — 8 mesures. Tonalité Sib majeur, tempo 90 BPM.
+Trio, reprise modulante, mesures 64-72. Le passage réapparaît en Reb majeur s'achevant en Sib mineur, renversement des tonalités de la section précédente.
 </meta>
-    <section=section_7, n_mesure=8, bpm=90, format=3/4, tonalite=Sib_majeur>
+    <section=trio, n_mesure=8, bpm=100, format=3/4, tonalite=Reb_majeur>
         <mesure num=1>
             <piano_1_v1>  |sib4 sib5, -, fa4 fa5|
             <piano_1_v3>  |(sib1, {fa2, reb3}), (sib1, {fa2, reb3}), (sib1, {fa2, reb3})|
@@ -301,9 +301,9 @@ Section de développement 6 — 8 mesures. Tonalité Sib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 7 — 8 mesures. Tonalité Sib majeur, tempo 90 BPM.
+Trio, quatrième section, mesures 72-81. Voix inversées à nouveau, accord tenu en Sib mineur, préparant la section presto qui suit.
 </meta>
-    <section=section_8, n_mesure=8, bpm=90, format=3/4, tonalite=Sib_majeur>
+    <section=trio, n_mesure=8, bpm=100, format=3/4, tonalite=Sib_mineur>
         <mesure num=1>
             <piano_1_v1>  |(fa5, {reb5, sib4}), (fa5, {reb5, sib4}), (reb5, {sib4, fa4})|
             <piano_1_v3>  |sib1 sib2, -, fa1 fa2|
@@ -339,9 +339,9 @@ Section de développement 7 — 8 mesures. Tonalité Sib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 8 — 8 mesures. Tonalité Sib majeur, tempo 90 BPM.
+Section presto, mesures 82-89. Changement de métrique à 2/4, nouveau sujet improvisé en Sib mineur avec un mordant inattendu, passage de virtuosité effrénée commençant par une gamme de grâce.
 </meta>
-    <section=section_9, n_mesure=8, bpm=90, format=3/4, tonalite=Sib_majeur>
+    <section=partie_B, n_mesure=8, bpm=168, format=3/4, tonalite=Sib_mineur>
         <mesure num=1>
             <piano_1_v1>  |lab5 lab6, -, fa5 fa6|
             <piano_1_v3>  |(lab1, {fa2, reb3}), (lab1, {fa2, reb3}), (lab1, {fa2, reb3})|
@@ -379,9 +379,9 @@ Section de développement 8 — 8 mesures. Tonalité Sib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 9 — 8 mesures. Tonalité Sib majeur, tempo 90 BPM.
+Section presto, deuxième partie, mesures 90-97. Le sujet presto répété et varié en Fa majeur puis retour à Sib mineur, dynamique contrastée pp/ff.
 </meta>
-    <section=section_10, n_mesure=8, bpm=90, format=3/4, tonalite=Sib_majeur>
+    <section=partie_B, n_mesure=8, bpm=168, format=3/4, tonalite=Fa_majeur>
         <mesure num=1>
             <piano_1_v1>  |(fa4 reb5, {reb4, fa4}), (reb5, {lab4, fa4}), (fa5, {reb5, lab4})|
             <piano_1_v3>  |lab2 lab3, -, fa2 fa3|
@@ -417,9 +417,9 @@ Section de développement 9 — 8 mesures. Tonalité Sib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 10 — 8 mesures. Tonalité Sib majeur, tempo 90 BPM.
+Passage de transition, mesures 98-115. Passage fondé sur le thème presto, oscillations entre Sib mineur et Reb majeur, conduisant progressivement la reprise de la partie A.
 </meta>
-    <section=section_11, n_mesure=8, bpm=90, format=3/4, tonalite=Sib_majeur>
+    <section=transition, n_mesure=8, bpm=120, format=3/4, tonalite=Sib_mineur>
         <mesure num=1>
             <piano_1_v1>  |(fa5, _), (mib5, _)|
             <piano_1_v3>  |(fa4, _), (mib4, _)|
@@ -459,9 +459,9 @@ Section de développement 10 — 8 mesures. Tonalité Sib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 11 — 8 mesures. Tonalité Sib majeur, tempo 90 BPM.
+Reprise de la partie A, première section, mesures 116-123. Retour exact du thème initial marqué dolce, même profil mélodique, registre restitué.
 </meta>
-    <section=section_12, n_mesure=8, bpm=90, format=3/4, tonalite=Sib_majeur>
+    <section=partie_A, n_mesure=8, bpm=120, format=3/4, tonalite=Sib_majeur>
         <mesure num=1>
             <piano_1_v1>  |(_, _), (_, _)|
             <piano_1_v2>  |mi4 sol4 do5, mi4 sol4 do5|
@@ -511,9 +511,9 @@ Section de développement 11 — 8 mesures. Tonalité Sib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 12 — 8 mesures. Tonalité Sib majeur, tempo 90 BPM.
+Reprise de la partie A, octave supérieure, mesures 124-131. Répétition une octave plus haut, brillance accrue, phrase conclusive vers la dominante.
 </meta>
-    <section=section_13, n_mesure=8, bpm=90, format=3/4, tonalite=Sib_majeur>
+    <section=partie_A, n_mesure=8, bpm=120, format=3/4, tonalite=Sib_majeur>
         <mesure num=1>
             <piano_1_v1>  |(_, _), (_, _)|
             <piano_1_v2>  |fa5 sib5 fa6, mib5 fa5 la5 mib6|
@@ -555,9 +555,9 @@ Section de développement 12 — 8 mesures. Tonalité Sib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 13 — 8 mesures. Tonalité Sib majeur, tempo 90 BPM.
+Reprise, développement, mesures 132-147. Variations légères sur le motif de tierce, accentuations décalées, renforcement harmonique.
 </meta>
-    <section=section_14, n_mesure=8, bpm=90, format=3/4, tonalite=Sib_majeur>
+    <section=partie_A, n_mesure=8, bpm=120, format=3/4, tonalite=Sib_majeur>
         <mesure num=1>
             <piano_1_v1>  |la4 do5, -, -|
             <piano_1_v3>  |_, fa4, -|
@@ -595,9 +595,9 @@ Section de développement 13 — 8 mesures. Tonalité Sib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 14 — 8 mesures. Tonalité Sib majeur, tempo 90 BPM.
+Reprise de la partie A, cadence, mesures 148-162. Conclusion de la reprise, affirmation de la tonique, dynamique brillante.
 </meta>
-    <section=section_15, n_mesure=8, bpm=90, format=3/4, tonalite=Sib_majeur>
+    <section=partie_A, n_mesure=8, bpm=120, format=3/4, tonalite=Sib_majeur>
         <mesure num=1>
             <piano_1_v1>  |do5, (sib4 re5, _), (re5, mib5)|
             <piano_1_v2>  |fa4, fa4, sib4|
@@ -640,9 +640,9 @@ Section de développement 14 — 8 mesures. Tonalité Sib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 15 — 8 mesures. Tonalité Sib majeur, tempo 90 BPM.
+Début de la coda, mesures 162-167. Modulation enharmonique Sib vers Si bécarre, jeu sur la relation sémitonal Sib/Si, motif initial réexposé sous l'angle du Si mineur.
 </meta>
-    <section=section_16, n_mesure=8, bpm=90, format=3/4, tonalite=Sib_majeur>
+    <section=coda, n_mesure=8, bpm=120, format=3/4, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |mi6, (fa6, _), (sol5 sib5 mi6 sol6, _)|
             <piano_1_v2>  |(_, sib5), la5|
@@ -684,9 +684,9 @@ Section de développement 15 — 8 mesures. Tonalité Sib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 16 — 8 mesures. Tonalité Sib majeur, tempo 90 BPM.
+Coda, tension harmonique, mesures 168-173. Alternances brusques Si/Sib, dissonances accentuant le conflit tonal structurant toute la sonate.
 </meta>
-    <section=section_17, n_mesure=8, bpm=90, format=3/4, tonalite=Sib_majeur>
+    <section=coda, n_mesure=8, bpm=120, format=3/4, tonalite=Sib_majeur>
         <mesure num=1>
             <piano_1_v1>  |re4, (si3, _), (si4, re5)|
             <piano_1_v2>  |_, _, re4|
@@ -726,9 +726,9 @@ Section de développement 16 — 8 mesures. Tonalité Sib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 17 — 8 mesures. Tonalité Sib majeur, tempo 90 BPM.
+Coda, section ascendante, mesures 174-179. Montée par octaves, tension croissante, sf aux temps faibles.
 </meta>
-    <section=section_18, n_mesure=8, bpm=90, format=3/4, tonalite=Sib_majeur>
+    <section=coda, n_mesure=8, bpm=120, format=3/4, tonalite=Sib_majeur>
         <mesure num=1>
             <piano_1_v1>  |mib6 sol6, (do6 mib6, _), (la5 do6, do6 mib6)|
             <piano_1_v3>  |(fa3 fa4, fa3), (fa4, _), fa3 fa4|
@@ -771,9 +771,9 @@ Section de développement 17 — 8 mesures. Tonalité Sib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 18 — 8 mesures. Tonalité Sib majeur, tempo 90 BPM.
+Coda, climax, mesures 180-185. Renforcement des octaves à plein registre, fortissimo réaffirmant Sib majeur après le conflit Si/Sib.
 </meta>
-    <section=section_19, n_mesure=8, bpm=90, format=3/4, tonalite=Sib_majeur>
+    <section=coda, n_mesure=8, bpm=120, format=3/4, tonalite=Sib_majeur>
         <mesure num=1>
             <piano_1_v1>  |re5, (si4, _), (si3, re4)|
             <piano_1_v2>  |_, _, re3|
@@ -813,9 +813,9 @@ Section de développement 18 — 8 mesures. Tonalité Sib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 19 — 8 mesures. Tonalité Sib majeur, tempo 90 BPM.
+Coda, dissipation, mesures 186-191. Dynamique s'évanouissant progressivement, réminiscence du motif initial, fin pianissimo sur deux accords isolés.
 </meta>
-    <section=section_20, n_mesure=8, bpm=90, format=3/4, tonalite=Sib_majeur>
+    <section=coda, n_mesure=8, bpm=120, format=3/4, tonalite=Sib_majeur>
         <mesure num=1>
             <piano_1_v1>  |(sib5 sib6, _), _, (si3 si4, _)|
             <piano_1_v3>  |(sib1 sib2, _), _, (si1 si2, _)|
@@ -851,9 +851,9 @@ Section de développement 19 — 8 mesures. Tonalité Sib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section conclusive — 6 mesures. Tonalité Sib majeur, tempo 90 BPM.
+Coda conclusive, mesures 192-166 (fin). Réexposition des deux premières mesures pianissimo, mouvement qui s'éteint dans le registre le plus aigu, chute sur la tonique.
 </meta>
-    <section=section_21, n_mesure=6, bpm=90, format=3/4, tonalite=Sib_majeur>
+    <section=coda, n_mesure=6, bpm=120, format=3/4, tonalite=Sib_majeur>
         <mesure num=1>
             <piano_1_v1>  |si4 si5, si5 si6, si5 si6, si5 si6|
             <piano_1_v3>  |si1 si2, si1 si2, si1 si2, si1 si2|

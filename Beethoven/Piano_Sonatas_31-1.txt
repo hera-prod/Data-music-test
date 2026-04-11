@@ -3,19 +3,19 @@
 TACHE : composition
 STYLE : classique
 FORMAT : piano_solo
-NIVEAU : simple
-Titre : Piano_Sonatas_31-1
-Date : ?
-Auteur : Beethoven
+NIVEAU : avance
+Titre : Sonate pour piano n°31 en Lab majeur, op.110, 1er mouvement (Moderato cantabile molto espressivo)
+Date : 1821
+Auteur : Ludwig van Beethoven
 Tonalite : Lab_majeur
 Unite : quarter
-Intention : Pièce pour piano solo, modéré, lumineux, au balancement ternaire. Tonalité : Lab majeur. 116 mesures.
+Intention : Premier mouvement d'une douceur et d'une tendresse singulières, marqué con amabilità, forme sonate haydnienne ordonnée selon Rosen, caractère à la fois familier et ineffable. Le premier thème couvre une sixte montante, la transition arpeggée et les appoggiatures du second groupe insufflent un lyrisme serein. Forme sonate en Lab majeur, 3/4, Moderato cantabile à 72 BPM, 116 mesures: exposition (mm.1-37), développement (mm.38-55), récapitulation (mm.56-93), coda (mm.94-116).
 </tete>
 
 <meta>
-Section d'ouverture — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+Exposition, premier thème, mesures 1-12. Thème en Lab majeur marqué con amabilità, mélodie couvrant une sixte, phrasé cantabile, accompagnement en arpèges brisés légers. Après une pause sur la dominante septième, extension cantabile de huit mesures. Sonorité enveloppante, legato parfait.
 </meta>
-    <section=section_1, n_mesure=8, bpm=90, format=3/4, tonalite=Lab_majeur>
+    <section=exposition, n_mesure=8, bpm=72, format=3/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |do5, lab4, (lab4, lab4)|
             <piano_1_v2>  |lab4, mib4, (mib4, mib4)|
@@ -55,9 +55,9 @@ Section d'ouverture — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 1 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+Exposition, transition, mesures 12-28. Episode de liaison commençant par un passage brillant d'arpèges en triples croches à la tonique, modulant vers la dominante Mib majeur. Après un passage de caractère différent à partir de la mesure 20, cadence en Mib majeur.
 </meta>
-    <section=section_2, n_mesure=8, bpm=90, format=3/4, tonalite=Lab_majeur>
+    <section=exposition, n_mesure=8, bpm=72, format=3/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |lab5, do6, mib6|
             <piano_1_v4>  |({solb4, lab4 do5 mib5}, lab4 do5 mib5, lab4 do5 mib5), ({solb4, lab4 do5 mib5}, lab4 do5 mib5, lab4 do5 mib5), ({solb4, lab4 do5 mib5}, lab4 do5 mib5, lab4 do5 mib5)|
@@ -98,9 +98,9 @@ Section de développement 1 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 2 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+Exposition, deuxième thème en Mib majeur, mesures 28-34. Second thème à six mesures, figures d'appogiatures, basse descendant par degrés de Mib à Sol trois fois pendant que la mélodie monte d'une sixte. Début et fin en Mib majeur.
 </meta>
-    <section=section_3, n_mesure=8, bpm=90, format=3/4, tonalite=Lab_majeur>
+    <section=exposition, n_mesure=8, bpm=72, format=3/4, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |_, ({re4, sib4, lab4}, {sib4, re5, sib4}, {lab4, sib4}), ({mib5, sib5, sol5}, {sib5, mib6, sib5}, {sol5, sib5})|
             <piano_1_v4>  |({re3, sib3, lab3}, {sib3, re4, sib3}, {lab3, sib3})|
@@ -141,9 +141,9 @@ Section de développement 2 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 3 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+Exposition, coda de l'exposition, mesures 34-38. Nouvelle figure de coda répétée légèrement variée. Cadence de demi-phrase préparant le développement.
 </meta>
-    <section=section_4, n_mesure=8, bpm=90, format=3/4, tonalite=Lab_majeur>
+    <section=exposition, n_mesure=8, bpm=72, format=3/4, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |sib5, {la4, mib5, do6}, {la4, fa5, do6}|
             <piano_1_v2>  |sib4 mib5, -, -|
@@ -183,9 +183,9 @@ Section de développement 3 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 4 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+Développement, mesures 38-55. Après deux mesures d'introduction, développement consacré à la première partie du premier thème commençant en Fa mineur (mesure 40). Progression harmonique active vers la récapitulation.
 </meta>
-    <section=section_5, n_mesure=8, bpm=90, format=3/4, tonalite=Lab_majeur>
+    <section=developpement, n_mesure=8, bpm=72, format=3/4, tonalite=Fa_mineur>
         <mesure num=1>
             <piano_1_v1>  |({do6, sib5, lab5}, {sol5, solb5, fa5}, {mi5, mib5}), ({re5, reb5, do5}, {si4, sib4, lab4}, {sol4, fa4}), (re4 sib4, _, re4 sib4)|
             <piano_1_v4>  |(lab4 do5, _), (_, la2 mib3 fa3), (sib2 fa3, _, sib2 lab3)|
@@ -230,9 +230,9 @@ Section de développement 4 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 5 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+Développement, continuation, mesures 46-55. Poursuite du développement sur le premier thème, retour progressif à Lab majeur, préparation de la récapitulation.
 </meta>
-    <section=section_6, n_mesure=8, bpm=90, format=3/4, tonalite=Lab_majeur>
+    <section=developpement, n_mesure=8, bpm=72, format=3/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |mi5 sol5 sib5 reb6, mi5 sol5 sib5, -|
             <piano_1_v4>  |({do3, sol3 sib3}, sol3 sib3, sol3 sib3), ({do3, sol3 sib3}, sol3 sib3, sol3 sib3), ({do3, sol3 sib3}, sol3 sib3, sol3 sib3)|
@@ -272,9 +272,9 @@ Section de développement 5 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 6 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+Récapitulation, premier thème, mesures 56-70. Retour du thème d'ouverture en Lab majeur combiné avec le motif d'arpège de la transition. Le thème cantabile module vers Ré bémol majeur (mesures 63-66), puis modulation enharmonique (Lab vers Sol# et Reb vers Do#) vers Mi majeur.
 </meta>
-    <section=section_7, n_mesure=8, bpm=90, format=3/4, tonalite=Lab_majeur>
+    <section=recapitulation, n_mesure=8, bpm=72, format=3/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |solb5, mib5, -|
             <piano_1_v2>  |solb4 do5 mib5, solb4 do5, -|
@@ -319,9 +319,9 @@ Section de développement 6 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 7 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+Récapitulation, transition en Mi majeur, mesures 70-87. La transition en Mi majeur (clé enharmonique de Fa bémol) reprend le même matériau, transposé pour aboutir en Lab majeur (mesure 87). Ce passage excentrique en Mi majeur est une convention tonale justifiée par Tovey et Matthews.
 </meta>
-    <section=section_8, n_mesure=8, bpm=90, format=3/4, tonalite=Lab_majeur>
+    <section=recapitulation, n_mesure=8, bpm=72, format=3/4, tonalite=Mi_majeur>
         <mesure num=1>
             <piano_1_v1>  |mib4 sol4 reb5, mib4 sol4 sib4, -|
             <piano_1_v4>  |({sib2, sol3, mib3}, {sol3, sib3, sol3}, {mib3, sol3}), ({reb3, sol3, mib3}, {sol3, sib3, sol3}, {mib3, sol3}), ({reb3, sol3, mib3}, {sol3, sib3, sol3}, {mib3, sol3})|
@@ -359,9 +359,9 @@ Section de développement 7 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 8 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+Récapitulation, deuxième thème, mesures 87-93. Deuxième thème en Lab majeur (tonique), harmoniquement peu altéré, retour au calme de l'exposition.
 </meta>
-    <section=section_9, n_mesure=8, bpm=90, format=3/4, tonalite=Lab_majeur>
+    <section=recapitulation, n_mesure=8, bpm=72, format=3/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |mib6, do6, lab5|
             <piano_1_v4>  |({solb4, lab4 do5 mib5}, lab4 do5 mib5, lab4 do5 mib5), ({solb4, lab4 do5 mib5}, lab4 do5 mib5, lab4 do5 mib5), ({solb4, lab4 do5 mib5}, lab4 do5 mib5, lab4 do5 mib5)|
@@ -401,9 +401,9 @@ Section de développement 8 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 9 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+Coda, mesures 94-105. La coda revient sur le thème de transition d'arpèges, brillant et conclusif, suivi d'un court choral. Jouer les arpèges avec élan et clarté.
 </meta>
-    <section=section_10, n_mesure=8, bpm=90, format=3/4, tonalite=Lab_majeur>
+    <section=coda, n_mesure=8, bpm=72, format=3/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |solb4, ({solb4, si4, la4}, {si4, solb5, si4}, {la4, si4}), ({solb5, si5, la5}, {si5, solb6, si5}, {la5, si5})|
             <piano_1_v4>  |({solb3, si3, la3}, {si3, si3}, {la3, si3})|
@@ -440,9 +440,9 @@ Section de développement 9 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 10 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+Coda, choral conclusif, mesures 106-111. Choral bref et solennel concluant le mouvement sur une pédale de tonique. Toucher plein, legato des blocs d'accord.
 </meta>
-    <section=section_11, n_mesure=8, bpm=90, format=3/4, tonalite=Lab_majeur>
+    <section=coda, n_mesure=8, bpm=72, format=3/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |({sol5, mi5}, fa5, fa4), ({fa5, re5}, mib5, mib4), ({mib5, do5}, reb5, reb4)|
             <piano_1_v4>  |({mib4, do4}, reb4, reb3), ({reb4, si3}, do4, do3), ({do4, la3}, sib3, sib2)|
@@ -485,9 +485,9 @@ Section de développement 10 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 11 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+Coda, cadence finale, mesures 112-116. Cadence au-dessus de la pédale de tonique, résolution paisible en Lab majeur. Dynamique decrescendo vers piano.
 </meta>
-    <section=section_12, n_mesure=8, bpm=90, format=3/4, tonalite=Lab_majeur>
+    <section=coda, n_mesure=8, bpm=72, format=3/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |(mib5, lab4), (_, lab5), ({sib5, do6}, reb6, mib6)|
             <piano_1_v4>  |({do2, lab2 do3}, lab2 do3, sol2 lab2 do3), ({sol2 lab2 do3, fa2 lab2 do3}, fa2 lab2 do3, mib2 lab2 do3), ({mib2 lab2 do3, reb2 lab2 do3}, do2 lab2 do3, do2 lab2 do3)|
@@ -527,9 +527,9 @@ Section de développement 11 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 12 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+Coda, dernières mesures. Accord final de Lab majeur, conclusion douce.
 </meta>
-    <section=section_13, n_mesure=8, bpm=90, format=3/4, tonalite=Lab_majeur>
+    <section=coda, n_mesure=8, bpm=72, format=3/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |({mib6, do6}, mib6, re6), ({do7, la6}, do7, sib6), ({mib6, do6}, mib6, re6)|
             <piano_1_v4>  |fa3 lab3 sib3 re4, fa3 lab3 sib3 re4, -|
@@ -565,9 +565,9 @@ Section de développement 12 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 13 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+Coda, extinction. Fin du premier mouvement.
 </meta>
-    <section=section_14, n_mesure=8, bpm=90, format=3/4, tonalite=Lab_majeur>
+    <section=coda, n_mesure=8, bpm=72, format=3/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |({lab4, mib5, do5}, {mib5, lab5, mib5}, {do5, mib5}), ({lab4, mib4, do4}, mib4), _|
             <piano_1_v4>  |_, ({lab3, mib3}, {do3, mib3}), ({lab2, mib2, do2}, mib2)|
@@ -607,9 +607,9 @@ Section de développement 13 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section conclusive — 4 mesures. Tonalité Lab majeur, tempo 90 BPM.
+Coda, accord conclusif. Lab majeur, paix sereine.
 </meta>
-    <section=section_15, n_mesure=4, bpm=90, format=3/4, tonalite=Lab_majeur>
+    <section=coda, n_mesure=4, bpm=72, format=3/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |fa5, ({fa5, sib4}, do5, reb5), (sol4, mib5)|
             <piano_1_v4>  |({lab3 do4, la3}, sib3, do4), {reb4, _}, ({mib3, mib2}, fa2, sol2)|
