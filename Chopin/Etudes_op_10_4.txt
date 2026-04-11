@@ -3,19 +3,19 @@
 TACHE : composition
 STYLE : romantique
 FORMAT : piano_solo
-NIVEAU : intermediaire
-Titre : Etudes_op_10_4
-Date : ?
-Auteur : Chopin
+NIVEAU : avance
+Titre : Étude op. 10 n° 4 en Do dièse mineur
+Date : 1832
+Auteur : Frédéric Chopin
 Tonalite : Do#_mineur
 Unite : quarter
-Intention : Pièce pour piano solo, modéré, mélancolique, au cadre binaire régulier. Tonalité : Do# mineur. 83 mesures.
+Intention : Étude d'une véhémence ardente et d'un feu sombre, construite sur un moto perpetuo qui engage les deux mains avec une égale exigence virtuose. Forme ternaire (A-B-A) avec coda, en Do dièse mineur, 83 mesures, mesure à 4/4, tempo Presto à la noire égale 88.
 </tete>
 
 <meta>
-Section d'ouverture — 8 mesures. Tonalité Do# mineur, tempo 88 BPM.
+83 mesures, Presto, 4/4, Do dièse mineur. Étude de moto perpetuo engageant les deux mains avec une égale exigence : la main droite déroule des figures en doubles croches scalaires et chromatiques, pendant que la main gauche répond avec des sauts de grande amplitude et des accords brisés. La texture de style baroque (doubles croches contrastant avec des accords staccato) évoque une danse frénétique. Pour l'interprétation, maintenir un legato profond aux passages scalaires, utiliser une impulsion de poignet légère pour les staccatos, et rester attentif aux subtiles accentuations rythmiques sforzando.
 </meta>
-    <section=section_1, n_mesure=8, bpm=88, format=4/4, tonalite=Do#_mineur>
+    <section=theme_1, n_mesure=8, bpm=88, format=4/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |({sol#5, fa#5}, mi5, re#5)|
             <piano_1_v2>  |sol#4, -, -, -|
@@ -54,9 +54,9 @@ Section d'ouverture — 8 mesures. Tonalité Do# mineur, tempo 88 BPM.
     </section>
 
 <meta>
-Section de développement 1 — 8 mesures. Tonalité Do# mineur, tempo 88 BPM.
+Suite de la section A : les figures scalaires continuent leur course implacable. Les deux mains alternent les rôles en échangeant les figures mélodiques. Les progressions harmoniques en cercle de quintes éloignées créent une tension momentanée. Conserver la même impulsion rythmique ; les sauts de la main gauche s'effectuent au-dessus d'une basse en Do# et Ré#.
 </meta>
-    <section=section_2, n_mesure=8, bpm=88, format=4/4, tonalite=Do#_mineur>
+    <section=theme_1, n_mesure=8, bpm=88, format=4/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |(re#4 sol#4 si4, mi4, sol4), ({re#4, sol#4}, sol4, la#4), ({fa#4, si4}, la4, do5), ({sol#4, do#5}, do5, re#5)|
             <piano_1_v2>  |mi4, (re#4, sol4), (fa#4, la4), (sol#4, do5)|
@@ -97,9 +97,9 @@ Section de développement 1 — 8 mesures. Tonalité Do# mineur, tempo 88 BPM.
     </section>
 
 <meta>
-Section de développement 2 — 8 mesures. Tonalité Do# mineur, tempo 88 BPM.
+Développement de la section A : l'écriture s'enrichit de mouvements contraires entre les deux mains, augmentant la densité contrapuntique. Les accords ff aux deux mains (mesures 13-14) introduisent un effet frustration par le contraste crescendo-subito piano-crescendo. Articulation nette entre les doubles croches et les accords ; la main gauche doit effectuer ses grands sauts avec précision mécanique.
 </meta>
-    <section=section_3, n_mesure=8, bpm=88, format=4/4, tonalite=Do#_mineur>
+    <section=theme_1, n_mesure=8, bpm=88, format=4/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |la4 do#5, sol#4 do5, (mi4 sol#4 do#5, _), do#5 do#6|
             <piano_1_v2>  |re#4, -, -, -|
@@ -136,9 +136,9 @@ Section de développement 2 — 8 mesures. Tonalité Do# mineur, tempo 88 BPM.
     </section>
 
 <meta>
-Section de développement 3 — 8 mesures. Tonalité Do# mineur, tempo 88 BPM.
+Fin de la section A et approche de la section B : les figures se modifient légèrement, introduisant un motif héraïque (mesures 33-39) qui entre sur le second temps. La texture se densifie ; les séquences de motifs font monter la tension vers la dominante (mesure 45). Jouer les accents avec conviction et les sforzando avec précision rythmique.
 </meta>
-    <section=section_4, n_mesure=8, bpm=88, format=4/4, tonalite=Do#_mineur>
+    <section=theme_1, n_mesure=8, bpm=88, format=4/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |(si3 fa4 sol#4, _), (la#3 re#4 fa#4, _), (la#3 do#4 fa4, _), (la#3 do4 mi4, _)|
             <piano_1_v3>  |({re3, re#3}, do#3, re3), ({re#3, fa3}, re3, re#3), ({fa3, fa#3}, mi3, fa3), ({fa#3, sol#3}, fa3, fa#3)|
@@ -181,9 +181,9 @@ Section de développement 3 — 8 mesures. Tonalité Do# mineur, tempo 88 BPM.
     </section>
 
 <meta>
-Section de développement 4 — 8 mesures. Tonalité Do# mineur, tempo 88 BPM.
+Section B : les deux mains se rejoignent sur des doubles croches rapides en mouvement contraire (figures de tierces en arpèges). L'écriture atteint son intensité maximale avec des dynamiques qui montent jusqu'au fff (le plus fort de toutes les études sauf la douzième). La pédale est utilisée avec discrétion pour ne pas brouiller la polyphonie.
 </meta>
-    <section=section_5, n_mesure=8, bpm=88, format=4/4, tonalite=Do#_mineur>
+    <section=partie_B, n_mesure=8, bpm=88, format=4/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |la4, sol4, fa#4, mi4|
             <piano_1_v2>  |({mi4, fa#4}, re4, mi4), ({re4, mi4}, do4, re4), ({do4, re4}, si3, do4), ({si3, do4}, la3, si3)|
@@ -220,9 +220,9 @@ Section de développement 4 — 8 mesures. Tonalité Do# mineur, tempo 88 BPM.
     </section>
 
 <meta>
-Section de développement 5 — 8 mesures. Tonalité Do# mineur, tempo 88 BPM.
+Continuation de la section B : les arpèges en mouvement contraire et les figures en trilles de la main droite créent une densité sonore particulièrement intense. Les sauts de la main gauche couvrent jusqu'à deux octaves. L'énergie est soutenue sans relâche ; les figures rapides de la main gauche aux mesures 35-44 exigent un équilibre parfait entre les doigts.
 </meta>
-    <section=section_6, n_mesure=8, bpm=88, format=4/4, tonalite=Do#_mineur>
+    <section=partie_B, n_mesure=8, bpm=88, format=4/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |({mi5, fa#5}, mi5, do#6), ({do#5, re#5}, do#5, la#5), ({la#4, do5}, la#4, sol5), ({sol4, sol#4}, sol4, mi5)|
             <piano_1_v3>  |({la#4, mi4}, do#4, sol3), ({sol4, do#4}, la#3, mi3), ({mi4, la#3}, sol3, do#3), ({do#4, sol3}, mi3, la#2)|
@@ -259,9 +259,9 @@ Section de développement 5 — 8 mesures. Tonalité Do# mineur, tempo 88 BPM.
     </section>
 
 <meta>
-Section de développement 6 — 8 mesures. Tonalité Do# mineur, tempo 88 BPM.
+Suite de la section B avec une transition vers la réexposition : la tension harmonique se dénoue progressivement, les figures en doubles croches reprenant leur caractère initial. La dominante Sol# prépare le retour. Maintenir l'impulsion jusqu'à la dernière double croche avant la réexposition.
 </meta>
-    <section=section_7, n_mesure=8, bpm=88, format=4/4, tonalite=Do#_mineur>
+    <section=partie_B, n_mesure=8, bpm=88, format=4/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |({fa4, fa#4}, mi4, fa4), ({fa#4, sol4}, fa4, fa#4), ({sol4, sol#4}, fa#4, sol4), ({sol#4, la4}, re#4, mi4)|
             <piano_1_v3>  |sol#2 re#3 fa#3 do4, _, _, _|
@@ -298,9 +298,9 @@ Section de développement 6 — 8 mesures. Tonalité Do# mineur, tempo 88 BPM.
     </section>
 
 <meta>
-Section de développement 7 — 8 mesures. Tonalité Do# mineur, tempo 88 BPM.
+Fin de la section B et transition vers la réexposition : les figures de la section centrale se résolvent sur la tonique. Le motif héraïque (mesure 51) réapparaît et mène vers la réexposition (mesure 65 globalement). La tension se relâche légèrement, préparant le retour du thème initial avec une énergie renouvelée.
 </meta>
-    <section=section_8, n_mesure=8, bpm=88, format=4/4, tonalite=Do#_mineur>
+    <section=transition, n_mesure=8, bpm=88, format=4/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |(si3 re#4 sol#4, _), (do#4 mi4 sol#4, _), (re#4 sol#4, _), (do#4 re#4 la#4, _)|
             <piano_1_v3>  |({re#3, mi3}, re#3, sol#3), ({do#3, re#3}, do#3, sol#3), ({si2, do#3}, si2, sol#3), ({la#2, si2}, la#2, sol3)|
@@ -339,9 +339,9 @@ Section de développement 7 — 8 mesures. Tonalité Do# mineur, tempo 88 BPM.
     </section>
 
 <meta>
-Section de développement 8 — 8 mesures. Tonalité Do# mineur, tempo 88 BPM.
+Réexposition (retour de A) : les figures initiales reprennent avec la même impulsion frénétique. La réexposition est presque identique à la section A, ce qui témoigne du classicisme formel de Chopin. Jouer avec l'énergie brute du début, peut-être avec encore plus de détermination.
 </meta>
-    <section=section_9, n_mesure=8, bpm=88, format=4/4, tonalite=Do#_mineur>
+    <section=recapitulation, n_mesure=8, bpm=88, format=4/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |sol#4, fa#4, fa4, fa#4|
             <piano_1_v2>  |si3 re4, -, -, do#4|
@@ -380,9 +380,9 @@ Section de développement 8 — 8 mesures. Tonalité Do# mineur, tempo 88 BPM.
     </section>
 
 <meta>
-Section de développement 9 — 8 mesures. Tonalité Do# mineur, tempo 88 BPM.
+Continuation de la réexposition : les figures se poursuivent jusqu'à la coda. L'énergie ne se relâche pas ; chaque double croche doit être jouée avec la même précision et la même intensité que le début. La coda (con più fuoco possibile) approche.
 </meta>
-    <section=section_10, n_mesure=8, bpm=88, format=4/4, tonalite=Do#_mineur>
+    <section=recapitulation, n_mesure=8, bpm=88, format=4/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |({fa5, fa#5}, fa5, re6), ({mi5, fa#5}, mi5, do#6), ({re#5, mi5}, re#5, do#6), ({re#5, mi5}, re#5, do6)|
             <piano_1_v3>  |(sol#2 sol#3, do#2), (sol#2 sol3, do#2), (sol#2 fa#3, do#2), (sol#2 re#3, do#2)|
@@ -418,9 +418,9 @@ Section de développement 9 — 8 mesures. Tonalité Do# mineur, tempo 88 BPM.
     </section>
 
 <meta>
-Section conclusive — 3 mesures. Tonalité Do# mineur, tempo 88 BPM.
+Coda de 3 mesures (con più fuoco possibile) : les dernières figures s'élancent dans un tourbillon final avant les accords conclusifs en Do# mineur. Jouer avec la plus grande intensité possible, en projetant les notes finales avec tout le poids du bras.
 </meta>
-    <section=section_11, n_mesure=3, bpm=88, format=4/4, tonalite=Do#_mineur>
+    <section=coda, n_mesure=3, bpm=88, format=4/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |({mi7, sol#6}, do#6, do#6), ({mi6, sol#5}, do#5, do#5), ({mi5, sol#4}, do#4, do#4), mi4|
             <piano_1_v3>  |_, _, _, (sol#3, do#3, do#3)|

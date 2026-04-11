@@ -3,19 +3,19 @@
 TACHE : composition
 STYLE : romantique
 FORMAT : piano_solo
-NIVEAU : intermediaire
-Titre : Etudes_op_10_2
-Date : ?
-Auteur : Chopin
+NIVEAU : avance
+Titre : Étude op. 10 n° 2 en La mineur
+Date : 1830
+Auteur : Frédéric Chopin
 Tonalite : La_mineur
 Unite : quarter
-Intention : Pièce pour piano solo, vif et énergique, mélancolique, au cadre binaire régulier. Tonalité : La mineur. 49 mesures.
+Intention : Étude d'une âpreté sombre et d'une virtuosité acérée, portée par une gamme chromatique ininterrompue aux troisième, quatrième et cinquième doigts de la main droite, tandis que les deux premiers doigts entretissent des intervalles chromatiques en dessous. Forme ternaire (A-B-A) avec coda, en La mineur, 49 mesures, mesure à 4/4, tempo Allegro à la noire égale 144.
 </tete>
 
 <meta>
-Section d'ouverture — 8 mesures. Tonalité La mineur, tempo 144 BPM.
+49 mesures, Allegro, 4/4, La mineur. Étude centrée sur la vélocité chromatique des doigts faibles de la main droite : les troisième, quatrième et cinquième doigts exécutent une gamme chromatique continue montante depuis La, tandis que le pouce et l'index maintiennent des intervalles en dessous, créant un contrepoint d'une densité étrange. La main gauche ponctue avec des accords syncopés et des octaves. Pour l'interprétation, cultiver une légèreté de toucher extrême aux doigts faibles pour obtenir la fluidité de la ligne chromatique, sans rigidité ni précipitation.
 </meta>
-    <section=section_1, n_mesure=8, bpm=144, format=4/4, tonalite=La_mineur>
+    <section=theme_1, n_mesure=8, bpm=144, format=4/4, tonalite=La_mineur>
         <mesure num=1>
             <piano_1_v1>  |({la4, la#4}, si4, do5), ({do#5, re5}, re#5, mi5), ({fa5, fa#5}, sol5, sol#5), ({la5, la#5}, si5, do6)|
             <piano_1_v2>  |do4 mi4, mi4 la4, la4 re5, re5 fa5|
@@ -59,9 +59,9 @@ Section d'ouverture — 8 mesures. Tonalité La mineur, tempo 144 BPM.
     </section>
 
 <meta>
-Section de développement 1 — 8 mesures. Tonalité La mineur, tempo 144 BPM.
+Continuation de la section A : la gamme chromatique reprend en La à la main droite, les arcs mélodiques dessinant leurs contours caractéristiques avec des sommets sur les temps faibles. La ligne chromatique ascendante puis descendante à partir de Ré définit la physionomie de chaque phrase. Les motifs en trilles écrits (mesures 4 et 12) ajoutent une ornementation expressive.
 </meta>
-    <section=section_2, n_mesure=8, bpm=144, format=4/4, tonalite=La_mineur>
+    <section=theme_1, n_mesure=8, bpm=144, format=4/4, tonalite=La_mineur>
         <mesure num=1>
             <piano_1_v1>  |({la4, la#4}, si4, do5), ({do#5, re5}, re#5, mi5), ({fa5, fa#5}, sol5, sol#5), ({la5, la#5}, si5, do6)|
             <piano_1_v2>  |do4 mi4, mi4 la4, la4 re5, re5 fa5|
@@ -105,9 +105,9 @@ Section de développement 1 — 8 mesures. Tonalité La mineur, tempo 144 BPM.
     </section>
 
 <meta>
-Section de développement 2 — 8 mesures. Tonalité La mineur, tempo 144 BPM.
+Troisième groupe de la section A, enrichi de progressions harmoniques en cercle de quintes avec passages par des accords diminués. La section B approche : les phrases se raccourcissent à un seul temps et l'intensité monte. La gamme chromatique de la main droite prend un caractère plus agité, les ondulations descendantes pouvant égarer l'interprète hors de la pulsation.
 </meta>
-    <section=section_3, n_mesure=8, bpm=144, format=4/4, tonalite=La_mineur>
+    <section=theme_1, n_mesure=8, bpm=144, format=4/4, tonalite=La_mineur>
         <mesure num=1>
             <piano_1_v1>  |({fa5, mi5}, re#5, re5), ({do#5, re5}, fa5, re5), ({si4, do5}, mi5, do5), ({la#4, si4}, mi5, si4)|
             <piano_1_v2>  |la#4 re5, fa4 la#4, mi4 la4, re4 sol#4|
@@ -151,9 +151,9 @@ Section de développement 2 — 8 mesures. Tonalité La mineur, tempo 144 BPM.
     </section>
 
 <meta>
-Section de développement 3 — 8 mesures. Tonalité La mineur, tempo 144 BPM.
+Section B (partie centrale) : les phrases se condensent en motifs d'une mesure ; des progressions séquentielles harmoniques en cercle de quintes et des enchaînements d'accords diminués créent une tension croissante. La dominante Mi est tenue en pédale à la basse à partir de la mesure 32. La main droite maintient sa ligne chromatique inlassable.
 </meta>
-    <section=section_4, n_mesure=8, bpm=144, format=4/4, tonalite=La_mineur>
+    <section=partie_B, n_mesure=8, bpm=144, format=4/4, tonalite=La_mineur>
         <mesure num=1>
             <piano_1_v1>  |({fa6, mi6}, re#6, re6), ({do#6, do6}, si5, la#5), ({la5, sol#5}, sol5, fa#5), ({fa5, mi5}, re#5, mi5)|
             <piano_1_v2>  |la5, fa5 la5, re5 fa5, sol#4 re5|
@@ -197,9 +197,9 @@ Section de développement 3 — 8 mesures. Tonalité La mineur, tempo 144 BPM.
     </section>
 
 <meta>
-Section de développement 4 — 8 mesures. Tonalité La mineur, tempo 144 BPM.
+Réexposition (retour de A) : les thèmes reprennent depuis La avec les mêmes contours que la section A. Cette récapitulation apporte un sentiment de résolution relative après la tension de la section centrale. La gamme chromatique retrouve son caractère initial ; jouer sans hâte pour laisser résonner la ligne mélodique.
 </meta>
-    <section=section_5, n_mesure=8, bpm=144, format=4/4, tonalite=La_mineur>
+    <section=recapitulation, n_mesure=8, bpm=144, format=4/4, tonalite=La_mineur>
         <mesure num=1>
             <piano_1_v1>  |({fa5, sol5}, mi5, fa5), ({fa5 la5, _}, _), ({si5, do6}, la5, si5), ({sol#5, la5}, fa5, sol5)|
             <piano_1_v2>  |la4 do5, ({re6, mi6}, do6, re6), re5 fa5, si4 re5|
@@ -243,9 +243,9 @@ Section de développement 4 — 8 mesures. Tonalité La mineur, tempo 144 BPM.
     </section>
 
 <meta>
-Section de développement 5 — 8 mesures. Tonalité La mineur, tempo 144 BPM.
+Suite de la réexposition : la ligne chromatique continue à tisser ses arabesques serrées. Les dernières mesures s'ouvrent sur une longue vague ascendante jusqu'au Do aigu, culmination de toute l'étude, avant de redescendre en cascade conclusive. Laisser la sonorité s'élever librement vers le registre aigu.
 </meta>
-    <section=section_6, n_mesure=8, bpm=144, format=4/4, tonalite=La_mineur>
+    <section=recapitulation, n_mesure=8, bpm=144, format=4/4, tonalite=La_mineur>
         <mesure num=1>
             <piano_1_v1>  |({do#6, re6}, re#6, mi6), ({fa6, mi6}, re#6, re6), ({do#6, do6}, si5, la#5), ({la5, sol#5}, si5, la5)|
             <piano_1_v2>  |mi5 la5, la5 do6, mi5 la5, do5 mi5|
@@ -289,9 +289,9 @@ Section de développement 5 — 8 mesures. Tonalité La mineur, tempo 144 BPM.
     </section>
 
 <meta>
-Section conclusive — 1 mesures. Tonalité La mineur, tempo 144 BPM.
+Coda conclusive d'une mesure : accord final en tierce picarde (La majeur), lueur d'espoir inattendue après la tension chromatique de l'étude entière. L'accord est joué avec fermeté, laissant résonner la tierce majeure comme une résolution lumineuse sur fond sombre.
 </meta>
-    <section=section_7, n_mesure=1, bpm=144, format=4/4, tonalite=La_mineur>
+    <section=coda, n_mesure=1, bpm=144, format=4/4, tonalite=La_mineur>
         <mesure num=1>
             <piano_1_v1>  |do#4, -, -, -|
             <piano_1_v3>  |mi3 la3, -, -, -|

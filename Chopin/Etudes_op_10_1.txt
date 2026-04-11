@@ -3,19 +3,19 @@
 TACHE : composition
 STYLE : romantique
 FORMAT : piano_solo
-NIVEAU : simple
-Titre : Etudes_op_10_1
-Date : ?
-Auteur : Chopin
+NIVEAU : avance
+Titre : Étude op. 10 n° 1 en Do majeur
+Date : 1830
+Auteur : Frédéric Chopin
 Tonalite : Do_majeur
 Unite : quarter
-Intention : Pièce pour piano solo, vif et énergique, lumineux, au cadre binaire régulier. Tonalité : Do majeur. 79 mesures.
+Intention : Étude d'une grandeur majestueuse, aux élans impétueux et à l'énergie rayonnante, portée par une ligne de basse noble et des nappes sonores en perpétuel mouvement. Forme ternaire (A-B-A) avec coda, en Do majeur, 79 mesures, mesure à 4/4, tempo Allegro à la noire égale 176.
 </tete>
 
 <meta>
-Section d'ouverture — 8 mesures. Tonalité Do majeur, tempo 176 BPM.
+79 mesures, Allegro, 4/4, Do majeur. Étude entièrement fondée sur des arpèges à la main droite couvrant plus de quatre octaves, disposés en vagues ascendantes puis descendantes. La main gauche soutient une ligne de basse mélodique progressant en cercle de quintes. La texture est d'une densité continue, sans temps de repos. Pour l'exécution, la main droite doit impliquer la rotation complète de l'avant-bras ; les harmonies dissonantes sont jouées fortissimo, les consonantes forte, afin de sculpter le relief harmonique. La pédale de sustain lie les harmonies sur deux mesures.
 </meta>
-    <section=section_1, n_mesure=8, bpm=176, format=4/4, tonalite=Do_majeur>
+    <section=theme_1, n_mesure=8, bpm=176, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |_, ({mi4, do4}, sol4, do5), ({mi5, do5}, sol5, do6), ({mi6, do6}, sol6, do7)|
             <piano_1_v2>  |(do3, sol3, do4)|
@@ -59,9 +59,9 @@ Section d'ouverture — 8 mesures. Tonalité Do majeur, tempo 176 BPM.
     </section>
 
 <meta>
-Section de développement 1 — 8 mesures. Tonalité Do majeur, tempo 176 BPM.
+Répétition variée de la phrase initiale avec de légères modifications dans les arpèges, enrichissant le discours harmonique par des appogiatures chromatiques et des accords de passage. Les arpèges maintiennent leur élan ascendant et descendant, la main gauche conservant son rôle de basse fondamentale. Jouer avec la même énergie impérieuse, en veillant à distinguer les motifs répétés des mesures 3 et 11 du thème initial.
 </meta>
-    <section=section_2, n_mesure=8, bpm=176, format=4/4, tonalite=Do_majeur>
+    <section=contre_exposition, n_mesure=8, bpm=176, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |_, ({mi4, do4}, sol4, do5), ({mi5, do5}, sol5, do6), ({mi6, do6}, sol6, do7)|
             <piano_1_v2>  |(do3, sol3, do4)|
@@ -105,9 +105,9 @@ Section de développement 1 — 8 mesures. Tonalité Do majeur, tempo 176 BPM.
     </section>
 
 <meta>
-Section de développement 2 — 8 mesures. Tonalité Do majeur, tempo 176 BPM.
+Premier épisode de développement : le dessin harmonique s'aventure vers La mineur et Mi mineur, introduisant une tension accrue par des arpèges aux intervalles élargis. Les basses de la main gauche se colorent chromatiquement, accentuant le sentiment d'instabilité tonale. L'interprète doit souligner le contraste entre les formules ascendantes lumineuses et les cascades descendantes plus sombres.
 </meta>
-    <section=section_3, n_mesure=8, bpm=176, format=4/4, tonalite=Do_majeur>
+    <section=developpement, n_mesure=8, bpm=176, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |(_, mi4), ({fa4, mi4}, do5, mi5), ({fa5, mi5}, do6, mi6), ({fa6, mi6}, do7, mi7)|
             <piano_1_v2>  |(mi3, do4)|
@@ -151,9 +151,9 @@ Section de développement 2 — 8 mesures. Tonalité Do majeur, tempo 176 BPM.
     </section>
 
 <meta>
-Section de développement 3 — 8 mesures. Tonalité Do majeur, tempo 176 BPM.
+Entrée dans la partie centrale (section B) : le discours harmonique se déplace vers La majeur et Mi majeur, tonalités éloignées qui apportent une coloration étrangère et une tension maximale. Les arpèges atteignent leurs extensions les plus vastes. C'est la section la plus dissonante de l'étude ; maintenir l'impulsion rythmique sans fléchir malgré la difficulté d'extension des doigts.
 </meta>
-    <section=section_4, n_mesure=8, bpm=176, format=4/4, tonalite=Do_majeur>
+    <section=partie_B, n_mesure=8, bpm=176, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |_, ({sol4, mi4}, la4, do#5), ({sol5, mi5}, la5, do#6), ({sol6, do#6}, la5, mi5)|
             <piano_1_v2>  |(mi3, la3, do#4)|
@@ -197,9 +197,9 @@ Section de développement 3 — 8 mesures. Tonalité Do majeur, tempo 176 BPM.
     </section>
 
 <meta>
-Section de développement 4 — 8 mesures. Tonalité Do majeur, tempo 176 BPM.
+Continuation de la section B avec des harmonies plus chromatiques s'aventurant vers Sib mineur et Ré bémol majeur. La ligne de basse adopte des mouvements par demi-tons, créant une tension croissante. La densité harmonique atteint son apogée ; l'interprète doit rester attentif aux subtiles variations de motifs qui distinguent cette section de la réexposition.
 </meta>
-    <section=section_5, n_mesure=8, bpm=176, format=4/4, tonalite=Do_majeur>
+    <section=developpement, n_mesure=8, bpm=176, format=4/4, tonalite=Sib_mineur>
         <mesure num=1>
             <piano_1_v1>  |_, ({re4, la#3}, fa4, sol#4), ({re5, la#4}, fa5, sol#5), ({re6, la#5}, fa6, sol#6)|
             <piano_1_v2>  |(la#2, fa3, sol#3)|
@@ -243,9 +243,9 @@ Section de développement 4 — 8 mesures. Tonalité Do majeur, tempo 176 BPM.
     </section>
 
 <meta>
-Section de développement 5 — 8 mesures. Tonalité Do majeur, tempo 176 BPM.
+Transition vers la réexposition : les harmonies chromatiques se résolvent progressivement vers la dominante Sol majeur. Les arpèges traversent des régions harmoniques de Si mineur et Ré mineur avant de se stabiliser sur la dominante. Cette section prépare le retour triomphal du thème initial ; jouer avec une tension crescendo pour rendre sensible la résolution imminente.
 </meta>
-    <section=section_6, n_mesure=8, bpm=176, format=4/4, tonalite=Do_majeur>
+    <section=transition, n_mesure=8, bpm=176, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |_, re4, ({la4, fa4}, si4, re5), ({la5, fa5}, si5, re6)|
             <piano_1_v2>  |(fa2, si2, re3), ({la3, fa3}, si3)|
@@ -286,9 +286,9 @@ Section de développement 5 — 8 mesures. Tonalité Do majeur, tempo 176 BPM.
     </section>
 
 <meta>
-Section de développement 6 — 8 mesures. Tonalité Do majeur, tempo 176 BPM.
+Réexposition exacte du thème initial en Do majeur : les arpèges reprennent leur élan premier avec une clarté et une lumière retrouvées. La main gauche retrouve son cercle de quintes originel. Cette reprise doit sonner comme un retour victorieux à la tonique ; les nuances restent identiques à la section A, avec la même énergie impérieuse.
 </meta>
-    <section=section_7, n_mesure=8, bpm=176, format=4/4, tonalite=Do_majeur>
+    <section=recapitulation, n_mesure=8, bpm=176, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |_, ({mi4, do4}, sol4, do5), ({mi5, do5}, sol5, do6), ({mi6, do6}, sol6, do7)|
             <piano_1_v2>  |(do3, sol3, do4)|
@@ -332,9 +332,9 @@ Section de développement 6 — 8 mesures. Tonalité Do majeur, tempo 176 BPM.
     </section>
 
 <meta>
-Section de développement 7 — 8 mesures. Tonalité Do majeur, tempo 176 BPM.
+Continuation de la réexposition avec des variantes légères par rapport à la section A, notamment des modifications harmoniques à la mesure 4 de ce groupe (correspondant à la mesure 60 globale). Les arpèges maintiennent leur vigueur ; la ligne de basse conserve son rôle structurant. Jouer avec la même force que la réexposition initiale.
 </meta>
-    <section=section_8, n_mesure=8, bpm=176, format=4/4, tonalite=Do_majeur>
+    <section=recapitulation, n_mesure=8, bpm=176, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |_, ({mi4, do4}, sol4, do5), ({mi5, do5}, sol5, do6), ({mi6, do6}, sol6, do7)|
             <piano_1_v2>  |(do3, sol3, do4)|
@@ -378,9 +378,9 @@ Section de développement 7 — 8 mesures. Tonalité Do majeur, tempo 176 BPM.
     </section>
 
 <meta>
-Section de développement 8 — 8 mesures. Tonalité Do majeur, tempo 176 BPM.
+Élargissement final avant la coda : les arpèges s'aventurent encore vers Mi majeur et Si mineur, puis reviennent vers la dominante Sol. Cette section préfigure la conclusion en multipliant les tensions avant la résolution ultime. Les harmonies de septième de dominante créent une instabilité qui rend la coda d'autant plus conclusive.
 </meta>
-    <section=section_9, n_mesure=8, bpm=176, format=4/4, tonalite=Do_majeur>
+    <section=pont, n_mesure=8, bpm=176, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |_, ({mi4, si3}, sol#4, si4), ({mi5, si4}, sol#5, si5), ({mi6, si5}, sol#6, si6)|
             <piano_1_v2>  |(si2, sol#3, si3)|
@@ -424,9 +424,9 @@ Section de développement 8 — 8 mesures. Tonalité Do majeur, tempo 176 BPM.
     </section>
 
 <meta>
-Section conclusive — 7 mesures. Tonalité Do majeur, tempo 176 BPM.
+Coda conclusive de 7 mesures : les arpèges s'élèvent une dernière fois vers les registres aigus avant de redescendre en une vague finale. La phrase se dissout sur un accord de Do majeur tenu, pianissimo. La pédale prolonge la résonance de la tonique. Laisser décroître naturellement la sonorité pour un effet de résolution apaisée.
 </meta>
-    <section=section_10, n_mesure=7, bpm=176, format=4/4, tonalite=Do_majeur>
+    <section=coda, n_mesure=7, bpm=176, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |_, ({do#4, la#3}, mi4, sol4), ({do#5, la#4}, mi5, sol5), ({do#6, la#5}, mi6, sol6)|
             <piano_1_v2>  |(la#2, mi3, sol3)|
