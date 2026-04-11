@@ -3,19 +3,20 @@
 TACHE : composition
 STYLE : classique
 FORMAT : piano_solo
-NIVEAU : intermediaire
-Titre : Piano_Sonatas_11-2
-Date : ?
-Auteur : Beethoven
+NIVEAU : avance
+Titre : Sonate pour piano n°11 en Si bémol majeur, op.22, II. Adagio con molta espressione
+Date : 1800
+Auteur : Ludwig van Beethoven
 Tonalite : Mib_majeur
 Unite : quarter
-Intention : Pièce pour piano solo, modéré, lumineux, au cadre binaire régulier. Tonalité : Mib majeur. 74 mesures.
+Intention : Ce mouvement lent d'une intense cantabilité ouvre sur une mélodie ornementée d'une noblesse chopinienne avant la lettre, portée par un balancement siciliano régulier. Forme sonate en Mi bémol majeur, à 9/8, tempo Adagio con molta espressione (environ 50 bpm), 74 mesures dont un développement qui intensifie progressivement jusqu'au flux de doubles-croches.
 </tete>
 
 <meta>
-Section d'ouverture — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+16 mesures, Adagio con molta espressione, 9/8, Mi bémol majeur, 50 bpm.
+Le premier thème expose une large mélodie ornementée en Mi bémol majeur, avec les motifs caractéristiques de semi-croches avec appoggiature (motif A) et un dessin ondulant (motif B). Le balancement à 9/8 crée un flux siciliano enveloppant; jouer la mélodie avec un son chantant et généreux, les ornements intégrés naturellement au chant.
 </meta>
-    <section=section_1, n_mesure=8, bpm=90, format=9/8, tonalite=Mib_majeur>
+    <section=theme_1, n_mesure=16, bpm=50, format=9/8, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |_, _, _, _, _, _, sol4, ({lab4, sol4}, fa4), (sol4, lab4)|
             <piano_1_v4>  |mib3 sol3 sib3, mib3 sol3 sib3, mib3 sol3 sib3, mib3 sol3 sib3, mib3 sol3 sib3, mib3 sol3 sib3, mib3 sol3 sib3, mib3 sol3 sib3, mib3 sol3 sib3|
@@ -57,19 +58,13 @@ Section d'ouverture — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
             <piano_1_v4>  |mib3 sol3, mib3 sol3, mib3 sol3, mib3 sol3, mib3 sol3, mib3 sol3, fa3 lab3, fa3 lab3, fa3 lab3|
             <piano_1_v5>  |sib2, sib2, sib2, sib2, sib2, sib2, sib2, sib2, sib2|
         </mesure>
-    </section>
-
-<meta>
-Section de développement 1 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
-</meta>
-    <section=section_2, n_mesure=8, bpm=90, format=9/8, tonalite=Mib_majeur>
-        <mesure num=1>
+        <mesure num=9>
             <piano_1_v1>  |mib5, sib4, sib4, sib4, do5, lab4, sol4, lab4, fa4|
             <piano_1_v2>  |_, _, _, _, _, _, mib4, -, re4|
             <piano_1_v4>  |sol3, -, _, _, _, _, sib3, -, lab3|
             <piano_1_v5>  |mib3, -, -, -, -, -, sib2, -, -|
         </mesure>
-        <mesure num=2>
+        <mesure num=10>
             <piano_1_v1>  |mib4, sib3, sib3, sib3, do4, lab3, -, -, -|
             <piano_1_v2>  |_, _, _, ({_, do4}, {sib3, la3}, sib3), ({_, lab3}, sol3)|
             <piano_1_v4>  |_, _, _, _, _, _, sol3, lab3, fa3|
@@ -78,32 +73,32 @@ Section de développement 1 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
             <piano_1_v7>  |sol2, -, _, _, _, _, sib2, -, lab2|
             <piano_1_v8>  |mib2, -, -, -, -, -, sib1, -, -|
         </mesure>
-        <mesure num=3>
+        <mesure num=11>
             <piano_1_v1>  |_, _, _, _, _, _, _, _, mib4|
             <piano_1_v4>  |re3 fa3 sib3, -, -, mib3, -, -, sol3, sib3, -|
             <piano_1_v5>  |mib2 lab2, -, -, mib2 sol2, -, _, _, _, _|
         </mesure>
-        <mesure num=4>
+        <mesure num=12>
             <piano_1_v1>  |mib4 sol4, -, -, mib4 sol4, mib4 sol4, mib4 sol4, mib4 sol4, fa4 lab4, sib3 re4 fa4|
             <piano_1_v2>  |_, _, _, _, _, _, ({_, lab4}, {sol4, fa4}, sol4)|
             <piano_1_v4>  |sol3 sib3, -, -, sol3 sib3, sib3, -, -, -, -|
             <piano_1_v5>  |mib2, sol2, sib2, mib3, sol3, sib3, sib2 sib3, -, sib2 lab3|
         </mesure>
-        <mesure num=5>
+        <mesure num=13>
             <piano_1_v1>  |sib3 re4 fa4, -, -, sib3 mib4, -, _, sol3 sib3, sib3 mib4, mib4 sol4|
             <piano_1_v4>  |mib3 lab3, -, -, mib3 sol3, -, _, _, _, _|
         </mesure>
-        <mesure num=6>
+        <mesure num=14>
             <piano_1_v1>  |sib4, -, -, sib4, mib5, mib5, mib5, mib5, mib5|
             <piano_1_v2>  |sol4, -, -, sol4 sib4, -, -, sol4 sib4, solb4 la4, solb4 sib4|
             <piano_1_v4>  |mib2, sol2, sib2, mib3, sol3, sib3, mib4, do4, sib3|
         </mesure>
-        <mesure num=7>
+        <mesure num=15>
             <piano_1_v1>  |do5 mib5, -, -, _, do5 mib5, -, _, sib4 reb5, -|
             <piano_1_v2>  |solb4, -, fa4, -, solb4, fa4, -, solb4, fa4|
             <piano_1_v4>  |la3, -, -, la3, -, -, sib3, -, -|
         </mesure>
-        <mesure num=8>
+        <mesure num=16>
             <piano_1_v1>  |_, reb5, si4, _, si4, sib4, _, sib4, la4|
             <piano_1_v2>  |_, mib4 solb4, -, _, reb4 sol4, -, _, do4 mib4, -|
             <piano_1_v4>  |mib3, -, -, mi3, -, -, fa3, -, -|
@@ -111,9 +106,10 @@ Section de développement 1 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 2 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+8 mesures, Adagio con molta espressione, 9/8, modulant vers Si bémol majeur, 50 bpm.
+La transition conduit du premier thème vers la dominante par une ligne mélodique ascendante ornementée. Le caractère expressif s'intensifie avec des harmonies plus chromatiques; souligner chaque tournure harmonique sans précipiter le tempo.
 </meta>
-    <section=section_3, n_mesure=8, bpm=90, format=9/8, tonalite=Mib_majeur>
+    <section=transition, n_mesure=8, bpm=50, format=9/8, tonalite=Sib_majeur>
         <mesure num=1>
             <piano_1_v1>  |sib4, -, _, _, _, _, re5, -, (do5, sib4)|
             <piano_1_v2>  |re4, -, -, -, -, -, _, _, _|
@@ -162,9 +158,10 @@ Section de développement 2 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 3 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+16 mesures, Adagio con molta espressione, 9/8, Si bémol majeur, 50 bpm.
+Le deuxième thème apporte un style plus discursif et chordal, avec des rythmes pointés et de la syncopation. Le thème cadentiel qui suit prolonge l'exposition en Sib majeur avec un geste conclusif expressif; veiller à l'équilibre des plans sonores entre chant et accompagnement ternaire.
 </meta>
-    <section=section_4, n_mesure=8, bpm=90, format=9/8, tonalite=Mib_majeur>
+    <section=theme_2, n_mesure=16, bpm=50, format=9/8, tonalite=Sib_majeur>
         <mesure num=1>
             <piano_1_v1>  |sib4, -, _, _, _, reb5, reb5, re5, (mib5, do5)|
             <piano_1_v2>  |_, _, _, _, _, sib4, sib4, -, la4|
@@ -208,48 +205,42 @@ Section de développement 3 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
             <piano_1_v1>  |reb4 reb5, -, -, re4 re5, ({mib5, re5}, reb5), (re5, mi5), (fa5, sol5), (lab5, sol5), (lab5, fa5)|
             <piano_1_v4>  |sol1 sol2, sol2 si2 re3 fa3, sol2 si2 re3 fa3, sol2 si2 re3 fa3, sol2 si2 re3 fa3, sol2 si2 re3 fa3, sol2 si2 re3 fa3, sol2 si2 re3 fa3, sol2 si2 re3 fa3|
         </mesure>
-    </section>
-
-<meta>
-Section de développement 4 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
-</meta>
-    <section=section_5, n_mesure=8, bpm=90, format=9/8, tonalite=Mib_majeur>
-        <mesure num=1>
+        <mesure num=9>
             <piano_1_v1>  |fa5, -, -, mi5, -, _, _, _, _|
             <piano_1_v2>  |_, _, _, sol4, ({lab4, sol4}, solb4), (sol4, la4), (sib4, do5), (reb5, do5), (reb5, sib4)|
             <piano_1_v4>  |do2 do3, do3 sol3 sib3, do3 sol3 sib3, do3 sol3 sib3, do3 sol3 sib3, do3 sol3 sib3, do3 sol3 sib3, do3 sol3 sib3, do3 sol3 sib3|
         </mesure>
-        <mesure num=2>
+        <mesure num=10>
             <piano_1_v1>  |_, _, _, do5, ({reb5, do5}, si4), (do5, re5), (mib5, fa5), (solb5, fa5), (solb5, mib5)|
             <piano_1_v2>  |sib4, -, -, la4, -, _, _, _, _|
             <piano_1_v4>  |fa2 fa3, fa3 do4 mib4, fa3 do4 mib4, fa3 do4 mib4, fa3 do4 mib4, fa3 do4 mib4, fa3 do4 mib4, fa3 do4 mib4, fa3 do4 mib4|
         </mesure>
-        <mesure num=3>
+        <mesure num=11>
             <piano_1_v1>  |mib5, -, -, re5, -, _, _, _, _|
             <piano_1_v2>  |_, _, _, fa4, ({solb4, fa4}, mi4), (fa4, sol4), (lab4, sib4), (si4, sib4), (si4, lab4)|
             <piano_1_v4>  |sib1 sib2, sib2 fa3 lab3, sib2 fa3 lab3, sib2 fa3 lab3, sib2 fa3 lab3, sib2 fa3 lab3, sib2 fa3 lab3, sib2 fa3 lab3, sib2 fa3 lab3|
         </mesure>
-        <mesure num=4>
+        <mesure num=12>
             <piano_1_v1>  |_, _, _, sib4, ({si4, sib4}, la4), (sib4, si4), (reb5, mib5), (mi5, mib5), (mi5, reb5)|
             <piano_1_v2>  |lab4, -, -, sol4, -, -, sol4, sol4, sol4|
             <piano_1_v4>  |mib2, mib3 sib3 reb4, mib3 sib3 reb4, mib3 sib3 reb4, mib3 sib3 reb4, mib3 sib3 reb4, mib3 sib3 reb4, mib3 sib3 reb4, mib3 sib3 reb4|
         </mesure>
-        <mesure num=5>
+        <mesure num=13>
             <piano_1_v1>  |(si4, reb5), (mib5, reb5), (mib5, si4), (sib4, si4), (reb5, si4), (reb5, sib4), _, mib5, mib5|
             <piano_1_v2>  |lab4, -, _, _, _, _, (lab4, sib4), (do5, sib4), (si4, lab4)|
             <piano_1_v4>  |mib3 si3 mib4, -, _, (reb4, mib4), (mi4, mib4), (mi4, reb4), (si3, reb4), (mib4, reb4), (mib4, si3)|
         </mesure>
-        <mesure num=6>
+        <mesure num=14>
             <piano_1_v1>  |mi5, -, mib5, _, _, _, _, re5, re5|
             <piano_1_v2>  |(sol4, lab4), (sib4, lab4), (sib4, sol4), (lab4, sib4), (si4, sib4), (si4, lab4), (fa4, solb4), (lab4, solb4), (lab4, fa4)|
             <piano_1_v4>  |(sib3, si3), (reb4, si3), (reb4, sib3), (si3, reb4), (mib4, reb4), (mib4, si3), (lab3, sib3), (si3, sib3), (si3, lab3)|
         </mesure>
-        <mesure num=7>
+        <mesure num=15>
             <piano_1_v1>  |mib5, -, sib4, _, _, _, _, sib4, sib4|
             <piano_1_v2>  |(mib4, fa4), (solb4, fa4), (solb4, mib4), (re4, mib4), (fa4, mib4), (fa4, re4), (mib4, fa4), (solb4, fa4), (solb4, mib4)|
             <piano_1_v4>  |(solb3, lab3), (sib3, lab3), (sib3, solb3), (fa3, solb3), (lab3, solb3), (lab3, fa3), (solb3, lab3), (sib3, lab3), (sib3, solb3)|
         </mesure>
-        <mesure num=8>
+        <mesure num=16>
             <piano_1_v1>  |si4, -, sib4, _, _, _, _, la4, la4|
             <piano_1_v2>  |(fa4, solb4), (lab4, solb4), (lab4, fa4), (solb4, lab4), (sib4, lab4), (sib4, solb4), (mib4, fa4), (solb4, fa4), (solb4, mib4)|
             <piano_1_v4>  |(re3, mib3), (fa3, mib3), (fa3, re3), (mib3, fa3), (solb3, fa3), (solb3, mib3), (do3, re3), (mib3, re3), (mib3, si2)|
@@ -257,9 +248,10 @@ Section de développement 4 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 5 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+16 mesures, Adagio con molta espressione, 9/8, Do mineur, Lab mineur, 50 bpm.
+Le développement exploite le motif A avec des harmonies exotiques produites par de longues appogiatures, puis fusionne motifs A et B dans un dialogue à deux voix. Lab mineur est atteint, avec un passage contrapuntique lamentoso; le flux de doubles-croches aux deux mains représente le climax expressif: maintenir un rubato ample sans perdre la pulsation ternaire.
 </meta>
-    <section=section_6, n_mesure=8, bpm=90, format=9/8, tonalite=Mib_majeur>
+    <section=developpement, n_mesure=16, bpm=50, format=9/8, tonalite=Do_mineur>
         <mesure num=1>
             <piano_1_v1>  |sib4, -, -, -, -, -, sib4, la4, la4|
             <piano_1_v2>  |(re4, mib4), (fa4, mib4), (re4, mib4), (fa4, solb4), (lab4, solb4), (fa4, lab4), (solb4, fa4), (mib4, fa4), (solb4, mib4)|
@@ -300,39 +292,33 @@ Section de développement 5 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
             <piano_1_v4>  |sib3, sib3, sib3, sib3, sib3, sib3, sib3, sib3, sib3|
             <piano_1_v5>  |re3 fa3 lab3, re3 fa3 lab3, re3 fa3 lab3, re3 fa3 lab3, re3 fa3 lab3, re3 fa3 lab3, re3 fa3 lab3, re3 fa3 lab3, re3 fa3 lab3|
         </mesure>
-    </section>
-
-<meta>
-Section de développement 6 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
-</meta>
-    <section=section_7, n_mesure=8, bpm=90, format=9/8, tonalite=Mib_majeur>
-        <mesure num=1>
+        <mesure num=9>
             <piano_1_v1>  |solb5, -, -, sol5, -, -, (sol5, mib4), (sol4, sib4), (mib5, sol5)|
             <piano_1_v4>  |sib3, sib3, sib3, sib3, sib3, sib3, mib3, sib2, lab2|
             <piano_1_v5>  |mib3 lab3, mib3 lab3, mib3 lab3, mib3 sol3, mib3 sol3, mib3 sol3, -, -, -|
         </mesure>
-        <mesure num=2>
+        <mesure num=10>
             <piano_1_v1>  |sib5, -, -, (sib5, solb5), (sol5, re5), (mib5, la4), (sib4, solb4), (sol4, re4), (mib4, sol4)|
             <piano_1_v4>  |sol2, sol2 sib2 mib3, sol2 sib2 mib3, sol2 sib2 mib3, sol2 sib2 mib3, sol2 sib2 mib3, sol2 sib2 mib3, sol2 sib2 mib3, sol2 sib2 mib3|
         </mesure>
-        <mesure num=3>
+        <mesure num=11>
             <piano_1_v1>  |sol4, do4, -, do4, do5, -, do5, ({do6, si5}, re6, do6), ({sib5, lab5}, sol5, fa5)|
             <piano_1_v4>  |mib3, mib3, mib3, mi3, mi3, mi3, fa3, fa3, fa3|
             <piano_1_v5>  |lab2 do3, lab2 do3, lab2 do3, lab2 do3, lab2 do3, lab2 do3, lab2 do3, lab2 do3, lab2 do3|
         </mesure>
-        <mesure num=4>
+        <mesure num=12>
             <piano_1_v1>  |fa5, mib5, -, mib5, mib5, mib5, mib5, fa5, re5|
             <piano_1_v2>  |_, _, _, _, _, _, ({_, fa5}, {mib5, re5}, mib5)|
             <piano_1_v4>  |mib3 sol3, mib3 sol3, mib3 sol3, mib3 sol3, mib3 sol3, mib3 sol3, fa3 lab3, fa3 lab3, fa3 lab3|
             <piano_1_v5>  |sib2, sib2, sib2, sib2, sib2, sib2, sib2, sib2, sib2|
         </mesure>
-        <mesure num=5>
+        <mesure num=13>
             <piano_1_v1>  |mib5, sib4, sib4, sib4, do5, lab4, sol4, lab4, fa4|
             <piano_1_v2>  |_, _, _, _, _, _, mib4, -, re4|
             <piano_1_v4>  |sol3, -, _, _, _, _, sib3, -, lab3|
             <piano_1_v5>  |mib3, -, -, -, -, -, sib2, -, -|
         </mesure>
-        <mesure num=6>
+        <mesure num=14>
             <piano_1_v1>  |mib4, sib3, sib3, sib3, do4, lab3, -, -, -|
             <piano_1_v2>  |_, _, _, ({_, do4}, {sib3, la3}, sib3), ({_, lab3}, sol3)|
             <piano_1_v4>  |_, _, _, _, _, _, sol3, lab3, fa3|
@@ -341,12 +327,12 @@ Section de développement 6 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
             <piano_1_v7>  |sol3, -, _, _, _, _, sib2, -, lab2|
             <piano_1_v8>  |mib3, -, -, -, -, -, sib1, -, -|
         </mesure>
-        <mesure num=7>
+        <mesure num=15>
             <piano_1_v1>  |_, _, _, _, _, mib4, -, mib4, sol4|
             <piano_1_v4>  |mib3, sol3, sib3, sol3, sib3, -, sib3, -, -|
             <piano_1_v5>  |mib2 sol2, -, _, _, _, _, _, _, _|
         </mesure>
-        <mesure num=8>
+        <mesure num=16>
             <piano_1_v1>  |mib4 sol4, -, -, mib4 sol4, mib4 sol4, mib4 sol4, mib4 sol4, fa4 lab4, sib3 re4 fa4|
             <piano_1_v2>  |_, _, _, _, _, _, ({_, lab4}, {sol4, fa4}, sol4)|
             <piano_1_v4>  |sol3 sib3, -, -, sol3 sib3, sib3, -, -, -, -|
@@ -355,9 +341,10 @@ Section de développement 6 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 7 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+16 mesures, Adagio con molta espressione, 9/8, Mi bémol majeur, 50 bpm.
+La récapitulation reprend le premier thème avec des ornements encore plus élaborés, puis le deuxième thème et le thème cadentiel dans la tonique. La décoration mélodique supplémentaire doit sembler improvisée, comme une interprétation plus inspirée du même matériau; laisser la ligne principale toujours clairement audible sous les fioritures.
 </meta>
-    <section=section_8, n_mesure=8, bpm=90, format=9/8, tonalite=Mib_majeur>
+    <section=recapitulation, n_mesure=16, bpm=50, format=9/8, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |sib3 re4 fa4, -, -, sib3 mib4, -, _, solb3 sib3, sib3 mib4, mib4 solb4|
             <piano_1_v4>  |mib3 lab3, -, -, mib3 sol3, -, _, _, _, _|
@@ -401,50 +388,44 @@ Section de développement 7 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
             <piano_1_v4>  |_, _, re4, re4, -, (do4, sib3), sib3, lab3, (sol3, lab3)|
             <piano_1_v5>  |mib3, mib3, mib3, mib3, mib3, mib3, mib3, mib3, mib3|
         </mesure>
-    </section>
-
-<meta>
-Section de développement 8 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
-</meta>
-    <section=section_9, n_mesure=8, bpm=90, format=9/8, tonalite=Mib_majeur>
-        <mesure num=1>
+        <mesure num=9>
             <piano_1_v1>  |sol5, fa5, (mib5, re5), re5, -, (do5, sib4), sib4, do5, re5|
             <piano_1_v2>  |lab4 do5, -, (sol4 sib4, fa4 lab4), fa4 lab4, -, mib4|
             <piano_1_v3>  |_, _, _, _, _, lab4, lab4, -, -|
             <piano_1_v4>  |_, _, _, _, _, re4, (re4, do4), (sib3, lab3), (sol3, fa3)|
             <piano_1_v5>  |mib3, mib3, mib3, mib3, mib3, mib3, mib3, mib3, mib3|
         </mesure>
-        <mesure num=2>
+        <mesure num=10>
             <piano_1_v1>  |sol4 mib5, solb5, sol5, _, la5, sib5, _, re6, mib6|
             <piano_1_v4>  |mib3, -, _, sol3 sib3 mib4, -, _, sol4 sib4 mib5, -, _|
             <piano_1_v5>  |mib3, -, -, -, -, -, -, -, -|
         </mesure>
-        <mesure num=3>
+        <mesure num=11>
             <piano_1_v1>  |_, si5, do6, _, si4, do5, _, mi4, fa4|
             <piano_1_v4>  |lab4 do5 mib5, -, _, lab3 do4 mib4, -, _, la3 do4 mib4, -, _|
         </mesure>
-        <mesure num=4>
+        <mesure num=12>
             <piano_1_v1>  |_, sib4, -, (sib4, do5, re5), ({mib5, fa5}, sol5, lab5), sib5, sib5, lab5, fa5|
             <piano_1_v4>  |sib3, mib4 sol4, mib4 sol4, mib4 sol4, mib4 sol4, mib4 sol4, re4 lab4, re4 lab4, re4 lab4|
             <piano_1_v5>  |sib3, -, -, -, -, -, sib3, -, -|
         </mesure>
-        <mesure num=5>
+        <mesure num=13>
             <piano_1_v1>  |mib5, ({mib5, re5}, sol5, fa5), ({mib5, re5}, do5, sib4), ({la4, sib4}, mib5, re5), ({do5, sib4}, lab4, sol4), ({solb4, sol4}, do5, sib4), ({lab4, sol4}, fa4, mib4), ({re4, mib4}, lab4, sol4), ({fa4, mib4}, re4, do4)|
             <piano_1_v4>  |sol4, -, _, _, _, _, _, _, _|
             <piano_1_v5>  |mib4, -, -, -, -, -, -, -, -|
         </mesure>
-        <mesure num=6>
+        <mesure num=14>
             <piano_1_v1>  |({la3, sib3}, si3, do4), ({reb4, re4}, mib4, mi4), ({fa4, solb4}, sol4, lab4), ({la4, sib4}, si4, do5), ({reb5, re5}, mib5, mi5), ({fa5, solb5}, {sol5, lab5}, la5), sib5, ({sib5, lab5}, fa5, re5), ({sib4, lab4}, fa4, re4)|
             <piano_1_v4>  |sib2, mib3 sol3, mib3 sol3, mib3 sol3, mib3 sol3, mib3 sol3, re3 lab3, fa3 lab3, fa3 lab3|
             <piano_1_v5>  |sib2, -, -, -, -, -, sib2, -, -|
         </mesure>
-        <mesure num=7>
+        <mesure num=15>
             <piano_1_v1>  |mib4, -, _, _, _, solb5, solb5, sol5, (lab5, fa5)|
             <piano_1_v2>  |_, _, _, _, _, mib5, mib5, -, re5|
             <piano_1_v4>  |mib3, sol3, sib3, mib4, sol4, la4, sib4, -, (fa4, lab4)|
             <piano_1_v5>  |_, _, _, _, _, _, _, _, sib3|
         </mesure>
-        <mesure num=8>
+        <mesure num=16>
             <piano_1_v1>  |mib5, -, _, _, _, solb4, solb4, sol4, (lab4, fa4)|
             <piano_1_v2>  |sol4, -, _, _, _, mib4, mib4, -, re4|
             <piano_1_v4>  |mib2, sol2, sib2, mib3, sol3, la3, sib3, -, (fa3, lab3)|
@@ -453,9 +434,10 @@ Section de développement 8 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section conclusive — 2 mesures. Tonalité Mib majeur, tempo 90 BPM.
+2 mesures, Adagio, 9/8, Mi bémol majeur, 50 bpm.
+Une brève cadence conclusive de deux mesures referme le mouvement dans une simplicité apaisante, après tant de richesse ornementale. Jouer avec douceur extrême (pp), en laissant la résonance de l'accord final s'éteindre naturellement.
 </meta>
-    <section=section_10, n_mesure=2, bpm=90, format=9/8, tonalite=Mib_majeur>
+    <section=coda, n_mesure=2, bpm=50, format=9/8, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |mib4, lab4, fa4, mib4, lab4, fa4, mib4, (lab4, sol4), (lab4, fa4)|
             <piano_1_v2>  |mib4, re4, -, mib4, re4, -, mib4, lab3, lab3|
