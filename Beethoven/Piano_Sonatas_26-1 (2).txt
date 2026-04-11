@@ -3,19 +3,19 @@
 TACHE : composition
 STYLE : classique
 FORMAT : piano_solo
-NIVEAU : simple
-Titre : Piano_Sonatas_26-1
-Date : ?
-Auteur : Beethoven
+NIVEAU : avance
+Titre : Sonate n°26 "Les Adieux" op.81a - Mouvement I (Das Lebewohl : Adagio - Allegro)
+Date : 1810
+Auteur : Ludwig van Beethoven
 Tonalite : Mib_majeur
 Unite : quarter
-Intention : Pièce pour piano solo, modéré, lumineux, au cadre binaire régulier. Tonalité : Mib majeur. 251 mesures.
+Intention : OEuvre programmatique du legs beethovénien, exprimant l'adieu douloureux à l'archiduc Rodolphe contraint de quitter Vienne lors de l'invasion napoléonienne de 1809, avec une noblesse d'âme portée par le célèbre motif vocal "Le-be-wohl" inscrit sur les trois premières notes. Forme sonate avec introduction Adagio en 2/4, puis Allegro en 4/4, en Mib majeur, 253 mesures, noire à 90, associant tourmente dramatique et élans lyriques.
 </tete>
 
 <meta>
-Section d'ouverture — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+16 mesures. Introduction Adagio en 2/4, Mib majeur, noire à 60. Le motif vocal "Le-be-wohl" s'élève sur trois accords descendants, syllabé par Beethoven sur le manuscrit, créant un signal d'adieu empreint de noblesse contenue. Le geste harmonique interrompu sur le premier accord instaure une attente poignante que la basse grave amplifie. Jouer avec recueillement, les accords posés et chantants, sans précipitation.
 </meta>
-    <section=section_1, n_mesure=8, bpm=90, format=2/4, tonalite=Mib_majeur>
+    <section=introduction, n_mesure=8, bpm=90, format=2/4, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |mib4 sol4, sib3 fa4|
             <piano_1_v4>  |_, _|
@@ -59,9 +59,9 @@ Section d'ouverture — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 1 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+16 mesures. Introduction Adagio, suite. Le motif de l'adieu réapparaît transposé, harmonisé différemment, avant la transition attacca subito vers l'Allegro. La modulation vers l'enharmonique de si crée un trouble momentané que la cadence résout vers Mib. Maintenir la gravité expressive jusqu'à l'accord qui cède la place à l'élan allegro.
 </meta>
-    <section=section_2, n_mesure=8, bpm=90, format=2/4, tonalite=Mib_majeur>
+    <section=introduction, n_mesure=8, bpm=90, format=2/4, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |(si4, sib4, mi5), (mib5, mib5, fa5)|
             <piano_1_v2>  |(mi4, mi4), (mib4, {fa5, mib5, re5}, mib5)|
@@ -103,9 +103,9 @@ Section de développement 1 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 2 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+16 mesures. Exposition, premier sujet, Allegro alla breve (4/4), Mib majeur, noire à 132. Le thème principal, virtuose et emporté, surgit avec une énergie contenue, ses traits rapides évoquant l'agitation du départ imminent. Le motif "Le-be-wohl" se cache dans les contours mélodiques, tête de sujet élaborée en broderies et octaves. Jouer avec articulation nette, le poignet souple, l'élan rythmique ininterrompu.
 </meta>
-    <section=section_3, n_mesure=8, bpm=90, format=4/4, tonalite=Mib_majeur>
+    <section=exposition, n_mesure=8, bpm=90, format=4/4, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |lab4 lab5, -, -, (re5, sol5)|
             <piano_1_v2>  |_, _, _, sol4|
@@ -146,9 +146,9 @@ Section de développement 2 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 3 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+16 mesures. Exposition, premier sujet, suite. La texture s'enrichit de contrechants à la main gauche, les sforzati ponctuent l'élan avec autorité. Le jeu des voix internes fait entendre de discrètes allusions au motif fondateur, reliant virtuosité et sens programmatique. Maintenir la dynamique et la régularité rythmique tout au long de la passaggia.
 </meta>
-    <section=section_4, n_mesure=8, bpm=90, format=2/4, tonalite=Mib_majeur>
+    <section=exposition, n_mesure=8, bpm=90, format=2/4, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |sib3 sib4, _, sib4 sib5, _|
             <piano_1_v4>  |(mib2, sib2), (sol3, sib2), (mib2, sib2), (sol3, sib2)|
@@ -184,9 +184,9 @@ Section de développement 3 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 4 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+16 mesures. Exposition, transition modulante vers la dominante (Sib majeur). Les gammes montantes et les figures répétées à la main droite créent une tension croissante qui prépare le second sujet. Beethoven exploite le contraste entre le fortissimo impétueux et des passages piano de réflexion. Conduire la phrase en crescendo continu jusqu'à l'entrée du second thème.
 </meta>
-    <section=section_5, n_mesure=8, bpm=90, format=2/4, tonalite=Mib_majeur>
+    <section=exposition, n_mesure=8, bpm=90, format=2/4, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |(re5 sol5, re5 solb5 la5), (re5 sol5 si5, re5 sol5 si5), (mib5 sol5 do6, fa5 si5 re6), (sol5 do6 mib6, sol5 do6 mi6)|
             <piano_1_v4>  |(si3, la3), (sol3, fa3), (mib3, re3), (do3, sib2 do3)|
@@ -228,9 +228,9 @@ Section de développement 4 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 5 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+16 mesures. Exposition, transition, suite. La modulation s'achève par une demi-cadence stabilisant la tonalité de dominante. Le dialogue entre les mains échange fragments thématiques, créant un sentiment de recherche et d'expectative. Soigner les liaisons expressives pour préserver le legato cantabile de la ligne mélodique.
 </meta>
-    <section=section_6, n_mesure=8, bpm=90, format=2/4, tonalite=Mib_majeur>
+    <section=exposition, n_mesure=8, bpm=90, format=2/4, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |fa5, (re5, do5), fa5, (do5, sib4)|
             <piano_1_v4>  |fa2 mib3, _, fa2 re3, _|
@@ -268,9 +268,9 @@ Section de développement 5 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 6 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+16 mesures. Exposition, second sujet, Sib majeur. La ligne mélodique lyrique et plus apaisée offre un contrepoint expressif au premier sujet turbulent, évoquant une mélancolie résignée. Des trilles écrits en notes réelles sous une mélodie lente caractérisent ce thème singulier. Jouer avec chant et douceur, la main droite épanouie.
 </meta>
-    <section=section_7, n_mesure=8, bpm=90, format=2/4, tonalite=Mib_majeur>
+    <section=exposition, n_mesure=8, bpm=90, format=2/4, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |sol6, fa6, -, mib6|
             <piano_1_v2>  |fa5 sib5, fa5 sib5, sol5 sib5, la5 do6|
@@ -323,9 +323,9 @@ Section de développement 6 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 7 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+16 mesures. Exposition, second sujet, suite et codette. Le sujet s'élargit avant la codette qui réaffirme la dominante. Les traits ornementaux et les gammes descendantes closent l'exposition. Respecter les nuances et laisser la phrase se suspendre.
 </meta>
-    <section=section_8, n_mesure=8, bpm=90, format=2/4, tonalite=Mib_majeur>
+    <section=exposition, n_mesure=8, bpm=90, format=2/4, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |fa4, mib4, re4, do4|
             <piano_1_v2>  |_, _, _, do4|
@@ -371,9 +371,9 @@ Section de développement 7 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 8 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+16 mesures. Développement, section 1. Le motif fondateur est exploité dans diverses tonalités de passage, soumis à la fragmentation et à la marche harmonique. L'harmonie se déstabilise, passant par des régions éloignées, soulignant l'errance de celui qui attend le retour. Jouer avec tension intérieure.
 </meta>
-    <section=section_9, n_mesure=8, bpm=90, format=2/4, tonalite=Mib_majeur>
+    <section=developpement, n_mesure=8, bpm=90, format=2/4, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |(re3, do3), sib2, do3, sib2|
             <piano_1_v4>  |re2, do2, sib1, fa4 lab4|
@@ -410,9 +410,9 @@ Section de développement 8 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 9 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+16 mesures. Développement, section 2. La dialectique entre les deux sujets se resserre, le contrepoint s'intensifie entre les deux mains. Les sforzati inattendus créent des effets de surprise rhétorique. Conduire chaque phrase en crescendo vers les sommets dynamiques.
 </meta>
-    <section=section_10, n_mesure=8, bpm=90, format=2/4, tonalite=Mib_majeur>
+    <section=developpement, n_mesure=8, bpm=90, format=2/4, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |fa4, -|
             <piano_1_v4>  |_, _|
@@ -448,9 +448,9 @@ Section de développement 9 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 10 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+16 mesures. Développement, section 3. Exploration harmonique vers les bémols et les enharmonies. Les séquences ascendantes et descendantes construisent une tension continue. Maintenir l'énergie rythmique et la clarté de l'articulation.
 </meta>
-    <section=section_11, n_mesure=8, bpm=90, format=2/4, tonalite=Mib_majeur>
+    <section=developpement, n_mesure=8, bpm=90, format=2/4, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |do5, -|
             <piano_1_v4>  |_, _|
@@ -488,9 +488,9 @@ Section de développement 10 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 11 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+16 mesures. Développement, section 4. La texture se densifie, les deux mains tissant un contrepoint serré. Les harmonies chromatiques intensifient l'affect de désarroi. Jouer avec pleine sonorité aux sommets, en préservant la transparence des voix internes.
 </meta>
-    <section=section_12, n_mesure=8, bpm=90, format=2/4, tonalite=Mib_majeur>
+    <section=developpement, n_mesure=8, bpm=90, format=2/4, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |lab5, -|
             <piano_1_v2>  |sib4 re5 fa5, -|
@@ -530,9 +530,9 @@ Section de développement 11 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 12 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+16 mesures. Développement, section 5. Le discours se fragmente en cellules motiviques brèves, échangées entre les mains en dialogue haletant. Les modulations rapides accroissent la tension. Différencier les plans sonores et accentuer les dissonances expressives.
 </meta>
-    <section=section_13, n_mesure=8, bpm=90, format=2/4, tonalite=Mib_majeur>
+    <section=developpement, n_mesure=8, bpm=90, format=2/4, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |fa4 sol4 si4 fa5, -|
             <piano_1_v4>  |_, (re2, si2), si2, (re3, si3)|
@@ -568,9 +568,9 @@ Section de développement 12 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 13 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+16 mesures. Développement, section 6. Les gammes et les arpèges en octaves brossent un tableau de tourmente sonore. Beethoven prépare le retour du premier sujet par une longue pédale de dominante. Jouer avec puissance et contrôle.
 </meta>
-    <section=section_14, n_mesure=8, bpm=90, format=2/4, tonalite=Mib_majeur>
+    <section=developpement, n_mesure=8, bpm=90, format=2/4, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |re4 lab4, -|
             <piano_1_v4>  |_, (si2, si3), (si2, si3), _|
@@ -610,9 +610,9 @@ Section de développement 13 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 14 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+16 mesures. Développement, section 7. La pédale de dominante se prolonge, créant une attente maximale. Les trilles et les tenues suspendent le discours. Maintenir le trille régulier et pianissimo.
 </meta>
-    <section=section_15, n_mesure=8, bpm=90, format=2/4, tonalite=Mib_majeur>
+    <section=developpement, n_mesure=8, bpm=90, format=2/4, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |fa5, sol5, lab5, sib5|
             <piano_1_v2>  |fa4 sib4, sol4 sib4, lab4 sib4, sib4|
@@ -649,9 +649,9 @@ Section de développement 14 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 15 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+16 mesures. Développement, section 8. La retransition ménage un moment de suspension presque statique. L'oreille est guidée vers la tonique Mib par une demi-cadence solennelle. Jouer avec sobriété et une légère retenue agogique.
 </meta>
-    <section=section_16, n_mesure=8, bpm=90, format=2/4, tonalite=Mib_majeur>
+    <section=developpement, n_mesure=8, bpm=90, format=2/4, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |mi4 mi5, fa4 fa5, do4 do5, mib4 mib5|
             <piano_1_v4>  |(lab2, mib3), (do4, mib3), (la2, fa3), (do4, fa3)|
@@ -690,9 +690,9 @@ Section de développement 15 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 16 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+16 mesures. Développement, section 9. Réintégration progressive du matériau thématique. Le motif "Le-be-wohl" réapparaît en valeurs augmentées. Laisser le son se développer naturellement.
 </meta>
-    <section=section_17, n_mesure=8, bpm=90, format=2/4, tonalite=Mib_majeur>
+    <section=developpement, n_mesure=8, bpm=90, format=2/4, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |lab4, -, -, sib4|
             <piano_1_v2>  |mib4, -|
@@ -731,9 +731,9 @@ Section de développement 16 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 17 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+16 mesures. Récapitulation, premier sujet en Mib majeur. Le retour du thème principal est à la fois attendu et renouvelé. L'énergie rythmique reprend de plus belle. Jouer avec la même ardeur qu'à l'exposition.
 </meta>
-    <section=section_18, n_mesure=8, bpm=90, format=2/4, tonalite=Mib_majeur>
+    <section=recapitulation, n_mesure=8, bpm=90, format=2/4, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |sib5, (sol5, fa5), sib5, (fa5, mi5)|
             <piano_1_v4>  |sib3 lab4, _, sib3 sol4, _|
@@ -780,9 +780,9 @@ Section de développement 17 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 18 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+16 mesures. Récapitulation, premier sujet, suite. La virtuosité du premier sujet se déploie de nouveau, avec des variantes harmoniques discrètes. Maintenir la cohérence rythmique et la puissance dynamique.
 </meta>
-    <section=section_19, n_mesure=8, bpm=90, format=2/4, tonalite=Mib_majeur>
+    <section=recapitulation, n_mesure=8, bpm=90, format=2/4, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |sib5, lab5, sol5, fa5|
             <piano_1_v2>  |(mib5, sib4), (re5, sib4), (mib5, sib4), (lab4, sib4)|
@@ -831,9 +831,9 @@ Section de développement 18 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 19 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+16 mesures. Récapitulation, transition. La marche harmonique reste dans la tonique, contrairement à l'exposition. Les passages modulants sont adaptés pour rester en Mib. Conduire la phrase avec conviction.
 </meta>
-    <section=section_20, n_mesure=8, bpm=90, format=2/4, tonalite=Mib_majeur>
+    <section=recapitulation, n_mesure=8, bpm=90, format=2/4, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |(mib5, mib5), (re5, mib5), (fa5, sol5), (lab5, fa5)|
             <piano_1_v2>  |sib4, -, _|
@@ -871,9 +871,9 @@ Section de développement 19 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 20 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+16 mesures. Récapitulation, transition, suite. Les échanges entre les mains reprennent le discours de la transition expositive, légèrement abrégés.
 </meta>
-    <section=section_21, n_mesure=8, bpm=90, format=2/4, tonalite=Mib_majeur>
+    <section=recapitulation, n_mesure=8, bpm=90, format=2/4, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |reb5 reb6, -|
             <piano_1_v4>  |fa4 lab4, -|
@@ -909,9 +909,9 @@ Section de développement 20 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 21 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+16 mesures. Récapitulation, second sujet en Mib majeur (tonique). Le retour du sujet lyrique dans la tonique principale apporte une résolution apaisante. Chanter cette mélodie avec chaleur et profondeur.
 </meta>
-    <section=section_22, n_mesure=8, bpm=90, format=2/4, tonalite=Mib_majeur>
+    <section=recapitulation, n_mesure=8, bpm=90, format=2/4, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |do5 do6, -, -, lab4 lab5|
             <piano_1_v4>  |(lab2, do3), (do4, do3), (lab2, do3), (do4, do3)|
@@ -947,9 +947,9 @@ Section de développement 21 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 22 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+16 mesures. Récapitulation, second sujet, suite. Le caractère méditatif du second sujet s'affirme, les trilles en notes réelles prenant une couleur nostalgique.
 </meta>
-    <section=section_23, n_mesure=8, bpm=90, format=2/4, tonalite=Mib_majeur>
+    <section=recapitulation, n_mesure=8, bpm=90, format=2/4, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |sib4 sib5, -, -, solb4 solb5|
             <piano_1_v4>  |(solb2, sib2), (sib3, sib2), (solb2, sib2), (sib3, sib2)|
@@ -985,9 +985,9 @@ Section de développement 22 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 23 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+16 mesures. Récapitulation, codette. La conclusion de la récapitulation referme le discours expositionnel. La reprise est émotionnellement plus dense qu'à l'exposition.
 </meta>
-    <section=section_24, n_mesure=8, bpm=90, format=2/4, tonalite=Mib_majeur>
+    <section=recapitulation, n_mesure=8, bpm=90, format=2/4, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |do5, -|
             <piano_1_v4>  |la3, _, _, _|
@@ -1023,9 +1023,9 @@ Section de développement 23 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 24 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+16 mesures. Récapitulation, codette suite. Les gammes et arpèges conclusifs réaffirment Mib majeur avec clarté.
 </meta>
-    <section=section_25, n_mesure=8, bpm=90, format=2/4, tonalite=Mib_majeur>
+    <section=recapitulation, n_mesure=8, bpm=90, format=2/4, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |sib4 sib5, -|
             <piano_1_v4>  |re4 fa4, -|
@@ -1063,9 +1063,9 @@ Section de développement 24 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 25 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+16 mesures. Récapitulation, fermeture. Les dernières mesures de la récapitulation cadencent avec force sur la tonique, amorçant la vaste Coda.
 </meta>
-    <section=section_26, n_mesure=8, bpm=90, format=2/4, tonalite=Mib_majeur>
+    <section=recapitulation, n_mesure=8, bpm=90, format=2/4, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |(mib4, sib3), (do4, sib3), (la3, sib3), (sol4, mib4)|
             <piano_1_v4>  |mib3 sol3, -|
@@ -1101,9 +1101,9 @@ Section de développement 25 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 26 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+16 mesures. Coda, section 1, Mib majeur. La Coda débute comme une continuation de l'élan allegro, mais le motif "Le-be-wohl" réapparaît en valeurs augmentées. Jouer avec sensibilité au phrasé.
 </meta>
-    <section=section_27, n_mesure=8, bpm=90, format=2/4, tonalite=Mib_majeur>
+    <section=coda, n_mesure=8, bpm=90, format=2/4, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |mib5 sol5, -|
             <piano_1_v4>  |(_, sib3), (do4, sib3), (la3, sib3), (sol3, mib3)|
@@ -1140,9 +1140,9 @@ Section de développement 26 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 27 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+16 mesures. Coda, section 2. Le discours s'allège progressivement, les textures se simplifient. L'effet de distancement symbolise le départ qui s'éloigne.
 </meta>
-    <section=section_28, n_mesure=8, bpm=90, format=2/4, tonalite=Mib_majeur>
+    <section=coda, n_mesure=8, bpm=90, format=2/4, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |(la5, sib5), (do6, sib5), (la5, sib5), (sol6, mib6)|
             <piano_1_v4>  |mib5 sol5, -|
@@ -1178,9 +1178,9 @@ Section de développement 27 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 28 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+16 mesures. Coda, section 3. Les gammes et les arpeggios persistent en pianissimo. La pédale harmonique stabilise l'harmonie avant la conclusion.
 </meta>
-    <section=section_29, n_mesure=8, bpm=90, format=2/4, tonalite=Mib_majeur>
+    <section=coda, n_mesure=8, bpm=90, format=2/4, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |sol3, _, _, _|
             <piano_1_v4>  |mib3, -|
@@ -1216,9 +1216,9 @@ Section de développement 28 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 29 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+16 mesures. Coda, section 4. Le discours hésite entre le piano expressif et de brèves flambées d'énergie. Jouer en opposant les plans de manière tranchée.
 </meta>
-    <section=section_30, n_mesure=8, bpm=90, format=2/4, tonalite=Mib_majeur>
+    <section=coda, n_mesure=8, bpm=90, format=2/4, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |sib4 fa5, -|
             <piano_1_v4>  |sol2 mib3, _, _, mib4 sol4|
@@ -1254,9 +1254,9 @@ Section de développement 29 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 30 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+16 mesures. Coda, section 5. La pédale de basse s'installe, les voix supérieures s'amincissent. Les derniers rappels du motif fondateur se font entendre comme en écho.
 </meta>
-    <section=section_31, n_mesure=8, bpm=90, format=2/4, tonalite=Mib_majeur>
+    <section=coda, n_mesure=8, bpm=90, format=2/4, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |(mib4, fa4), (mib4, re4), (mib4, fa4), (sol4, lab4)|
             <piano_1_v4>  |do2 mib2, -|
@@ -1292,9 +1292,9 @@ Section de développement 30 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section conclusive — 3 mesures. Tonalité Mib majeur, tempo 90 BPM.
+8 mesures. Coda finale. La conclusion tombe avec un accord inattendu et définitif. Le fortissimo conclusif contraste avec le pianissimo qui précède, formant une ellipse dramatique. Attaquer l'accord final avec pleine puissance.
 </meta>
-    <section=section_32, n_mesure=3, bpm=90, format=2/4, tonalite=Mib_majeur>
+    <section=coda, n_mesure=3, bpm=90, format=2/4, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |sib5 sib6, _, _, _|
             <piano_1_v4>  |_, _|
