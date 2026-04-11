@@ -3,19 +3,19 @@
 TACHE : composition
 STYLE : baroque
 FORMAT : piano_solo
-NIVEAU : intermediaire
-Titre : Prelude_bwv_876
-Date : ?
-Auteur : Bach
+NIVEAU : avance
+Titre : Prélude en Mib majeur, BWV 876, Clavier bien tempéré II n°7
+Date : 1742
+Auteur : Johann Sebastian Bach
 Tonalite : Mib_majeur
 Unite : quarter
-Intention : Pièce pour piano solo, modéré, lumineux, au cadre binaire régulier. Tonalité : Mib majeur. 70 mesures.
+Intention : Prélude d'un caractère gracieux et fluide, où de larges arpèges cantabile à la main gauche soutiennent une ligne mélodique chantante et ornementée à la main droite, évoquant le style improvisatoire et l'élégance vocale du baroque tardif. Forme ternaire en 9/8, 70 mesures, tempo moderato, articulée en quatre grandes périodes harmoniques parcourant les tonalités relatives avant de conclure fermement en Mib majeur.
 </tete>
 
 <meta>
-Section d'ouverture — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+Période I, 8 mesures (1-8), tempo 90 BPM, 9/8, Mib_majeur. Introduction et première période : établissement de la tonalité de Mib majeur et présentation du thème principal aux mesures 4-8, s'achevant par une cadence parfaite à la dominante (Sib majeur). L'accompagnement arpégé en croches régulières à la basse soutient une mélodie souple et ornementée ; jouer le dessin arpégé avec une légèreté continue, en faisant ressortir la ligne supérieure sans durcir l'attaque.
 </meta>
-    <section=section_1, n_mesure=8, bpm=90, format=9/8, tonalite=Mib_majeur>
+    <section=introduction, n_mesure=8, bpm=90, format=9/8, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |sib4, -, -, _, _, _, _, sol4, mib5|
             <piano_1_v2>  |sol4, -, -, _, _, _, _, sol4, -|
@@ -64,49 +64,49 @@ Section d'ouverture — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 1 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+Période II, 8 mesures (9-16), tempo 90 BPM, 9/8, Fa_mineur puis Sib_majeur. Deuxième période modulant vers Fa mineur et La bémol majeur avant de cadencer parfaitement en Do mineur (relatif mineur). Le thème est présenté à la dominante (Sib majeur) aux mesures 12-16. Les arpèges de la basse gagnent en étendue harmonique ; maintenir une pulsation ternaire homogène tout en laissant les inflexions chromatiques colorer naturellement le phrasé.
 </meta>
-    <section=section_2, n_mesure=8, bpm=90, format=9/8, tonalite=Mib_majeur>
-        <mesure num=1>
+    <section=theme_1, n_mesure=8, bpm=90, format=9/8, tonalite=Fa_mineur>
+        <mesure num=9>
             <piano_1_v1>  |do5 mib5, -, -, _, _, _, _, la4, mib5|
             <piano_1_v2>  |la4, -, -, -, -, -, -, la4, -|
             <piano_1_v3>  |_, fa4, mib4, fa4, do4, -, -, -, -|
             <piano_1_v4>  |fa2, -, -, -, -, la3, fa3, _, _|
         </mesure>
-        <mesure num=2>
+        <mesure num=10>
             <piano_1_v1>  |re5, sib4, fa4, sol4, mib4, re4, do4, sib4, la4|
             <piano_1_v2>  |_, _, _, _, _, _, do4, -, -|
             <piano_1_v4>  |sib3, _, _, mib3, _, _, fa3, _, _|
         </mesure>
-        <mesure num=3>
+        <mesure num=11>
             <piano_1_v1>  |sib4, -, -, _, _, _, _, sib3, la3|
             <piano_1_v2>  |re4, -, -, _, _, _, _, _, _|
             <piano_1_v4>  |_, sib3, la3, sib3, fa3, re3, sib2, _, _|
         </mesure>
-        <mesure num=4>
+        <mesure num=12>
             <piano_1_v1>  |sib3, re4, do4, re4, fa4, mib4, fa4, lab4, re4|
             <piano_1_v4>  |_, sib2, la2, sib2, re3, do3, re3, fa3, lab3|
             <piano_1_v5>  |_, _, _, _, _, sib2, sib2, -, sib2|
         </mesure>
-        <mesure num=5>
+        <mesure num=13>
             <piano_1_v1>  |mib4, sol4, fa4, sol4, sib4, lab4, sib4, mib5, sol4|
             <piano_1_v2>  |_, _, _, _, _, _, _, _, re4|
             <piano_1_v4>  |sol3, sib3, lab3, sib3, sol3, fa3, sol3, sib3, -|
             <piano_1_v5>  |sib2, -, _, _, _, sib2, sib2, -, sib3|
         </mesure>
-        <mesure num=6>
+        <mesure num=14>
             <piano_1_v1>  |la4, do5, sib4, do5, mib5, re5, mib5, do6, mib5|
             <piano_1_v2>  |do4, mib4, re4, mib4, -, -, -, -, -|
             <piano_1_v4>  |_, _, _, _, do4, sib3, do4, sib3, la3|
             <piano_1_v5>  |sib3, -, _, _, _, _, _, _, sib2 fa3|
         </mesure>
-        <mesure num=7>
+        <mesure num=15>
             <piano_1_v1>  |re5, sib4, la4, sib4, re5, do5, re5, fa5, mib5|
             <piano_1_v2>  |_, re4, do4, re4, fa4, mib4, fa4, lab4, sol4|
             <piano_1_v4>  |sib3, -, -, -, -, -, -, -, -|
             <piano_1_v5>  |sib2 fa3, _, _, _, _, _, _, _, _|
         </mesure>
-        <mesure num=8>
+        <mesure num=16>
             <piano_1_v1>  |re5 fa5, -, -, _, _, _, _, sol4, fa4|
             <piano_1_v2>  |lab4, -, -, _, _, _, _, mib4, re4|
             <piano_1_v4>  |_, sib3, la3, sib3, fa3, re3, sib2, _, _|
@@ -114,203 +114,203 @@ Section de développement 1 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 2 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+Période III début, 8 mesures (17-24), tempo 90 BPM, 9/8, Do_mineur. Troisième période : départ en Do mineur, parcourant Sib majeur (mesure 17), Lab majeur (mesures 19-20), Fa mineur (mesure 22), Sib majeur (mesures 23-24), avant de revenir à la tonique. La ligne mélodique gagne en intensité chromatique et les arpèges de la basse s'étendent sur une plus grande tessiture. Aborder les mesures chromatiques avec une flexibilité du tempo sensible mais discrète.
 </meta>
-    <section=section_3, n_mesure=8, bpm=90, format=9/8, tonalite=Mib_majeur>
-        <mesure num=1>
+    <section=developpement, n_mesure=8, bpm=90, format=9/8, tonalite=Do_mineur>
+        <mesure num=17>
             <piano_1_v1>  |sol4, -, -, _, _, _, _, re5, mib5|
             <piano_1_v2>  |mib4, -, -, _, _, _, _, fa4, sol4|
             <piano_1_v4>  |_, sib3, lab3, sib3, sol3, mib3, sib2, _, _|
         </mesure>
-        <mesure num=2>
+        <mesure num=18>
             <piano_1_v1>  |fa5, -, -, _, _, fa5, si4, -, do5|
             <piano_1_v2>  |lab4, -, -, _, _, lab4, lab4, -, fa4 lab4|
             <piano_1_v4>  |_, sib2, la2, sib2, re3, do3, re3, fa3, mib3|
         </mesure>
-        <mesure num=3>
+        <mesure num=19>
             <piano_1_v1>  |si4, -, -, _, si3, re4, fa4, mib4, re4|
             <piano_1_v2>  |re4 lab4, -, -, -, -, -, -, -, -|
             <piano_1_v4>  |fa3, lab3, sol3, lab3, _, _, si2, _, _|
         </mesure>
-        <mesure num=4>
+        <mesure num=20>
             <piano_1_v1>  |mib4, sol4, do5, mib5, re5, do5, _, mib4, do5|
             <piano_1_v4>  |do3, _, _, do4, _, _, sib3, _, _|
         </mesure>
-        <mesure num=5>
+        <mesure num=21>
             <piano_1_v1>  |fa4, lab4, do5, mib5, re5, do5, _, sol4, do5|
             <piano_1_v4>  |lab3, _, _, lab2, _, _, mib3, _, _|
         </mesure>
-        <mesure num=6>
+        <mesure num=22>
             <piano_1_v1>  |lab4, si4, do5, mib5, re5, do5, _, fa4, si4|
             <piano_1_v4>  |fa3, _, _, solb3, _, _, sol3, _, _|
         </mesure>
-        <mesure num=7>
+        <mesure num=23>
             <piano_1_v1>  |do5, sol4, mib4, do4, _, _, _, _, _|
             <piano_1_v4>  |do3, -, -, do3, mib3, sol3, sib3, la3, sol3|
         </mesure>
-        <mesure num=8>
+        <mesure num=24>
             <piano_1_v1>  |_, mib5, re5, mib5, do5, la4, fa4, _, _|
             <piano_1_v4>  |la3, _, _, _, _, _, _, do4, fa3|
         </mesure>
     </section>
 
 <meta>
-Section de développement 3 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+Période III suite, 8 mesures (25-32), tempo 90 BPM, 9/8, Lab_majeur puis Mib_majeur. Continuation de la troisième période vers Lab majeur et Mib majeur, avec des séquences mélodiques ascendantes et un retour progressif à la tonique. Les passages chromatiques des mesures 28-30 touchent Do mineur avant de revenir à la tonique. La séquence descendante en tierces de la ligne supérieure produit un effet d'apaisement ; jouer avec une sonorité plus claire et plus détachée pour marquer le retour vers la tonique.
 </meta>
-    <section=section_4, n_mesure=8, bpm=90, format=9/8, tonalite=Mib_majeur>
-        <mesure num=1>
+    <section=developpement, n_mesure=8, bpm=90, format=9/8, tonalite=Lab_majeur>
+        <mesure num=25>
             <piano_1_v1>  |_, fa4, mib4, fa4, sib4, do5, reb5, _, _|
             <piano_1_v2>  |_, _, _, fa4, -, -, fa4 sib4, _, _|
             <piano_1_v3>  |_, _, _, _, sib4, -, -, -, _|
             <piano_1_v4>  |sib3, _, _, _, _, _, _, lab3, fa3|
         </mesure>
-        <mesure num=2>
+        <mesure num=26>
             <piano_1_v1>  |_, reb5, do5, reb5, sib4, sol4, mib4, _, _|
             <piano_1_v4>  |sol3, _, _, _, _, _, _, sib3, mib3|
         </mesure>
-        <mesure num=3>
+        <mesure num=27>
             <piano_1_v1>  |_, mib4, reb4, mib4, lab4, sib4, do5, _, _|
             <piano_1_v2>  |_, _, _, mib4, -, -, mib4 lab4, _, _|
             <piano_1_v3>  |_, _, _, _, lab4, -, -, -, _|
             <piano_1_v4>  |lab3, _, _, _, _, _, _, sol3, mib3|
         </mesure>
-        <mesure num=4>
+        <mesure num=28>
             <piano_1_v1>  |_, re4, lab4, do5, sib4, lab4, _, reb4, sib4|
             <piano_1_v4>  |fa3, _, _, _, _, _, sol3, _, _|
         </mesure>
-        <mesure num=5>
+        <mesure num=29>
             <piano_1_v1>  |_, do4, sol4, sib4, lab4, sol4, _, do4, lab4|
             <piano_1_v4>  |mi3, _, _, _, _, _, fa3, _, _|
         </mesure>
-        <mesure num=6>
+        <mesure num=30>
             <piano_1_v1>  |_, sib3, lab4, _, lab4, sol4, _, do5, mib4|
             <piano_1_v4>  |re3, _, _, mib3, _, _, la2, _, _|
         </mesure>
-        <mesure num=7>
+        <mesure num=31>
             <piano_1_v1>  |_, re4, do4, re4, sib3, la3, sib3, re4, fa4|
             <piano_1_v4>  |sib2, _, _, _, re3, do3, re3, fa3, lab3|
         </mesure>
-        <mesure num=8>
+        <mesure num=32>
             <piano_1_v1>  |lab4, fa4, mib4, fa4, re4, do4, re4, fa4, lab4|
             <piano_1_v4>  |sib2, re3, do3, re3, fa3, mib3, fa3, re3, sib2|
         </mesure>
     </section>
 
 <meta>
-Section de développement 4 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+Période III développée, 8 mesures (33-40), tempo 90 BPM, 9/8, Do_mineur puis Sol_mineur. Section centrale de la troisième période, traversant des harmonies moins stables : Do mineur, Sol mineur, des passages chromatiques vers Ré bémol majeur. La mélodie développe des traits virtuoses ornementaux à la main droite dans le registre aigu. Les arpèges de la basse s'élargissent pour couvrir deux octaves ; maintenir la régularité du mouvement ternaire malgré la densité ornementale de la ligne supérieure.
 </meta>
-    <section=section_5, n_mesure=8, bpm=90, format=9/8, tonalite=Mib_majeur>
-        <mesure num=1>
+    <section=developpement, n_mesure=8, bpm=90, format=9/8, tonalite=Do_mineur>
+        <mesure num=33>
             <piano_1_v1>  |do5, mib4, re4, sib4, reb4, do4, lab4, si3, sib3|
             <piano_1_v4>  |_, _, fa3, sol2, -, mib3, fa2, -, re3|
         </mesure>
-        <mesure num=2>
+        <mesure num=34>
             <piano_1_v1>  |_, sol4, fa4, sol4, mib4, re4, mib4, sol4, sib4|
             <piano_1_v4>  |mib2, _, _, _, sol3, fa3, sol3, sib3, reb4|
         </mesure>
-        <mesure num=3>
+        <mesure num=35>
             <piano_1_v1>  |reb5, sib4, lab4, sib4, sol4, fa4, sol4, sib4, reb5|
             <piano_1_v4>  |mib3, sol3, fa3, sol3, sib3, lab3, sib3, sol3, mib3|
         </mesure>
-        <mesure num=4>
+        <mesure num=36>
             <piano_1_v1>  |fa5, lab4, sol4, mib5, solb4, fa4, reb5, mi4, mib4|
             <piano_1_v4>  |_, _, sib3, do3, -, lab3, sib2, -, sol3|
         </mesure>
-        <mesure num=5>
+        <mesure num=37>
             <piano_1_v1>  |_, do5, sib4, do5, lab4, sol4, lab4, do5, mib5|
             <piano_1_v4>  |lab2, -, _, _, do4, sib3, do4, _, _|
         </mesure>
-        <mesure num=6>
+        <mesure num=38>
             <piano_1_v1>  |sol5, sib4, la4, fa5, lab4, sol4, mib5, solb4, fa4|
             <piano_1_v4>  |_, _, do3, re4, -, sib2, do4, -, la2|
         </mesure>
-        <mesure num=7>
+        <mesure num=39>
             <piano_1_v1>  |_, re5, do5, re5, sib4, la4, sib4, re5, fa5|
             <piano_1_v4>  |sib2, -, _, _, re4, do4, re4, _, _|
         </mesure>
-        <mesure num=8>
+        <mesure num=40>
             <piano_1_v1>  |lab5, do5, si4, sol5, sib4, la4, fa5, lab4, sol4|
             <piano_1_v4>  |_, _, re3, mib4, -, do3, re4, -, si2|
         </mesure>
     </section>
 
 <meta>
-Section de développement 5 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+Période III poursuite, 8 mesures (41-48), tempo 90 BPM, 9/8, Do_majeur puis Sol_majeur. La section continue son parcours modulant en touchant des harmonies éloignées (Do majeur, Sol majeur) au registre le plus aigu du prélude, avec des traits ornementaux en doubles croches à la main droite atteignant do6. La tension harmonique est à son comble avant le retour progressif vers la tonique ; aborder les passages les plus aigus avec légèreté et clarté, sans forcer le son dans l'extrême aigu.
 </meta>
-    <section=section_6, n_mesure=8, bpm=90, format=9/8, tonalite=Mib_majeur>
-        <mesure num=1>
+    <section=developpement, n_mesure=8, bpm=90, format=9/8, tonalite=Do_majeur>
+        <mesure num=41>
             <piano_1_v1>  |_, mib5, re5, mib5, do5, si4, do5, mib5, sol5|
             <piano_1_v4>  |do3, -, _, _, mib4, re4, mib4, _, _|
         </mesure>
-        <mesure num=2>
+        <mesure num=42>
             <piano_1_v1>  |do6, -, si5, do6, sol5, lab5, _, solb5, sol5|
             <piano_1_v2>  |_, lab4, sol4, lab4, mib4, do4, sol4, re4, sib3|
             <piano_1_v4>  |_, _, _, _, _, _, _, _, _|
         </mesure>
-        <mesure num=3>
+        <mesure num=43>
             <piano_1_v1>  |do6, -, solb5, sol5, re5, mib5, _, reb5, re5|
             <piano_1_v2>  |solb4, do4, la3, mib4, -, -, re4, -, -|
             <piano_1_v4>  |_, _, _, _, sib3, sol3, -, la3, solb3|
         </mesure>
-        <mesure num=4>
+        <mesure num=44>
             <piano_1_v1>  |sib5, sol5, re5, mib5, sol5, do6, sib5, la5, sol5|
             <piano_1_v4>  |sol3, _, _, do3, _, _, reb3, _, _|
         </mesure>
-        <mesure num=5>
+        <mesure num=45>
             <piano_1_v1>  |(solb5, sol5), la5, re5, mib5, re5, do5, sib4, do5, la4|
             <piano_1_v4>  |re3, _, _, _, _, re2, mi2, -, solb2|
         </mesure>
-        <mesure num=6>
+        <mesure num=46>
             <piano_1_v1>  |sib4, re5, sol5, sib5, la5, sol5, _, sib4, sol5|
             <piano_1_v4>  |sol2, _, _, sol3, _, _, fa3, _, _|
         </mesure>
-        <mesure num=7>
+        <mesure num=47>
             <piano_1_v1>  |do5, mib5, sol5, sib5, la5, sol5, _, re5, sol5|
             <piano_1_v4>  |mib3, _, _, mib2, _, _, sib2, _, _|
         </mesure>
-        <mesure num=8>
+        <mesure num=48>
             <piano_1_v1>  |mib5, solb5, sol5, sib4, la4, sol4, _, do5, solb4|
             <piano_1_v4>  |do3, _, _, reb3, _, _, re3, _, _|
         </mesure>
     </section>
 
 <meta>
-Section de développement 6 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+Période IV début, 8 mesures (49-56), tempo 90 BPM, 9/8, Sol_majeur puis Mib_majeur. Quatrième et dernière période : pédale de dominante intérieure aux mesures 50-57 (pédale de Sib), sur laquelle les deux voix se déploient en séquence ascendante. Le retour vers la tonique Mib majeur s'amorce clairement à la mesure 51. Jouer la pédale de dominante avec une sonorité soutenue au registre médian, sans écraser la ligne mélodique supérieure qui s'élève progressivement.
 </meta>
-    <section=section_7, n_mesure=8, bpm=90, format=9/8, tonalite=Mib_majeur>
-        <mesure num=1>
+    <section=recapitulation, n_mesure=8, bpm=90, format=9/8, tonalite=Sol_majeur>
+        <mesure num=49>
             <piano_1_v1>  |sol4, sib4, re5, sol5, _, _, sib4, -, -|
             <piano_1_v4>  |sol2, -, -, sol2, sib2, re3, fa3, mi3, re3|
         </mesure>
-        <mesure num=2>
+        <mesure num=50>
             <piano_1_v1>  |sib4, reb5, do5, reb5, sib4, sol4, mi4, -, sib4|
             <piano_1_v4>  |mi3, _, _, _, _, _, _, sol3, do3|
         </mesure>
-        <mesure num=3>
+        <mesure num=51>
             <piano_1_v1>  |sib4, lab4, sol4, lab4, do5, fa5, lab5, -, _|
             <piano_1_v2>  |_, _, _, lab4, -, -, lab4 do5 fa5, -, _|
             <piano_1_v3>  |_, _, _, _, do5, -, -, -, -|
             <piano_1_v4>  |fa3, -, _, _, _, _, _, do3, mib3|
         </mesure>
-        <mesure num=4>
+        <mesure num=52>
             <piano_1_v1>  |_, lab5, sol5, lab5, fa5, re5, sib4, -, lab5|
             <piano_1_v4>  |re3, _, _, _, _, _, _, re4, sib3|
         </mesure>
-        <mesure num=5>
+        <mesure num=53>
             <piano_1_v1>  |lab5, sol5, fa5, sol5, mib5, sib4, sol4, sib4, reb5|
             <piano_1_v4>  |mib4, -, _, _, _, _, _, sol3, mib3|
         </mesure>
-        <mesure num=6>
+        <mesure num=54>
             <piano_1_v1>  |reb5, do5, sib4, lab4, sol4, fa4, fa4, mib4, solb4|
             <piano_1_v4>  |lab3, mib3, reb3, do3, sib2, lab2, sol2, do3, sib2|
         </mesure>
-        <mesure num=7>
+        <mesure num=55>
             <piano_1_v1>  |solb4, fa4, mib4, re4, do4, sib3, -, -, -|
             <piano_1_v2>  |_, _, _, _, _, _, _, _, _|
             <piano_1_v4>  |_, _, _, _, _, _, lab3, sol3, fa3|
             <piano_1_v5>  |la2, (sib2, la2), (sol2, la2), sib2, _, _, _, _, _|
         </mesure>
-        <mesure num=8>
+        <mesure num=56>
             <piano_1_v1>  |_, mib4, re4, mib4, sib3, lab3, _, _, _|
             <piano_1_v4>  |sol3, _, _, _, _, _, sol3, fa3, mib3|
             <piano_1_v5>  |sib2, _, _, _, _, _, _, _, _|
@@ -318,79 +318,79 @@ Section de développement 6 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 7 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+Période IV suite, 8 mesures (57-64), tempo 90 BPM, 9/8, Mib_majeur. Continuation du retour à la tonique : les arpèges de la basse reprennent leur mouvement régulier sur Mib majeur pendant que la mélodie descend par degrés conjoints. Aux mesures 61-64, une réexposition partielle du thème initial confirme la tonalité de Mib majeur. Retrouver ici la sérénité du début, avec un toucher doux et égal pour les arpèges de la basse.
 </meta>
-    <section=section_8, n_mesure=8, bpm=90, format=9/8, tonalite=Mib_majeur>
-        <mesure num=1>
+    <section=recapitulation, n_mesure=8, bpm=90, format=9/8, tonalite=Mib_majeur>
+        <mesure num=57>
             <piano_1_v1>  |_, fa4, mib4, fa4, re4, sib3, _, _, _|
             <piano_1_v4>  |re3, _, _, _, _, _, lab3, sol3, fa3|
             <piano_1_v5>  |sib2, _, _, _, _, _, _, _, _|
         </mesure>
-        <mesure num=2>
+        <mesure num=58>
             <piano_1_v1>  |_, sol4, fa4, sol4, mib4, do4, _, _, _|
             <piano_1_v4>  |mib3, _, _, _, _, _, sib3, lab3, sol3|
             <piano_1_v5>  |sib2, _, _, _, _, _, _, _, _|
         </mesure>
-        <mesure num=3>
+        <mesure num=59>
             <piano_1_v1>  |_, lab4, sol4, lab4, fa4, re4, _, _, _|
             <piano_1_v4>  |fa3, _, _, _, _, _, do4, sib3, lab3|
             <piano_1_v5>  |sib2 re3, _, _, _, _, _, _, _, _|
         </mesure>
-        <mesure num=4>
+        <mesure num=60>
             <piano_1_v1>  |sib4, -, -, _, _, _, _, sol4, mib5|
             <piano_1_v2>  |mib4 sol4, -, -, _, _, _, _, sol4, -|
             <piano_1_v4>  |sol3, sib3, lab3, sib3, sol3, mib3, sib2, _, _|
         </mesure>
-        <mesure num=5>
+        <mesure num=61>
             <piano_1_v1>  |{mib5, re5}, _, _, _, _, fa4, sol4|
             <piano_1_v2>  |fa4, -, -, _, _, _, _, _, _|
             <piano_1_v3>  |mib5, re5, -, -, -, -, -, -, -|
             <piano_1_v4>  |_, sib3, la3, sib3, fa3, re3, sib2, _, _|
         </mesure>
-        <mesure num=6>
+        <mesure num=62>
             <piano_1_v1>  |lab4, do4, mib4, re4, fa4, sib4, sib3, fa4, lab4|
             <piano_1_v4>  |_, _, sol3, fa3, -, mib3, re3, -, sib2|
         </mesure>
-        <mesure num=7>
+        <mesure num=63>
             <piano_1_v1>  |sol4, sib3, reb4, do4, mib4, lab4, lab3, mib4, sol4|
             <piano_1_v4>  |mib2, -, fa3, mib3, -, reb3, do3, -, lab2|
         </mesure>
-        <mesure num=8>
+        <mesure num=64>
             <piano_1_v1>  |fa4, lab3, do4, sib3, re4, sol4, sol3, re4, fa4|
             <piano_1_v4>  |re2, -, mib3, re3, -, do3, sib2, -, sol2|
         </mesure>
     </section>
 
 <meta>
-Section conclusive — 6 mesures. Tonalité Mib majeur, tempo 90 BPM.
+Coda, 6 mesures (65-70), tempo 90 BPM, 9/8, Mib_majeur. La coda confirme pleinement la tonalité de Mib majeur : les mesures 65-68 développent une dernière élaboration mélodique avant que les deux dernières mesures installent un silence total à la main droite pendant que la basse parcourt l'arpège de Mib majeur, s'achevant sur la tonique grave. Jouer les deux dernières mesures avec une grande sérénité, laissant résonner les harmoniques du registre grave.
 </meta>
-    <section=section_9, n_mesure=6, bpm=90, format=9/8, tonalite=Mib_majeur>
-        <mesure num=1>
+    <section=coda, n_mesure=6, bpm=90, format=9/8, tonalite=Mib_majeur>
+        <mesure num=65>
             <piano_1_v1>  |mib4, sol3, sib3, lab3, do4, fa4, fa3, do4, mib4|
             <piano_1_v4>  |do2, -, reb3, do3, -, sib2, lab2, -, sol2|
         </mesure>
-        <mesure num=2>
+        <mesure num=66>
             <piano_1_v1>  |sib3 re4, -, -, _, _, fa5 lab5, mib5 sol5, -, _|
             <piano_1_v2>  |_, _, _, _, _, sib4, sib4, -, _|
             <piano_1_v4>  |fa3, -, -, _, _, re3, mib3, (fa3, sol3), (lab3, sib3)|
             <piano_1_v5>  |lab2, -, -, -, -, -, -, -, -|
         </mesure>
-        <mesure num=3>
+        <mesure num=67>
             <piano_1_v1>  |_, _, do5 fa5, mib5, -, -, re5, -, mib5|
             <piano_1_v2>  |_, _, lab4, sol4, -, -, fa4, -, -|
             <piano_1_v3>  |_, _, _, sib4, -, -, -, -, -|
             <piano_1_v4>  |(do4, re4), mib4, lab3, sib3, -, -, sib2, -, -|
         </mesure>
-        <mesure num=4>
+        <mesure num=68>
             <piano_1_v1>  |mib5, sib4, lab4, sib4, sol4, fa4, sol4, mib4, re4|
             <piano_1_v4>  |mib3, -, -, _, _, _, _, _, _|
         </mesure>
-        <mesure num=5>
+        <mesure num=69>
             <piano_1_v1>  |mib4, -, -, -, -, -, -, -, -|
             <piano_1_v4>  |_, sib3, lab3, sib3, sol3, fa3, sol3, mib3, re3|
             <piano_1_v5>  |_, _, _, _, _, _, _, _, _|
         </mesure>
-        <mesure num=6>
+        <mesure num=70>
             <piano_1_v1>  |_, _, _, _, _, _, _, _, _|
             <piano_1_v4>  |mib3, -, -, mib2, -, -, _, _, _|
         </mesure>
