@@ -4,18 +4,19 @@ TACHE : composition
 STYLE : classique
 FORMAT : piano_solo
 NIVEAU : simple
-Titre : Piano_Sonatas_24-2
-Date : ?
-Auteur : Beethoven
+Titre : Sonate pour piano n°24 en Fa dièse majeur, op.78 "à Thérèse", 2e mouvement (Allegro vivace)
+Date : 1809
+Auteur : Ludwig van Beethoven
 Tonalite : Fa#_majeur
 Unite : quarter
-Intention : Pièce pour piano solo, modéré, lumineux, au cadre binaire régulier. Tonalité : Fa# majeur. 177 mesures.
+Intention : Le deuxième et dernier mouvement de la Sonate op.78 est un rondo libre d'une vivacité joyeuse et printanière, alliant fraîcheur mélodique et légèreté de texture dans un esprit délicat et expressif conforme à la dédicace à la comtesse Thérèse von Brunswick. Forme rondo libre en Fa dièse majeur, mesure 2/4, Allegro vivace, tempo 120 BPM, 177 mesures, avec thème principal, épisodes contrastants et coda brillante.
 </tete>
 
 <meta>
-Section d'ouverture — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
+8 mesures, Allegro vivace (2/4), Fa#_majeur, 120 BPM.
+Le thème principal du rondo s'annonce avec une fraîcheur et une légèreté caractéristiques, alternant des figurations à deux voix légèrement décalées. La mélodie, vive et aérée, possède un caractère populaire spontané qui contraste avec la sophistication harmonique du premier mouvement. Jouer avec une articulation nette et détachée, une touche légère des poignets, en faisant chanter la ligne mélodique supérieure.
 </meta>
-    <section=section_1, n_mesure=8, bpm=90, format=2/4, tonalite=Fa#_majeur>
+    <section=theme_1, n_mesure=8, bpm=90, format=2/4, tonalite=Fa#_majeur>
         <mesure num=1>
             <piano_1_v1>  |fa#4 do5, fa4 do#5|
             <piano_1_v3>  |re3 fa#3, do#3 sol#3|
@@ -53,9 +54,10 @@ Section d'ouverture — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 1 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
+8 mesures, Allegro vivace (2/4), Fa#_majeur / Do#_majeur, 120 BPM.
+Le développement du thème principal se prolonge vers la dominante (Do# majeur), avec des figurations en doubles croches qui augmentent l'élan rythmique. La texture reste légère et transparente, avec une voix aiguë animée et un accompagnement discret à la basse. Maintenir la vitesse des doubles croches sans alourdir le toucher.
 </meta>
-    <section=section_2, n_mesure=8, bpm=90, format=2/4, tonalite=Fa#_majeur>
+    <section=theme_1, n_mesure=8, bpm=90, format=2/4, tonalite=Fa#_majeur>
         <mesure num=1>
             <piano_1_v1>  |fa#4 si4, fa#4 la#4|
             <piano_1_v3>  |re#4, do#4|
@@ -92,9 +94,10 @@ Section de développement 1 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 2 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
+8 mesures, Allegro vivace (2/4), Fa#_majeur / Si_majeur, 120 BPM.
+Le premier épisode du rondo (partie B) introduit un matériau contrastant en Si majeur, avec des figurations chromatiques ascendantes créant une légère instabilité harmonique. Ce passage sert de pont vers la réaffirmation du thème principal. Jouer les chromatismes avec une articulation souple et une vitesse égale.
 </meta>
-    <section=section_3, n_mesure=8, bpm=90, format=2/4, tonalite=Fa#_majeur>
+    <section=partie_B, n_mesure=8, bpm=90, format=2/4, tonalite=Fa#_majeur>
         <mesure num=1>
             <piano_1_v1>  |({re#5, fa#5}, do#5, fa#5), ({fa5, sol#5}, fa5, do#6)|
             <piano_1_v3>  |(si3, la#3), (sol#3, do#3)|
@@ -130,9 +133,10 @@ Section de développement 2 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 3 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
+8 mesures, Allegro vivace (2/4), Fa#_majeur, 120 BPM.
+Le retour du thème principal confirme la structure rondo, avec une affirmation de Fa# majeur plus ferme. Les figurations descendantes rappellent le matériau initial dans un geste circulaire caractéristique du rondo. Retrouver la légèreté initiale après l'épisode, comme si rien ne s'était passé.
 </meta>
-    <section=section_4, n_mesure=8, bpm=90, format=2/4, tonalite=Fa#_majeur>
+    <section=theme_1, n_mesure=8, bpm=90, format=2/4, tonalite=Fa#_majeur>
         <mesure num=1>
             <piano_1_v1>  |(_, do6, do#6), (_, mi6, fa6)|
             <piano_1_v3>  |({sol5, sol#5}, _), ({do6, do#6}, _)|
@@ -168,9 +172,10 @@ Section de développement 3 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 4 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
+8 mesures, Allegro vivace (2/4), Fa#_majeur, 120 BPM.
+La reprise du thème principal est légèrement ornée, avec des broderies et des chromatismes qui enrichissent la ligne mélodique sans en alourdir le caractère. Cette variation décorative témoigne de la finesse d'écriture de Beethoven, qui ne cherche pas l'effet spectaculaire mais l'élégance. Jouer les ornements avec naturel, comme improvisés, sans rompre la continuité mélodique.
 </meta>
-    <section=section_5, n_mesure=8, bpm=90, format=2/4, tonalite=Fa#_majeur>
+    <section=theme_1, n_mesure=8, bpm=90, format=2/4, tonalite=Fa#_majeur>
         <mesure num=1>
             <piano_1_v1>  |(fa4 sol#4, _), (_, fa#4 la#4)|
             <piano_1_v3>  |(si2 do#3, _), (_, la#2 do#3)|
@@ -208,9 +213,10 @@ Section de développement 4 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 5 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
+8 mesures, Allegro vivace (2/4), Do#_majeur / Fa#_majeur, 120 BPM.
+Un deuxième épisode reprend le matériau de la partie B en le modulant légèrement, avant de préparer le retour final du thème principal. Les figurations en doubles croches s'animent progressivement, conduisant à une cadence vers la tonique. Jouer avec une articulation détachée et une bonne coordination des deux mains.
 </meta>
-    <section=section_6, n_mesure=8, bpm=90, format=2/4, tonalite=Fa#_majeur>
+    <section=partie_B, n_mesure=8, bpm=90, format=2/4, tonalite=Fa#_majeur>
         <mesure num=1>
             <piano_1_v1>  |fa#4 re#5, (_, fa#4 do#5)|
             <piano_1_v3>  |si3, (_, la#3)|
@@ -247,9 +253,10 @@ Section de développement 5 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 6 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
+8 mesures, Allegro vivace (2/4), Fa#_majeur, 120 BPM.
+Le développement de l'épisode B présente des séquences harmoniques progressives, avec un parcours modulant plus élaboré. La légèreté du mouvement est maintenue tout au long, avec des figurations vives qui entretiennent l'élan rythmique. Surveiller l'égalité du tempo dans les passages modulants.
 </meta>
-    <section=section_7, n_mesure=8, bpm=90, format=2/4, tonalite=Fa#_majeur>
+    <section=partie_B, n_mesure=8, bpm=90, format=2/4, tonalite=Fa#_majeur>
         <mesure num=1>
             <piano_1_v1>  |({fa#5, la#5}, fa#5, do#6), ({fa#5, la#5}, fa#5, re#6)|
             <piano_1_v3>  |(fa#3, fa#2), (re#3, re#2)|
@@ -285,9 +292,10 @@ Section de développement 6 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 7 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
+8 mesures, Allegro vivace (2/4), Fa#_majeur, 120 BPM.
+La transition prépare une nouvelle présentation du thème principal avec des figurations de doubles croches légèrement différentes. La pédale de tonique en basse ancre harmoniquement la phrase, pendant que la voix supérieure prépare la mélodie. Jouer les basses avec une discrète profondeur pour souligner l'ancrage harmonique.
 </meta>
-    <section=section_8, n_mesure=8, bpm=90, format=2/4, tonalite=Fa#_majeur>
+    <section=transition, n_mesure=8, bpm=90, format=2/4, tonalite=Fa#_majeur>
         <mesure num=1>
             <piano_1_v1>  |(_, la#3, re#4), ({re#4, sol4}, sol4, la#4)|
             <piano_1_v3>  |(re#2, sol3), (la#3, re#4)|
@@ -327,9 +335,10 @@ Section de développement 7 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 8 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
+8 mesures, Allegro vivace (2/4), Fa#_majeur, 120 BPM.
+Le thème principal réapparait dans une version variée, avec des doublures à la tierce ou à la sixte qui enrichissent la texture harmonique. Cette variation suggère une affection supplémentaire pour le matériau, comme s'il gagnait en profondeur à chaque retour. Jouer avec une légère plénitude sonore, en équilibrant soigneusement les deux voix.
 </meta>
-    <section=section_9, n_mesure=8, bpm=90, format=2/4, tonalite=Fa#_majeur>
+    <section=theme_1, n_mesure=8, bpm=90, format=2/4, tonalite=Fa#_majeur>
         <mesure num=1>
             <piano_1_v1>  |({re#4, fa#4}, fa#4, re#5), ({fa4, re5}, re5, fa5)|
             <piano_1_v3>  |(re#3, re#3), (la#3, la#2)|
@@ -365,9 +374,10 @@ Section de développement 8 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 9 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
+8 mesures, Allegro vivace (2/4), Do#_mineur / Mi_majeur, 120 BPM.
+L'épisode central du rondo explore des tonalités plus éloignées (Do# mineur, Mi majeur), avec des figurations chromatiques plus élaborées qui créent un moment d'ombre passager dans le caractère globalement lumineux du mouvement. Ce détour harmonique intensifie le soulagement de la réaffirmation finale du thème. Jouer avec une légère nuance expressive sur les degrés chromatiques.
 </meta>
-    <section=section_10, n_mesure=8, bpm=90, format=2/4, tonalite=Fa#_majeur>
+    <section=partie_B, n_mesure=8, bpm=90, format=2/4, tonalite=Fa#_majeur>
         <mesure num=1>
             <piano_1_v1>  |({re#5, fa#5}, si5, re#6), ({si5, re#6}, si5, re#6)|
             <piano_1_v3>  |(si2, si1), (si2, si1)|
@@ -403,9 +413,10 @@ Section de développement 9 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 10 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
+8 mesures, Allegro vivace (2/4), Mi_majeur / La_majeur, 120 BPM.
+Le développement de l'épisode central poursuit l'exploration harmonique à travers La majeur et d'autres tons intermédiaires, avec des figurations qui maintiennent l'élan rythmique. La texture reste légère, les contrastes harmoniques soulignés par de légères nuances dynamiques. Accentuer discrètement les modulations pour les rendre perceptibles sans les alourdir.
 </meta>
-    <section=section_11, n_mesure=8, bpm=90, format=2/4, tonalite=Fa#_majeur>
+    <section=partie_B, n_mesure=8, bpm=90, format=2/4, tonalite=Fa#_majeur>
         <mesure num=1>
             <piano_1_v1>  |(_, mi6, fa6), (_, re6, fa6)|
             <piano_1_v3>  |({do#6, re6}, _), ({la#5, si5}, _)|
@@ -441,9 +452,10 @@ Section de développement 10 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 11 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
+8 mesures, Allegro vivace (2/4), Fa#_majeur, 120 BPM.
+Le retour du thème principal après l'épisode central apporte un sentiment de libération joyeuse, Fa# majeur retrouvé avec un élan renouvelé. La structure rondo confirme ici son principe fondamental : chaque retour du thème est une affirmation plus forte et plus confiante. Jouer avec une fraîcheur retrouvée, dans un tempo implacable.
 </meta>
-    <section=section_12, n_mesure=8, bpm=90, format=2/4, tonalite=Fa#_majeur>
+    <section=theme_1, n_mesure=8, bpm=90, format=2/4, tonalite=Fa#_majeur>
         <mesure num=1>
             <piano_1_v1>  |fa5 si5 fa6, fa#5 la#5 fa#6|
             <piano_1_v3>  |sol4 si4, fa#4 la#4 do#5|
@@ -484,9 +496,10 @@ Section de développement 11 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 12 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
+8 mesures, Allegro vivace (2/4), Fa#_majeur, 120 BPM.
+La coda du mouvement accumule des formules cadentielles en Fa# majeur avec une vitalité croissante. Les doubles croches s'animent vers une cadence finale qui condense l'énergie du mouvement. Jouer avec un crescendo progressif et une articulation de plus en plus nette, préparant la conclusion.
 </meta>
-    <section=section_13, n_mesure=8, bpm=90, format=2/4, tonalite=Fa#_majeur>
+    <section=coda, n_mesure=8, bpm=90, format=2/4, tonalite=Fa#_majeur>
         <mesure num=1>
             <piano_1_v1>  |(sol#5 si5 sol#6, _), (_, fa#4)|
             <piano_1_v3>  |_, fa#3 si3|
@@ -524,9 +537,10 @@ Section de développement 12 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 13 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
+8 mesures, Allegro vivace (2/4), Fa#_majeur, 120 BPM.
+La deuxième phase de la coda intensifie la vitalité rythmique avec des figurations rapides qui créent un effet d'accélération perçue. Les accords de Fa# majeur s'affirment de mesure en mesure, dans une progression vers la cadence finale. Maintenir la vitesse constante, en laissant l'intensité dynamique seule créer le sentiment d'accélération.
 </meta>
-    <section=section_14, n_mesure=8, bpm=90, format=2/4, tonalite=Fa#_majeur>
+    <section=coda, n_mesure=8, bpm=90, format=2/4, tonalite=Fa#_majeur>
         <mesure num=1>
             <piano_1_v1>  |({si4, re#5}, si4, fa#5), ({si4, fa#5}, re5, fa#5)|
             <piano_1_v3>  |(si2, fa#2), (re2, fa#2)|
@@ -562,9 +576,10 @@ Section de développement 13 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 14 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
+8 mesures, Allegro vivace (2/4), Fa#_majeur, 120 BPM.
+La dernière présentation du thème principal dans la coda affirme Fa# majeur avec toute la confiance et la vitalité accumulées. Ce retour final du thème, plus brillant et dynamique que toutes ses présentations précédentes, porte le mouvement vers sa conclusion joyeuse. Jouer avec la plénitude sonore maximale permise par le tempo vif.
 </meta>
-    <section=section_15, n_mesure=8, bpm=90, format=2/4, tonalite=Fa#_majeur>
+    <section=coda, n_mesure=8, bpm=90, format=2/4, tonalite=Fa#_majeur>
         <mesure num=1>
             <piano_1_v1>  |(_, do#4, do4), (_, do#4, si3)|
             <piano_1_v3>  |({do#4, do4}, _), ({do#4, si3}, _)|
@@ -602,9 +617,10 @@ Section de développement 14 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 15 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
+8 mesures, Allegro vivace (2/4), Fa#_majeur, 120 BPM.
+Les arpèges et figurations de la coda gagnent en extension, balayant un registre plus large du clavier. Ces figurations quasi-improvisatoires constituent le pendant lumineux des arpèges conclusifs de l'Appassionata, mais dans un esprit de célébration plutôt que de dénouement tragique. Jouer avec une liberté gestuelle totale dans le mouvement de bras.
 </meta>
-    <section=section_16, n_mesure=8, bpm=90, format=2/4, tonalite=Fa#_majeur>
+    <section=coda, n_mesure=8, bpm=90, format=2/4, tonalite=Fa#_majeur>
         <mesure num=1>
             <piano_1_v1>  |(la#6, la4, do#5), ({fa#4, do#5}, la4, do#5)|
             <piano_1_v3>  |(do#6, fa#3), (la3, fa#3)|
@@ -642,9 +658,10 @@ Section de développement 15 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 16 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
+8 mesures, Allegro vivace (2/4), Fa#_majeur, 120 BPM.
+La coda continue d'amplifier le matériau thématique avec des figurations rythmiques de plus en plus denses. Le registre aigu est progressivement envahi par des motifs brillants qui donnent au passage un caractère de fête. Soigner la clarté des attaques à la main droite sans durcir le son.
 </meta>
-    <section=section_17, n_mesure=8, bpm=90, format=2/4, tonalite=Fa#_majeur>
+    <section=coda, n_mesure=8, bpm=90, format=2/4, tonalite=Fa#_majeur>
         <mesure num=1>
             <piano_1_v1>  |({la4, fa#5}, fa#5, la5), ({fa5, sol#5}, sol#5, si5)|
             <piano_1_v3>  |(fa#3, fa#3), (do#4, do#3)|
@@ -680,9 +697,10 @@ Section de développement 16 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 17 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
+8 mesures, Allegro vivace (2/4), Fa#_majeur, 120 BPM.
+Les séquences chromatiques de la coda évoquent un tourbillon harmonique à grande vitesse, traversant des harmonies enharmoniques avant de retomber sur Fa# majeur. Ce procédé, typique de Beethoven, crée un effet de vertige joyeux. Jouer les chromatismes avec une articulation nette et une égalité de valeurs rigoureuse.
 </meta>
-    <section=section_18, n_mesure=8, bpm=90, format=2/4, tonalite=Fa#_majeur>
+    <section=coda, n_mesure=8, bpm=90, format=2/4, tonalite=Fa#_majeur>
         <mesure num=1>
             <piano_1_v1>  |(_, sol#6, la6), (_, fa6, fa#6)|
             <piano_1_v3>  |({sol#6, la6}, _), ({fa6, fa#6}, _)|
@@ -718,9 +736,10 @@ Section de développement 17 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 18 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
+8 mesures, Allegro vivace (2/4), Fa#_majeur, 120 BPM.
+La coda continue son envol avec des trilles et broderies dans le registre aigu, sur un accompagnement de basse bien scandé. La texture légère et brillante rappelle le style de Beethoven dans ses pièces de caractère joyeux. Jouer les trilles avec une légèreté de doigté, sans crispation du poignet.
 </meta>
-    <section=section_19, n_mesure=8, bpm=90, format=2/4, tonalite=Fa#_majeur>
+    <section=coda, n_mesure=8, bpm=90, format=2/4, tonalite=Fa#_majeur>
         <mesure num=1>
             <piano_1_v1>  |(_, la4, do5), (_, la4, do5)|
             <piano_1_v3>  |({fa5, fa#5}, _), ({sol#5, la5}, _)|
@@ -758,9 +777,10 @@ Section de développement 18 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 19 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
+8 mesures, Allegro vivace (2/4), Fa#_majeur, 120 BPM.
+L'accélération finale de la coda rassemble tous les motifs dans une synthèse conclusive, jouant sur la répétition des figurations pour créer un effet de vitesse croissante. Les accords de Fa# majeur s'accumulent en une progression irrésistible vers la dernière cadence. Maintenir un tempo implacable, en laissant le rythme seul porter l'excitation.
 </meta>
-    <section=section_20, n_mesure=8, bpm=90, format=2/4, tonalite=Fa#_majeur>
+    <section=coda, n_mesure=8, bpm=90, format=2/4, tonalite=Fa#_majeur>
         <mesure num=1>
             <piano_1_v1>  |mi5 do#6 mi6, _|
             <piano_1_v3>  |_, re#3 fa#3|
@@ -805,9 +825,10 @@ Section de développement 19 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 20 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
+8 mesures, Allegro vivace (2/4), Fa#_majeur, 120 BPM.
+La coda brillante présente des formules d'accords brisés dans tout le registre, culminant sur des accords fortissimo de Fa# majeur. L'exubérance joyeuse du mouvement atteint ici son apogée, dans un geste pianistique élégant et festif. Jouer les arpèges avec fluidité, en équilibrant le son entre les deux mains.
 </meta>
-    <section=section_21, n_mesure=8, bpm=90, format=2/4, tonalite=Fa#_majeur>
+    <section=coda, n_mesure=8, bpm=90, format=2/4, tonalite=Fa#_majeur>
         <mesure num=1>
             <piano_1_v1>  |(sol#5, fa#5), (fa5, sol#5)|
             <piano_1_v2>  |si4 do#5, fa5|
@@ -846,9 +867,10 @@ Section de développement 20 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 21 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
+8 mesures, Allegro vivace (2/4), Fa#_majeur, 120 BPM.
+La dernière grande phrase de la coda condense les gestes mélodiques et harmoniques du mouvement en une affirmation finale de Fa# majeur. Les accords en fortissimo concluent avec une légèreté paradoxale, fidèle à l'esprit de cette sonate dédiée à la tendresse. Jouer les derniers accords avec une plénitude sonore joyeuse, non violente, comme une exclamation de bonheur.
 </meta>
-    <section=section_22, n_mesure=8, bpm=90, format=2/4, tonalite=Fa#_majeur>
+    <section=coda, n_mesure=8, bpm=90, format=2/4, tonalite=Fa#_majeur>
         <mesure num=1>
             <piano_1_v1>  |fa4 sol#4 do#5, -|
             <piano_1_v3>  |si3 do#4, -|
@@ -889,9 +911,10 @@ Section de développement 21 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section conclusive — 1 mesures. Tonalité Fa# majeur, tempo 90 BPM.
+1 mesure, Allegro vivace (2/4), Fa#_majeur, 120 BPM.
+L'accord final de Fa# majeur conclut le mouvement et l'oeuvre dans un geste de certitude lumineuse. Jouer l'accord final avec une sonorité pleine et claire, en laissant la pédale résonner librement jusqu'à l'extinction naturelle.
 </meta>
-    <section=section_23, n_mesure=1, bpm=90, format=2/4, tonalite=Fa#_majeur>
+    <section=coda, n_mesure=1, bpm=90, format=2/4, tonalite=Fa#_majeur>
         <mesure num=1>
             <piano_1_v1>  |(fa#5 la#5 fa#6, _), _|
             <piano_1_v3>  |(fa#2, _), _|
