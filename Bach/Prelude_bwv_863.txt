@@ -4,18 +4,18 @@ TACHE : composition
 STYLE : baroque
 FORMAT : piano_solo
 NIVEAU : intermediaire
-Titre : Prelude_bwv_863
-Date : ?
-Auteur : Bach
+Titre : Prélude en Sol dièse mineur, BWV 863, Clavier bien tempéré I n°18
+Date : 1722
+Auteur : Johann Sebastian Bach
 Tonalite : Sol#_mineur
 Unite : quarter
-Intention : Pièce pour piano solo, modéré, mélancolique, au flux composé. Tonalité : Sol# mineur. 29 mesures.
+Intention : Prélude d'un caractère introspectif et ondulant, tissé d'un flux continu de doubles croches en mesure ternaire, portant une expression mélancolique et sombre propre à la tonalité de Sol dièse mineur. Forme en deux périodes avec coda, 6/8, 29 mesures, modulant vers le relatif majeur, Ré dièse mineur et Fa dièse mineur, tempo modéré à 90 BPM.
 </tete>
 
 <meta>
-Section d'ouverture — 8 mesures. Tonalité Sol# mineur, tempo 90 BPM.
+Période I, 13 mesures, 6/8, Sol# mineur vers Si majeur et Ré# mineur, 90 BPM. Le motif initial, présenté dès la mesure 1 à la voix aiguë, constitue la cellule génératrice de tout le prélude. Il circule entre les voix, touchant le relatif majeur (Si) à la mesure 4, puis Fa# mineur et Do# mineur avant de revenir à la tonique, pour s'achever sur une cadence parfaite en Ré# mineur. Le flux continu de doubles croches crée une tension ininterrompue qui porte l'auditeur vers les modulations successives.
 </meta>
-    <section=section_1, n_mesure=8, bpm=90, format=6/8, tonalite=Sol#_mineur>
+    <section=partie_A, n_mesure=13, bpm=90, format=6/8, tonalite=Sol#_mineur>
         <mesure num=1>
             <piano_1_v1>  |(sol#4, la#4), (si4, sol#4), (la#4, do#5), mi5, re#5, do#5|
             <piano_1_v4>  |si3, re#4, do#4, do#4, si3, la#3|
@@ -62,131 +62,125 @@ Section d'ouverture — 8 mesures. Tonalité Sol# mineur, tempo 90 BPM.
             <piano_1_v4>  |_, (la3, sol#3), (la3, fa#3)|
             <piano_1_v5>  |fa#3, -, -, (fa#3, fa#3), (mi3, re#3), (do#3, do3)|
         </mesure>
-    </section>
-
-<meta>
-Section de développement 1 — 8 mesures. Tonalité Sol# mineur, tempo 90 BPM.
-</meta>
-    <section=section_2, n_mesure=8, bpm=90, format=6/8, tonalite=Sol#_mineur>
-        <mesure num=1>
+        <mesure num=9>
             <piano_1_v1>  |mi4, -, do#5, la#4, -, -|
             <piano_1_v2>  |_, _, _, mi4, re#4, do#4|
             <piano_1_v4>  |(sol#3, la#3), (si3, sol#3), (la#3, do#4)|
             <piano_1_v5>  |do#3, -, -, (sol2, do#4), (si3, la#3), (sol#3, sol3)|
         </mesure>
-        <mesure num=2>
+        <mesure num=10>
             <piano_1_v1>  |(la#4, sol#4), (sol4, la#4), (sol#4, fa4), re4, re#4, fa4|
             <piano_1_v2>  |si3, -, -, la#3, -, -|
             <piano_1_v4>  |sol#3, -, -, (sol#3, sol#3), (fa#3, fa3), (re#3, re3)|
         </mesure>
-        <mesure num=3>
+        <mesure num=11>
             <piano_1_v1>  |fa#4, -, -, fa4, -, -|
             <piano_1_v2>  |la#3, re#4, -, -, -, -|
             <piano_1_v4>  |_, _, sol#3, sol#3, do#4, fa#3|
             <piano_1_v5>  |(re#3, fa3), (fa#3, la#2), (si2, re#3), (do#3, re#3), (fa3, sol#2), (la#2, do#3)|
         </mesure>
-        <mesure num=4>
+        <mesure num=12>
             <piano_1_v1>  |re#4, re#4, (fa4, fa#4), sol#4, re4, (fa4, sol#4)|
             <piano_1_v4>  |fa#3, si3, -, (si3, si3), la#3, -|
             <piano_1_v5>  |(si2, do#3), (re#3, fa#2), (sol#2, si2), re2, re3, la#2|
         </mesure>
-        <mesure num=5>
+        <mesure num=13>
             <piano_1_v1>  |fa#4, fa#4, (sol#4, si4), fa4, -, -|
             <piano_1_v2>  |_, re#4, -, re4, -, -|
             <piano_1_v3>  |_, _, _, ({fa#4, fa4, fa#4}, {fa4, fa#4, fa4}, {fa#4, fa4}), ({fa#4, fa4, fa#4}, {fa4, fa#4, fa4}, {fa#4, fa4}), fa4|
         </mesure>
-        <mesure num=6>
+    </section>
+
+<meta>
+Période II, 13 mesures (14 à 26), 6/8, Ré# mineur vers Sol# mineur, 90 BPM. Le thème passe à la basse à partir de la mesure 13, ouvrant la seconde période depuis Ré# mineur. La texture s'enrichit par des échanges entre les voix, et des passages séquentiels génèrent une intensité croissante. Des modulations touchent le mineur de la sous-dominante avant le retour à la tonique. Le jeu d'imitations et les mouvements contraires entre voix aiguë et basse créent une polyphonie expressive propre au style contrapuntique bachien.
+</meta>
+    <section=partie_B, n_mesure=13, bpm=90, format=6/8, tonalite=Sol#_mineur>
+        <mesure num=1>
             <piano_1_v1>  |(re#4, fa4), (fa#4, re#4), (fa4, sol#4), si4, la#4, sol#4|
             <piano_1_v2>  |re#4, _, _, _, _, _|
             <piano_1_v4>  |(fa#3, sol#3), (la#3, fa#3), (sol#3, si3), (re3, re#3), (fa3, la#2), (re3, fa3)|
         </mesure>
-        <mesure num=7>
+        <mesure num=2>
             <piano_1_v1>  |fa#4, -, (fa#4, sol#4), (la#4, si4), (do#5, la#4), (si4, do#5)|
             <piano_1_v2>  |(re#4, do#4), (si3, re#4), do#4|
             <piano_1_v4>  |_, _, la#3, sol3, sol#3, la#3|
             <piano_1_v5>  |re#3, -, -, do#3, -, -|
         </mesure>
-        <mesure num=8>
+        <mesure num=3>
             <piano_1_v1>  |(re#5, do#5), (si4, re#5), (do#5, la#4), sol4, sol#4, la#4|
             <piano_1_v2>  |_, _, mi4, mi4, re#4, do#4|
             <piano_1_v4>  |la#3, sol#3, -, -, -, -|
             <piano_1_v5>  |si2, -, -, (la#2, do#3), (si2, la#2), (sol#2, sol2)|
         </mesure>
-    </section>
-
-<meta>
-Section de développement 2 — 8 mesures. Tonalité Sol# mineur, tempo 90 BPM.
-</meta>
-    <section=section_3, n_mesure=8, bpm=90, format=6/8, tonalite=Sol#_mineur>
-        <mesure num=1>
+        <mesure num=4>
             <piano_1_v1>  |si4, la#4, (do5, do#5), re#5, -, -|
             <piano_1_v2>  |(si3, re#4), sol#4, -, (fa#4, sol#4), (la4, fa#4), (do#5, do5)|
             <piano_1_v4>  |(sol#2, fa#2), (mi2, sol#2), (fa#2, re#2), do2, do#2, re#2|
         </mesure>
-        <mesure num=2>
+        <mesure num=5>
             <piano_1_v1>  |(do#5, re#5), (mi5, do#5), (re#5, fa#5), la5, sol#5, fa#5|
             <piano_1_v2>  |do#5, -, -, do5, do#5, re#5|
             <piano_1_v4>  |(mi2, fa#2), (sol#2, mi2), (fa#2, la2), (re#2, mi2), (fa#2, sol#2), (la#2, do3)|
         </mesure>
-        <mesure num=3>
+        <mesure num=6>
             <piano_1_v1>  |mi5, -, -, mi5, fa#5, mi5|
             <piano_1_v2>  |re#5, do#5, si4, la#4, -, -|
             <piano_1_v4>  |(do#3, re#3), (mi3, do#3), (mi3, sol#3), (fa#3, sol#3), (la#3, fa#3), (la#3, do#4)|
         </mesure>
-        <mesure num=4>
+        <mesure num=7>
             <piano_1_v1>  |re#5, -, -, re#5, mi5, re#5|
             <piano_1_v2>  |la#4, si4, la#4, sol#4, -, -|
             <piano_1_v4>  |(si2, do#3), (re#3, si2), (re#3, fa#3), (mi3, fa#3), (sol#3, mi3), (sol#3, si3)|
         </mesure>
-        <mesure num=5>
+        <mesure num=8>
             <piano_1_v1>  |do#5, -, -, do#5, re#5, do#5|
             <piano_1_v2>  |sol#4, la#4, sol#4, sol4, -, -|
             <piano_1_v4>  |(la#2, si2), (do#3, la#2), (do#3, mi3), (re#3, fa3), (sol3, re#3), (sol3, la#3)|
         </mesure>
-        <mesure num=6>
+        <mesure num=9>
             <piano_1_v1>  |(si4, la#4), (sol#4, si4), (do#5, mi5), (la#4, sol#4), (fa#4, la#4), (si4, re#5)|
             <piano_1_v2>  |sol#4, _, _, _, _, _|
             <piano_1_v4>  |(sol#3, la#3), (si3, re#3), (mi3, sol#3), (fa#3, sol#3), (la#3, do#3), (re#3, fa#3)|
         </mesure>
-        <mesure num=7>
+        <mesure num=10>
             <piano_1_v1>  |(sol#4, re#5), (do#5, si4), (la#4, sol#4), (sol4, sol#4), (la#4, sol4), (sol#4, si4)|
             <piano_1_v2>  |_, _, _, _, _, sol#4|
             <piano_1_v4>  |(mi3, fa#3), (sol#3, si2), (do#3, mi3), (re#3, fa3), (sol3, la#2), (si2, re#3)|
         </mesure>
-        <mesure num=8>
+        <mesure num=11>
             <piano_1_v1>  |mi5, mi5, mi5, mi5, mi5, mi5|
             <piano_1_v2>  |sol#4, sol#4, sol#4, do#5, do#5, do#5|
             <piano_1_v4>  |(do#3, re#3), (mi3, si2), (do#3, mi3), (la2, do#3), (mi3, sol#2), (do#3, mi3)|
         </mesure>
-    </section>
-
-<meta>
-Section conclusive — 5 mesures. Tonalité Sol# mineur, tempo 90 BPM.
-</meta>
-    <section=section_4, n_mesure=5, bpm=90, format=6/8, tonalite=Sol#_mineur>
-        <mesure num=1>
+        <mesure num=12>
             <piano_1_v1>  |mi5, -, -, (mi5, re#5), (do#5, la#5), (mi5, do#5)|
             <piano_1_v2>  |(do#5, si4), (la#4, do#5), (si4, sol#4), la#4, -, -|
             <piano_1_v4>  |sol2, -, -, sol2, sol3, (sol#3, la#3)|
         </mesure>
-        <mesure num=2>
+        <mesure num=13>
             <piano_1_v1>  |(re#5, do#5), (si4, re#5), (do#5, la#4), (si4, la#4), (sol#4, si4), (la#4, sol4)|
             <piano_1_v2>  |la#4, sol#4, -, _, _, _|
             <piano_1_v4>  |si2, -, mi3, do#3, re#3, re#2|
         </mesure>
-        <mesure num=3>
+    </section>
+
+<meta>
+Coda, 3 mesures (27 à 29), 6/8, Sol# mineur, 90 BPM. La coda reprend le thème à la basse dans la tonalité de la tonique, conduisant à une cadence plagale avec tierce de Picardie finale (Sol# majeur). La mesure 28 présente une imitation en mouvement contraire entre la basse et l'alto, superposant les entrées du motif principal dans une conclusion raffinée. L'accord final en tierce de Picardie, sur la dominante ouverte, apporte une lumière inattendue et apaisée à cette pièce fondamentalement mélancolique.
+</meta>
+    <section=coda, n_mesure=3, bpm=90, format=6/8, tonalite=Sol#_mineur>
+        <mesure num=1>
             <piano_1_v1>  |sol#4, -, -, -, -, -|
             <piano_1_v2>  |_, fa#4, re#4, (do#4, do4), (do#4, re#4), (mi4, fa#4)|
             <piano_1_v4>  |(sol#2, la#2), (do3, sol#2), (do3, re#3), fa#3, mi3, re#3|
         </mesure>
-        <mesure num=4>
+        <mesure num=2>
             <piano_1_v1>  |sol#4, -, -, -, -, -|
             <piano_1_v2>  |(mi4, re#4), (do#4, mi4), do#4, (_, mi4), (re#4, do#4), (do4, do#4)|
             <piano_1_v4>  |_, _, la#3|
             <piano_1_v5>  |do#3, -, -, -, -, -|
             <piano_1_v6>  |_, _, _, sol3, sol#3, la#3|
         </mesure>
-        <mesure num=5>
+        <mesure num=3>
             <piano_1_v1>  |sol#4, -, -, -, -, -|
             <piano_1_v2>  |re#4, -, -, -, -, -|
             <piano_1_v4>  |do4, -, -, -, -, -|
