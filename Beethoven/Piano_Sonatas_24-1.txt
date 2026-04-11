@@ -4,18 +4,19 @@ TACHE : composition
 STYLE : classique
 FORMAT : piano_solo
 NIVEAU : intermediaire
-Titre : Piano_Sonatas_24-1
-Date : ?
-Auteur : Beethoven
+Titre : Sonate pour piano n°24 en Fa dièse majeur, op.78 "à Thérèse", 1er mouvement (Adagio cantabile - Allegro ma non troppo)
+Date : 1809
+Auteur : Ludwig van Beethoven
 Tonalite : Fa#_majeur
 Unite : quarter
-Intention : Pièce pour piano solo, modéré, lumineux, au cadre binaire régulier. Tonalité : Fa# majeur. 108 mesures.
+Intention : Le premier mouvement de la Sonate op.78, dédiée à la comtesse Thérèse von Brunswick, allie la sérénité lyrique d'une introduction Adagio cantabile sans précédent à la légèreté raffinée d'un Allegro ma non troppo d'une belle continuité mélodique, révélant la sensibilité classique épurée de Beethoven plutôt que son héroïsme. Forme sonate en Fa dièse majeur, mesure 2/4, Allegro ma non troppo, tempo 90 BPM, 108 mesures, avec introduction, exposition, développement, réexposition et coda.
 </tete>
 
 <meta>
-Section d'ouverture — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
+8 mesures, Adagio cantabile puis Allegro ma non troppo (2/4), Fa#_majeur, 90 BPM.
+Les quatre premières mesures constituent une introduction Adagio cantabile d'une nature paradoxale : ni introduction classique (jamais complète), ni mouvement lent autonome (trop court), mais un fragment d'une pièce indépendante qui n'a pas de modèle ou de successeur dans la littérature, selon l'analyse du musicologue Charles Rosen. La douceur intimiste de ces mesures, jouées avec un legato profond et un rubato discret, établit une atmosphère de confidence avant que l'Allegro ma non troppo ne déploie sa légèreté. Jouer les mesures 1-4 avec une pédale légère et une ligne mélodique chantante, puis enchaîner naturellement vers l'Allegro.
 </meta>
-    <section=section_1, n_mesure=8, bpm=90, format=2/4, tonalite=Fa#_majeur>
+    <section=introduction, n_mesure=8, bpm=90, format=2/4, tonalite=Fa#_majeur>
         <mesure num=1>
             <piano_1_v1>  |la#3 do#4, (la#3 do#4 fa#4, si3 fa4 sol#4)|
             <piano_1_v4>  |fa#1 fa#2, -|
@@ -54,9 +55,10 @@ Section d'ouverture — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 1 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
+8 mesures, Allegro ma non troppo (2/4), Fa#_majeur, 90 BPM.
+Le premier thème de l'Allegro se développe avec un lyrisme mélodique soutenu et une vitalité rythmique retenue. Les flots de doubles croches créent une texture légère et aérée, rehaussée par des harmonies transparentes. La ligne mélodique possède une sérénité rhapsodique que Beethoven maintient sans interruption dramatique. Jouer avec une articulation nette des doubles croches, une main gauche stable et une main droite qui chante avec naturel.
 </meta>
-    <section=section_2, n_mesure=8, bpm=90, format=2/4, tonalite=Fa#_majeur>
+    <section=exposition_theme_1, n_mesure=8, bpm=90, format=2/4, tonalite=Fa#_majeur>
         <mesure num=1>
             <piano_1_v1>  |fa4 fa5, re#4 re#5, do#4 do#5, ({la#4, si4}, la#4, fa#4)|
             <piano_1_v4>  |(do#3, fa#3), (si2, fa#3), (la#2, fa#3), _|
@@ -94,9 +96,10 @@ Section de développement 1 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 2 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
+8 mesures, Allegro ma non troppo (2/4), Fa#_majeur / Do#_majeur, 90 BPM.
+La transition module vers Do# majeur (dominante), en utilisant des figurations de doubles croches ascendantes progressivement plus animées. Ce passage maintient le caractère délicat de l'exposition tout en préparant l'entrée du deuxième thème. Conserver l'égalité des doubles croches avec une articulation légère du poignet.
 </meta>
-    <section=section_3, n_mesure=8, bpm=90, format=2/4, tonalite=Fa#_majeur>
+    <section=exposition_transition, n_mesure=8, bpm=90, format=2/4, tonalite=Fa#_majeur>
         <mesure num=1>
             <piano_1_v1>  |do#4 fa#4 la#4, ({do#5, re#5}, do#5, la#4), fa#5|
             <piano_1_v4>  |fa#3 la#3, _, _, fa#4 la#4|
@@ -133,9 +136,10 @@ Section de développement 2 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 3 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
+8 mesures, Allegro ma non troppo (2/4), Do#_majeur, 90 BPM.
+Le deuxième thème, en Do# majeur (dominante), maintient le même équilibre émotionnel chaleureux que le premier, évitant toute tension dramatique marquée. Cette homogénéité de caractère entre les deux thèmes est une des particularités stylistiques de l'op.78, qui privilégie la continuité lyrique sur le contraste dramatique. Jouer avec une même couleur sonore, peut-être légèrement plus tendre et intériorisée.
 </meta>
-    <section=section_4, n_mesure=8, bpm=90, format=2/4, tonalite=Fa#_majeur>
+    <section=exposition_theme_2, n_mesure=8, bpm=90, format=2/4, tonalite=Fa#_majeur>
         <mesure num=1>
             <piano_1_v1>  |({do6, sol#5}, re#5, do6), ({do#6, sol#5}, do#5, do#6), ({do#6, sol#5}, do#5, do#6), ({do#6, sol#5}, do#5, do#6)|
             <piano_1_v4>  |fa#3 sol#3 re#4, fa3 sol#3 do#4, fa3 sol#3 do#4, fa3 sol#3 do#4|
@@ -174,9 +178,10 @@ Section de développement 3 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 4 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
+8 mesures, Allegro ma non troppo (2/4), Do#_majeur / Fa#_majeur, 90 BPM.
+La coda d'exposition affirme Do# majeur à travers des cadences décoratives, avec des doubles croches qui s'animent légèrement. La texture légère et transparente de l'exposition est maintenue jusqu'au bout, sans chercher un effet de conclusion trop résolu. Garder la main droite légère et la main gauche discrète dans les figures d'accompagnement.
 </meta>
-    <section=section_5, n_mesure=8, bpm=90, format=2/4, tonalite=Fa#_majeur>
+    <section=exposition_coda, n_mesure=8, bpm=90, format=2/4, tonalite=Fa#_majeur>
         <mesure num=1>
             <piano_1_v1>  |fa#4 do5, -, ({fa#4, sol#4}, fa#4, fa4), ({fa#4, re#5}, do#5, do5)|
             <piano_1_v4>  |sol#3 re#4, -, sol#2 re#3 fa#3|
@@ -213,9 +218,10 @@ Section de développement 4 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 5 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
+8 mesures, Allegro ma non troppo (2/4), Fa#_majeur / Si_majeur, 90 BPM.
+Le développement de l'op.78, beaucoup plus court et moins dramatique que celui de l'Appassionata, explore le matériau thématique avec une curiosité harmonique subtile plutôt qu'une tension tumultueuse. Les modulations passent par Si majeur et d'autres tonalités voisines avec une fluidité naturelle. Jouer avec une légèreté constante, en soulignant les couleurs harmoniques changeantes plutôt que les contrastes dynamiques.
 </meta>
-    <section=section_6, n_mesure=8, bpm=90, format=2/4, tonalite=Fa#_majeur>
+    <section=developpement, n_mesure=8, bpm=90, format=2/4, tonalite=Fa#_majeur>
         <mesure num=1>
             <piano_1_v1>  |_, si3 do#4 fa4 sol#4, _, (la4, si4)|
             <piano_1_v4>  |({do#3, re#3}, fa3, fa#3), ({sol#3, la3}, si3, do#4), ({re4, do#4}, si3, la3), ({do#4, si3}, la3, sol#3)|
@@ -257,9 +263,10 @@ Section de développement 5 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 6 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
+8 mesures, Allegro ma non troppo (2/4), Mi_majeur / La_majeur, 90 BPM.
+La deuxième phase du développement explore des tonalités plus éloignées de la tonique, créant des modulations légères qui enrichissent le tissu harmonique sans jamais rompre l'atmosphère lyrique. Les figures de doubles croches persistent, donnant une impression de promenade harmonique sereine. Maintenir l'égalité de toucher à travers chaque modulation.
 </meta>
-    <section=section_7, n_mesure=8, bpm=90, format=2/4, tonalite=Fa#_majeur>
+    <section=developpement, n_mesure=8, bpm=90, format=2/4, tonalite=Fa#_majeur>
         <mesure num=1>
             <piano_1_v1>  |({sol#5, si5}, la#5, sol#5), ({si5, sol#5}, fa#5, fa5), ({si5, sol#5}, fa#5, fa5), ({la#5, sol#5}, fa#5, fa5)|
             <piano_1_v4>  |re4 fa4 sol#4, _, _, (re4 fa4, la#4)|
@@ -295,9 +302,10 @@ Section de développement 6 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 7 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
+8 mesures, Allegro ma non troppo (2/4), Do#_majeur / Fa#_majeur, 90 BPM.
+La troisième phase du développement prépare le retour à la tonique, enchaînant des accords de dominante de Fa# majeur. La tension de retour vers la tonique est légèrement accentuée, mais sans rupture dynamique brutale. Jouer avec une légère intensification du crescendo pour anticiper la réexposition.
 </meta>
-    <section=section_8, n_mesure=8, bpm=90, format=2/4, tonalite=Fa#_majeur>
+    <section=developpement, n_mesure=8, bpm=90, format=2/4, tonalite=Fa#_majeur>
         <mesure num=1>
             <piano_1_v1>  |({si4, re#5}, do#5, si4), ({la#4, sol#4}, fa#4, fa4), ({si4, la#4}, sol#4, fa#4), ({fa4, re#4}, do#4, do4)|
             <piano_1_v4>  |({si3, re#4}, do#4, si3), ({la#3, sol#3}, fa#3, fa3), ({si3, la#3}, sol#3, fa#3), ({fa3, re#3}, do#3, do3)|
@@ -339,9 +347,10 @@ Section de développement 7 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 8 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
+8 mesures, Allegro ma non troppo (2/4), Fa#_majeur, 90 BPM.
+La réexposition du premier thème retrouve la légèreté et le lyrisme initiaux, sans la transformation dramatique caractéristique de l'Appassionata. Le retour à la tonique s'effectue avec une douce reconnaissance plutôt qu'un choc. Jouer avec la même délicatesse que dans l'exposition, en soulignant subtilement la plénitude retrouvée de Fa# majeur.
 </meta>
-    <section=section_9, n_mesure=8, bpm=90, format=2/4, tonalite=Fa#_majeur>
+    <section=recapitulation_theme_1, n_mesure=8, bpm=90, format=2/4, tonalite=Fa#_majeur>
         <mesure num=1>
             <piano_1_v1>  |({do#5, re#5}, do#5, la#4), fa#4, _, ({la#4, si4}, la#4, fa#4)|
             <piano_1_v4>  |_, ({la#2, do#3}, fa#3, la#3), la#2, _|
@@ -377,9 +386,10 @@ Section de développement 8 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 9 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
+8 mesures, Allegro ma non troppo (2/4), Fa#_majeur, 90 BPM.
+La transition de la réexposition reste naturellement en Fa# majeur, conduisant le deuxième thème dans la même tonalité que la tonique. La fluidité des doubles croches est maintenue, dans un mouvement sans heurt vers la conclusion. Conserver une ligne mélodique claire et un accompagnement discret.
 </meta>
-    <section=section_10, n_mesure=8, bpm=90, format=2/4, tonalite=Fa#_majeur>
+    <section=recapitulation_transition, n_mesure=8, bpm=90, format=2/4, tonalite=Fa#_majeur>
         <mesure num=1>
             <piano_1_v1>  |si4 do#5 fa5 sol#5, la#4 do#5 mi5 la#5, si4 re5 si5, _|
             <piano_1_v4>  |do#4 fa4, fa#3 do#4 mi4, si3 re4, _|
@@ -416,9 +426,10 @@ Section de développement 9 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 10 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
+8 mesures, Allegro ma non troppo (2/4), Fa#_majeur, 90 BPM.
+Le deuxième thème est ramené en Fa# majeur (tonique), lui conférant une chaleur supplémentaire par rapport à son exposition en dominante. La texture reste légère et le caractère lyrique domine, la résolution tonique apportant une plénitude satisfaisante. Jouer avec un son légèrement plus riche et chantant qu'en exposition.
 </meta>
-    <section=section_11, n_mesure=8, bpm=90, format=2/4, tonalite=Fa#_majeur>
+    <section=recapitulation_theme_2, n_mesure=8, bpm=90, format=2/4, tonalite=Fa#_majeur>
         <mesure num=1>
             <piano_1_v1>  |({sol#5, mi6}, re#6, sol#5), ({la#5, mi6}, re#6, la#5), ({si5, mi6}, re#6, si5), ({sol#6, re#6}, si5, sol#5)|
             <piano_1_v4>  |re#4 sol#4 si4, do#4 sol4 la#4, si3 re#4 sol#4, si3 re#4 sol#4|
@@ -454,9 +465,10 @@ Section de développement 10 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 11 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
+8 mesures, Allegro ma non troppo (2/4), Fa#_majeur, 90 BPM.
+La coda de la réexposition prépare la conclusion avec des figurations cadentielles en Fa# majeur, légèrement plus animées. La texture reste transparente, les accords bien articulés. Apporter une légère intensification vers la cadence finale, sans briser le caractère délicat de l'ensemble.
 </meta>
-    <section=section_12, n_mesure=8, bpm=90, format=2/4, tonalite=Fa#_majeur>
+    <section=recapitulation_coda, n_mesure=8, bpm=90, format=2/4, tonalite=Fa#_majeur>
         <mesure num=1>
             <piano_1_v1>  |({fa#6, si5}, fa#5, fa#6), ({fa#6, si5}, fa#5, fa#6), ({fa6, si5}, fa5, fa6), ({fa6, si5}, fa5, fa6), _|
             <piano_1_v4>  |do#3 sol#3, -, -, -, _|
@@ -495,9 +507,10 @@ Section de développement 11 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 12 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
+8 mesures, Allegro ma non troppo (2/4), Fa#_majeur, 90 BPM.
+Les dernières mesures de la coda accumulent les formules cadentielles en Fa# majeur, dans un crescendo discret vers les accords conclusifs. Les doubles croches s'animent pour préparer la fin, tout en maintenant la légèreté caractéristique du mouvement. Jouer avec une clarté maximale des deux mains dans les formules finales.
 </meta>
-    <section=section_13, n_mesure=8, bpm=90, format=2/4, tonalite=Fa#_majeur>
+    <section=recapitulation_coda, n_mesure=8, bpm=90, format=2/4, tonalite=Fa#_majeur>
         <mesure num=1>
             <piano_1_v1>  |({fa#6, do#6}, la#5, fa#5), ({do#5, fa#5}, do#5, la#4), ({si4, do#5}, si4, la#4), ({si4, sol#5}, fa#5, fa5)|
             <piano_1_v4>  |fa#3 la#3, _, do#2 sol#2 si2|
@@ -535,9 +548,10 @@ Section de développement 12 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section conclusive — 4 mesures. Tonalité Fa# majeur, tempo 90 BPM.
+4 mesures, Allegro ma non troppo (2/4), Fa#_majeur, 90 BPM.
+Les quatre mesures conclusives affichent l'accord de Fa# majeur en position fondamentale, avec des arpèges ascendants à la main droite. La conclusion est légère et satisfaite, sans geste de grandiloquence, fidèle à l'esprit délicat et raffiné de cette sonate de chambre. Tenir les accords jusqu'à leur pleine résonance, en laissant la pédale enrichir la dernière harmonie.
 </meta>
-    <section=section_14, n_mesure=4, bpm=90, format=2/4, tonalite=Fa#_majeur>
+    <section=coda, n_mesure=4, bpm=90, format=2/4, tonalite=Fa#_majeur>
         <mesure num=1>
             <piano_1_v1>  |_, sol#5 si5 do#6, _, la#5 do#6|
             <piano_1_v4>  |({fa4, si4}, la#4, sol#4), ({do#5, si4}, la#4, sol#4), ({fa#4, do#5}, si4, la#4), ({fa#5, fa5}, re#5, do#5)|
