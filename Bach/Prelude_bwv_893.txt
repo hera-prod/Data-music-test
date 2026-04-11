@@ -3,19 +3,19 @@
 TACHE : composition
 STYLE : baroque
 FORMAT : piano_solo
-NIVEAU : simple
-Titre : Prelude_bwv_893
-Date : ?
-Auteur : Bach
+NIVEAU : avance
+Titre : Prélude en Si mineur, BWV 893, Le Clavier bien tempéré Livre II n°24
+Date : 1742
+Auteur : Johann Sebastian Bach
 Tonalite : Si_mineur
 Unite : quarter
-Intention : Pièce pour piano solo, modéré, mélancolique, au cadre binaire régulier. Tonalité : Si mineur. 66 mesures.
+Intention : Prélude moderne en trois sections aux caractères distincts, jouant de contrastes expressifs entre un discours ornemental dense, une texture imitatrice ondoyante et des figures séquentielles énergiques, démontrant que Bach savait adopter le style galant de ses fils sans pour autant quitter sa propre manière d'épuiser tout le potentiel d'un matériau donné. Prélude en Si mineur, 2/2, 66 mesures à 76 BPM, articulé en quatre périodes cadentielles successives.
 </tete>
 
 <meta>
-Section d'ouverture — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
+8 mesures, 76 BPM, mesure alla breve (2/2), tonalité Si mineur. Période I (début): le thème I, fondé sur des doubles croches brisées en arpèges, est immédiatement combiné avec le thème II dès la mes. 1; leur association est reprise aux mes. 17-20; le thème III, composé de trois figures détachées, apparaît à la mes. 5 tandis que le thème IV (mes. 8, un ornement de tour) assure le travail épisodique entre les grandes entrées thématiques; l'écriture polyphonique à deux voix principales affiche une densité ornementale caractéristique du Clavier bien tempéré II.
 </meta>
-    <section=section_1, n_mesure=8, bpm=90, format=2/2, tonalite=Si_mineur>
+    <section=introduction, n_mesure=8, bpm=76, format=2/2, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |({re4, fa#4}, si3, do#4), ({re4, fa#4}, si3, re4)|
             <piano_1_v3>  |(si2, re3), (fa#3, {fa#3, sol3}, {fa#3, fa3})|
@@ -51,9 +51,9 @@ Section d'ouverture — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 1 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
+8 mesures, 76 BPM, mesure alla breve (2/2), tonalité Si mineur. Période I (fin) et début de la Période II: la cadence parfaite en Ré majeur (mes. 17) clôt la première période; la Période II reprend en associant les thèmes I et II transposés; un travail séquentiel important aux mes. 9-17 est repris transposé à la quarte inférieure aux mes. 45-50; la subdivision de la Période I (mes. 4 et 8) révèle une architecture soigneusement proportionnée sous l'ornementation foisonnante.
 </meta>
-    <section=section_2, n_mesure=8, bpm=90, format=2/2, tonalite=Si_mineur>
+    <section=theme_1, n_mesure=8, bpm=76, format=2/2, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |({re4, si4}, {do#5, re5, do#5}, si4), ({si4, fa#5}, la4)|
             <piano_1_v3>  |(si2, si3), (do#4, re#4)|
@@ -89,9 +89,9 @@ Section de développement 1 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 2 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
+8 mesures, 76 BPM, mesure alla breve (2/2), tonalité La mineur. Période II (suite): le travail séquentiel dominant aux mes. 9-17, 50-52 et 54-57 ressurgit ici dans une version transposée et développée; les thèmes I et II s'entrelacent dans des configurations harmoniques changeantes; la modulation vers La mineur apporte une couleur mélancolique supplémentaire à cette section médiane; l'écriture en doubles croches brisées maintient une densité ornementale constante.
 </meta>
-    <section=section_3, n_mesure=8, bpm=90, format=2/2, tonalite=Si_mineur>
+    <section=theme_1, n_mesure=8, bpm=76, format=2/2, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |({fa#4, la4}, re4, mi4), ({fa#4, la4}, re4, fa#4)|
             <piano_1_v3>  |(re3, fa#3), (la3, {la3, si3}, {la3, sol#3})|
@@ -127,9 +127,9 @@ Section de développement 2 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 3 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
+8 mesures, 76 BPM, mesure alla breve (2/2), tonalités Si mineur et Fa dièse mineur. Période II (conclusion): la cadence parfaite en Fa dièse mineur (mes. 41) achève la Période II; le thème II, ondoyant et dense en ornements, y atteint son développement le plus complexe; la basse fournit un appui harmonique stable pendant que les voix supérieures tissent leurs broderies expressives; la tension s'accumule avant la demi-cadence conclusive de la Période III.
 </meta>
-    <section=section_4, n_mesure=8, bpm=90, format=2/2, tonalite=Si_mineur>
+    <section=theme_2, n_mesure=8, bpm=76, format=2/2, tonalite=Fa#_mineur>
         <mesure num=1>
             <piano_1_v1>  |({mi5, sol5}, si4, re#5), ({mi5, sol5}, si4, mi5)|
             <piano_1_v3>  |({sol3, si3}, mi3, fa#3), ({sol3, si3}, mi3, sol3)|
@@ -165,9 +165,9 @@ Section de développement 3 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 4 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
+8 mesures, 76 BPM, mesure alla breve (2/2), tonalité Si mineur. Période III: cette section sans subdivision interne combine les thèmes avec une liberté accrue; le travail séquentiel aux mes. 50-52 et 54-57 reprend transposé le matériau des mes. 9-14; la variation du thème II inversé (mes. 21-24) réapparaît transposée à la tonique (mes. 59-62); la Période III se conclut sur une demi-cadence sur le premier renversement de l'accord de dominante-neuvième, créant une suspension expressive.
 </meta>
-    <section=section_5, n_mesure=8, bpm=90, format=2/2, tonalite=Si_mineur>
+    <section=developpement, n_mesure=8, bpm=76, format=2/2, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |(mi5, si4), ({sol5, fa#5, mi5}, {fa#5, sol5}, si4)|
             <piano_1_v2>  |(mi4, {fa#4, sol4, fa#4}, mi4), ({mi4, si4}, re4)|
@@ -207,9 +207,9 @@ Section de développement 4 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 5 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
+8 mesures, 76 BPM, mesure alla breve (2/2), tonalité La mineur. Suite de la Période III: le thème III en figures détachées à trois éléments, placé au-dessus du thème I à la basse, crée une superposition contrapuntique caractéristique; les séquences harmoniques descendantes en doubles croches brisées explorent les teintes relatives; la basse soutient harmoniquement les broderies mélodiques supérieures en contrepoint simple; la préparation de la Période IV s'annonce dans les inflexions harmoniques de cette section.
 </meta>
-    <section=section_6, n_mesure=8, bpm=90, format=2/2, tonalite=Si_mineur>
+    <section=developpement, n_mesure=8, bpm=76, format=2/2, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |({la3, do#4}, fa#3, sol#3), ({la3, do#4}, fa#3, la3)|
             <piano_1_v3>  |(fa#2, la2), (do#3, {do#3, re3}, {do#3, do3})|
@@ -245,9 +245,9 @@ Section de développement 5 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 6 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
+8 mesures, 76 BPM, mesure alla breve (2/2), tonalité Si mineur. Période IV (début): la cadence parfaite en Si mineur (mes. 66) referme la forme; les quatre thèmes thématiques reviennent dans leur configuration originale transposée à la tonique; deux divisions momentanées (mes. 62 et 64) soulignent les articulations internes; la texture à deux voix, parfois enrichie d'une voix intermédiaire, trouve ici sa plénitude expressive avant l'accord conclusif.
 </meta>
-    <section=section_7, n_mesure=8, bpm=90, format=2/2, tonalite=Si_mineur>
+    <section=recapitulation, n_mesure=8, bpm=76, format=2/2, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |({fa#3, do#4}, mi4), ({mi4, re4}, {do#4, re4, do#4}, {si3, la#3})|
             <piano_1_v3>  |(re2, fa#2), (la2, re3)|
@@ -284,9 +284,9 @@ Section de développement 6 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 7 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
+8 mesures, 76 BPM, mesure alla breve (2/2), tonalité Si mineur. Période IV (fin): les figures en doubles croches brisées convergent vers la cadence finale; les ornements denses caractéristiques du style préludique de Bach ornent chaque geste mélodique; les accords répétés de la main gauche préparent l'accord conclusif solennel; ce prélude, qualifié de «moderne», montre Bach réconciliant le style galant de ses fils avec sa propre maîtrise contrapuntique inégalée.
 </meta>
-    <section=section_8, n_mesure=8, bpm=90, format=2/2, tonalite=Si_mineur>
+    <section=recapitulation, n_mesure=8, bpm=76, format=2/2, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |({sol4, fa#4}, {re5, re5, do#5}), ({_, mi4}, {fa#4, sol4, fa#4}, mi4)|
             <piano_1_v2>  |mi4, -|
@@ -327,9 +327,9 @@ Section de développement 7 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section conclusive — 2 mesures. Tonalité Si mineur, tempo 90 BPM.
+2 mesures, 76 BPM, mesure alla breve (2/2), tonalité Si mineur. Conclusion: les deux dernières mesures amènent la cadence parfaite finale en Si mineur avec une économie de moyens saisissante; l'accord terminal en Si mineur à plusieurs octaves confirme la tonique après le parcours harmonique du prélude; cette conclusion sobre ouvre directement sur la fugue légère en 3/8 dont le sujet contrastant offre une réponse inattendue et souriante aux tensions expressives de ce prélude sombre et ornemental.
 </meta>
-    <section=section_9, n_mesure=2, bpm=90, format=2/2, tonalite=Si_mineur>
+    <section=coda, n_mesure=2, bpm=76, format=2/2, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |({_, si4}, {la4, sol4, fa#4}, mi4), ({_, si4}, la#4)|
             <piano_1_v2>  |_, (re4, do#4 mi4)|
