@@ -3,19 +3,19 @@
 TACHE : composition
 STYLE : baroque
 FORMAT : piano_solo
-NIVEAU : simple
-Titre : Prelude_bwv_884
-Date : ?
-Auteur : Bach
+NIVEAU : avance
+Titre : Prélude en Sol majeur, BWV 884, Clavier bien tempéré II n°15
+Date : 1742
+Auteur : Johann Sebastian Bach
 Tonalite : Sol_majeur
 Unite : quarter
-Intention : Pièce pour piano solo, modéré, lumineux, au balancement ternaire. Tonalité : Sol majeur. 48 mesures.
+Intention : Prélude de forme binaire ancienne au caractère lumineux et festif, bâti sur une figure ornementale constante qui marie pédale de tonique soutenue et pédale de dominante répétée en doubles-croches, créant un balancement harmonieux et tendu à la fois. Tonalité de Sol majeur, mesure ternaire 3/4, 48 mesures en deux grandes parties séparées par une double barre, avec une cadence parfaite en ré majeur à mi-parcours et un retour en sol majeur pour conclure, tempo allant environ 84 BPM.
 </tete>
 
 <meta>
-Section d'ouverture — 8 mesures. Tonalité Sol majeur, tempo 90 BPM.
+48 mesures, 84 BPM, mesure 3/4, Sol majeur. Prélude de forme binaire ancienne (early binary) du Clavier bien tempéré II de Bach (1742). La première partie (mesures 1 à 16) explore sol majeur et cadence sur la dominante ré majeur ; la seconde partie (mesures 17 à 48) repart de ré et revient progressivement à sol majeur, reprenant la même figure ornementale dans des tonalités voisines. Les doubles pédales superposées (tonique soutenue à la basse, dominante répétée au soprano) créent une tension envoûtante et originale. Jouer legato, en mettant en valeur les changements harmoniques qui émergent de la répétition incessante de la figure.
 </meta>
-    <section=section_1, n_mesure=8, bpm=90, format=3/4, tonalite=Sol_majeur>
+    <section=partie_A, n_mesure=8, bpm=84, format=3/4, tonalite=Sol_majeur>
         <mesure num=1>
             <piano_1_v1>  |({sol4, re5}, fa#4, re5), ({sol4, re5}, la4, re5), ({si4, re5}, do5, re5)|
             <piano_1_v3>  |(si3, la3), (si3, do4), (re4, mi4)|
@@ -58,9 +58,9 @@ Section d'ouverture — 8 mesures. Tonalité Sol majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 1 — 8 mesures. Tonalité Sol majeur, tempo 90 BPM.
+Suite de la première partie, modulation vers ré majeur et cadence. Mesures 9 à 16, sol majeur vers ré majeur. Cette section conduit vers la cadence parfaite en ré majeur qui marque la double barre. La figure ornementale est transposée aux tons voisins, la dominante s'installe progressivement. La ligne intérieure propose de nouvelles harmonies intermédiaires enrichissant le tissu. Accentuer l'arrivée sur ré majeur à la cadence, en préparant le tournant harmonique de la double barre.
 </meta>
-    <section=section_2, n_mesure=8, bpm=90, format=3/4, tonalite=Sol_majeur>
+    <section=partie_A_cadence, n_mesure=8, bpm=84, format=3/4, tonalite=Sol_majeur>
         <mesure num=1>
             <piano_1_v1>  |({fa#5, re5}, do#5, re5), ({si5, si4}, la5, si4), ({sol5, si4}, fa#5, si4)|
             <piano_1_v3>  |({re4, si3}, la3, si3), (sol3, fa#4), (mi4, re4)|
@@ -97,9 +97,9 @@ Section de développement 1 — 8 mesures. Tonalité Sol majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 2 — 8 mesures. Tonalité Sol majeur, tempo 90 BPM.
+Début de la seconde partie, reprise en ré majeur avec la figure transposée. Mesures 17 à 24, ré majeur vers sol majeur. La double barre franchie, Bach repart de ré majeur avec une version légèrement modifiée de la figure d'ouverture, comme une variation en miroir de la première partie. La progression harmonique glisse vers la tierce relative mi mineur (mesure 28), avant de regagner le ton principal. Jouer cette reprise avec une inflexion douce, comme une réponse lumineuse à la première partie.
 </meta>
-    <section=section_3, n_mesure=8, bpm=90, format=3/4, tonalite=Sol_majeur>
+    <section=partie_B, n_mesure=8, bpm=84, format=3/4, tonalite=Sol_majeur>
         <mesure num=1>
             <piano_1_v1>  |({fa#4, re4}, mi4, re4), ({fa#4, re4}, sol4, re4), ({la4, re4}, sol4, re4)|
             <piano_1_v3>  |(la3, sol3), (la3, si3), (do4, si3)|
@@ -138,9 +138,9 @@ Section de développement 2 — 8 mesures. Tonalité Sol majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 3 — 8 mesures. Tonalité Sol majeur, tempo 90 BPM.
+Diversion vers le relatif mineur et la sous-dominante. Mesures 25 à 32, mi mineur et do majeur. Cette subdivision interne de la seconde partie explore le relatif mineur mi mineur (cadence parfaite à la mesure 28) puis la sous-dominante do majeur (cadence à la mesure 32), avant de préparer le retour à sol majeur. Les chromatismes expressifs coloreront le discours d'une légère mélancolie avant le retour lumineux à la tonique. Nuancer les passages mineurs avec un toucher plus profond.
 </meta>
-    <section=section_4, n_mesure=8, bpm=90, format=3/4, tonalite=Sol_majeur>
+    <section=partie_B_diversion, n_mesure=8, bpm=84, format=3/4, tonalite=Sol_majeur>
         <mesure num=1>
             <piano_1_v1>  |({do5, la4}, sol4, la4), ({fa#4, la4}, mi4, la4), ({re#4, la4}, mi4, la4)|
             <piano_1_v3>  |({la3, do4}, si3, do4), ({la3, do4}, sol3, do4), ({fa#3, do4}, mi3, do4)|
@@ -178,9 +178,9 @@ Section de développement 3 — 8 mesures. Tonalité Sol majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 4 — 8 mesures. Tonalité Sol majeur, tempo 90 BPM.
+Retour vers sol majeur et cadence finale. Mesures 33 à 40, sol majeur. La pièce se réoriente nettement vers sol majeur, la figure ornementale revient dans sa forme originelle et les pédales se réinstallent. La transposition aux mesures 43 à 48 du matériau des mesures 11 à 16 crée une symétrie architecturale caractéristique de la forme binaire bachienne. Jouer avec ampleur et assurance, en annonçant la conclusion imminente.
 </meta>
-    <section=section_5, n_mesure=8, bpm=90, format=3/4, tonalite=Sol_majeur>
+    <section=partie_B_retour, n_mesure=8, bpm=84, format=3/4, tonalite=Sol_majeur>
         <mesure num=1>
             <piano_1_v1>  |(fa#4, re5), ({re5, do5}, si4, la4), ({sol4, fa#4}, mi4, re4)|
             <piano_1_v3>  |({_, do3}, si2, la2), (si2, re3), (mi3, sol3)|
@@ -217,9 +217,9 @@ Section de développement 4 — 8 mesures. Tonalité Sol majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section conclusive — 8 mesures. Tonalité Sol majeur, tempo 90 BPM.
+Conclusion en sol majeur, transposition du matériau de la cadence de la première partie. Mesures 41 à 48, sol majeur. Ces huit mesures finales reprennent le matériau de la fin de la première partie (mesures 11 à 16) transposé en sol majeur, assurant l'unification formelle de l'ensemble. La cadence parfaite conclusive en sol majeur clôt ce prélude lumineux et architecturalement accompli. Jouer avec conviction et éclat, en soulignant le caractère conclusif des dernières mesures.
 </meta>
-    <section=section_6, n_mesure=8, bpm=90, format=3/4, tonalite=Sol_majeur>
+    <section=partie_B_conclusion, n_mesure=8, bpm=84, format=3/4, tonalite=Sol_majeur>
         <mesure num=1>
             <piano_1_v1>  |({do5, la5}, sol5, la5), ({fa#5, la5}, mi5, la5), ({re5, la5}, do5, la5)|
             <piano_1_v3>  |(fa#3, la3), (re3, mi3), (fa#3, re3)|
