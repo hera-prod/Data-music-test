@@ -3,19 +3,20 @@
 TACHE : composition
 STYLE : baroque
 FORMAT : piano_solo
-NIVEAU : intermediaire
-Titre : Prelude_bwv_857
-Date : ?
-Auteur : Bach
+NIVEAU : avance
+Titre : Prélude en Fa mineur, BWV 857 (Clavier bien tempéré I, n°12)
+Date : 1722
+Auteur : Johann Sebastian Bach
 Tonalite : Fa_mineur
 Unite : quarter
-Intention : Pièce pour piano solo, modéré, mélancolique, au cadre binaire régulier. Tonalité : Fa mineur. 22 mesures.
+Intention : Ce prélude exhale une mélancolie sombre et recueillie, fondée sur un chant principal en croches à mouvement conjoint qui progresse avec gravité dans une texture polyphonique libre à quatre voix implicites, rehaussée de figurations en doubles croches et de trilles expressifs. La forme est bipartite en Fa mineur sur 22 mesures à 4/4, au tempo de 66 à la noire, avec une pédale de tonique aux deux premières mesures et une pédale de dominante aux mesures 17-21 menant à une cadence finale en Fa majeur par tierce picarde.
 </tete>
 
 <meta>
-Section d'ouverture — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
+22 mesures, tempo 66 BPM, mesure 4/4, tonalité Fa mineur, forme bipartite (mm. 1-12 et mm. 13-22), pédale de tonique (mm. 1-2) et pédale de dominante (mm. 17-21).
+La mélodie principale, exposée en croches à la voix supérieure et au ténor, est soutenue par une figuration en doubles croches en brisé et par des trilles sur les notes tenues qui alour­dissent le discours plutôt qu'ils ne l'allègent, créant un effet de pesanteur expressive. La première période (mm. 1-12) passe par la sous-dominante mineure (Sib mineur, m. 5), par la relative majeure (Lab majeur, m. 7-10), avant de cadencer en dominante (Do majeur). La seconde période (mm. 13-22) ramène le sujet initial sur une longue pédale de dominante (mm. 17-21), préparant la résolution finale. Le prélude anticipe le sujet de la fugue dans la coda (mm. 16-20) par des notes en valeurs longues. L'interprète portera les voix intérieures avec autant de soin que le chant principal, en respectant les liaisons de tenues qui créent des dissonances expressives.
 </meta>
-    <section=section_1, n_mesure=8, bpm=90, format=4/4, tonalite=Fa_mineur>
+    <section=partie_A, n_mesure=8, bpm=66, format=4/4, tonalite=Fa_mineur>
         <mesure num=1>
             <piano_1_v1>  |({fa4, lab4}, do5, fa5), ({sol4, fa5}, mi5, sol5), ({lab4, do5}, fa5, mi5), fa5|
             <piano_1_v2>  |fa4, sol4, lab4, ({fa5, do5}, sib4, lab4)|
@@ -70,9 +71,10 @@ Section d'ouverture — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 1 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
+Mesures 9-16, tempo 66 BPM, mesure 4/4, développement modulant vers Do mineur puis retour à Fa mineur, avec amplification du registre aigu jusqu'à do6 et sol5.
+Cette section centrale intensifie la tension harmonique par des séquences modulantes vers Do mineur et des élaborations motiviques en doubles croches à grande amplitude (montée jusqu'à do6, m. 11). La figuration en arpèges brisés génère un contrepoint implicite à quatre voix qui anticipe le langage fugué de la pièce suivante. La cadence trompeuse à la mesure 16 (Do mineur attendu, résolu en Lab majeur) crée une déception harmonique qui prépare le retour dramatique du motif initial. L'interprète privilégiera une clarté de texture malgré la densité des arpèges croisés entre les mains.
 </meta>
-    <section=section_2, n_mesure=8, bpm=90, format=4/4, tonalite=Fa_mineur>
+    <section=partie_B, n_mesure=8, bpm=66, format=4/4, tonalite=Fa_mineur>
         <mesure num=1>
             <piano_1_v1>  |({do5, lab4}, do5, mi5), ({fa5, sol5}, mi5, fa5), sol5, -|
             <piano_1_v4>  |lab3, ({lab3, _}, _), ({mi3, sol3}, sib3, reb4), ({do3, fa3}, mi3, sol3)|
@@ -124,9 +126,10 @@ Section de développement 1 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section conclusive — 6 mesures. Tonalité Fa mineur, tempo 90 BPM.
+Mesures 17-22, tempo 66 BPM, mesure 4/4, coda avec pédale de dominante (Do) et cadence finale en Fa mineur terminant sur la tierce picarde.
+Cette section conclusive ramène le motif initial de la mélodie en croches sur une longue pédale de dominante aux mesures 17-21, créant une attente harmonique prolongée qui anticipe également le sujet de la fugue à venir. La résolution finale en accord parfait de Fa majeur (tierce picarde) apporte le seul rayon lumineux de la pièce, mais son caractère de consolation sombre plutôt que de triomphe est renforcé par le registre grave de la basse conclusive. Ce passage doit être joué avec une lente majesté, en laissant les tenues résonner pleinement.
 </meta>
-    <section=section_3, n_mesure=6, bpm=90, format=4/4, tonalite=Fa_mineur>
+    <section=coda, n_mesure=6, bpm=66, format=4/4, tonalite=Fa_mineur>
         <mesure num=1>
             <piano_1_v1>  |({lab4, do5}, fa5, mi5), fa5, reb5, ({reb5, reb5}, do5, sib4)|
             <piano_1_v2>  |lab4, ({fa5, do5}, sib4, lab4), ({reb5, lab4}, sol4, sib4), mi4|
