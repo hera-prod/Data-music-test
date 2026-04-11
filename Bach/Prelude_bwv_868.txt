@@ -3,19 +3,19 @@
 TACHE : composition
 STYLE : baroque
 FORMAT : piano_solo
-NIVEAU : simple
-Titre : Prelude_bwv_868
-Date : ?
-Auteur : Bach
+NIVEAU : intermediaire
+Titre : Prélude en Si majeur, BWV 868, Clavier bien tempéré I n°23
+Date : 1722
+Auteur : Johann Sebastian Bach
 Tonalite : Si_majeur
 Unite : quarter
-Intention : Pièce pour piano solo, modéré, lumineux, au cadre binaire régulier. Tonalité : Si majeur. 19 mesures.
+Intention : Ce prélude fluide et lumineux déploie avec naturel le charme de la tonalité de Si majeur, son motif de doubles croches passant d'une voix à l'autre avec une légèreté élégante. Prélude en Si majeur à 4/4, 19 mesures, articulé en quatre périodes dont une coda sur pédale de dominante, construites sur un motif principal issu de la mesure 1 traité en inversion, en séquence descendante et avec échange des parties entre le dessus et la basse.
 </tete>
 
 <meta>
-Section d'ouverture — 8 mesures. Tonalité Si majeur, tempo 90 BPM.
+Période I, 6 mesures, 4/4, Si majeur, 80 BPM. La première période s'ouvre sur une pédale de tonique aux mesures 1 à 3 et se conclut sur une cadence parfaite à la dominante Fa# ; le motif en doubles croches du dessus, fondé sur des broderies et des arpèges ascendants, circule avec fluidité entre les trois voix initiales et réclame un doigté souple et une articulation légère.
 </meta>
-    <section=section_1, n_mesure=8, bpm=90, format=4/4, tonalite=Si_majeur>
+    <section=partie_A, n_mesure=6, bpm=80, format=4/4, tonalite=Si_majeur>
         <mesure num=1>
             <piano_1_v1>  |({_, si4}, la#4, si4), ({do#5, la#4}, si4, do#5), ({_, re#5}, do#5, re#5), ({mi5, do#5}, re#5, mi5)|
             <piano_1_v2>  |re#4, mi4, fa#4, sol#4|
@@ -48,60 +48,66 @@ Section d'ouverture — 8 mesures. Tonalité Si majeur, tempo 90 BPM.
             <piano_1_v4>  |la#3, si3, -, -|
             <piano_1_v5>  |({fa#2, do#3}, si2, do#3), ({re#3, si2}, do#3, re#3), ({fa#2, la#2}, sol#2, la#2), ({si2, sol#2}, la#2, si2)|
         </mesure>
-        <mesure num=7>
+    </section>
+
+<meta>
+Période II, 5 mesures, 4/4, Fa# majeur vers La# mineur, 80 BPM. À la mesure 6 le motif de la mesure 1 est reproduit à la dominante Fa# majeur avec échange des rôles entre dessus et basse ; la texture s'étoffe à quatre voix et une séquence descendante à la mesure 12 conduit vers La# mineur, la sus-dominante, concluant sur une cadence parfaite dans ce ton.
+</meta>
+    <section=partie_B, n_mesure=5, bpm=80, format=4/4, tonalite=Fa#_majeur>
+        <mesure num=1>
             <piano_1_v1>  |({_, sol#4}, sol4, sol#4), ({la#4, sol4}, sol#4, la#4), ({sol4, la#4}, sol#4, la#4), ({si4, sol#4}, la#4, si4)|
             <piano_1_v2>  |re#4, -, -, -|
             <piano_1_v4>  |_, do#4, -, si3|
             <piano_1_v5>  |mi2, mi3, re#3, -|
         </mesure>
-        <mesure num=8>
+        <mesure num=2>
             <piano_1_v1>  |({do#5, sol#5}, sol5, sol#5), ({la#5, sol5}, sol#5, la#5), re#5, -|
             <piano_1_v2>  |_, _, (la#4, sol#4, la#4), ({si4, sol#4}, la#4, si4)|
             <piano_1_v4>  |(la#3, sol#3), sol3, sol3|
             <piano_1_v5>  |re#3, do#3, (si2, la#2), sol#2|
         </mesure>
-    </section>
-
-<meta>
-Section de développement 1 — 8 mesures. Tonalité Si majeur, tempo 90 BPM.
-</meta>
-    <section=section_2, n_mesure=8, bpm=90, format=4/4, tonalite=Si_majeur>
-        <mesure num=1>
+        <mesure num=3>
             <piano_1_v1>  |do#5, -, ({do#5, re#5}, do#5, re#5), ({mi5, do#5}, re#5, mi5)|
             <piano_1_v2>  |({mi4, si4}, la#4, sol#4), sol4, -, sol#4|
             <piano_1_v4>  |({sol#2, sol#3}, sol3, sol#3), ({la#3, sol3}, sol#3, la#3), (mi3, mi4), (re#4, do#4)|
         </mesure>
-        <mesure num=2>
+        <mesure num=4>
             <piano_1_v1>  |({la#4, si4}, la#4, si4), ({do#5, la#4}, si4, do#5), (si4, re#5), (sol#5, fa#5)|
             <piano_1_v2>  |sol#4, sol4, sol#4, _|
             <piano_1_v4>  |(re#4, do#4), (re#4, re#3), ({sol#3, la#3}, sol#3, la#3), ({si3, sol#3}, la#3, si3)|
         </mesure>
-        <mesure num=3>
+        <mesure num=5>
             <piano_1_v1>  |fa5, -, (_, do#5), (fa#5, mi5)|
             <piano_1_v2>  |({_, do#5}, si4, do#5), ({re5, si4}, do#5, re5), la4, -|
             <piano_1_v4>  |(do#3, do#4, si3), (la3, sol#3), ({fa#3, sol#3}, fa#3, sol#3), ({la3, fa#3}, sol#3, la3)|
         </mesure>
-        <mesure num=4>
+    </section>
+
+<meta>
+Période III, 5 mesures, 4/4, Si majeur, 80 BPM. La troisième période ramène progressivement le ton de Si majeur ; le motif principal apparaît en inversion au bas dès la mesure 12 de la pièce, puis au dessus aux mesures 15 et 16 ; la progression harmonique par cadences intermédiaires consolide le retour à la tonique, et le jeu en miroir entre les parties souligne l'ingéniosité contrapuntique du prélude.
+</meta>
+    <section=partie_C, n_mesure=5, bpm=80, format=4/4, tonalite=Si_majeur>
+        <mesure num=1>
             <piano_1_v1>  |re#5, -, mi5, -|
             <piano_1_v2>  |({_, la4}, sol#4, la4), ({si4, sol#4}, la4, si4), sol#4, (la#4, si4)|
             <piano_1_v4>  |(si2, si3, la3), (sol#3, fa#3), ({mi3, re#3}, mi3, re#3), ({do#3, mi3}, re#3, do#3)|
         </mesure>
-        <mesure num=5>
+        <mesure num=2>
             <piano_1_v1>  |({mi5, do#5}, si4, do#5), ({re#5, si4}, do#5, re#5), re#5, (do#5, si4)|
             <piano_1_v2>  |la#4, la4, sol#4, -|
             <piano_1_v4>  |fa#3, si2, ({mi3, re#4}, do#4, re#4), ({mi4, do#4}, re#4, mi4)|
         </mesure>
-        <mesure num=6>
+        <mesure num=3>
             <piano_1_v1>  |la#4, si4, -, la#4|
             <piano_1_v2>  |(sol#4, fa#4), (mi4, re#4), ({mi4, re#4}, do#4, re#4), ({mi4, do#4}, re#4, mi4)|
             <piano_1_v4>  |({fa#3, sol#3}, mi3, fa#3), ({sol#3, mi3}, fa#3, sol#3), do#3, fa#3|
         </mesure>
-        <mesure num=7>
+        <mesure num=4>
             <piano_1_v1>  |({_, la4}, si4, la4), ({sol#4, si4}, la4, sol#4), fa#4, -|
             <piano_1_v2>  |re#4, mi4, mi4, (re#4, do#4)|
             <piano_1_v4>  |si2, -, ({si2, do#3}, re#3, mi3), ({fa#3, la3}, sol#3, fa#3)|
         </mesure>
-        <mesure num=8>
+        <mesure num=5>
             <piano_1_v1>  |({fa#4, fa#4}, sol#4, fa#4), ({fa4, sol#4}, fa#4, fa4), fa4, -|
             <piano_1_v2>  |_, _, ({si4, do#5}, si4, do#5), ({re5, si4}, do#5, re5)|
             <piano_1_v4>  |sol#3 si3, -, -, -|
@@ -109,9 +115,9 @@ Section de développement 1 — 8 mesures. Tonalité Si majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section conclusive — 3 mesures. Tonalité Si majeur, tempo 90 BPM.
+Coda sur pédale de dominante, 4 mesures, 4/4, Si majeur, 80 BPM. La coda déploie aux mesures 17 et 18 une pédale de dominante Fa# à la basse sur laquelle le motif principal s'épanouit en inversion au dessus et à l'alto ; les mesures 18 et 19 constituent un élargissement conclusif sur pédale de tonique, achevant le prélude sur un accord de Si majeur plein et affirmé.
 </meta>
-    <section=section_3, n_mesure=3, bpm=90, format=4/4, tonalite=Si_majeur>
+    <section=coda, n_mesure=4, bpm=80, format=4/4, tonalite=Si_majeur>
         <mesure num=1>
             <piano_1_v1>  |fa#4 la#4, sol#4 si4, la#4 do#5, si4 re#5|
             <piano_1_v2>  |({_, mi4}, fa#4, mi4), ({re#4, fa#4}, mi4, re#4), ({_, do#4}, re#4, do#4), ({si3, re#4}, do#4, si3)|
@@ -129,6 +135,10 @@ Section conclusive — 3 mesures. Tonalité Si majeur, tempo 90 BPM.
             <piano_1_v3>  |_, _, _, _|
             <piano_1_v4>  |({fa#3, re#3}, do#3, re#3), ({mi3, do#3}, re#3, mi3), re#3, -|
             <piano_1_v5>  |fa#2, -, si2, -|
+        </mesure>
+        <mesure num=4>
+            <piano_1_v1>  |si4 re#5, -, -, -|
+            <piano_1_v4>  |si2 fa#3, -, -, -|
         </mesure>
     </section>
 
