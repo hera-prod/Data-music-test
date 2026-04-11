@@ -3,19 +3,19 @@
 TACHE : composition
 STYLE : baroque
 FORMAT : piano_solo
-NIVEAU : simple
-Titre : Fugue_bwv_884
-Date : ?
-Auteur : Bach
+NIVEAU : avance
+Titre : Fugue en Sol majeur, BWV 884, Clavier bien tempéré II n°15
+Date : 1742
+Auteur : Johann Sebastian Bach
 Tonalite : Sol_majeur
 Unite : quarter
-Intention : Pièce pour piano solo, modéré, lumineux, au balancement ternaire. Tonalité : Sol majeur. 71 mesures.
+Intention : Fugue à trois voix au caractère instrumental noble et lumineux, portée par un sujet ample aux élans mélodiques expressifs et un contresujet souple qui autorise de subtiles permutations. Forme en Sol majeur à mesure ternaire 3/8, 71 mesures, tempo allant environ 84 BPM, déployant une exposition complète, deux épisodes contrastés, une longue section modulante à pédale de dominante, une montée virtuose de la basse et une récapitulation apaisante en guise de conclusion.
 </tete>
 
 <meta>
-Section d'ouverture — 8 mesures. Tonalité Sol majeur, tempo 90 BPM.
+71 mesures, 84 BPM, mesure 3/8, Sol majeur. Fugue à trois voix (soprano, alto, basse) du Clavier bien tempéré II de Bach (1742). L'exposition présente le sujet ample en sol majeur (mesures 1 à 6), puis la réponse tonale à l'alto (mesures 8 à 13) et enfin l'entrée de la basse (mesures 15 à 20). Le contresujet souple, inversible à l'octave, accompagne chaque entrée et fournit la matière des épisodes. Jouer avec une pulsation ternaire bien balancée et un legato chantant, laissant le sujet se profiler clairement sur le tissu contrapuntique.
 </meta>
-    <section=section_1, n_mesure=8, bpm=90, format=3/8, tonalite=Sol_majeur>
+    <section=exposition, n_mesure=8, bpm=84, format=3/8, tonalite=Sol_majeur>
         <mesure num=1>
             <piano_1_v1>  |(_, re5), (si4, re5), (sol5, re5)|
             <piano_1_v4>  |_, _, _|
@@ -52,9 +52,9 @@ Section d'ouverture — 8 mesures. Tonalité Sol majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 1 — 8 mesures. Tonalité Sol majeur, tempo 90 BPM.
+Continuation de l'exposition avec la réponse tonale à l'alto et le contresujet au soprano. Mesures 9 à 16, Sol majeur vers ré majeur. Bach présente ici la réponse tonale avec l'altération caractéristique du premier intervalle pour respecter la tonalité, tandis que le contresujet souple s'insinue à la voix supérieure, créant une polyphonie serrée et lumineuse. Mettre en valeur l'entrée de l'alto dès la première mesure de cette section, sans écraser le contresujet.
 </meta>
-    <section=section_2, n_mesure=8, bpm=90, format=3/8, tonalite=Sol_majeur>
+    <section=exposition_suite, n_mesure=8, bpm=84, format=3/8, tonalite=Sol_majeur>
         <mesure num=1>
             <piano_1_v1>  |la5, _, la5|
             <piano_1_v2>  |(fa#4, la4), (re4, la4), (fa#4, la4)|
@@ -98,9 +98,9 @@ Section de développement 1 — 8 mesures. Tonalité Sol majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 2 — 8 mesures. Tonalité Sol majeur, tempo 90 BPM.
+Entrée du sujet à la basse et codette conclusive de l'exposition. Mesures 17 à 24, sol majeur. La basse présente enfin le sujet à sa troisième et dernière entrée de l'exposition, accompagné du contresujet au soprano et de l'alto en remplissage. La codette qui suit module vers ré majeur, préparant habilement les excursions harmoniques à venir. Veiller à ce que l'entrée grave du sujet soit bien audible malgré la densité du tissu polyphonique.
 </meta>
-    <section=section_3, n_mesure=8, bpm=90, format=3/8, tonalite=Sol_majeur>
+    <section=exposition_basse, n_mesure=8, bpm=84, format=3/8, tonalite=Sol_majeur>
         <mesure num=1>
             <piano_1_v1>  |(si5, mi5), (fa#5, la5)|
             <piano_1_v2>  |do5, -, do5|
@@ -144,9 +144,9 @@ Section de développement 2 — 8 mesures. Tonalité Sol majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 3 — 8 mesures. Tonalité Sol majeur, tempo 90 BPM.
+Premier épisode, modulation vers les tons relatifs. Mesures 25 à 32, sol majeur vers mi mineur. Cet épisode, issu des deux premières mesures du sujet, se déploie en imitations séquentielles entre soprano et basse, l'alto tissant un contrechant détaché avec suspensions. La progression harmonique traverse la dominante ré majeur avant d'atteindre le relatif mineur mi mineur. Jouer les séquences avec souplesse, en accentuant légèrement les têtes de motif imitatif.
 </meta>
-    <section=section_4, n_mesure=8, bpm=90, format=3/8, tonalite=Sol_majeur>
+    <section=episode_1, n_mesure=8, bpm=84, format=3/8, tonalite=Sol_majeur>
         <mesure num=1>
             <piano_1_v1>  |(do5, re5), (si4, re5), (sol5, re5)|
             <piano_1_v2>  |la4, sol4, _|
@@ -191,9 +191,9 @@ Section de développement 3 — 8 mesures. Tonalité Sol majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 4 — 8 mesures. Tonalité Sol majeur, tempo 90 BPM.
+Entrée du sujet à la basse en mi mineur et début du deuxième épisode. Mesures 33 à 40, mi mineur vers si mineur. La basse présente ici le sujet dans le ton relatif mineur mi mineur, tandis que le soprano déroule le contresujet en registre aigu. La codette qui s'ensuit module vers si mineur. Ce passage révèle la face mélancolique de la fugue, contrastant avec la lumière du sol majeur initial. Souligner le saut expressif de la basse en début de sujet.
 </meta>
-    <section=section_5, n_mesure=8, bpm=90, format=3/8, tonalite=Sol_majeur>
+    <section=episode_2, n_mesure=8, bpm=84, format=3/8, tonalite=Sol_majeur>
         <mesure num=1>
             <piano_1_v1>  |la5, (si5, la5), (sol5, fa#5)|
             <piano_1_v2>  |si4, mi5, re#5|
@@ -237,9 +237,9 @@ Section de développement 4 — 8 mesures. Tonalité Sol majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 5 — 8 mesures. Tonalité Sol majeur, tempo 90 BPM.
+Réponse du soprano en si mineur et long deuxième épisode modulant. Mesures 41 à 48, si mineur vers sol majeur. Le soprano présente la réponse dans le ton de si mineur, accompagné du contresujet en imitation descendante au travers des voix. L'épisode II, fondé sur la seconde mesure du sujet, se déploie en longues séquences avec imitation à la tierce entre les voix, traversant plusieurs tonalités intermédiaires avant de retrouver sol majeur. Maintenir une ligne continue dans les séquences, sans heurts aux points d'imitation.
 </meta>
-    <section=section_6, n_mesure=8, bpm=90, format=3/8, tonalite=Sol_majeur>
+    <section=divertissement, n_mesure=8, bpm=84, format=3/8, tonalite=Sol_majeur>
         <mesure num=1>
             <piano_1_v1>  |(re5, fa#5), (si4, fa#5), (re5, fa#5)|
             <piano_1_v2>  |_, _, fa#4|
@@ -284,9 +284,9 @@ Section de développement 5 — 8 mesures. Tonalité Sol majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 6 — 8 mesures. Tonalité Sol majeur, tempo 90 BPM.
+Section de pédale de dominante et dialogue imitatif entre voix. Mesures 49 à 56, tonalité sol majeur avec pédale de dominante aux mesures 56 à 61. Cette section prépare la récapitulation par une longue tenue de dominante ré qui crée une tension croissante. Le dialogue entre soprano et alto sur la pédale de basse produit un effet de suspension expressif très typique de l'écriture bachienne. Laisser résonner la pédale de basse et accentuer les dissonances de retard entre les voix supérieures.
 </meta>
-    <section=section_7, n_mesure=8, bpm=90, format=3/8, tonalite=Sol_majeur>
+    <section=pedal_dominante, n_mesure=8, bpm=84, format=3/8, tonalite=Sol_majeur>
         <mesure num=1>
             <piano_1_v1>  |re5, do5, do5|
             <piano_1_v2>  |sol#4, la4, la4|
@@ -331,9 +331,9 @@ Section de développement 6 — 8 mesures. Tonalité Sol majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 7 — 8 mesures. Tonalité Sol majeur, tempo 90 BPM.
+Montée bravura de la basse sur trois octaves et préparation de la récapitulation. Mesures 57 à 64, sol majeur. Passage spectaculaire où la basse gravit trois octaves en gamme rapide (mesure 62 dans l'analyse), tandis que les voix supérieures poursuivent leur dialogue. Ce geste virtuose crée une puissante tension rhétorique conduisant directement à la réentrée du sujet à l'alto en sol majeur, ton principal. Accentuer le caractère ascendant et inexorable de la progression de la basse.
 </meta>
-    <section=section_8, n_mesure=8, bpm=90, format=3/8, tonalite=Sol_majeur>
+    <section=preparation_recapitulation, n_mesure=8, bpm=84, format=3/8, tonalite=Sol_majeur>
         <mesure num=1>
             <piano_1_v1>  |(re4, fa#4), (la3, re4), (fa#4, do4)|
             <piano_1_v4>  |fa#3, -, (fa#3, mi3, fa#3)|
@@ -379,9 +379,9 @@ Section de développement 7 — 8 mesures. Tonalité Sol majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section conclusive — 7 mesures. Tonalité Sol majeur, tempo 90 BPM.
+Récapitulation et coda en sol majeur. Mesures 65 à 71, sol majeur. L'alto réexpose le sujet en sol majeur (mesures 65 à 70) après la longue traversée modulante, ramenant la pièce à sa tonalité lumineuse originelle. La courte coda (mesures 70 à 71) clôt la fugue sur une cadence parfaite en sol majeur. Adopter un tempo légèrement plus posé pour cette conclusion, laissant le son s'épanouir dans les registres médium et grave.
 </meta>
-    <section=section_9, n_mesure=7, bpm=90, format=3/8, tonalite=Sol_majeur>
+    <section=recapitulation, n_mesure=7, bpm=84, format=3/8, tonalite=Sol_majeur>
         <mesure num=1>
             <piano_1_v1>  |re5, -, -|
             <piano_1_v4>  |(si3, re4), (sol3, re4), (si3, re4)|
