@@ -3,19 +3,19 @@
 TACHE : composition
 STYLE : classique
 FORMAT : piano_solo
-NIVEAU : intermediaire
-Titre : Piano_Sonatas_18-4
-Date : ?
-Auteur : Beethoven
-Tonalite : Lab_majeur
+NIVEAU : avance
+Titre : Sonate pour piano n°18 en mi bémol majeur, op. 31 n°3, quatrième mouvement, Presto con fuoco (La Chasse)
+Date : 1802
+Auteur : Ludwig van Beethoven
+Tonalite : Mib_majeur
 Unite : quarter
-Intention : Pièce pour piano solo, modéré, lumineux, au flux composé. Tonalité : Lab majeur. 328 mesures.
+Intention : Ce finale, surnommé La Chasse, est une tarentelle en forme sonate d'une énergie irrésistible, avec deux motifs rythmiques quasi ininterrompus dont le célèbre thème de cor en sextoles brisées. Forme sonate en mi bémol majeur, 6/8, 328 mesures, Presto con fuoco, 90 BPM, ce mouvement est considéré comme l'une des deux plus grandes pièces de type tarentelle jamais écrites pour piano, l'autre étant le finale de la sonate en do mineur D.958 de Schubert.
 </tete>
 
 <meta>
-Section d'ouverture — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+328 mesures, Presto con fuoco (90 BPM), 6/8, mi bémol majeur. Introduction: les premières mesures s'ouvrent dans un murmure mystérieux avant l'explosion thématique. Le motif d'accompagnement en triolets de croches à la main gauche s'installe et ne s'arrêtera presque plus. Jouer piano, mystérieux, avec une précision rythmique absolue.
 </meta>
-    <section=section_1, n_mesure=8, bpm=90, format=6/8, tonalite=Lab_majeur>
+    <section=introduction, n_mesure=8, bpm=168, format=6/8, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |_, _, _, _, _, _|
             <piano_1_v3>  |mib3, sol3, -, -, -, -|
@@ -51,9 +51,9 @@ Section d'ouverture — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 1 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+Premier thème, début: le motif de chasse éclate à la main droite, figure mélodique bondissante qui évoque l'appel de cor. Ce motif en sextoles brisées (six notes jouées à la valeur de quatre) donne son caractère de saltato à ce mouvement. Jouer avec énergie, netteté et un tempo vif.
 </meta>
-    <section=section_2, n_mesure=8, bpm=90, format=6/8, tonalite=Lab_majeur>
+    <section=theme_1, n_mesure=8, bpm=168, format=6/8, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |_, _, _, _, _, sib5|
             <piano_1_v3>  |sib2, mib3, sol3, re3, mib3, sol3|
@@ -93,9 +93,9 @@ Section de développement 1 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 2 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+Premier thème, suite: le motif rythmique de la chasse s'étend et s'affirme avec davantage de plénitude. Les deux motifs fondamentaux du mouvement, accompagnement et mélodie bondissante, sont pleinement établis. L'élan rythmique ne doit jamais fléchir.
 </meta>
-    <section=section_3, n_mesure=8, bpm=90, format=6/8, tonalite=Lab_majeur>
+    <section=theme_1, n_mesure=8, bpm=168, format=6/8, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |_, _, _, _, _, _|
             <piano_1_v2>  |re4 fa4, -, re4 fa4, sib3, -, sib3|
@@ -143,9 +143,9 @@ Section de développement 2 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 3 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+Transition: la transition module de mi bémol vers si bémol majeur avec une énergie croissante. Le triolet de croches continue sans interruption à la main gauche, soutenant le voyage harmonique. Maintenir la pulsation rythmique avec régularité.
 </meta>
-    <section=section_4, n_mesure=8, bpm=90, format=6/8, tonalite=Lab_majeur>
+    <section=transition, n_mesure=8, bpm=168, format=6/8, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |_, _, _, _, _, _|
             <piano_1_v2>  |sib5, -, sib4, mib4, -, mib4|
@@ -196,9 +196,9 @@ Section de développement 3 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 4 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+Transition, suite: les séquences harmoniques de la transition s'enchaînent avec vivacité. Beethoven exploite la dominante avec insistance pour créer l'attente du second thème. Jouer avec urgence et précision.
 </meta>
-    <section=section_5, n_mesure=8, bpm=90, format=6/8, tonalite=Lab_majeur>
+    <section=transition, n_mesure=8, bpm=168, format=6/8, tonalite=Sib_majeur>
         <mesure num=1>
             <piano_1_v1>  |_, _, _, _, _, _|
             <piano_1_v2>  |sib5, -, sib4, mib4, -, mib4|
@@ -242,9 +242,9 @@ Section de développement 4 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 5 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+Transition, développement: la transition s'élargit avec des passages en octaves et des formules brillantes. L'écriture pianistique exige une technique agile et une sonorité pleine. Garder le tempo au maximum de la vivacité permise par la clarté.
 </meta>
-    <section=section_6, n_mesure=8, bpm=90, format=6/8, tonalite=Lab_majeur>
+    <section=transition, n_mesure=8, bpm=168, format=6/8, tonalite=Sib_majeur>
         <mesure num=1>
             <piano_1_v1>  |fa5 fa6, -, _, fa5 fa6, -, _|
             <piano_1_v3>  |la3, do4, mib4, la3, do4, mib4|
@@ -280,9 +280,9 @@ Section de développement 5 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 6 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+Transition, conclusion: les dernières mesures de la transition assoient définitivement si bémol majeur comme tonalité du second thème. L'attente est créée, le second thème arrive. Accentuer la cadence de préparation.
 </meta>
-    <section=section_7, n_mesure=8, bpm=90, format=6/8, tonalite=Lab_majeur>
+    <section=transition, n_mesure=8, bpm=168, format=6/8, tonalite=Sib_majeur>
         <mesure num=1>
             <piano_1_v1>  |sol5, fa5, mib5, re5, mib5, do5|
             <piano_1_v3>  |_, _, _, mib3, sol3, do4|
@@ -318,9 +318,9 @@ Section de développement 6 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 7 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+Second thème, début en si bémol majeur: un nouveau motif s'ouvre en si bémol majeur, la main droite occupant l'unité rythmique avec des triolets entrelacés. Ce second thème prologue sa dominante et retarde la résolution vers sa tonique, créant une tension caractéristique. Jouer avec assurance et fluidité.
 </meta>
-    <section=section_8, n_mesure=8, bpm=90, format=6/8, tonalite=Lab_majeur>
+    <section=theme_2, n_mesure=8, bpm=168, format=6/8, tonalite=Sib_majeur>
         <mesure num=1>
             <piano_1_v1>  |do5, mib4, sol4, do5, sol4, do5|
             <piano_1_v3>  |mib3 sol3 do4, -, _, _, _, _|
@@ -357,9 +357,9 @@ Section de développement 7 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 8 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+Second thème, développement: le second thème s'étend avec toujours plus d'éclat. Les formules brillantes en triolets occupent les deux mains. Le jeu d'octaves kaleidoscopique rappelle l'écriture de la Sonate Waldstein. Jouer avec une virtuosité lumineuse.
 </meta>
-    <section=section_9, n_mesure=8, bpm=90, format=6/8, tonalite=Lab_majeur>
+    <section=theme_2, n_mesure=8, bpm=168, format=6/8, tonalite=Sib_majeur>
         <mesure num=1>
             <piano_1_v1>  |_, _, _, _, _, _|
             <piano_1_v2>  |sib4, -, sib4, re5, -, re5|
@@ -403,9 +403,9 @@ Section de développement 8 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 9 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+Second thème, suite: l'élan du second thème se maintient dans une texture de plus en plus brillante. Les passages chromatiques et les modulations rapides créent une impression de vitesse vertigineuse. Garder la pulsation interne stable.
 </meta>
-    <section=section_10, n_mesure=8, bpm=90, format=6/8, tonalite=Lab_majeur>
+    <section=theme_2, n_mesure=8, bpm=168, format=6/8, tonalite=Sib_majeur>
         <mesure num=1>
             <piano_1_v1>  |_, _, _, _, _, _|
             <piano_1_v2>  |re6, -, re6, fa6, -, sib5|
@@ -451,9 +451,9 @@ Section de développement 9 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 10 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+Second thème, développement continu: la pédale de dominante prolongée crée une tension harmonique intense avant la résolution. Les ornements rythmiques se multiplient. L'unité rythmique en sextoles ne doit jamais être brisée.
 </meta>
-    <section=section_11, n_mesure=8, bpm=90, format=6/8, tonalite=Lab_majeur>
+    <section=theme_2, n_mesure=8, bpm=168, format=6/8, tonalite=Sib_majeur>
         <mesure num=1>
             <piano_1_v1>  |_, _, _, _, _, _|
             <piano_1_v3>  |_, _, fa3, lab3, -, fa3|
@@ -498,9 +498,9 @@ Section de développement 10 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 11 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+Matériel conclusif de l'exposition: un thème conclusif en si bémol majeur rappelle le triolet entrelacé de la main droite. L'exposition se referme avec une énergie pleinement affirmée. Jouer avec un éclat final bien marqué.
 </meta>
-    <section=section_12, n_mesure=8, bpm=90, format=6/8, tonalite=Lab_majeur>
+    <section=theme_2, n_mesure=8, bpm=168, format=6/8, tonalite=Sib_majeur>
         <mesure num=1>
             <piano_1_v1>  |_, _, _, _, _, _|
             <piano_1_v2>  |fa4 lab4, -, fa4 lab4, reb4, -, reb4|
@@ -539,9 +539,9 @@ Section de développement 11 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 12 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+Matériel conclusif, suite: les formules cadentielles de l'exposition s'enchaînent avec conviction. Le motif de chasse dans sa pleine vigueur clôt l'exposition. Maintenir le tempo et l'énergie.
 </meta>
-    <section=section_13, n_mesure=8, bpm=90, format=6/8, tonalite=Lab_majeur>
+    <section=theme_2, n_mesure=8, bpm=168, format=6/8, tonalite=Sib_majeur>
         <mesure num=1>
             <piano_1_v1>  |re5 re6, -, -, -, -, -|
             <piano_1_v3>  |si1, re2, solb2, si2, re2, solb2|
@@ -578,9 +578,9 @@ Section de développement 12 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 13 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+Matériel conclusif, fin: les dernières formules cadentielles de l'exposition consolident si bémol majeur avant la première fin (et la reprise). L'élan rythmique est maintenu jusqu'au bout. Accentuer la cadence finale de l'exposition.
 </meta>
-    <section=section_14, n_mesure=8, bpm=90, format=6/8, tonalite=Lab_majeur>
+    <section=theme_2, n_mesure=8, bpm=168, format=6/8, tonalite=Sib_majeur>
         <mesure num=1>
             <piano_1_v1>  |mib5 mib6, -, -, -, -, -|
             <piano_1_v3>  |do2, mib2, sol2, do3, mib2, sol2|
@@ -618,9 +618,9 @@ Section de développement 13 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 14 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+Transition vers le développement: la seconde fin de l'exposition s'ouvre différemment, amenant la même idée exprimée en septième de dominante en sol bémol majeur. Les sextoles entrelacées prennent la voie kaleidoscopique vers sol bémol, puis ré bémol majeur. Jouer avec fluidité dans les modulations.
 </meta>
-    <section=section_15, n_mesure=8, bpm=90, format=6/8, tonalite=Lab_majeur>
+    <section=developpement, n_mesure=8, bpm=168, format=6/8, tonalite=Solb_majeur>
         <mesure num=1>
             <piano_1_v1>  |fa5 fa6, -, -, -, -, -|
             <piano_1_v3>  |fa1, lab1, reb2, fa2, lab1, reb2|
@@ -659,9 +659,9 @@ Section de développement 14 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 15 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+Développement, début: le développement module à travers si mineur, do mineur, la bémol majeur et ré bémol majeur avec une énergie continue. La texture reste en sextoles ininterrompues. Accentuer les contrastes harmoniques.
 </meta>
-    <section=section_16, n_mesure=8, bpm=90, format=6/8, tonalite=Lab_majeur>
+    <section=developpement, n_mesure=8, bpm=168, format=6/8, tonalite=Reb_majeur>
         <mesure num=1>
             <piano_1_v1>  |_, _, _, _, _, _|
             <piano_1_v2>  |mi3 do4, -, do4, sol3, -, sol3|
@@ -704,9 +704,9 @@ Section de développement 15 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 16 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+Développement, intensification: les modules harmoniques s'accélèrent, passant par une série de septièmes de dominante et diminuées qui créent des points d'arrêt dramatiques. Les contrastes dynamiques sont à exploiter pleinement.
 </meta>
-    <section=section_17, n_mesure=8, bpm=90, format=6/8, tonalite=Lab_majeur>
+    <section=developpement, n_mesure=8, bpm=168, format=6/8, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |_, mi4, sol4, sib4, reb5, mi5|
             <piano_1_v3>  |reb4, -, _, sib3, -, sib3|
@@ -742,9 +742,9 @@ Section de développement 16 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 17 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+Développement, climax: le développement atteint son sommet dramatique dans des passages d'octaves fortissimo. La tension rythmique est à son comble. Jouer avec pleine sonorité et une énergie physique totale.
 </meta>
-    <section=section_18, n_mesure=8, bpm=90, format=6/8, tonalite=Lab_majeur>
+    <section=developpement, n_mesure=8, bpm=168, format=6/8, tonalite=Do_mineur>
         <mesure num=1>
             <piano_1_v1>  |re5, re4, fa4, lab4, si4, re5|
             <piano_1_v3>  |si3, -, _, lab3, -, lab3|
@@ -780,9 +780,9 @@ Section de développement 17 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 18 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+Développement, retransition: le discours harmonique s'achemine vers la reprise du thème initial. La tension diminue progressivement dans des passages piano qui préparent l'entrée de la récapitulation. Ménager la transition de dynamique.
 </meta>
-    <section=section_19, n_mesure=8, bpm=90, format=6/8, tonalite=Lab_majeur>
+    <section=developpement, n_mesure=8, bpm=168, format=6/8, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |do6, lab5, mib5, do5, lab5, mib5|
             <piano_1_v3>  |lab2, do3, mib3, lab3, do4, mib4|
@@ -820,9 +820,9 @@ Section de développement 18 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 19 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+Développement, préparation: l'attente harmonique est prolongée sur la dominante si bémol. Les motifs rythmiques s'amenuisent avant l'entrée de la récapitulation. Jouer avec retenue et anticipation.
 </meta>
-    <section=section_20, n_mesure=8, bpm=90, format=6/8, tonalite=Lab_majeur>
+    <section=developpement, n_mesure=8, bpm=168, format=6/8, tonalite=Reb_majeur>
         <mesure num=1>
             <piano_1_v1>  |lab5, fa5, do5, lab4, fa5, do5|
             <piano_1_v3>  |fa2, lab2, do3, fa3, lab3, do4|
@@ -860,9 +860,9 @@ Section de développement 19 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 20 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+Développement, suite: les arrêts dramatiques en la bémol majeur (mesure 148) et fa mineur (mesure 156) créent des moments de suspension au sein du flux continu. Ces pauses sont typiquement beethovéniennes. Respecter les silences avec précision.
 </meta>
-    <section=section_21, n_mesure=8, bpm=90, format=6/8, tonalite=Lab_majeur>
+    <section=developpement, n_mesure=8, bpm=168, format=6/8, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |lab5, fa5, sib4, lab4, fa5, sib4|
             <piano_1_v3>  |re2, fa2, sib2, re3, fa3, sib3|
@@ -900,9 +900,9 @@ Section de développement 20 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 21 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+Développement, fin: la troisième arrivée sur la septième de dominante à la tonique ramène l'énergie du triolet à la mesure 164. Le passage vers la récapitulation est préparé avec l'intensité maximale. Maintenir l'urgence rythmique.
 </meta>
-    <section=section_22, n_mesure=8, bpm=90, format=6/8, tonalite=Lab_majeur>
+    <section=developpement, n_mesure=8, bpm=168, format=6/8, tonalite=Fa_mineur>
         <mesure num=1>
             <piano_1_v1>  |sib5, -, lab5, fa5, -, re5|
             <piano_1_v3>  |sib2, fa3, lab3, mi3, fa3, lab3|
@@ -938,9 +938,9 @@ Section de développement 21 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 22 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+Développement, ultime modulation: les dernières modulations du développement touchent des tonalités éloignées avant le retour définitif à mi bémol majeur. L'harmonie explore si bémol mineur et mi bémol majeur dans une progression continue. Jouer avec fluidité.
 </meta>
-    <section=section_23, n_mesure=8, bpm=90, format=6/8, tonalite=Lab_majeur>
+    <section=developpement, n_mesure=8, bpm=168, format=6/8, tonalite=Sib_majeur>
         <mesure num=1>
             <piano_1_v1>  |sib4, lab4, sol4, lab4, fa4, re4|
             <piano_1_v3>  |sib2, fa3, lab3, mi3, fa3, lab3|
@@ -983,9 +983,9 @@ Section de développement 22 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 23 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+Fin du développement: les ultimes mesures du développement s'assoient sur la dominante si bémol, créant une attente maximale avant la récapitulation. Suspendre légèrement le tempo pour souligner ce moment de transition.
 </meta>
-    <section=section_24, n_mesure=8, bpm=90, format=6/8, tonalite=Lab_majeur>
+    <section=developpement, n_mesure=8, bpm=168, format=6/8, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |_, _, _, _, _, _|
             <piano_1_v2>  |re4 fa4, -, re4 fa4, sib3, -, sib3|
@@ -1036,9 +1036,9 @@ Section de développement 23 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 24 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+Récapitulation, premier thème en mi bémol majeur: le premier thème revient à la tonique avec toute son énergie première. La joie bondissante de la chasse est ici dans toute sa splendeur. Jouer avec la même fraîcheur et l'élan initial.
 </meta>
-    <section=section_25, n_mesure=8, bpm=90, format=6/8, tonalite=Lab_majeur>
+    <section=recapitulation, n_mesure=8, bpm=168, format=6/8, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |_, _, _, _, _, _|
             <piano_1_v2>  |mib4, -, sol4, re4, -, fa4|
@@ -1089,9 +1089,9 @@ Section de développement 24 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 25 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+Récapitulation, premier thème, suite: le motif de chasse se déploie dans toute son ampleur à la tonique. La régularité rythmique des sextoles est absolue. Maintenir la pulsation à pleine vitesse.
 </meta>
-    <section=section_26, n_mesure=8, bpm=90, format=6/8, tonalite=Lab_majeur>
+    <section=recapitulation, n_mesure=8, bpm=168, format=6/8, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |_, _, _, _, _, _|
             <piano_1_v2>  |si5, -, si5, mib6, -, mib6|
@@ -1133,9 +1133,9 @@ Section de développement 25 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 26 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+Récapitulation, transition: la transition est reconstruite vers mi bémol majeur pour maintenir la cohérence tonale de la récapitulation. Les formules brillantes retrouvent leur éclat naturel. Jouer avec la même vivacité que dans l'exposition.
 </meta>
-    <section=section_27, n_mesure=8, bpm=90, format=6/8, tonalite=Lab_majeur>
+    <section=recapitulation, n_mesure=8, bpm=168, format=6/8, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |reb6, -, -, reb5 reb6, -, _|
             <piano_1_v2>  |reb5, -, -, -, -, -|
@@ -1172,9 +1172,9 @@ Section de développement 26 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 27 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+Récapitulation, second thème en mi bémol majeur: le second thème revient à la tonique, équilibrant harmoniquement l'exposition. La texture brillante en sextoles est maintenue. L'élan rythmique ne doit jamais fléchir.
 </meta>
-    <section=section_28, n_mesure=8, bpm=90, format=6/8, tonalite=Lab_majeur>
+    <section=recapitulation, n_mesure=8, bpm=168, format=6/8, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |lab4, mib4, lab4, si4, lab4, si4|
             <piano_1_v3>  |si2 mib3 lab3, -, _, _, _, _|
@@ -1210,9 +1210,9 @@ Section de développement 27 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 28 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+Récapitulation, second thème, suite: le second thème s'épanouit à mi bémol majeur avec la même virtuosité qu'en si bémol. Les passages en octaves kaleidoscopiques gardent leur éclat lumineux. Jouer avec virtuosité et clarté.
 </meta>
-    <section=section_29, n_mesure=8, bpm=90, format=6/8, tonalite=Lab_majeur>
+    <section=recapitulation, n_mesure=8, bpm=168, format=6/8, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |lab4, mib4, lab4, si4, lab4, si4|
             <piano_1_v3>  |si2 mib3 lab3, -, _, _, _, _|
@@ -1248,9 +1248,9 @@ Section de développement 28 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 29 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+Récapitulation, second thème, développement: les triolets entrelacés parcourent mi bémol majeur avec une assurance accrue. La récapitulation unifie les tensions harmoniques de l'exposition. Conserver le tempo et l'énergie.
 </meta>
-    <section=section_30, n_mesure=8, bpm=90, format=6/8, tonalite=Lab_majeur>
+    <section=recapitulation, n_mesure=8, bpm=168, format=6/8, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |solb5, -, _, lab5, -, -|
             <piano_1_v2>  |_, _, _, (sib5, lab5), {sib5, lab5}, (solb5, lab5)|
@@ -1294,9 +1294,9 @@ Section de développement 29 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 30 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+Récapitulation, matériel conclusif: le thème conclusif revient à mi bémol majeur, affirmant définitivement la tonalité principale. L'exposition et la récapitulation se correspondent avec une cohérence formelle parfaite. Jouer avec conviction.
 </meta>
-    <section=section_31, n_mesure=8, bpm=90, format=6/8, tonalite=Lab_majeur>
+    <section=recapitulation, n_mesure=8, bpm=168, format=6/8, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |_, _, _, _, _, _|
             <piano_1_v2>  |reb5, -, reb5, solb5, -, solb5|
@@ -1340,9 +1340,9 @@ Section de développement 30 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 31 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+Récapitulation, matériel conclusif, suite: les formules cadentielles s'enchaînent à mi bémol majeur avec la même énergie. L'élan de la chasse ne fléchit pas. Maintenir le tempo jusqu'à la coda.
 </meta>
-    <section=section_32, n_mesure=8, bpm=90, format=6/8, tonalite=Lab_majeur>
+    <section=recapitulation, n_mesure=8, bpm=168, format=6/8, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |_, _, _, _, _, _|
             <piano_1_v2>  |solb5, -, sib4, mib5, -, solb4|
@@ -1386,9 +1386,9 @@ Section de développement 31 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 32 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+Récapitulation, matériel conclusif, fin: les dernières cadences de la récapitulation referment le second grand volet de cette forme sonate. La résolution harmonique est assurée et lumineuse. Accentuer la cadence finale.
 </meta>
-    <section=section_33, n_mesure=8, bpm=90, format=6/8, tonalite=Lab_majeur>
+    <section=recapitulation, n_mesure=8, bpm=168, format=6/8, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |_, _, _, _, _, _|
             <piano_1_v2>  |mib4, -, la3, do4, -, la3|
@@ -1425,9 +1425,9 @@ Section de développement 32 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 33 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+Coda, début: la coda s'ouvre en indiquant le fragment initial du premier thème à la tonique, marquant le début d'une progression qui aboutit sur la septième de sensible de dominante (mesures 307-308). Ce passage est un prolongement de l'élan du mouvement. Jouer piano, mystérieux.
 </meta>
-    <section=section_34, n_mesure=8, bpm=90, format=6/8, tonalite=Lab_majeur>
+    <section=coda, n_mesure=8, bpm=168, format=6/8, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |_, _, _, _, _, _|
             <piano_1_v3>  |sib2, fa3, lab3, mi3, fa3, lab3|
@@ -1463,9 +1463,9 @@ Section de développement 33 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 34 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+Coda, développement: la septième de sensible de dominante est répétée avant les fragments finaux du premier thème. Les gammes et sixtes diminuées (mesures 324 et 326) créent une dernière tension avant la cadence finale. Accentuer le crescendo progressif.
 </meta>
-    <section=section_35, n_mesure=8, bpm=90, format=6/8, tonalite=Lab_majeur>
+    <section=coda, n_mesure=8, bpm=168, format=6/8, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |sib3, fa4, lab4, sib3, mib4, sol4|
             <piano_1_v3>  |_, _, _, _, _, _|
@@ -1501,9 +1501,9 @@ Section de développement 34 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 35 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+Coda, intensification: les passages de gammes rapides et les formules ornementales de la coda accumulent une énergie croissante. La tarentelle atteint son point d'orgue. Jouer avec une plénitude sonore croissante.
 </meta>
-    <section=section_36, n_mesure=8, bpm=90, format=6/8, tonalite=Lab_majeur>
+    <section=coda, n_mesure=8, bpm=168, format=6/8, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |sib3, mib4, sol4, re4, mib4, sol4|
             <piano_1_v3>  |_, _, _, _, _, sib5|
@@ -1539,9 +1539,9 @@ Section de développement 35 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 36 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+Coda, développement ultérieur: le motif de chasse revient dans sa forme la plus dépouillée et la plus énergique, préparant l'affirmation finale. L'unité rythmique en sextoles est absolue. Maintenir la pulsation interne.
 </meta>
-    <section=section_37, n_mesure=8, bpm=90, format=6/8, tonalite=Lab_majeur>
+    <section=coda, n_mesure=8, bpm=168, format=6/8, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |do4, fa4, lab4, sol4, lab4, do5|
             <piano_1_v3>  |fa2, -, _, _, _, mib6|
@@ -1577,9 +1577,9 @@ Section de développement 36 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 37 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+Coda, avant-dernière section: les formules brillantes en octaves accumulent la tension finale. L'écriture pianistique atteint ici son niveau de virtuosité maximal. Jouer avec pleine sonorité et endurance.
 </meta>
-    <section=section_38, n_mesure=8, bpm=90, format=6/8, tonalite=Lab_majeur>
+    <section=coda, n_mesure=8, bpm=168, format=6/8, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |sol4, sib4, reb5, mib4, sib4, reb5|
             <piano_1_v3>  |mib3, -, reb3, sib2, -, sol2|
@@ -1617,9 +1617,9 @@ Section de développement 37 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 38 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+Coda, approche de la cadence finale: les dernières modulations harmoniques convergent irrésistiblement vers la cadence finale en mi bémol majeur. Le tempo peut légèrement s'accélérer dans la joie de la conclusion. Accentuer la convergence vers le dernier accord.
 </meta>
-    <section=section_39, n_mesure=8, bpm=90, format=6/8, tonalite=Lab_majeur>
+    <section=coda, n_mesure=8, bpm=168, format=6/8, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |sib5, -, sol5, mib5, -, sib4|
             <piano_1_v3>  |mib2, -, _, _, _, _|
@@ -1656,9 +1656,9 @@ Section de développement 38 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 39 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+Coda, ultime section: les derniers fragments du premier thème sont affirmés avec une jubilation absolue. La chasse se termine dans un galop final. Jouer fortissimo avec un maximum d'éclat.
 </meta>
-    <section=section_40, n_mesure=8, bpm=90, format=6/8, tonalite=Lab_majeur>
+    <section=coda, n_mesure=8, bpm=168, format=6/8, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |mib3 solb3 la3 do4 mib4, -, -, mib3 solb3 la3 do4 mib4, -, sib5|
             <piano_1_v3>  |la1 do2 mib2 solb2 la2, -, -, la1 do2 mib2 solb2 la2, -, _|
@@ -1695,9 +1695,9 @@ Section de développement 39 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section conclusive — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+Coda, conclusion: les mesures finales affirment mi bémol majeur de façon décisive et joyeuse, dans l'esprit de la chasse qui donne son nom à cette sonate. Le dernier accord doit retentir avec une plénitude totale. Fin avec éclat.
 </meta>
-    <section=section_41, n_mesure=8, bpm=90, format=6/8, tonalite=Lab_majeur>
+    <section=coda, n_mesure=8, bpm=168, format=6/8, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |si4, -, lab4, fa4, -, re4|
             <piano_1_v3>  |si3, -, lab3, fa3, -, re3|

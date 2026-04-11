@@ -3,19 +3,19 @@
 TACHE : composition
 STYLE : classique
 FORMAT : piano_solo
-NIVEAU : simple
-Titre : Piano_Sonatas_18-3
-Date : ?
-Auteur : Beethoven
+NIVEAU : intermediaire
+Titre : Sonate pour piano n°18 en mi bémol majeur, op. 31 n°3, troisième mouvement, Menuetto: Moderato e grazioso
+Date : 1802
+Auteur : Ludwig van Beethoven
 Tonalite : Mib_majeur
 Unite : quarter
-Intention : Pièce pour piano solo, modéré, lumineux, au balancement ternaire. Tonalité : Mib majeur. 73 mesures.
+Intention : Ce menuet, le dernier que Beethoven écrira dans une sonate pour piano majeure, offre une mélodie chantante d'une exquise simplicité, avec un trio qui surprend par ses septièmes diminuées et ses croisements rythmiques. Forme ternaire en mi bémol majeur, 3/4, 73 mesures, Moderato e grazioso, 90 BPM; le trio, utilisé par Saint-Saëns comme base de ses Variations op.35 pour piano à quatre mains, introduit des tierces mineures inattendues.
 </tete>
 
 <meta>
-Section d'ouverture — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+73 mesures, Moderato e grazioso (90 BPM), 3/4, mi bémol majeur. Menuet, première reprise: une mélodie chantante et gracieuse se déroule dans la plus grande simplicité, avec deux phrases de huit mesures. La première phrase module vers si bémol majeur, la seconde revient à la tonique. Jouer avec legato, grâce et délicatesse, dans un esprit de chant vocal.
 </meta>
-    <section=section_1, n_mesure=8, bpm=90, format=3/4, tonalite=Mib_majeur>
+    <section=partie_A, n_mesure=8, bpm=88, format=3/4, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |(sib3, mib4)|
             <piano_1_v3>  |_, _, _|
@@ -66,9 +66,9 @@ Section d'ouverture — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 1 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+Menuet, deuxième reprise: la mélodie revient légèrement enrichie, la cadence finale modifiée avec une appoggiature qui retarde délicieusement la résolution. Cette appoggiature doit être jouée avec expressivité et tendresse, comme un soupir.
 </meta>
-    <section=section_2, n_mesure=8, bpm=90, format=3/4, tonalite=Mib_majeur>
+    <section=partie_A, n_mesure=8, bpm=88, format=3/4, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |sol4, (fa4, _), (sib3, mib4)|
             <piano_1_v2>  |(mib4, sib3), re4, (sib3, lab3)|
@@ -121,9 +121,9 @@ Section de développement 1 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 2 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+Menuet, développement intérieur: une courte section de développement module vers des tons voisins, avec des harmonies légèrement plus sombres, avant de préparer la répétition de la mélodie principale. Les septièmes diminuées introduisent une teinte harmonique inattendue. Jouer avec sensibilité harmonique.
 </meta>
-    <section=section_3, n_mesure=8, bpm=90, format=3/4, tonalite=Mib_majeur>
+    <section=partie_B, n_mesure=8, bpm=88, format=3/4, tonalite=Sib_majeur>
         <mesure num=1>
             <piano_1_v1>  |sib5, sol5, (lab5, fa5)|
             <piano_1_v2>  |mib5, mib5, sib4|
@@ -173,9 +173,9 @@ Section de développement 2 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 3 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+Menuet, retour et conclusion: la mélodie principale revient pour conclure le menuet avec sa grâce initiale. La cadence finale est pleinement résolue, préparant la transition vers le trio. Soigner le phrasé final du menuet.
 </meta>
-    <section=section_4, n_mesure=8, bpm=90, format=3/4, tonalite=Mib_majeur>
+    <section=partie_B, n_mesure=8, bpm=88, format=3/4, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |(fa4, lab4, sol4), (fa4, _), sol3 mib4 sol4|
             <piano_1_v2>  |(re4, mib4), re4|
@@ -220,9 +220,9 @@ Section de développement 3 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 4 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+Trio, début en mi bémol majeur: le trio présente des phrases courtes et des accords isolés, créant un contraste frappant avec la mélodie chantante du menuet. Ce sont des septièmes diminuées au premier temps qui donnent au trio son caractère expressif particulier. Jouer plus léger, presque détaché, avec curiosité harmonique.
 </meta>
-    <section=section_5, n_mesure=8, bpm=90, format=3/4, tonalite=Mib_majeur>
+    <section=trio, n_mesure=8, bpm=88, format=3/4, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |lab4 si4 re5 fa5, sib3, fa4 lab4 si4 re5|
             <piano_1_v3>  |_, _, _|
@@ -268,9 +268,9 @@ Section de développement 4 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 5 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+Trio, croisements rythmiques: dans cette section, des neuvièmes mineures apparaissent et les accords se regroupent par deux, créant un croisement rythmique de 2/4 dans le cadre ternaire de 3/4. Ce passage, d'une sophistication remarquable, a fasciné Saint-Saëns au point de le choisir comme thème pour ses variations op. 35. Jouer en accentuant le rythme croisé avec discrétion.
 </meta>
-    <section=section_6, n_mesure=8, bpm=90, format=3/4, tonalite=Mib_majeur>
+    <section=trio, n_mesure=8, bpm=88, format=3/4, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |la4 mib5 la5, -, sib3 mib4 sib4|
             <piano_1_v3>  |_, _, _|
@@ -317,9 +317,9 @@ Section de développement 5 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 6 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+Trio, suite et conclusion: le trio referme ses courtes phrases avec des accords résolus, préparant la reprise da capo du menuet. La légèreté et la brièveté des phrases du trio sont caractéristiques de ce type de section contrastante chez Beethoven.
 </meta>
-    <section=section_7, n_mesure=8, bpm=90, format=3/4, tonalite=Mib_majeur>
+    <section=trio, n_mesure=8, bpm=88, format=3/4, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |fa4 lab4, mib4 sol4, (sol4, lab4)|
             <piano_1_v2>  |(sib3, sib3), (sib3, sib3), (mib4, mib4)|
@@ -371,9 +371,9 @@ Section de développement 6 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 7 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+Menuet da capo, première partie: le menuet est repris tel quel, avec sa mélodie gracieuse et ses deux reprises. Le retour au legato chantant après le staccato du trio doit être immédiat et naturel. Retrouver la grâce initiale.
 </meta>
-    <section=section_8, n_mesure=8, bpm=90, format=3/4, tonalite=Mib_majeur>
+    <section=partie_A, n_mesure=8, bpm=88, format=3/4, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |si4, -, (sib4, lab4)|
             <piano_1_v2>  |_, _, (_, sib4, lab4), _|
@@ -424,9 +424,9 @@ Section de développement 7 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 8 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+Menuet da capo, deuxième partie: la deuxième reprise du menuet est jouée avec le même phrasé expressif, l'appoggiature de la cadence finale exprimant toujours sa délicate hésitation. Les dernières mesures mènent à la coda.
 </meta>
-    <section=section_9, n_mesure=8, bpm=90, format=3/4, tonalite=Mib_majeur>
+    <section=partie_A, n_mesure=8, bpm=88, format=3/4, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |sol4 mib5, _, (mib4, mi4)|
             <piano_1_v3>  |_, _, _|
@@ -470,9 +470,9 @@ Section de développement 8 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section conclusive — 1 mesures. Tonalité Mib majeur, tempo 90 BPM.
+Coda: une mesure conclusive en mi bémol majeur, le do avec accord de tierce, referme ce mouvement avec une élégance sobre. C'est la dernière note de ce dernier menuet beethovénien pour piano. Jouer avec plénitude et clarté.
 </meta>
-    <section=section_10, n_mesure=1, bpm=90, format=3/4, tonalite=Mib_majeur>
+    <section=coda, n_mesure=1, bpm=88, format=3/4, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |mib4, _, _|
             <piano_1_v3>  |sol3 sib3, _, _|
