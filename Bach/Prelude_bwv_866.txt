@@ -3,19 +3,19 @@
 TACHE : composition
 STYLE : baroque
 FORMAT : piano_solo
-NIVEAU : simple
-Titre : Prelude_bwv_866
-Date : ?
-Auteur : Bach
+NIVEAU : avance
+Titre : Prélude en Sib majeur, BWV 866, Clavier bien tempéré I, n°21
+Date : 1722
+Auteur : Johann Sebastian Bach
 Tonalite : Sib_majeur
 Unite : quarter
-Intention : Pièce pour piano solo, modéré, lumineux, au cadre binaire régulier. Tonalité : Sib majeur. 20 mesures.
+Intention : Prélude d'un caractère improvisé et virtuose, alternant un style toccata aux accords brisés en doubles croches et un style fantaisie aux grandes harmonies plaquées et aux fusées scalaires, qui met en valeur l'étendue sonore et la liberté expressive du clavecin. Prélude en Sib majeur, 20 mesures en 4/4, structuré en deux périodes de dix mesures : la première d'allure violonistique se conclut en Fa majeur, la seconde de caractère improvisatoire affirme le retour à la tonique par un arpège final.
 </tete>
 
 <meta>
-Section d'ouverture — 8 mesures. Tonalité Sib majeur, tempo 90 BPM.
+Texture à plusieurs voix imbriquées, 10 mesures, tempo 80 BPM, mesure 4/4, tonalités Sib majeur et Fa majeur. La première période déploie une écriture de style toccata en doubles croches rapides formant des accords arpégés en séquences de quartes descendantes ; chaque motif de quatre notes tombe d'une tierce toutes les demi-mesures, exigeant un mécanisme limpide et un phrasé arqué qui rende perceptible la logique harmonique sous-jacente.
 </meta>
-    <section=section_1, n_mesure=8, bpm=90, format=4/4, tonalite=Sib_majeur>
+    <section=partie_A, n_mesure=10, bpm=80, format=4/4, tonalite=Sib_majeur>
         <mesure num=1>
             <piano_1_v1>  |({_, fa4, re5}, {fa4, _, fa4}, {do5, fa4}), ({_, fa4, re5}, {fa4, _, la4}, {fa5, la4}), ({_, re4, sib4}, {re4, _, re4}, {la4, re4}), ({_, re4, sib4}, {re4, _, fa4}, {re5, fa4})|
             <piano_1_v4>  |(sib3, la3), (sib3, fa3), (sol3, fa3), (sol3, re3)|
@@ -55,79 +55,73 @@ Section d'ouverture — 8 mesures. Tonalité Sib majeur, tempo 90 BPM.
             <piano_1_v4>  |_, _, ({sib3, la3}, {sol3, fa3}), (re3, {do3, sib2})|
             <piano_1_v5>  |(la3, _, {_, _}), ({_, _, _}, _), (_, {_, mib3}, {re3, do3}), ({sib2, do3, _}, {_, la2}, {sol2, fa2})|
         </mesure>
-    </section>
-
-<meta>
-Section de développement 1 — 8 mesures. Tonalité Sib majeur, tempo 90 BPM.
-</meta>
-    <section=section_2, n_mesure=8, bpm=90, format=4/4, tonalite=Sib_majeur>
-        <mesure num=1>
+        <mesure num=9>
             <piano_1_v1>  |({_, do4, sib4}, {do4, _, do4}, {la4, do4}), ({_, sib3, la4}, {sib3, _, sib3}, {sol4, sib3}), ({_, sol4}, _, fa4), ({_, fa4}, _, mi4)|
             <piano_1_v4>  |_, _, (la3, {la3, la3}, la3), (sol3, {sol3, sol3}, sol3)|
             <piano_1_v5>  |(mi2, fa2), (re2, mi2), (fa2, la2), (sib2, do3)|
         </mesure>
-        <mesure num=2>
+        <mesure num=10>
             <piano_1_v1>  |({do4, fa4}, {do4, fa4}, do4), (_, _, _), (_, do4, {mib4, solb4})|
             <piano_1_v4>  |(la3, la3, la3), ({fa3, la3, do4}, {la3, fa3, do4}, {la3, fa3}), ({fa3, mi3}, {re3, do3}), la3|
             <piano_1_v5>  |(fa2, _), _, ({do3, _, _}, {_, _, sib2}, {la2, sol2}), ({fa2, la2, do3}, {fa3, _})|
         </mesure>
-        <mesure num=3>
+    </section>
+
+<meta>
+Texture à plusieurs voix, 10 mesures, tempo 80 BPM, mesure 4/4, tonalité Sib majeur. La seconde période adopte un style fantaisie improvisatoire qui alterne accords plaqués aux grandes harmonies expressives et passages scalaires rapides, puis se conclut par un arpège étendu confirmant la tonique ; les accords larges, indiqués adagio par un élève de Bach, invitent à une liberté rythmique mesurée et à un toucher profond qui exploite toute la résonance de l'instrument.
+</meta>
+    <section=partie_B, n_mesure=10, bpm=80, format=4/4, tonalite=Sib_majeur>
+        <mesure num=11>
             <piano_1_v1>  |_, (lab4 sib4 re5 fa5, lab4 sib4 re5 fa5), sol4 si4 re5 fa5, ({fa5, sol5, lab5}, {sol5, fa5, mib5}, {re5, mib5})|
             <piano_1_v4>  |(re2, _), (re4, re4), si2 re3 sol3, _|
             <piano_1_v5>  |_, (re3 fa3 sib3, re3 fa3 sib3)|
         </mesure>
-        <mesure num=4>
+        <mesure num=12>
             <piano_1_v1>  |({fa5, mib5, re5}, {do5, si4, do5}, {re5, do5}), ({si4, la4, sol4}, {la4, si4, la4}, {sol4, fa4}), ({mib4, re4, do4}, sib3), _|
             <piano_1_v4>  |_, _, ({lab3, sol3}, {fa3, mib3})|
             <piano_1_v5>  |_, _, _, ({re3, do3, si2}, {la2, sol2, fa2}, {mib2, re2})|
         </mesure>
-        <mesure num=5>
+        <mesure num=13>
             <piano_1_v1>  |_, (do5 mib5, sib4 do5 mib5), la4 do5 mib5, _|
             <piano_1_v2>  |_, (sol4, sol4), fa4, -|
             <piano_1_v4>  |(do2, _), (mib3 sol3 do4, mib3 sol3 do4), fa3 la3 do4, _|
             <piano_1_v5>  |_, (do3, do3), fa3, ({fa3, do3, re3}, {mib3, fa3, sol3}, {la3, sib3})|
         </mesure>
-        <mesure num=6>
+        <mesure num=14>
             <piano_1_v1>  |_, _, ({mib4, re4, do4}, {re4, mib4, fa4}, {sol4, la4}), ({sib4, do5, re5}, {mib5, fa5, sol5}, {la5, fa5})|
             <piano_1_v2>  |_, (re4, {mib4, fa4})|
             <piano_1_v4>  |({la3, sol3, fa3}, {sol3, la3, sib3}, {do4, re4}), ({do4, sib3, la3}, {sib3, do4}), _, _|
         </mesure>
-        <mesure num=7>
+        <mesure num=15>
             <piano_1_v1>  |(sib5, _), (sib4 re5, sib4 re5), sib4 re5, (reb5, do5)|
             <piano_1_v2>  |_, (fa4 lab4, fa4 lab4), mib4 sol4, (sol4 sib4, sol4 sib4)|
             <piano_1_v4>  |_, (sib2 re3 fa3 sib3, sib2 re3 fa3 sib3), mib3 sol3 sib3, (mi3 sol3 sib3, mi3 sol3 do4)|
         </mesure>
-        <mesure num=8>
+        <mesure num=16>
             <piano_1_v1>  |fa4 la4, ({la4, do5, la4}, {fa4, _, fa4}, {la4, do5}), ({la4, do5, la4}, {fa4, _, fa4}, {la4, do5}), ({solb5, fa5, mib5}, {reb5, do5, sib4}, {la4, sol4})|
             <piano_1_v2>  |do5, -, -, -|
             <piano_1_v3>  |_, mib4, mib4|
             <piano_1_v4>  |fa3 la3 do4 mib4, (_, _, _), (_, _, _), _|
         </mesure>
-    </section>
-
-<meta>
-Section conclusive — 4 mesures. Tonalité Sib majeur, tempo 90 BPM.
-</meta>
-    <section=section_3, n_mesure=4, bpm=90, format=4/4, tonalite=Sib_majeur>
-        <mesure num=1>
+        <mesure num=17>
             <piano_1_v1>  |({la4, _, _}, {_, _, solb5}, {la5, do6}), _, fa4 sib4 do5, fa4 la4 do5|
             <piano_1_v2>  |_, _, (do4, re4), mib4|
             <piano_1_v3>  |({fa4, la4}, {do5, mib5}), (sib5, {do5, reb5, la4}, {sib4, mi4})|
             <piano_1_v4>  |(_, _, _), fa3, (fa3, sol3)|
             <piano_1_v5>  |_, _, fa2 do3 mib3, fa2 do3 mib3|
         </mesure>
-        <mesure num=2>
+        <mesure num=18>
             <piano_1_v1>  |re4, ({re4, fa4, re4}, {sib3, _, sib3}, {re4, fa4}), ({re4, fa4, re4}, {sib3, _, sib3}, {re4, fa4}), ({si4, lab4, fa4}, {re4, _, _}, {_, re4})|
             <piano_1_v2>  |fa4 sib4, -, -, -|
             <piano_1_v4>  |lab3, (_, {lab3, _}, _), (_, {lab3, _}, _), (_, {si3, lab3}, {fa3, _})|
             <piano_1_v5>  |sib2 re3 fa3, -, -, -|
         </mesure>
-        <mesure num=3>
+        <mesure num=19>
             <piano_1_v1>  |(mib4, {mib4, re4}, {do4, re4}), {mib4, re4}, _, _|
             <piano_1_v4>  |_, (do4, {sib3, la3, sib3}, {do4, sib3})|
             <piano_1_v5>  |(sol3, _), _, ({la3, sol3, fa3}, {sol3, la3, sol3}, {fa3, mib3}), ({re3, mib3, fa3}, {mib3, re3, do3}, {sib2, la2})|
         </mesure>
-        <mesure num=4>
+        <mesure num=20>
             <piano_1_v1>  |(_, _), (_, {_, re4}, {fa4, re4}), ({_, fa4, sib4}, {fa4, _, sib4}, {re5, sib4}), ({_, re5, fa5}, {re5, sib5})|
             <piano_1_v2>  |_, _, (re4, fa4), sib4|
             <piano_1_v4>  |({re3, fa3}, {re3, fa3}, {sib3, fa3}), ({sib3, re4}, sib3)|
