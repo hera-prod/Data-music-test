@@ -3,19 +3,19 @@
 TACHE : composition
 STYLE : romantique
 FORMAT : piano_solo
-NIVEAU : intermediaire
-Titre : Sonata_3_4th
-Date : ?
-Auteur : Chopin
+NIVEAU : avance
+Titre : Sonate n°3 en si mineur op.58, 4e mouvement : Finale (Presto ma non tanto)
+Date : 1844
+Auteur : Frédéric Chopin
 Tonalite : Si_mineur
 Unite : quarter
-Intention : Pièce pour piano solo, modéré, mélancolique, au flux composé. Tonalité : Si mineur. 288 mesures.
+Intention : Finale exaltant d'une virtuosité héroïque, construit sur la tension permanente entre le thème agitato en si mineur et l'épisode lyrique en fa dièse majeur. Forme sonate-rondo ABABA en si mineur, mesure 6/8, 288 mesures, Presto ma non tanto ; l'écriture en polyrhythme (trois contre quatre) et les sextuplets de croches en constante accélération conduisent à une coda triomphale en si majeur.
 </tete>
 
 <meta>
-Section d'ouverture — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
+Introduction dramatique en si mineur, 8 mesures ; une irruption violente fortissimo ouvre le finale par un geste d'une énergie dévastatrice. Puis un silence sur la pédale de dominante aiguë crée une suspension haletante avant le premier sujet. Attaquer avec toute la puissance disponible.
 </meta>
-    <section=section_1, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
+    <section=introduction, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |fa#3 fa#4, -, -, fa#4 fa#5, -, -|
             <piano_1_v4>  |fa#1 fa#2, -, -, fa#2 fa#3, -, -|
@@ -51,9 +51,9 @@ Section d'ouverture — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 1 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
+Fin de l'introduction et pédale dominante ; la suspension sur la dominante aiguë prolonge la tension. Le premier sujet agitato entre alors dans un élan irrésistible. Maintenir le silence et la tension dans l'accord tenu avant l'entrée du rondo.
 </meta>
-    <section=section_2, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
+    <section=introduction, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |si3, re3, fa#3, sol3, mi3, la#3|
             <piano_1_v4>  |si1, si2, fa#2, mi2, si2, sol2|
@@ -91,9 +91,9 @@ Section de développement 1 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 2 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
+Premier sujet du rondo, si mineur, agitato ; la mélodie construite sur des suspensions chromatiques donne une impression d'instabilité perpétuelle. La main gauche en croches soutient la main droite en triolets dans une écriture polyrhythmique. Clarté des deux plans malgré la vitesse.
 </meta>
-    <section=section_3, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
+    <section=theme_1, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |fa#4, la#3, do#4, re4, si3, re#4|
             <piano_1_v2>  |_, _, _, re4, -, re#4|
@@ -137,9 +137,9 @@ Section de développement 2 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 3 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
+Continuation du premier sujet ; la reprise du thème en octaves fortissimo redouble l'intensité. Les deux mains jouent exactement le même rythme créant une puissance maximale. Coordination parfaite requise.
 </meta>
-    <section=section_4, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
+    <section=theme_1, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |fa4, -, -, mi4, -, -|
             <piano_1_v4>  |sol#2, si3, do#3, sol2, si3, do#3|
@@ -178,9 +178,9 @@ Section de développement 3 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 4 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
+Développement du premier sujet ; le thème revient une troisième fois dans une version encore plus intense, avec des sextuplets de croches à la main gauche contre des groupes de quatre à la main droite. Polyrhythme virtuose.
 </meta>
-    <section=section_5, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
+    <section=theme_1, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |re5 re6, fa#5 la5, la4 la5, la#4 la#5, mi5 sol5, do#5 do#6|
             <piano_1_v4>  |re3, fa#4, la3, sol4, la#3 do#4, sol3|
@@ -220,9 +220,9 @@ Section de développement 4 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 5 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
+Transition vers le deuxième sujet ; un passage en si majeur combine les thèmes de la codetta du premier mouvement et du trio du deuxième mouvement dans un rappel thématique cyclique. Qualité du legato dans ce pont expressif.
 </meta>
-    <section=section_6, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
+    <section=theme_1, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |fa#4 fa#5, si4 re#5, sol4 sol5, mi4 mi5, sol4 si4, si4 si5|
             <piano_1_v4>  |la2, si3, re#3, sol2, si3, mi3|
@@ -258,9 +258,9 @@ Section de développement 5 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 6 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
+Préparation harmonique vers fa dièse majeur ; les accords modulants préparent l'entrée du deuxième sujet dans la dominante majeure. La clarté harmonique doit transparaître malgré la vitesse du tempo.
 </meta>
-    <section=section_7, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
+    <section=theme_1, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |fa4, si4 fa5, mi4, la#4 mi5, mi4, la#4 mi5|
             <piano_1_v4>  |do#3, do#4, sol#3, fa#2, do#4, fa#3|
@@ -300,9 +300,9 @@ Section de développement 6 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 7 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
+Demi-cadence sur la dominante de fa dièse majeur ; la suspension harmonique crée une attente expressive avant le deuxième sujet. Respecter la durée de la suspension avant d'enchaîner.
 </meta>
-    <section=section_8, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
+    <section=theme_1, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |re4 fa4, -, -, -, -, -|
             <piano_1_v4>  |la#2 sol#3, -, -, -, -, -|
@@ -344,9 +344,9 @@ Section de développement 7 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 8 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
+Deuxième sujet en fa dièse majeur ; thème plus héroïque et lyrique, confrontant un motif martial à des figurations rapides à la main droite. L'écriture en deux motifs contrastants crée un dialogue dramatique interne. Différencier clairement les deux caractères.
 </meta>
-    <section=section_9, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
+    <section=theme_2, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |sol4 re#5, -, _, (sol#6, la6), (sol#6, fa#6), (mi6, re#6)|
             <piano_1_v4>  |la#3, -, _, sol#3 do4 fa#4, -, -|
@@ -385,9 +385,9 @@ Section de développement 8 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 9 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
+Continuation du deuxième sujet ; le motif héroïque et les figurations legiero alternent en un dialogue de plus en plus pressant. La tension dramatique monte par accumulation. Maintenir la clarté malgré la complexité.
 </meta>
-    <section=section_10, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
+    <section=theme_2, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |fa#4, -, -, -, -, -|
             <piano_1_v4>  |re#3 la#3, -, -, -, -, -|
@@ -428,9 +428,9 @@ Section de développement 9 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 10 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
+Développement du deuxième sujet ; une section en style d'étude legiero constitue la partie la plus virtuose du thème. La main droite file des traits rapides pendant que la gauche marque l'harmonie.
 </meta>
-    <section=section_11, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
+    <section=theme_2, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |(do#5, do5), (si4, la#4), (sol4, sol#4), (la#4, si4), (do5, do#5), (re#5, do#5)|
             <piano_1_v4>  |sol#3, re#4, si3, do#3, fa4, si3|
@@ -473,9 +473,9 @@ Section de développement 10 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 11 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
+Second épisode en mi bémol majeur ; après fa dièse majeur, une nouvelle présentation du deuxième sujet en mi bémol crée un contraste coloristique inattendu. L'écriture reste dans le même esprit virtuose.
 </meta>
-    <section=section_12, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
+    <section=theme_2, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |(fa#5, fa5), (mi5, re#5), (do5, do#5), (re#5, mi5), (fa5, fa#5), (sol#5, fa#5)|
             <piano_1_v4>  |do#4, sol#4, mi4, fa#3, la#4, mi4|
@@ -516,9 +516,9 @@ Section de développement 11 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 12 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
+Clôture du deuxième sujet ; la phrase conclusive revient vers si mineur pour préparer la réapparition du premier sujet. La cadence demi-cadencielle crée l'attente du retour.
 </meta>
-    <section=section_13, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
+    <section=theme_2, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |(sol#3, do4), (la3, re#4), (do4, la3), (re3, fa#3), (re#3, la3), (fa#3, do3)|
             <piano_1_v4>  |_, _, _, _, _, _|
@@ -557,9 +557,9 @@ Section de développement 12 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 13 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
+Transition vers le retour du premier sujet ; les chromatismes descendants reconduisent vers la tonique si mineur. Maintenir la tension jusqu'au bout du retour thématique.
 </meta>
-    <section=section_14, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
+    <section=theme_2, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |sol4, -, -, sol4, -, re#4|
             <piano_1_v2>  |sol4, si3, re4, sol4, do4, re#4|
@@ -603,9 +603,9 @@ Section de développement 13 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 14 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
+Retour du premier sujet en si mineur pour la deuxième fois ; la réapparition du thème agitato est identique à la première présentation mais avec une charge émotionnelle accrue. Redoubler l'intensité expressive.
 </meta>
-    <section=section_15, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
+    <section=theme_1, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |si3, -, -, sol3 si3, la4, sol4|
             <piano_1_v2>  |si3, -, la3, -, -, -|
@@ -651,9 +651,9 @@ Section de développement 14 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 15 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
+Continuation du retour du premier sujet ; les suspensions chromatiques reprennent leur rôle d'instabilisation. La main gauche en croches soutient la droite en triolets.
 </meta>
-    <section=section_16, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
+    <section=theme_1, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |mi4, _, si3 si4, do4 do5, fa#4 la4, re#4 re#5|
             <piano_1_v4>  |mi3, -, -, -, -, -|
@@ -694,9 +694,9 @@ Section de développement 15 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 16 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
+Développement du retour du premier sujet ; le thème en octaves fortissimo revient avec encore plus de puissance. L'accumulation progressive vers le sommet de l'œuvre commence.
 </meta>
-    <section=section_17, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
+    <section=theme_1, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |si4 si5, re#5, fa#4 fa#5, sol4 sol5, si4 mi5, sol#4 sol#5|
             <piano_1_v4>  |(re#3, si3), fa#4, si3, (re3, mi3), mi4, mi3|
@@ -734,9 +734,9 @@ Section de développement 16 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 17 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
+Préparation du deuxième retour du deuxième sujet ; la transition modulante s'oriente maintenant vers mi bémol majeur pour la deuxième présentation du thème B.
 </meta>
-    <section=section_18, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
+    <section=theme_1, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |do5 do6, re#5 sol5, do5, si4 si5, mi5 sol5, si4|
             <piano_1_v4>  |(sol2, re#3), do4, re#3, (sol2, mi3), si3, mi3|
@@ -773,9 +773,9 @@ Section de développement 17 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 18 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
+Transition harmonique complexe ; les modulations passagères par plusieurs tonalités avant le deuxième sujet en mi bémol créent un sentiment de montée d'adrénaline harmonique.
 </meta>
-    <section=section_19, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
+    <section=theme_1, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |sol3 la#3 re#4 sol4, -, _, sol4, -, -|
             <piano_1_v2>  |_, _, _, re#4, -, -|
@@ -817,9 +817,9 @@ Section de développement 18 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 19 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
+Suspension avant le deuxième retour du thème B ; la demi-cadence en mi bémol prépare l'entrée des figurations virtuoses du deuxième sujet.
 </meta>
-    <section=section_20, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
+    <section=theme_1, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |si4, -, si4 sol5, do5 sol#5, si4 sol5, do5 fa#5|
             <piano_1_v4>  |sol3 re4, -, sol3, fa#3, sol3, re#4|
@@ -860,9 +860,9 @@ Section de développement 19 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 20 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
+Deuxième retour du deuxième sujet en mi bémol majeur ; la même alternance de motif héroïque et de figurations legiero, mais dans une tonalité différente de la première présentation. Le contraste harmonique renouvelle l'intérêt.
 </meta>
-    <section=section_21, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
+    <section=theme_2, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |_, _, _, do4 re#4, -, -|
             <piano_1_v4>  |do1 do2, -, _, sol3, -, -|
@@ -904,9 +904,9 @@ Section de développement 20 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 21 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
+Continuation du deuxième retour ; les figurations legiero se font encore plus pressantes. La tension vers la troisième et dernière présentation du premier sujet s'intensifie.
 </meta>
-    <section=section_22, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
+    <section=theme_2, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |(sol4, sol#4), (la#4, do5), (re5, re#5), (sol#5, sol5), (fa5, re#5), (re5, do5)|
             <piano_1_v4>  |re#3 la#3 re#4, -, _, do3, re#4, sol#3|
@@ -947,9 +947,9 @@ Section de développement 21 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 22 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
+Développement du deuxième retour ; la section en style d'étude atteint une vitesse et une intensité maximales. La coordination des mains en rythmes croisés est le défi technique principal.
 </meta>
-    <section=section_23, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
+    <section=theme_2, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |(do5, do#5), (re#5, fa5), (sol5, sol#5), (do#6, do6), (la#5, sol#5), (sol5, fa5)|
             <piano_1_v4>  |sol#3, re#4, do4, fa3, sol#4, do4|
@@ -994,9 +994,9 @@ Section de développement 22 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 23 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
+Clôture du deuxième retour du thème B ; la cadence de retour s'oriente vers si mineur pour la troisième et dernière présentation du premier sujet.
 </meta>
-    <section=section_24, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
+    <section=theme_2, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |_, _, do4 sol#4, do#4 la4, do4 sol#4, do#4 sol4|
             <piano_1_v4>  |re#3, -, -, -, -, -|
@@ -1037,9 +1037,9 @@ Section de développement 23 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 24 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
+Transition vers la troisième présentation du premier sujet ; les chromatismes et les accords transitoires conduisent vers la tonique avec une énergie encore accrue.
 </meta>
-    <section=section_25, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
+    <section=theme_2, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |_, _, mi4 la#4, sol4 si4, mi4 la#4, sol4 re5|
             <piano_1_v4>  |mi3 la#3 do#4, -, -, -, -, -|
@@ -1079,9 +1079,9 @@ Section de développement 24 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 25 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
+Dernières mesures de transition avant la récapitulation finale du premier sujet ; la tension harmonique est à son maximum. L'entrée du thème A pour la troisième fois sera suivie immédiatement de la coda triomphale.
 </meta>
-    <section=section_26, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
+    <section=theme_2, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |(la4, do#5), (la#4, mi5), (do#5, la#4), (fa#4, la#4), (sol4, do#5), (la#4, sol4)|
             <piano_1_v4>  |fa1, fa#1, sol1, sol#1, la1, la#1|
@@ -1117,9 +1117,9 @@ Section de développement 25 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 26 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
+Troisième et dernière présentation du premier sujet en si mineur ; la version la plus puissante, avec les sextuplets de croches à la main gauche créant un polyrhythme 3 contre 4. Cette version finale est la plus virtuose et la plus intense de l'œuvre.
 </meta>
-    <section=section_27, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
+    <section=theme_1, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |re3 si3, _, fa#3, sol3, -, la#3|
             <piano_1_v4>  |(si1, fa#2), (si2, re3), (si2, fa#2), (si1, mi2), (sol2, mi3), (sol2, mi2)|
@@ -1155,9 +1155,9 @@ Section de développement 26 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 27 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
+Continuation de la troisième présentation ; les sextuplets en main gauche et les thèmes en main droite créent une texture à la complexité vertigineuse. La coordination doit rester parfaite.
 </meta>
-    <section=section_28, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
+    <section=theme_1, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |fa#4, -, do#4, re4, -, re#4|
             <piano_1_v4>  |(la#2, do#3), (fa#3, do#4), (fa#3, do#3), (la2, si2), (fa#3, si3), (fa#3, si2)|
@@ -1198,9 +1198,9 @@ Section de développement 27 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 28 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
+Sommet absolu de l'œuvre ; la densité rythmique et harmonique atteint son apogée. L'énergie accumulée tout au long du mouvement se libère dans ces dernières mesures avant la coda.
 </meta>
-    <section=section_29, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
+    <section=theme_1, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |fa4, -, si4, -, _, si4|
             <piano_1_v2>  |_, _, fa4, mi4, _, mi4|
@@ -1242,9 +1242,9 @@ Section de développement 28 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 29 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
+Préparation de la coda triomphale ; la musique s'oriente clairement vers si majeur (parallèle majeur) pour la conclusion. La transformation du mineur en majeur est le geste de victoire finale de toute la sonate.
 </meta>
-    <section=section_30, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
+    <section=theme_1, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |re5 re6, fa#5 la5, la4 la5, la#4 la#5, mi5 sol5, do#5 do#6|
             <piano_1_v4>  |(re3, la3), (re4, fa#4), (re4, la3), (re3, sol3), (la#3, sol4), (la#3, sol3)|
@@ -1284,9 +1284,9 @@ Section de développement 29 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 30 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
+Début de la coda triomphale en si majeur ; les accords majestueux en si majeur remplacent le si mineur initial dans une apotheose lumineuse. La puissance sonore est maximale. Jouer avec toute l'amplitude et la conviction disponibles.
 </meta>
-    <section=section_31, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
+    <section=coda, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |fa#4 fa#5, do5 re#5, sol4 sol5, mi4 mi5, sol4 si4, si4 si5|
             <piano_1_v4>  |(la2, re#3), (fa#3, do4), (fa#3, re#3), (sol2, si2), (mi3, si3), (mi3, si2)|
@@ -1322,9 +1322,9 @@ Section de développement 30 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 31 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
+Développement de la coda en si majeur ; les traits d'octaves et les accords pléniers s'enchaînent dans une conclusion héroïque. La sonate, commencée dans la sombre agitation, se conclut dans la lumière et le triomphe.
 </meta>
-    <section=section_32, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
+    <section=coda, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |fa4, si4 fa5, mi4, si4 mi5, mi4, si4 mi5|
             <piano_1_v4>  |(do#2, sol#2), (do#3, sol#3), (do#3, sol#2), (sol2, si2), (mi3, si3), (mi3, si2)|
@@ -1360,9 +1360,9 @@ Section de développement 31 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 32 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
+Péroraison de la coda ; les dernières mesures en si majeur proclament la victoire définitive du ton lumineux sur l'obscurité du mineur. Maintenir la puissance jusqu'au dernier accord.
 </meta>
-    <section=section_33, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
+    <section=coda, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |(do#4, si3), (sol#3, fa#3), (do#3, si2), do#3 fa3 si3, -, -|
             <piano_1_v4>  |_, _, _, do#2, -, -|
@@ -1400,9 +1400,9 @@ Section de développement 32 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 33 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
+Avant-dernières mesures de la coda ; les accords fortissimo de si majeur s'affirment dans un geste conclusif péremptoire. La sonate n°3, seule des sonates de Chopin à se terminer en majeur, trouve ici sa résolution lumineuse.
 </meta>
-    <section=section_34, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
+    <section=coda, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |(re5, re#5), (sol5, re#5), (mi5, sol#5), (mi5, fa5), (la5, fa5), (fa#5, la#5)|
             <piano_1_v4>  |la#2, re#4, re#3 sol3, sol#2, re#4, re#3 sol#3|
@@ -1438,9 +1438,9 @@ Section de développement 33 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 34 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
+Avant-dernière mesure ; la force sonore se concentre sur les accords terminaux. Maintenir la clarté de chaque note dans la densité des accords.
 </meta>
-    <section=section_35, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
+    <section=coda, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |re#3 si3 re#4, _, fa#3 do4 re#4, sol3 do4 mi4, _, si3 fa4|
             <piano_1_v4>  |si1 si2, la#1 la#2, la1 la2, sol1 sol2, _, sol2 sol3|
@@ -1476,9 +1476,9 @@ Section de développement 34 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section conclusive — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
+Accord final en si majeur ; la sonate n°3 op.58, commencée dans le si mineur sombre du premier mouvement, se conclut dans l'éclat triomphal du si majeur. Tenir l'accord final dans toute sa résonance.
 </meta>
-    <section=section_36, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
+    <section=coda, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |(fa#4, la4), (sol#4, fa4), (mi4, sol4), (fa#4, re#4), (re4, fa4), (mi4, do#4)|
             <piano_1_v4>  |si1 si2, _, fa#1 fa#2, si1 si2, _, fa#1 fa#2|

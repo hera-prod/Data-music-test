@@ -3,19 +3,19 @@
 TACHE : composition
 STYLE : romantique
 FORMAT : piano_solo
-NIVEAU : simple
-Titre : Sonata_3_3rd
-Date : ?
-Auteur : Chopin
+NIVEAU : avance
+Titre : Sonate n°3 en si mineur op.58, 3e mouvement : Largo
+Date : 1844
+Auteur : Frédéric Chopin
 Tonalite : Si_majeur
 Unite : quarter
-Intention : Pièce pour piano solo, modéré, lumineux, au cadre binaire régulier. Tonalité : Si majeur. 120 mesures.
+Intention : Méditation nocturne d'une profondeur abyssale, chef-d'oeuvre du lyrisme romantique inspiré par la bel canto de Bellini. Forme ternaire ABA en si majeur, mesure 4/4, 120 mesures, tempo Largo ; une introduction solennelle en rythme pointé ouvre sur une mélodie d'une sérénité quasi mystique, tandis que la section centrale en mi majeur explore les sextuplets tourbillonnants avant le retour d'une récapitulation enrichie d'une codetta d'une beauté saisissante.
 </tete>
 
 <meta>
-Section d'ouverture — 8 mesures. Tonalité Si majeur, tempo 90 BPM.
+Introduction du Largo en si majeur ; quatre mesures de rythme pointé solennel (double-croche pointée-triple croche) établissent une atmosphère de grandeur sévère avant la mélodie principale. Jouer avec un poids majestueux, tempo largo rigoureusement tenu.
 </meta>
-    <section=section_1, n_mesure=8, bpm=90, format=4/4, tonalite=Si_majeur>
+    <section=partie_A, n_mesure=8, bpm=90, format=4/4, tonalite=Si_majeur>
         <mesure num=1>
             <piano_1_v1>  |_, _, _, _|
             <piano_1_v2>  |{re#3 re#4, do#4}, {re#3 re#4, si3}, {re#3 re#4, la#3}, si2 si3|
@@ -60,9 +60,9 @@ Section d'ouverture — 8 mesures. Tonalité Si majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 1 — 8 mesures. Tonalité Si majeur, tempo 90 BPM.
+Thème principal du Largo, si majeur ; la mélodie, d'une sérénité presque mystique, se déploie sur un accompagnement en croches régulières à la main gauche. Charles Rosen y voit un hommage à l'opéra italien de Bellini. Legato absolu, voix du dessus chantée avec plénitude.
 </meta>
-    <section=section_2, n_mesure=8, bpm=90, format=4/4, tonalite=Si_majeur>
+    <section=partie_A, n_mesure=8, bpm=90, format=4/4, tonalite=Si_majeur>
         <mesure num=1>
             <piano_1_v1>  |_, _, _, _|
             <piano_1_v2>  |re#5, -, (si4, do#5), (re#5, {fa#5, mi5})|
@@ -106,9 +106,9 @@ Section de développement 1 — 8 mesures. Tonalité Si majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 2 — 8 mesures. Tonalité Si majeur, tempo 90 BPM.
+Développement du thème A ; la mélodie s'enrichit de tenues longues et d'ornements discrets, créant une texture nocturne d'une transparence rare. Les harmonies de si majeur sont soutenues par de légères pédalles harmoniques. Fluidité et profondeur sonore.
 </meta>
-    <section=section_3, n_mesure=8, bpm=90, format=4/4, tonalite=Si_majeur>
+    <section=partie_A, n_mesure=8, bpm=90, format=4/4, tonalite=Si_majeur>
         <mesure num=1>
             <piano_1_v1>  |fa#4, sol#4, fa#4, -|
             <piano_1_v2>  |re#5, -, (si4, do#5), (re#5, mi5)|
@@ -157,9 +157,9 @@ Section de développement 2 — 8 mesures. Tonalité Si majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 3 — 8 mesures. Tonalité Si majeur, tempo 90 BPM.
+Continuation du thème A ; la phrase mélodique se déploie vers les registres plus aigus avec une intensification expressive progressive. Les nuances doivent être extrêmement subtiles pour respecter le caractère Largo.
 </meta>
-    <section=section_4, n_mesure=8, bpm=90, format=4/4, tonalite=Si_majeur>
+    <section=partie_A, n_mesure=8, bpm=90, format=4/4, tonalite=Si_majeur>
         <mesure num=1>
             <piano_1_v1>  |re4, -, _, _|
             <piano_1_v2>  |sol#4, -, -, sol#4|
@@ -213,9 +213,9 @@ Section de développement 3 — 8 mesures. Tonalité Si majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 4 — 8 mesures. Tonalité Si majeur, tempo 90 BPM.
+Sommet expressif de la section A ; la mélodie atteint son apogée dans les octaves aiguës, la dynamique s'enrichit en forte avant une descente délicate. La transition vers la section B est préparée harmoniquement.
 </meta>
-    <section=section_5, n_mesure=8, bpm=90, format=4/4, tonalite=Si_majeur>
+    <section=partie_A, n_mesure=8, bpm=90, format=4/4, tonalite=Si_majeur>
         <mesure num=1>
             <piano_1_v1>  |mi4, re#4|
             <piano_1_v2>  |mi4, -, re#4, -|
@@ -270,9 +270,9 @@ Section de développement 4 — 8 mesures. Tonalité Si majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 5 — 8 mesures. Tonalité Si majeur, tempo 90 BPM.
+Transition A vers B ; les dernières mesures de si majeur pivot vers mi majeur (sous-dominante) de manière naturelle et fluide. Laisser le son décroître progressivement avant l'entrée du nouveau matériau.
 </meta>
-    <section=section_6, n_mesure=8, bpm=90, format=4/4, tonalite=Si_majeur>
+    <section=partie_A, n_mesure=8, bpm=90, format=4/4, tonalite=Si_majeur>
         <mesure num=1>
             <piano_1_v1>  |do#4, si3, -, -|
             <piano_1_v2>  |sol#4, -, sol#4, la#4|
@@ -328,9 +328,9 @@ Section de développement 5 — 8 mesures. Tonalité Si majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 6 — 8 mesures. Tonalité Si majeur, tempo 90 BPM.
+Section B en mi majeur ; les sextuplets tourbillonnants de la main droite créent un mouvement perpétuel délicat sur des accords soutenus à la main gauche. Ce passage d'une virtuosité ornementale évoque la cadence d'une improvisation nocturne. Égalité parfaite des sextuplets.
 </meta>
-    <section=section_7, n_mesure=8, bpm=90, format=4/4, tonalite=Si_majeur>
+    <section=partie_B, n_mesure=8, bpm=90, format=4/4, tonalite=Si_majeur>
         <mesure num=1>
             <piano_1_v1>  |mi4, re#4|
             <piano_1_v2>  |mi4, -, re#4, -|
@@ -385,9 +385,9 @@ Section de développement 6 — 8 mesures. Tonalité Si majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 7 — 8 mesures. Tonalité Si majeur, tempo 90 BPM.
+Développement de la section B ; les sextuplets explorent les registres médian et aigu dans une brillance légère. Les harmonies de mi majeur avec quelques appoggiaturas chromatiques enrichissent la couleur harmonique.
 </meta>
-    <section=section_8, n_mesure=8, bpm=90, format=4/4, tonalite=Si_majeur>
+    <section=partie_B, n_mesure=8, bpm=90, format=4/4, tonalite=Si_majeur>
         <mesure num=1>
             <piano_1_v1>  |do#4, si3, -, -|
             <piano_1_v2>  |sol#4, -, sol#4, la#4|
@@ -442,9 +442,9 @@ Section de développement 7 — 8 mesures. Tonalité Si majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 8 — 8 mesures. Tonalité Si majeur, tempo 90 BPM.
+Centre de la section B ; une modulation vers sol dièse majeur (mesure 68) puis vers fa mineur (mesures 72-78) apporte des contrastes coloristiques inattendus. La ligne des sextuplets reste ininterrompue.
 </meta>
-    <section=section_9, n_mesure=8, bpm=90, format=4/4, tonalite=Si_majeur>
+    <section=partie_B, n_mesure=8, bpm=90, format=4/4, tonalite=Si_majeur>
         <mesure num=1>
             <piano_1_v1>  |mi4, -, fa#4, -, _|
             <piano_1_v2>  |(mi4, {re#4, do#4}), do#4, (fa#4, {re#4, do#4}), (si3, re#4), _|
@@ -494,9 +494,9 @@ Section de développement 8 — 8 mesures. Tonalité Si majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 9 — 8 mesures. Tonalité Si majeur, tempo 90 BPM.
+Retour vers si majeur depuis la section B ; les sextuplets se déposent progressivement pour laisser réapparaître la mélodie de la section A dans son caractère serein. La transition est d'une grande fluidité.
 </meta>
-    <section=section_10, n_mesure=8, bpm=90, format=4/4, tonalite=Si_majeur>
+    <section=partie_B, n_mesure=8, bpm=90, format=4/4, tonalite=Si_majeur>
         <mesure num=1>
             <piano_1_v1>  |la#3, sol#3, -, -|
             <piano_1_v2>  |fa4, -, fa4, sol4|
@@ -554,9 +554,9 @@ Section de développement 9 — 8 mesures. Tonalité Si majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 10 — 8 mesures. Tonalité Si majeur, tempo 90 BPM.
+Récapitulation de la section A en si majeur ; la mélodie principale revient dans une version enrichie d'ornements supplémentaires. La texture est plus dense qu'à l'exposition, le caractère plus expressif encore. Chanter avec toute la profondeur disponible.
 </meta>
-    <section=section_11, n_mesure=8, bpm=90, format=4/4, tonalite=Si_majeur>
+    <section=partie_A, n_mesure=8, bpm=90, format=4/4, tonalite=Si_majeur>
         <mesure num=1>
             <piano_1_v1>  |(la4, {sol#4, fa#4}), (mi4, {si3, sol#4}), (sol#4, {mi4, re#4}), (do#4, {sol#3, mi4})|
             <piano_1_v2>  |si4, mi4, sol#4, -|
@@ -618,9 +618,9 @@ Section de développement 10 — 8 mesures. Tonalité Si majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 11 — 8 mesures. Tonalité Si majeur, tempo 90 BPM.
+Développement de la récapitulation ; les ornements et les fioritures embellissent la ligne principale sans l'alourdir. L'harmonie de si majeur s'enrichit de chromatismes expressifs. Maintenir l'équilibre entre ornement et substance.
 </meta>
-    <section=section_12, n_mesure=8, bpm=90, format=4/4, tonalite=Si_majeur>
+    <section=partie_A, n_mesure=8, bpm=90, format=4/4, tonalite=Si_majeur>
         <mesure num=1>
             <piano_1_v1>  |_, _, _, _|
             <piano_1_v2>  |_, _, _, _|
@@ -672,9 +672,9 @@ Section de développement 11 — 8 mesures. Tonalité Si majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 12 — 8 mesures. Tonalité Si majeur, tempo 90 BPM.
+Sommet de la récapitulation ; la mélodie atteint à nouveau son apogée mais avec une charge émotionnelle encore accrue par la connaissance de la section B. Plénitude sonore requise.
 </meta>
-    <section=section_13, n_mesure=8, bpm=90, format=4/4, tonalite=Si_majeur>
+    <section=partie_A, n_mesure=8, bpm=90, format=4/4, tonalite=Si_majeur>
         <mesure num=1>
             <piano_1_v1>  |fa#4, si4, -, la#4 la#5|
             <piano_1_v2>  |mi4 do#5, -, mi5, -|
@@ -727,9 +727,9 @@ Section de développement 12 — 8 mesures. Tonalité Si majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 13 — 8 mesures. Tonalité Si majeur, tempo 90 BPM.
+Préparation de la codetta ; les dernières mesures de si majeur s'étirent dans un rallentando progressif. La codetta qui suit constitue une des plus belles conclusions de tout le répertoire romantique.
 </meta>
-    <section=section_14, n_mesure=8, bpm=90, format=4/4, tonalite=Si_majeur>
+    <section=partie_A, n_mesure=8, bpm=90, format=4/4, tonalite=Si_majeur>
         <mesure num=1>
             <piano_1_v1>  |_, _, mi4 sol#4, _|
             <piano_1_v2>  |re#4 la4 re#5, -, (re#5, do#5), (si4, si5)|
@@ -780,9 +780,9 @@ Section de développement 13 — 8 mesures. Tonalité Si majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section conclusive — 8 mesures. Tonalité Si majeur, tempo 90 BPM.
+Codetta et clôture du Largo ; les derniers accords en si majeur s'éteignent dans un pianissimo de rêve. Ce silence de la fin du Largo précède l'irruption brutale et dramatique du Finale Presto. Laisser le son s'effacer complètement.
 </meta>
-    <section=section_15, n_mesure=8, bpm=90, format=4/4, tonalite=Si_majeur>
+    <section=coda, n_mesure=8, bpm=90, format=4/4, tonalite=Si_majeur>
         <mesure num=1>
             <piano_1_v1>  |_, _, _, _|
             <piano_1_v2>  |_, _, _, _|

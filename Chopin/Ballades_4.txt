@@ -3,19 +3,19 @@
 TACHE : composition
 STYLE : romantique
 FORMAT : piano_solo
-NIVEAU : intermediaire
-Titre : Ballades_4
-Date : ?
-Auteur : Chopin
-Tonalite : Sib_mineur
+NIVEAU : avance
+Titre : Ballade n°4 en fa mineur op.52
+Date : 1842
+Auteur : Frédéric Chopin
+Tonalite : Fa_mineur
 Unite : quarter
-Intention : Pièce pour piano solo, modéré, mélancolique, au flux composé. Tonalité : Sib mineur. 242 mesures.
+Intention : La plus profonde des quatre ballades, sommet du génie poétique et dramaturgique de Chopin, construite comme une tragédie musicale d'une inexorable progression vers la catastrophe. Forme libre proche de la sonate en fa mineur, mesure 6/8, 242 mesures, Andante con moto ; le premier thème subi quatre transformations cumulatives et contrapuntiques avant que le second thème pastoral en si bémol majeur ne soit à son tour transformé en coda d'une violence dévastatrice.
 </tete>
 
 <meta>
-Section d'ouverture — 8 mesures. Tonalité Sib mineur, tempo 90 BPM.
+Introduction (Largo, mesures 1-7) en do majeur (dominante de fa mineur) ; une phrase ouverte et irrésolue sur la dominante crée une attente suspendue avant le premier thème. Ce début d'une sérénité trompeuse n'annonce pas la catastrophe à venir. Piano, lenteur somptueuse.
 </meta>
-    <section=section_1, n_mesure=8, bpm=90, format=6/8, tonalite=Sib_mineur>
+    <section=introduction, n_mesure=8, bpm=90, format=6/8, tonalite=Sib_mineur>
         <mesure num=1>
             <piano_1_v1>  |sol4 sol5, sol4 sol5, sol4 sol5, sol4 sol5, sol4 sol5, sol4 sol5|
             <piano_1_v2>  |_, _, _, (sol4, do5), (sol4, do5), (sol4, do5)|
@@ -59,9 +59,9 @@ Section d'ouverture — 8 mesures. Tonalité Sib mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 1 — 8 mesures. Tonalité Sib mineur, tempo 90 BPM.
+Premier thème en fa mineur (mesures 8-22) ; valse lente et mélancolique, le thème alterne accords de tonique et de septième diminuée sur une pédale de tonique (mesures 8-10), module vers la bémol majeur (mesures 11-15) puis si bémol mineur (mesures 15-22). L'ambiguïté harmonique est constitutive du thème.
 </meta>
-    <section=section_2, n_mesure=8, bpm=90, format=6/8, tonalite=Sib_mineur>
+    <section=theme_1, n_mesure=8, bpm=90, format=6/8, tonalite=Sib_mineur>
         <mesure num=1>
             <piano_1_v1>  |mi5, sib4, reb5, -, do5, fa5|
             <piano_1_v5>  |fa3, reb4 mi4 sol4, sib3 reb4 mi4, fa2, do4 fa4 lab4, lab3 do4 fa4|
@@ -97,9 +97,9 @@ Section de développement 1 — 8 mesures. Tonalité Sib mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 2 — 8 mesures. Tonalité Sib mineur, tempo 90 BPM.
+Première présentation du thème 1, suite ; la phrase descend vers si bémol mineur dans une cadence authentique avant de revenir à fa mineur. La mélancolie de ce thème est d'une poignance rare.
 </meta>
-    <section=section_3, n_mesure=8, bpm=90, format=6/8, tonalite=Sib_mineur>
+    <section=theme_1, n_mesure=8, bpm=90, format=6/8, tonalite=Sib_mineur>
         <mesure num=1>
             <piano_1_v1>  |_, (reb5, mib5), (reb5, mib5), fa5, fa5, fa5|
             <piano_1_v5>  |solb2, sib3 reb4 solb4, solb3 sib3 reb4, reb2, lab3 reb4 fa4, fa3 lab3 reb4|
@@ -135,9 +135,9 @@ Section de développement 2 — 8 mesures. Tonalité Sib mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 3 — 8 mesures. Tonalité Sib mineur, tempo 90 BPM.
+Variation 1 du thème 1 (mesures 23-37) ; légère ornementation, petites embellissements (mesure 24), évoluant de fa mineur vers la bémol majeur (mesure 26) et si bémol mineur (mesure 30). La variation enrichit sans dénaturer.
 </meta>
-    <section=section_4, n_mesure=8, bpm=90, format=6/8, tonalite=Sib_mineur>
+    <section=theme_1, n_mesure=8, bpm=90, format=6/8, tonalite=Sib_mineur>
         <mesure num=1>
             <piano_1_v1>  |_, (do5, reb5), (do5, reb5), mib5, mib5, mib5|
             <piano_1_v5>  |fa3, lab3 do4 lab4, mi3, mib3, do4 lab4, mib3|
@@ -173,9 +173,9 @@ Section de développement 3 — 8 mesures. Tonalité Sib mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 4 — 8 mesures. Tonalité Sib mineur, tempo 90 BPM.
+Suite de la variation 1 ; la progression vers si bémol mineur se confirme dans une cadence authentique. Le caractère de valse-nocturne s'approfondit.
 </meta>
-    <section=section_5, n_mesure=8, bpm=90, format=6/8, tonalite=Sib_mineur>
+    <section=theme_1, n_mesure=8, bpm=90, format=6/8, tonalite=Sib_mineur>
         <mesure num=1>
             <piano_1_v1>  |la4, do5, fa5, mi5, sib4, reb5|
             <piano_1_v5>  |fa2, do4 fa4 la4, la3 do4 fa4, fa3, reb4 mi4 sol4, sib3 reb4 mi4|
@@ -213,9 +213,9 @@ Section de développement 4 — 8 mesures. Tonalité Sib mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 5 — 8 mesures. Tonalité Sib mineur, tempo 90 BPM.
+Interlude 1 (mesures 38-57) ; séquences en sol bémol majeur (mesures 38-41) et fa bémol majeur (mesures 42-45), référence au thème 1 en mi bémol mineur (mesures 46-49, mezza voce), cycle de quintes dans les basses (mesures 50-52). Legato parfait dans les séquences.
 </meta>
-    <section=section_6, n_mesure=8, bpm=90, format=6/8, tonalite=Sib_mineur>
+    <section=theme_1, n_mesure=8, bpm=90, format=6/8, tonalite=Sib_mineur>
         <mesure num=1>
             <piano_1_v1>  |solb4 sib4 solb5, -, -, fa4 lab4 fa5, -, -|
             <piano_1_v5>  |solb1 solb2, mib3 mib4, sib2 sib3, reb3 reb4, lab2 lab3, sib2 sib3|
@@ -252,9 +252,9 @@ Section de développement 5 — 8 mesures. Tonalité Sib mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 6 — 8 mesures. Tonalité Sib mineur, tempo 90 BPM.
+Suite de l'interlude 1 ; le cycle de quintes (mi bémol-la-ré bémol-sol bémol-do) mène à si bémol mineur (mesures 53-57) dans un passage de grande sophistication harmonique. Maintenir la clarté des voix dans ce contrepoint.
 </meta>
-    <section=section_7, n_mesure=8, bpm=90, format=6/8, tonalite=Sib_mineur>
+    <section=theme_1, n_mesure=8, bpm=90, format=6/8, tonalite=Sib_mineur>
         <mesure num=1>
             <piano_1_v1>  |fa5, (solb5, fa5), (mib5, la4), do6, -, -|
             <piano_1_v5>  |do3, la3 mib4 la4, fa3 la3 mib4, fa2, la3 mib4 la4, fa3 la3 mib4|
@@ -297,9 +297,9 @@ Section de développement 6 — 8 mesures. Tonalité Sib mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 7 — 8 mesures. Tonalité Sib mineur, tempo 90 BPM.
+Variation 2 du thème 1 (mesures 58-80) ; version plus dense et intense avec une nouvelle contre-mélodie d'alto. Les accords tombant en octaves (mesures 68-71) accumulent la tension. Ce passage a un caractère proche d'une invention à trois voix de Bach.
 </meta>
-    <section=section_8, n_mesure=8, bpm=90, format=6/8, tonalite=Sib_mineur>
+    <section=theme_1, n_mesure=8, bpm=90, format=6/8, tonalite=Sib_mineur>
         <mesure num=1>
             <piano_1_v1>  |sib4, -, -, sol4, _, _|
             <piano_1_v5>  |sib2, sib3 reb4 fa4, fa3 sib3 reb4, do3, sib3 do4 mi4, mi3 sib3 do4|
@@ -347,9 +347,9 @@ Section de développement 7 — 8 mesures. Tonalité Sib mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 8 — 8 mesures. Tonalité Sib mineur, tempo 90 BPM.
+Suite de la variation 2 ; l'intensification mène à des accords de septième diminuée accentués (mesures 70-71) au lieu de la cadence attendue, créant une déception cadentielle saisissante.
 </meta>
-    <section=section_9, n_mesure=8, bpm=90, format=6/8, tonalite=Sib_mineur>
+    <section=theme_1, n_mesure=8, bpm=90, format=6/8, tonalite=Sib_mineur>
         <mesure num=1>
             <piano_1_v1>  |solb4 solb5, solb4 solb5, mib5 solb5, mib4 solb5, (fa5, do5), (mib5, reb5)|
             <piano_1_v2>  |(mib5, fa5), (mib5, reb5), (do5, sib4), la4, -, la4|
@@ -393,9 +393,9 @@ Section de développement 8 — 8 mesures. Tonalité Sib mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 9 — 8 mesures. Tonalité Sib mineur, tempo 90 BPM.
+Transition vers le thème 2 (mesures 72-80) ; une séquence d'accords de septième (mesures 72-73) mène vers la dominante de si bémol, les mesures 74-80 transitant de si bémol mineur vers si bémol majeur. Préparer la détente expressive du thème 2.
 </meta>
-    <section=section_10, n_mesure=8, bpm=90, format=6/8, tonalite=Sib_mineur>
+    <section=theme_1, n_mesure=8, bpm=90, format=6/8, tonalite=Sib_mineur>
         <mesure num=1>
             <piano_1_v1>  |(reb5, lab4), (lab4, sol4), (si4, sib4), (mib5, sib4), (sib4, la4), (reb5, do5)|
             <piano_1_v5>  |(_, reb4 mi4), (_, sib3 reb4 mi4), (mib4, reb4 mib4 sol4), (_, mib4 solb4), (_, do4 mib4 solb4), (fa4, mib4 solb4 la4)|
@@ -433,9 +433,9 @@ Section de développement 9 — 8 mesures. Tonalité Sib mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 10 — 8 mesures. Tonalité Sib mineur, tempo 90 BPM.
+Thème 2 en si bémol majeur (mesures 80-99) ; thème pastoral d'une grande douceur, entre barcarolle et choral, avec un motif introductif (mesures 80-84). La complexité harmonique sous-jacente (cycle de quintes récurrents) contraste avec l'apparente simplicité du thème.
 </meta>
-    <section=section_11, n_mesure=8, bpm=90, format=6/8, tonalite=Sib_mineur>
+    <section=theme_2, n_mesure=8, bpm=90, format=6/8, tonalite=Sib_mineur>
         <mesure num=1>
             <piano_1_v1>  |re4, -, re4 sib4, re4, -, -|
             <piano_1_v2>  |_, _, _, sib3, -, lab3|
@@ -473,9 +473,9 @@ Section de développement 10 — 8 mesures. Tonalité Sib mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 11 — 8 mesures. Tonalité Sib mineur, tempo 90 BPM.
+Suite du thème 2 en si bémol majeur (dolce) ; des cadences parfaites récurrentes (mesures 84, 91-92, 98-99) ponctuent le thème. L'innocence trompeuse de ce thème est au cœur de l'ambivalence poétique de la ballade.
 </meta>
-    <section=section_12, n_mesure=8, bpm=90, format=6/8, tonalite=Sib_mineur>
+    <section=theme_2, n_mesure=8, bpm=90, format=6/8, tonalite=Sib_mineur>
         <mesure num=1>
             <piano_1_v1>  |sib4, -, mib4 sol4 mib5, mib4 sol4 mib5, -, do4 mib4 sol4|
             <piano_1_v2>  |mib4 sol4, -, _, _, _, _|
@@ -516,9 +516,9 @@ Section de développement 11 — 8 mesures. Tonalité Sib mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 12 — 8 mesures. Tonalité Sib mineur, tempo 90 BPM.
+Continuation du thème 2 ; les chromatismes subtils (mesures 87, 93, etc.) enrichissent l'harmonie sans troubler la sérénité de surface. Voix du dessus chantée avec douceur et plénitude.
 </meta>
-    <section=section_13, n_mesure=8, bpm=90, format=6/8, tonalite=Sib_mineur>
+    <section=theme_2, n_mesure=8, bpm=90, format=6/8, tonalite=Sib_mineur>
         <mesure num=1>
             <piano_1_v1>  |sib4, -, sol4 mib5, sol4 mib5, -, -|
             <piano_1_v2>  |mib4 sol4, -, _, _, _, _|
@@ -559,9 +559,9 @@ Section de développement 12 — 8 mesures. Tonalité Sib mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 13 — 8 mesures. Tonalité Sib mineur, tempo 90 BPM.
+Clôture du thème 2 (mesure 99) ; la cadence parfaite en si bémol majeur conclut provisoirement l'état de grâce.
 </meta>
-    <section=section_14, n_mesure=8, bpm=90, format=6/8, tonalite=Sib_mineur>
+    <section=theme_2, n_mesure=8, bpm=90, format=6/8, tonalite=Sib_mineur>
         <mesure num=1>
             <piano_1_v1>  |(lab3, fa4), (mi4, lab4), (re5, mi5), (lab5, re6), (re6, si6), (_, do6 la6)|
             <piano_1_v5>  |si2, re4, _, _, _, _|
@@ -601,9 +601,9 @@ Section de développement 13 — 8 mesures. Tonalité Sib mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 14 — 8 mesures. Tonalité Sib mineur, tempo 90 BPM.
+Interlude 2 (mesures 100-128) ; séquences en sol mineur (mesures 100-103) et la mineur (mesures 104-107), puis sol mineur et fa mineur (mesures 108-111) avant de s'installer en la bémol majeur (à partir de la mesure 112). Circulation harmonique riche et variée.
 </meta>
-    <section=section_15, n_mesure=8, bpm=90, format=6/8, tonalite=Sib_mineur>
+    <section=developpement, n_mesure=8, bpm=90, format=6/8, tonalite=Sib_mineur>
         <mesure num=1>
             <piano_1_v1>  |(sol4 mib5, lab4 fa5), (sol4 mib5, fa5), (fa4 reb5, mib5), (mib4 do5, reb5), (reb4 sib4, do5), (do4 lab4, _)|
             <piano_1_v5>  |mib2, mib3, sol3 mib4, lab2, mib3, (lab3 mib4, _)|
@@ -641,9 +641,9 @@ Section de développement 14 — 8 mesures. Tonalité Sib mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 15 — 8 mesures. Tonalité Sib mineur, tempo 90 BPM.
+Suite de l'interlude 2 ; références au thème 1 (mesures 121-124) et à l'introduction (mesures 125-128) avec changement enharmonique en mesure 128 (la bémol devient sol dièse). Ce rappel thématique prépare le retour du thème 1.
 </meta>
-    <section=section_16, n_mesure=8, bpm=90, format=6/8, tonalite=Sib_mineur>
+    <section=developpement, n_mesure=8, bpm=90, format=6/8, tonalite=Sib_mineur>
         <mesure num=1>
             <piano_1_v1>  |lab4, -, -, lab4, (sol4, lab4), (sol4, lab4)|
             <piano_1_v2>  |(do4, mib4), (sib3, mib4), (do4, mib4), (reb4, mi4), (mib4, solb4), (reb4, mi4)|
@@ -693,9 +693,9 @@ Section de développement 15 — 8 mesures. Tonalité Sib mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 16 — 8 mesures. Tonalité Sib mineur, tempo 90 BPM.
+Retour de l'introduction (mesures 129-134) ; thème introductif basé sur la dominante de ré mineur (la majeur) avec une courte cadenza en ré mineur à la mesure 134. Cette réapparition de l'introduction dans une nouvelle tonalité est un procédé de grande sophistication.
 </meta>
-    <section=section_17, n_mesure=8, bpm=90, format=6/8, tonalite=Sib_mineur>
+    <section=developpement, n_mesure=8, bpm=90, format=6/8, tonalite=Sib_mineur>
         <mesure num=1>
             <piano_1_v1>  |(si4, la4), mi5, mi5, mi5, re5, reb5|
             <piano_1_v2>  |(reb4, sol4), (mi4, sol4 la4), (mi4, sol4 la4), (mi4, solb4 la4), (re4, solb4 la4), (reb4, solb4 la4)|
@@ -746,9 +746,9 @@ Section de développement 16 — 8 mesures. Tonalité Sib mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 17 — 8 mesures. Tonalité Sib mineur, tempo 90 BPM.
+Variation 3 du thème 1 en ré mineur (mesures 135-151) ; imitation canonique entre les mains. Le thème en ré mineur avec imitation à l'octave crée une densité polyphonique nouvelle. Voix d'imitation clairement perceptible.
 </meta>
-    <section=section_18, n_mesure=8, bpm=90, format=6/8, tonalite=Sib_mineur>
+    <section=developpement, n_mesure=8, bpm=90, format=6/8, tonalite=Sib_mineur>
         <mesure num=1>
             <piano_1_v1>  |(mi4, {sol4, fa4}), (mi4, la4), (mi4, {sol4, fa4}), (mi4, la4), la4, (sib4, lab4)|
             <piano_1_v5>  |(la2, re4), (reb4, mi3), (la2, re4), reb4, _, _|
@@ -795,9 +795,9 @@ Section de développement 17 — 8 mesures. Tonalité Sib mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 18 — 8 mesures. Tonalité Sib mineur, tempo 90 BPM.
+Suite de la variation 3 ; le canon se développe à travers fa majeur, fa mineur, la bémol majeur et la bémol mineur (mesures 143-144) avant si bémol mineur (mesure 145). La polyphonie s'intensifie.
 </meta>
-    <section=section_19, n_mesure=8, bpm=90, format=6/8, tonalite=Sib_mineur>
+    <section=developpement, n_mesure=8, bpm=90, format=6/8, tonalite=Sib_mineur>
         <mesure num=1>
             <piano_1_v1>  |lab4, _, _, _, _, _|
             <piano_1_v2>  |do4, -, -, mib4, mi4, lab4|
@@ -841,9 +841,9 @@ Section de développement 18 — 8 mesures. Tonalité Sib mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 19 — 8 mesures. Tonalité Sib mineur, tempo 90 BPM.
+Variation 4 du thème 1 avec fioritures (mesures 152-168) ; ornements floraux et chromatiques transforment le thème en arabesque brillante. La progression de fa mineur vers la bémol majeur et si bémol mineur suit le même arc.
 </meta>
-    <section=section_20, n_mesure=8, bpm=90, format=6/8, tonalite=Sib_mineur>
+    <section=developpement, n_mesure=8, bpm=90, format=6/8, tonalite=Sib_mineur>
         <mesure num=1>
             <piano_1_v1>  |mib5, mib5, mib5, mib5, (fa5, do5), (mib5, reb5)|
             <piano_1_v5>  |fa3, mib4 solb4 sib4, do4 mib4 solb4, fa2, mib4 la4, la3 mib4 fa4|
@@ -879,9 +879,9 @@ Section de développement 19 — 8 mesures. Tonalité Sib mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 20 — 8 mesures. Tonalité Sib mineur, tempo 90 BPM.
+Suite de la variation 4 ; la dominante septième de si bémol (mesure 167) mène à une gamme chromatique (mesure 168) qui relie à la deuxième présentation du thème 2. Fluidité des ornements requise.
 </meta>
-    <section=section_21, n_mesure=8, bpm=90, format=6/8, tonalite=Sib_mineur>
+    <section=developpement, n_mesure=8, bpm=90, format=6/8, tonalite=Sib_mineur>
         <mesure num=1>
             <piano_1_v1>  |(lab5, {sol5, si4}), (do5, {reb5, re5}), (mib5, {solb5, mi5}), _, (mib5, {fa5, mib5}), (re5, {mib5, fa5})|
             <piano_1_v5>  |(lab2, mi3), (reb4, sib3), (sol4, reb5), (lab2, mib3), (do4, lab3), (mib4, do5)|
@@ -917,9 +917,9 @@ Section de développement 20 — 8 mesures. Tonalité Sib mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 21 — 8 mesures. Tonalité Sib mineur, tempo 90 BPM.
+Deuxième présentation du thème 2 en ré bémol majeur (mesures 169-194) ; le thème pastoral en ré bémol majeur (tonalité distante mais attendue) avec une ligne de basse plus active (leggiero). Les rythmes croisés à la mélodie (mesures 175-176) enrichissent la texture.
 </meta>
-    <section=section_22, n_mesure=8, bpm=90, format=6/8, tonalite=Sib_mineur>
+    <section=theme_2, n_mesure=8, bpm=90, format=6/8, tonalite=Sib_mineur>
         <mesure num=1>
             <piano_1_v1>  |(la3, {sib3, si3}), (do4, {reb4, sib3}), (la3, {sib3, si3}), (do4, {reb4, sib3}), (la3, {sib3, si3}), (do4, {reb4, sib3})|
             <piano_1_v5>  |fa2 re3 fa3, reb3 mi3, re3 fa3, reb3 mi3, re3 fa3, reb3 mi3|
@@ -966,9 +966,9 @@ Section de développement 21 — 8 mesures. Tonalité Sib mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 22 — 8 mesures. Tonalité Sib mineur, tempo 90 BPM.
+Développement de la deuxième présentation du thème 2 ; la seconde moitié est étendue, plus puissante et expansive, menant à deux cadences parfaites (mesures 190-191) et une pédale de tonique (mesures 191-194).
 </meta>
-    <section=section_23, n_mesure=8, bpm=90, format=6/8, tonalite=Sib_mineur>
+    <section=theme_2, n_mesure=8, bpm=90, format=6/8, tonalite=Sib_mineur>
         <mesure num=1>
             <piano_1_v1>  |reb5, -, -, reb5, -, solb5|
             <piano_1_v2>  |fa4 si4, -, -, solb4 si4, -, solb4 sib4|
@@ -1011,9 +1011,9 @@ Section de développement 22 — 8 mesures. Tonalité Sib mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 23 — 8 mesures. Tonalité Sib mineur, tempo 90 BPM.
+Clôture de la deuxième présentation du thème 2 ; l'accord de sixte augmentée française en mesure 194 (ré bémol-fa-sol-si) conduit au retour en fa mineur à partir de la mesure 195.
 </meta>
-    <section=section_24, n_mesure=8, bpm=90, format=6/8, tonalite=Sib_mineur>
+    <section=theme_2, n_mesure=8, bpm=90, format=6/8, tonalite=Sib_mineur>
         <mesure num=1>
             <piano_1_v1>  |fa4 si4 reb5 fa5, -, si4 reb5 fa5 si5, si4 reb5 solb5 si5, -, sib4 reb5 sib5|
             <piano_1_v5>  |(lab2, {reb3, fa3}), (do4, {fa3, reb3}), (reb4, {fa3, reb3}), (solb2, {reb3, solb3}), (mib4, {solb3, reb3}), (mi4, {solb3, reb3})|
@@ -1051,9 +1051,9 @@ Section de développement 23 — 8 mesures. Tonalité Sib mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 24 — 8 mesures. Tonalité Sib mineur, tempo 90 BPM.
+Transition dramatique (mesures 195-210) ; retour en fa mineur (mesure 195) avec harmonie chromatique intense, accord de dominante secondaire de sol bémol (mesure 196), accord napolitain (si bémol-ré bémol-sol bémol, mesure 196), dominante de do (mesure 202). Chromatismes à rendre parfaitement lisibles.
 </meta>
-    <section=section_25, n_mesure=8, bpm=90, format=6/8, tonalite=Sib_mineur>
+    <section=coda, n_mesure=8, bpm=90, format=6/8, tonalite=Sib_mineur>
         <mesure num=1>
             <piano_1_v1>  |(do5, {mib5, reb5}), _, _, _, _, _|
             <piano_1_v2>  |fa4 fa5, sib4 reb5 sib5, lab4 fa5 lab5, solb4 do5 lab5, -, solb4 do5 sol5|
@@ -1095,9 +1095,9 @@ Section de développement 24 — 8 mesures. Tonalité Sib mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 25 — 8 mesures. Tonalité Sib mineur, tempo 90 BPM.
+Interlude choral au-dessus d'une pédale de dominante (mesures 203-210) ; cinq accords comme une prière de velours, doux et mystérieux, avant que la coda ne libère toutes ses forces. Jouer avec une profonde retenue.
 </meta>
-    <section=section_26, n_mesure=8, bpm=90, format=6/8, tonalite=Sib_mineur>
+    <section=coda, n_mesure=8, bpm=90, format=6/8, tonalite=Sib_mineur>
         <mesure num=1>
             <piano_1_v1>  |lab6, fa4 lab4 reb5 fa5, fa3 lab3 reb4 fa4, solb3 reb4 solb4, sol3 do4 mi4, do4 sol4 do5|
             <piano_1_v2>  |lab5, _, _, _, _, _|
@@ -1134,9 +1134,9 @@ Section de développement 25 — 8 mesures. Tonalité Sib mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 26 — 8 mesures. Tonalité Sib mineur, tempo 90 BPM.
+Début de la coda (mesures 211-239) ; entièrement en fa mineur, chromatismes abondants (mesures 211-226), septièmes diminuées prépondérantes (mesures 215-216), sans modulation. La coda est une danse frénétique, une explosion de violence libérée.
 </meta>
-    <section=section_27, n_mesure=8, bpm=90, format=6/8, tonalite=Sib_mineur>
+    <section=coda, n_mesure=8, bpm=90, format=6/8, tonalite=Sib_mineur>
         <mesure num=1>
             <piano_1_v1>  |re4 fa4 re5, -, -, -, -, -|
             <piano_1_v5>  |do3 sol3 sib3, -, -, -, -, -|
@@ -1173,9 +1173,9 @@ Section de développement 26 — 8 mesures. Tonalité Sib mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 27 — 8 mesures. Tonalité Sib mineur, tempo 90 BPM.
+Développement de la coda ; l'énergie dévastatrice ne faiblit pas, les cadences parfaites (mesures 226-227 et 238-239) ponctuent la course frénétique sans l'arrêter. Maintenir la puissance et la vitesse jusqu'au bout.
 </meta>
-    <section=section_28, n_mesure=8, bpm=90, format=6/8, tonalite=Sib_mineur>
+    <section=coda, n_mesure=8, bpm=90, format=6/8, tonalite=Sib_mineur>
         <mesure num=1>
             <piano_1_v1>  |(_, lab5), (lab5, lab5), (lab5, _, reb6), (reb6, {do6, si5}), (sib5, {la5, lab5}), (lab5, {sol5, do6})|
             <piano_1_v2>  |(lab4, {mib5, reb5}), ({mib5, reb5}, {do5, solb5}), (solb5, {fa5, _}), (reb5, {fa5, reb5}), (fa5, {reb5, fa5}), (sib4, {mi5, do5})|
@@ -1218,9 +1218,9 @@ Section de développement 27 — 8 mesures. Tonalité Sib mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 28 — 8 mesures. Tonalité Sib mineur, tempo 90 BPM.
+Péroraison de la coda ; les accords de septième et les arpèges envahissent tout le registre du piano dans une tempête harmonique implacable.
 </meta>
-    <section=section_29, n_mesure=8, bpm=90, format=6/8, tonalite=Sib_mineur>
+    <section=coda, n_mesure=8, bpm=90, format=6/8, tonalite=Sib_mineur>
         <mesure num=1>
             <piano_1_v1>  |lab3 do4 fa4, solb3 do4 mib4, fa3 sib3 reb4, fa3 lab3 do4, -, mi3 sib3 do4|
             <piano_1_v5>  |(lab2, {sib2, do3}), (la2, {lab2, la2}), (sib2, {do3, reb3}), (do3, {lab2, fa2}), (reb2, {do2, reb2}), (do2, {lab2, sol2})|
@@ -1258,9 +1258,9 @@ Section de développement 28 — 8 mesures. Tonalité Sib mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 29 — 8 mesures. Tonalité Sib mineur, tempo 90 BPM.
+Avant-dernières mesures de la coda ; la cadence parfaite finale (mesures 238-239) concentre toute l'énergie dramatique en un geste conclusif.
 </meta>
-    <section=section_30, n_mesure=8, bpm=90, format=6/8, tonalite=Sib_mineur>
+    <section=coda, n_mesure=8, bpm=90, format=6/8, tonalite=Sib_mineur>
         <mesure num=1>
             <piano_1_v1>  |(sol5, {si4, do5}), (reb5, {do5, fa5}), (lab5, {fa5, sib5}), (lab5, {mi5, sol5}), (lab5, {sol5, do6}), (reb6, {do6, sol6})|
             <piano_1_v5>  |(fa3, do4), (lab4, lab3), (fa4, do5), (do4, sib4), (mi5, mi4), (do5, sib5)|
@@ -1299,9 +1299,9 @@ Section de développement 29 — 8 mesures. Tonalité Sib mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section conclusive — 2 mesures. Tonalité Sib mineur, tempo 90 BPM.
+Accord final en fa mineur (mesure 239 et fin) ; la ballade se referme dans fa mineur avec une violence définitive. Après la promesse trompeuse de grâce du thème 2, la coda constitue un dénouement tragique et irrévocable. Tenir l'accord dans toute sa résonance.
 </meta>
-    <section=section_31, n_mesure=2, bpm=90, format=6/8, tonalite=Sib_mineur>
+    <section=coda, n_mesure=2, bpm=90, format=6/8, tonalite=Sib_mineur>
         <mesure num=1>
             <piano_1_v1>  |reb5 fa5 sol5 reb6, _, _, sol3 sib3 do4 mi4, _, _|
             <piano_1_v5>  |sib1 sib2, _, _, do2 do3, _, _|

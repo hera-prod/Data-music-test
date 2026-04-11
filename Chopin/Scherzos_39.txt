@@ -3,19 +3,19 @@
 TACHE : composition
 STYLE : romantique
 FORMAT : piano_solo
-NIVEAU : simple
-Titre : Scherzos_39
-Date : ?
-Auteur : Chopin
+NIVEAU : avance
+Titre : Scherzo n°3 en do dièse mineur op.39
+Date : 1839
+Auteur : Frédéric Chopin
 Tonalite : Do#_mineur
 Unite : quarter
-Intention : Pièce pour piano solo, animé, mélancolique, au balancement ternaire. Tonalité : Do# mineur. 649 mesures.
+Intention : Scherzo d'une grandeur quasi beethovénienne, le plus concis et le plus irréductible des quatre, composé à Valdemossa sur l'île de Majorque. Forme exposition-développement-récapitulation en do dièse mineur, mesure 3/4, 649 mesures, Presto ; le premier sujet en octaves implacables alterne avec le second sujet choral en ré bémol majeur d'une beauté mystique et orchestrale, la coda finale concluant par une tierce de Picardie en do dièse majeur.
 </tete>
 
 <meta>
-Section d'ouverture — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
+Introduction de l'exposition en do dièse mineur ; thème agité en séquences chromatiques descendantes (mesures 1-24). L'énergie concentrée de ces premières mesures est d'une intensité unique dans l'œuvre de Chopin. Attaque ferme, vitesse maximale dès le départ.
 </meta>
-    <section=section_1, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
+    <section=introduction, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |_, _, _|
             <piano_1_v3>  |(fa#3, la3), mi3, fa3|
@@ -55,9 +55,9 @@ Section d'ouverture — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
     </section>
 
 <meta>
-Section de développement 1 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
+Premier sujet en do dièse mineur (mesures 25-154) ; thème en octaves implacables d'une énergie pent-up, modulant vers mi majeur (mesures 51-56), fa dièse mineur (mesures 75-82), si majeur (mesures 131-143) et la bémol majeur (mesures 144-154). Le caractère est beethovénien dans sa grandeur.
 </meta>
-    <section=section_2, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
+    <section=exposition, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |_, _, _|
             <piano_1_v3>  |(re#3, fa#3), re3, re#3|
@@ -101,9 +101,9 @@ Section de développement 1 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
     </section>
 
 <meta>
-Section de développement 2 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
+Continuation du premier sujet ; la progression modulante du thème en octaves dessine un arc harmonique de grande ampleur. Maintenir la puissance et la précision des octaves à travers les registres.
 </meta>
-    <section=section_3, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
+    <section=exposition, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |_, _, _|
             <piano_1_v3>  |do2, fa#1, la1|
@@ -141,9 +141,9 @@ Section de développement 2 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
     </section>
 
 <meta>
-Section de développement 3 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
+Développement du premier sujet ; les octaves s'élancent dans les registres extrêmes, créant une texture d'une densité sonore orchestrale. La précision des octaves doit être absolue même à cette vitesse.
 </meta>
-    <section=section_4, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
+    <section=exposition, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |do#5 do#6, -, -|
             <piano_1_v3>  |do#1 do#2, _, _|
@@ -179,9 +179,9 @@ Section de développement 3 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
     </section>
 
 <meta>
-Section de développement 4 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
+Suite de la progression modulante du premier sujet ; les passages par mi majeur et fa dièse mineur créent des moments de lumière dans le contexte sombre du do dièse mineur.
 </meta>
-    <section=section_5, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
+    <section=exposition, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |sol#3 sol#4, -, -|
             <piano_1_v3>  |sol#1 sol#2, -, -|
@@ -221,9 +221,9 @@ Section de développement 4 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
     </section>
 
 <meta>
-Section de développement 5 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
+Approche du second sujet ; la transition harmonique de la bémol majeur vers ré bémol majeur s'effectue naturellement. L'entrée du second sujet en ré bémol majeur sera un changement de caractère radical.
 </meta>
-    <section=section_6, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
+    <section=exposition, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |do#5 do#6, -, -|
             <piano_1_v3>  |do#3 do#4, -, -|
@@ -261,9 +261,9 @@ Section de développement 5 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
     </section>
 
 <meta>
-Section de développement 6 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
+Second sujet en ré bémol majeur (mesures 155-242) ; thème choral plus lent, d'une beauté orchestrale évoquant des tubas et des harpes selon Kentner. La modulation vers sol bémol majeur (sous-dominante) mesures 173-179 enrichit la palette harmonique.
 </meta>
-    <section=section_7, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
+    <section=exposition, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |sol#3 sol#4, -, -|
             <piano_1_v3>  |sol#1 sol#2, -, -|
@@ -302,9 +302,9 @@ Section de développement 6 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
     </section>
 
 <meta>
-Section de développement 7 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
+Développement du second sujet choral ; les accords se déploient dans toute l'étendue du clavier, les arpèges délicats alternant avec les tenues chorales. Équilibrer la plénitude harmonique et la clarté mélodique.
 </meta>
-    <section=section_8, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
+    <section=exposition, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |_, _, _|
             <piano_1_v3>  |fa#3, sol#3, mi3|
@@ -342,9 +342,9 @@ Section de développement 7 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
     </section>
 
 <meta>
-Section de développement 8 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
+Suite du second sujet choral en ré bémol majeur ; les mesures 200-242 reprennent les mesures 155-199 avec la mélodie une octave plus haute. Cette répétition interne enrichit l'écriture.
 </meta>
-    <section=section_9, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
+    <section=exposition, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |la3 do4 la4, -, -|
             <piano_1_v3>  |fa#3, sol#3, fa#3|
@@ -382,9 +382,9 @@ Section de développement 8 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
     </section>
 
 <meta>
-Section de développement 9 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
+Continuation de la répétition du second sujet ; la mélodie dans l'aigu acquiert une luminosité supplémentaire. Chanter la voix supérieure avec plénitude.
 </meta>
-    <section=section_10, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
+    <section=exposition, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |la3 do4 la4, -, -|
             <piano_1_v3>  |fa#2 fa#3, sol#2 sol#3, fa#2 fa#3|
@@ -430,9 +430,9 @@ Section de développement 9 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
     </section>
 
 <meta>
-Section de développement 10 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
+Clôture de l'exposition (mesure 242) ; les deux sujets contrastants ont été présentés dans leur intégralité. La densité harmonique de la clôture prépare le développement.
 </meta>
-    <section=section_11, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
+    <section=exposition, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |fa5, -, -|
             <piano_1_v2>  |si4, do#5, si4|
@@ -479,9 +479,9 @@ Section de développement 10 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
     </section>
 
 <meta>
-Section de développement 11 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
+Synthèse de l'exposition ; les éléments du premier et du second sujet s'affirment dans leur complémentarité. La structure bipartite de l'exposition est maintenant complète.
 </meta>
-    <section=section_12, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
+    <section=exposition, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |do6, -, -|
             <piano_1_v2>  |fa#5, sol#5, fa#5|
@@ -525,9 +525,9 @@ Section de développement 11 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
     </section>
 
 <meta>
-Section de développement 12 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
+Continuation des éléments du premier sujet dans l'exposition ; les octaves reprennent leur élan avant la fin de l'exposition.
 </meta>
-    <section=section_13, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
+    <section=exposition, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |mi5 sol5 la#5, -, _|
             <piano_1_v2>  |_, la#4, sol#4 si4 fa5 sol#5|
@@ -564,9 +564,9 @@ Section de développement 12 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
     </section>
 
 <meta>
-Section de développement 13 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
+Développement interne de l'exposition ; les deux sujets sont brièvement confrontés avant la clôture formelle.
 </meta>
-    <section=section_14, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
+    <section=exposition, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |sol#3 do4 re#4 sol#4, _, _|
             <piano_1_v3>  |sol#1 sol#2, _, _|
@@ -602,9 +602,9 @@ Section de développement 13 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
     </section>
 
 <meta>
-Section de développement 14 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
+Fin de l'exposition ; les dernières mesures confirment ré bémol majeur comme tonalité de fermeture avant le développement.
 </meta>
-    <section=section_15, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
+    <section=exposition, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |sol#4 sol#5, (_, mi4 mi5), re#4 re#5|
             <piano_1_v3>  |sol#2 sol#3, (_, mi2 mi3), re#2 re#3|
@@ -644,9 +644,9 @@ Section de développement 14 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
     </section>
 
 <meta>
-Section de développement 15 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
+Liaison vers le développement ; les harmonies de fin d'exposition s'orientent vers les arpèges de la bémol du développement.
 </meta>
-    <section=section_16, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
+    <section=exposition, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |do4 re#4, sol#4 sol#5, la4 la5|
             <piano_1_v3>  |sol#2 sol#3, sol#2 sol#3, la2 la3|
@@ -684,9 +684,9 @@ Section de développement 15 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
     </section>
 
 <meta>
-Section de développement 16 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
+Préparation du développement ; la tension harmonique monte progressivement vers la section de développement.
 </meta>
-    <section=section_17, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
+    <section=exposition, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |sol#4 sol#5, (_, mi4 mi5), re#4 re#5|
             <piano_1_v3>  |sol#2 sol#3, (_, mi2 mi3), re#2 re#3|
@@ -727,9 +727,9 @@ Section de développement 16 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
     </section>
 
 <meta>
-Section de développement 17 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
+Transition exposition-développement ; la cadence de l'exposition cède la place au développement dans un enchaînement naturel.
 </meta>
-    <section=section_18, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
+    <section=exposition, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |fa#3 fa#4, -, -|
             <piano_1_v3>  |fa#1 fa#2, -, -|
@@ -770,9 +770,9 @@ Section de développement 17 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
     </section>
 
 <meta>
-Section de développement 18 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
+Continuation de l'exposition étendue ; le second sujet choral se répète dans une version légèrement ornée.
 </meta>
-    <section=section_19, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
+    <section=exposition, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |fa3 fa4, do#4 do#5, do4 do5|
             <piano_1_v3>  |fa1 fa2, do#2 do#3, do2 do3|
@@ -810,9 +810,9 @@ Section de développement 18 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
     </section>
 
 <meta>
-Section de développement 19 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
+Approfondissement de l'exposition ; les harmonies de ré bémol majeur s'enrichissent de chromatismes expressifs.
 </meta>
-    <section=section_20, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
+    <section=exposition, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |_, _, _|
             <piano_1_v3>  |sol#3, -, -|
@@ -851,9 +851,9 @@ Section de développement 19 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
     </section>
 
 <meta>
-Section de développement 20 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
+Développement thématique interne de l'exposition ; les motifs du premier sujet en octaves reviennent brièvement.
 </meta>
-    <section=section_21, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
+    <section=exposition, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |(do#6, fa5), (la#5, do#5), (sol#5, la#4)|
             <piano_1_v3>  |(do#5, fa4), (do#5, fa4), (sol#4, do#4)|
@@ -889,9 +889,9 @@ Section de développement 20 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
     </section>
 
 <meta>
-Section de développement 21 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
+Suite de l'exposition avec variations subtiles ; les ornements du second sujet choral varient légèrement la texture.
 </meta>
-    <section=section_22, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
+    <section=exposition, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |(sol#6, do6), (fa6, sol#5), (re#6, fa5)|
             <piano_1_v3>  |(sol#5, do5), (sol#5, do5), (re#5, sol#4)|
@@ -927,9 +927,9 @@ Section de développement 21 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
     </section>
 
 <meta>
-Section de développement 22 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
+Fin des présentations thématiques de l'exposition ; tous les éléments ont été exposés dans leur intégralité.
 </meta>
-    <section=section_23, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
+    <section=exposition, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |(fa#6, la#5), (re#6, la#5), (do#6, fa#5)|
             <piano_1_v3>  |(fa#5, la#4), (fa#5, la#4), (do#5, fa#4)|
@@ -966,9 +966,9 @@ Section de développement 22 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
     </section>
 
 <meta>
-Section de développement 23 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
+Mesures de conclusion de l'exposition ; la progression cadentielle finale confirme ré bémol majeur.
 </meta>
-    <section=section_24, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
+    <section=exposition, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |(do#6, fa5), (la#5, do#5), (sol#5, la#4)|
             <piano_1_v3>  |(do#5, fa4), (do#5, fa4), (sol#4, do#4)|
@@ -1005,9 +1005,9 @@ Section de développement 23 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
     </section>
 
 <meta>
-Section de développement 24 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
+Avant-dernière section de l'exposition ; la tension s'accumule vers la clôture formelle de l'exposition.
 </meta>
-    <section=section_25, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
+    <section=exposition, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |do#3, -, -|
             <piano_1_v3>  |_, _, _|
@@ -1050,9 +1050,9 @@ Section de développement 24 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
     </section>
 
 <meta>
-Section de développement 25 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
+Clôture définitive de l'exposition ; la double barre ou le changement de section signale la fin de l'exposition et l'entrée dans le développement.
 </meta>
-    <section=section_26, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
+    <section=exposition, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |do#4 fa4 la#4 do#5, -, -|
             <piano_1_v3>  |la#2 la#3, -, -|
@@ -1089,9 +1089,9 @@ Section de développement 25 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
     </section>
 
 <meta>
-Section de développement 26 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
+Transition vers le développement depuis l'exposition ; les arpèges de la bémol majeur/mineur du développement commencent à se profiler.
 </meta>
-    <section=section_27, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
+    <section=exposition, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |fa4 la#4 do#5 fa5, -, -|
             <piano_1_v3>  |la#2 fa3 do#4, -, -|
@@ -1127,9 +1127,9 @@ Section de développement 26 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
     </section>
 
 <meta>
-Section de développement 27 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
+Dernière mesure de l'exposition ; la cadence finale pose la question harmonique à laquelle le développement répondra.
 </meta>
-    <section=section_28, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
+    <section=exposition, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |re#4 fa#4 sol#4 re#5, -, -|
             <piano_1_v3>  |si2 re#3 sol#3 si3, -, -|
@@ -1165,9 +1165,9 @@ Section de développement 27 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
     </section>
 
 <meta>
-Section de développement 28 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
+Premier arpège du développement émergent depuis l'exposition ; la transition est fluide.
 </meta>
-    <section=section_29, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
+    <section=exposition, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |re#4 la#4 do#5 re#5, -, -|
             <piano_1_v3>  |fa#2 fa#3, -, -|
@@ -1203,9 +1203,9 @@ Section de développement 28 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
     </section>
 
 <meta>
-Section de développement 29 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
+Entrée définitive dans le développement ; les arpèges de septième de dominante en la bémol majeur/mineur ouvrent la section centrale.
 </meta>
-    <section=section_30, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
+    <section=exposition, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |(do#5, fa4), (la#4, do#4), (sol#4, la#3)|
             <piano_1_v3>  |(do#4, fa3), (do#4, fa3), (sol#3, do#3)|
@@ -1246,9 +1246,9 @@ Section de développement 29 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
     </section>
 
 <meta>
-Section de développement 30 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
+Début du développement (mesures 243-286) ; fantaisie libre avec arpèges de dominante septième en la bémol majeur/mineur puis sol bémol majeur, retournant vers ré bémol majeur vers la mesure 276. Liberté d'expression maximale dans cette section.
 </meta>
-    <section=section_31, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
+    <section=developpement, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |la#2, -, -|
             <piano_1_v3>  |_, _, _|
@@ -1287,9 +1287,9 @@ Section de développement 30 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
     </section>
 
 <meta>
-Section de développement 31 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
+Suite du développement ; les arpèges libres circulent dans plusieurs tonalités sans s'établir. La texture s'allège momentanément par rapport à l'exposition dense.
 </meta>
-    <section=section_32, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
+    <section=developpement, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |(re#6, sol6), (re#6, do#6), (re#5, do#6)|
             <piano_1_v3>  |(do#5, re#5), (do#5, la#4), (re#4, la#4)|
@@ -1326,9 +1326,9 @@ Section de développement 31 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
     </section>
 
 <meta>
-Section de développement 32 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
+Retour du second sujet dans le développement (mesures 287-319) en ré bémol majeur ; similaire à l'exposition au début mais étendu, modulant vers si bémol mineur à la mesure 314. La continuité du second sujet dans le développement témoigne de son importance structurelle.
 </meta>
-    <section=section_33, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
+    <section=developpement, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |(re#6, sol6), (re#6, do#6), (re#5, do#6)|
             <piano_1_v3>  |(do#5, re#5), (do#5, la#4), (re#4, la#4)|
@@ -1365,9 +1365,9 @@ Section de développement 32 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
     </section>
 
 <meta>
-Section de développement 33 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
+Extension du second sujet dans le développement ; les modulations vers si bémol mineur enrichissent le caractère dramatique du développement.
 </meta>
-    <section=section_34, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
+    <section=developpement, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |(do#6, fa6), (do#6, si5), (do#5, si5)|
             <piano_1_v3>  |(si4, do#5), (si4, sol#4), (do#4, sol#4)|
@@ -1404,9 +1404,9 @@ Section de développement 33 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
     </section>
 
 <meta>
-Section de développement 34 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
+Utilisation séquentielle du second sujet (mesures 320-366) ; la progression harmonique revient graduellement vers do dièse mineur via une pédale de dominante mesures 327-348. La régularité de la pédale doit être audible sous les harmonies mouvantes.
 </meta>
-    <section=section_35, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
+    <section=developpement, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |(si5, fa#6), (si5, la5), (re#5, la5)|
             <piano_1_v3>  |(la4, re#5), (la4, fa#4), (si3, fa4)|
@@ -1442,9 +1442,9 @@ Section de développement 34 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
     </section>
 
 <meta>
-Section de développement 35 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
+Pédale de dominante du développement (mesures 327-348) ; le sol dièse à la basse ancre harmoniquement la progression modulante. Maintenir la clarté de la pédale dans les textures complexes.
 </meta>
-    <section=section_36, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
+    <section=developpement, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |(la#6, sol#6), (fa#6, fa6), (re#6, re6)|
             <piano_1_v3>  |re#3 do4, -, -|
@@ -1482,9 +1482,9 @@ Section de développement 35 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
     </section>
 
 <meta>
-Section de développement 36 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
+Fin du développement (mesures 349-366) ; retour progressif vers do dièse mineur par la pédale de dominante. La préparation de la récapitulation se fait sentir.
 </meta>
-    <section=section_37, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
+    <section=developpement, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |_, _, _|
             <piano_1_v3>  |do#3 fa3 do#4, -, -|
@@ -1521,9 +1521,9 @@ Section de développement 36 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
     </section>
 
 <meta>
-Section de développement 37 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
+Préparation de la récapitulation depuis le développement ; la tonalité de do dièse mineur se précise harmoniquement.
 </meta>
-    <section=section_38, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
+    <section=developpement, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |la#3 do#4 fa4, -, -|
             <piano_1_v3>  |fa#2 do#3 fa#3, -, -|
@@ -1559,9 +1559,9 @@ Section de développement 37 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
     </section>
 
 <meta>
-Section de développement 38 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
+Transition développement-récapitulation ; les arpèges du développement se transforment progressivement en matériau du premier sujet.
 </meta>
-    <section=section_39, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
+    <section=developpement, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |fa#3 sol#3 re#4, -, -|
             <piano_1_v3>  |si1 si2, -, -|
@@ -1597,9 +1597,9 @@ Section de développement 38 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
     </section>
 
 <meta>
-Section de développement 39 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
+Dernières tensions du développement ; la résolution vers do dièse mineur pour la récapitulation est imminente.
 </meta>
-    <section=section_40, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
+    <section=developpement, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |la#3 do#4 fa4 la#4, -, -|
             <piano_1_v3>  |fa1 fa2, -, -|
@@ -1635,9 +1635,9 @@ Section de développement 39 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
     </section>
 
 <meta>
-Section de développement 40 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
+Cristallisation harmonique avant la récapitulation ; le do dièse mineur s'impose comme centre tonal inévitable.
 </meta>
-    <section=section_41, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
+    <section=developpement, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |la#3 fa4 sol4, -, -|
             <piano_1_v3>  |do#3 do#4, -, -|
@@ -1673,9 +1673,9 @@ Section de développement 40 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
     </section>
 
 <meta>
-Section de développement 41 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
+Point de convergence développement-récapitulation ; la récapitulation du premier sujet en do dièse mineur est annoncée.
 </meta>
-    <section=section_42, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
+    <section=developpement, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |fa#3 si3 re4, -, -|
             <piano_1_v3>  |sol#1 sol#2, -, -|
@@ -1711,9 +1711,9 @@ Section de développement 41 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
     </section>
 
 <meta>
-Section de développement 42 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
+Dernière mesure du développement ; la tension est maximale, la récapitulation est imminente.
 </meta>
-    <section=section_43, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
+    <section=developpement, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |(la#4, do5), (re#5, do#5), (mi5, la#5)|
             <piano_1_v3>  |sol#3 sol4, _, _|
@@ -1749,9 +1749,9 @@ Section de développement 42 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
     </section>
 
 <meta>
-Section de développement 43 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
+Entrée de la récapitulation (mesure 367) ; le premier sujet revient en do dièse mineur avec une force décuplée par l'attente créée par le développement.
 </meta>
-    <section=section_44, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
+    <section=developpement, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |(la#4, do5), (re#5, do#5), (mi5, la#5)|
             <piano_1_v3>  |sol#3 sol4, _, _|
@@ -1787,9 +1787,9 @@ Section de développement 43 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
     </section>
 
 <meta>
-Section de développement 44 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
+Confirmation du retour en do dièse mineur ; la récapitulation s'installe fermement dans la tonique principale.
 </meta>
-    <section=section_45, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
+    <section=developpement, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |sol#3 do4 fa#4 sol#4, -, -|
             <piano_1_v3>  |re#2 re#3, do#2 do#3, do2 do3|
@@ -1825,9 +1825,9 @@ Section de développement 44 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
     </section>
 
 <meta>
-Section de développement 45 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
+Récapitulation, premier sujet en do dièse mineur (mesures 367-447) ; identique jusqu'à la mesure 433 qui bifurque par séquence vers mi majeur/mineur au lieu de continuer comme dans l'exposition. Variation structurelle significative.
 </meta>
-    <section=section_46, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
+    <section=recapitulation, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |fa#3 sol#3 do4 re#4 fa#4 sol#4, -, -|
             <piano_1_v3>  |sol#1 sol#2, -, -|
@@ -1863,9 +1863,9 @@ Section de développement 45 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
     </section>
 
 <meta>
-Section de développement 46 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
+Suite de la récapitulation du premier sujet ; les octaves maintiennent leur caractère implacable et leur précision dans la récapitulation.
 </meta>
-    <section=section_47, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
+    <section=recapitulation, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |sol#4 sol#5, fa#4 fa#5, mi4 mi5|
             <piano_1_v3>  |sol#2 sol#3, fa#2 fa#3, mi2 mi3|
@@ -1901,9 +1901,9 @@ Section de développement 46 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
     </section>
 
 <meta>
-Section de développement 47 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
+Développement du premier sujet dans la récapitulation ; les modulations de l'exposition sont partiellement reproduites avec des variations.
 </meta>
-    <section=section_48, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
+    <section=recapitulation, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |sol#3 sol#4, -, -|
             <piano_1_v3>  |sol#1 sol#2, -, -|
@@ -1943,9 +1943,9 @@ Section de développement 47 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
     </section>
 
 <meta>
-Section de développement 48 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
+Continuation de la récapitulation du premier sujet ; la progression vers mi majeur/mineur diffère de l'exposition, créant une variation structurelle intéressante.
 </meta>
-    <section=section_49, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
+    <section=recapitulation, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |do#5, -, -|
             <piano_1_v2>  |sol#4 sol#5, fa#4 fa#5, mi4 mi5|
@@ -1983,9 +1983,9 @@ Section de développement 48 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
     </section>
 
 <meta>
-Section de développement 49 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
+Second sujet dans la récapitulation en mi majeur (mesures 448-493) ; la transposition du second sujet choral vers mi majeur (au lieu de ré bémol majeur) change la couleur harmonique de façon significative. La modulation vers la sous-dominante suit le même pattern qu'à l'exposition.
 </meta>
-    <section=section_50, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
+    <section=recapitulation, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |sol#3 si3 sol#4, -, -|
             <piano_1_v3>  |mi1 mi2, -, -|
@@ -2024,9 +2024,9 @@ Section de développement 49 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
     </section>
 
 <meta>
-Section de développement 50 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
+Développement du second sujet dans la récapitulation en mi majeur ; le caractère choral reste intact dans la nouvelle tonalité. La beauté du thème s'affirme également en mi majeur.
 </meta>
-    <section=section_51, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
+    <section=recapitulation, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |sol#3 re#4 sol#4, -, -|
             <piano_1_v3>  |do3, la#2, sol#2|
@@ -2064,9 +2064,9 @@ Section de développement 50 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
     </section>
 
 <meta>
-Section de développement 51 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
+Suite du second sujet de la récapitulation ; les arpèges délicats alternent avec les tenues chorales dans la même structure qu'à l'exposition.
 </meta>
-    <section=section_52, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
+    <section=recapitulation, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |sol#3 re#4 sol#4, -, -|
             <piano_1_v3>  |do3, la#2, sol#2|
@@ -2104,9 +2104,9 @@ Section de développement 51 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
     </section>
 
 <meta>
-Section de développement 52 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
+Extension du second sujet dans la récapitulation (mesures 494-566) ; utilisation supplémentaire du second sujet en mi mineur, modulant vers fa dièse mineur, puis do dièse majeur (mesure 542) avec pédale de dominante.
 </meta>
-    <section=section_53, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
+    <section=recapitulation, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |si4 do#5, -, -|
             <piano_1_v2>  |fa4, re#4, do#4|
@@ -2154,9 +2154,9 @@ Section de développement 52 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
     </section>
 
 <meta>
-Section de développement 53 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
+Continuation de l'extension du second sujet ; le passage en do dièse majeur avec pédale de dominante prépare la coda. La luminosité du majeur annonce la tierce de Picardie finale.
 </meta>
-    <section=section_54, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
+    <section=recapitulation, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |fa#5 sol#5, -, -|
             <piano_1_v2>  |do5, la#4, sol#4|
@@ -2203,9 +2203,9 @@ Section de développement 53 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
     </section>
 
 <meta>
-Section de développement 54 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
+Octaves en doubles temps de la récapitulation (mesures 567-572) ; réminiscence du premier sujet en do dièse mineur sous forme d'octaves. Ce bref rappel du début est chargé d'émotion.
 </meta>
-    <section=section_55, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
+    <section=recapitulation, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |mi5, re5, do#5|
             <piano_1_v2>  |la5 do#6, -, -|
@@ -2248,9 +2248,9 @@ Section de développement 54 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
     </section>
 
 <meta>
-Section de développement 55 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
+Début de la coda (mesures 572-649) en do dièse mineur ; cadence parfaite mesures 636-637. Les octaves rappellent le premier sujet dans le stretto final.
 </meta>
-    <section=section_56, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
+    <section=recapitulation, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |la5 si5 fa#6 si6, -, -|
             <piano_1_v3>  |re#2 re#3, mi2 mi3, fa#2 fa#3|
@@ -2286,9 +2286,9 @@ Section de développement 55 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
     </section>
 
 <meta>
-Section de développement 56 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
+Développement de la coda ; les stretto d'octaves en double s'accélèrent vers la conclusion. La tierce de Picardie finale en do dièse majeur est préparée.
 </meta>
-    <section=section_57, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
+    <section=recapitulation, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |si3, -, -|
             <piano_1_v3>  |si2, -, -|
@@ -2324,9 +2324,9 @@ Section de développement 56 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
     </section>
 
 <meta>
-Section de développement 57 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
+Suite de la coda ; les motifs du premier sujet circulent dans un stretto final de plus en plus serré et intense.
 </meta>
-    <section=section_58, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
+    <section=recapitulation, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |sol#4 mi5, _, _|
             <piano_1_v3>  |mi3, _, _|
@@ -2362,9 +2362,9 @@ Section de développement 57 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
     </section>
 
 <meta>
-Section de développement 58 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
+Continuation de la coda ; les chromatismes et les octaves convergent vers la cadence finale.
 </meta>
-    <section=section_59, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
+    <section=recapitulation, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |re#4 si4, _, _|
             <piano_1_v3>  |si2, _, _|
@@ -2400,9 +2400,9 @@ Section de développement 58 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
     </section>
 
 <meta>
-Section de développement 59 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
+Approche de la conclusion de la coda ; la cadence parfaite mesures 636-637 est un point de repère structural crucial.
 </meta>
-    <section=section_60, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
+    <section=recapitulation, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |do#4 la4, _, _|
             <piano_1_v3>  |la2, _, _|
@@ -2438,9 +2438,9 @@ Section de développement 59 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
     </section>
 
 <meta>
-Section de développement 60 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
+Après la cadence parfaite (mesure 637) ; les stretto d'octaves du premier sujet se concentrent en accélération vers la conclusion.
 </meta>
-    <section=section_61, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
+    <section=recapitulation, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |sol#4 mi5, (do#6, sol#5), (si5, mi5)|
             <piano_1_v3>  |mi3, (mi5, sol#4), (si4, mi4)|
@@ -2479,9 +2479,9 @@ Section de développement 60 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
     </section>
 
 <meta>
-Section de développement 61 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
+Développement terminal de la coda ; les octaves finales couvrent toute l'étendue du clavier dans leur course vers la conclusion.
 </meta>
-    <section=section_62, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
+    <section=recapitulation, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |mi3, -, -|
             <piano_1_v3>  |_, _, _|
@@ -2524,9 +2524,9 @@ Section de développement 61 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
     </section>
 
 <meta>
-Section de développement 62 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
+Péroraison de la coda ; la tension harmonique est maximale, la tierce de Picardie est imminente.
 </meta>
-    <section=section_63, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
+    <section=recapitulation, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |_, (do7, sol6), (si6, mi6)|
             <piano_1_v3>  |mi1, (mi6, sol5), (si5, mi5)|
@@ -2567,9 +2567,9 @@ Section de développement 62 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
     </section>
 
 <meta>
-Section de développement 63 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
+Avant-dernières mesures de la coda ; les stretto en doubles octaves atteignent leur paroxysme sonore.
 </meta>
-    <section=section_64, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
+    <section=recapitulation, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |_, (si6, fa#6), (la6, re6)|
             <piano_1_v3>  |re2 la2, (re6, fa#5), (la5, re5)|
@@ -2609,9 +2609,9 @@ Section de développement 63 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
     </section>
 
 <meta>
-Section de développement 64 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
+Dernières mesures de la récapitulation avant la conclusion ; la force sonore et le tempo presto atteignent leur intensité maximale.
 </meta>
-    <section=section_65, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
+    <section=recapitulation, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |_, (re7, la6), (do#7, fa#6)|
             <piano_1_v3>  |fa#1, (fa#6, la5), (do#6, fa#5)|
@@ -2651,9 +2651,9 @@ Section de développement 64 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
     </section>
 
 <meta>
-Section de développement 65 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
+Avant-dernier geste de la coda ; la puissance sonore est concentrée sur les octaves terminales.
 </meta>
-    <section=section_66, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
+    <section=recapitulation, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |_, (re6, la5), (do#6, fa#5)|
             <piano_1_v2>  |la3 do#4 fa#4 la4, _, _|
@@ -2694,9 +2694,9 @@ Section de développement 65 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
     </section>
 
 <meta>
-Section de développement 66 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
+Point culminant de la coda ; l'accord de do dièse majeur (tierce de Picardie) commence à s'imposer.
 </meta>
-    <section=section_67, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
+    <section=recapitulation, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |_, _, _|
             <piano_1_v2>  |do#4 re#4 fa#4 la4, _, _|
@@ -2734,9 +2734,9 @@ Section de développement 66 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
     </section>
 
 <meta>
-Section de développement 67 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
+Avant-dernières octaves de la coda ; la résolution vers do dièse majeur est inévitable.
 </meta>
-    <section=section_68, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
+    <section=recapitulation, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |do#4 re#4 fa#4, _, _|
             <piano_1_v3>  |la2 la3, _, _|
@@ -2772,9 +2772,9 @@ Section de développement 67 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
     </section>
 
 <meta>
-Section de développement 68 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
+Dernière montée vers la conclusion ; les octaves finales s'élancent vers la résolution en do dièse majeur.
 </meta>
-    <section=section_69, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
+    <section=recapitulation, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |fa4 sol#4 do#5 fa5, -, -|
             <piano_1_v3>  |(sol#1, sol#2), (do#3, re#3), (fa3, re#3)|
@@ -2810,9 +2810,9 @@ Section de développement 68 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
     </section>
 
 <meta>
-Section de développement 69 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
+Préparation de l'accord final ; la progression dominante-tonique finale se réalise dans sa pleine puissance.
 </meta>
-    <section=section_70, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
+    <section=recapitulation, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |la#4 re#5 fa#5 la#5, -, -|
             <piano_1_v3>  |(sol#1, sol#2), (re#3, fa#3), (la#3, fa#3)|
@@ -2848,9 +2848,9 @@ Section de développement 69 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
     </section>
 
 <meta>
-Section de développement 70 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
+Début de la coda finale en do dièse mineur ; les octaves du premier sujet reviennent en stretto, la cadence parfaite mesures 636-637 constitue un point d'ancrage harmonique.
 </meta>
-    <section=section_71, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
+    <section=coda, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |fa#4 la#4 re#5 fa#5, -, -|
             <piano_1_v3>  |(sol#1, sol#2), (re#3, fa#3), (la#3, fa#3)|
@@ -2886,9 +2886,9 @@ Section de développement 70 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
     </section>
 
 <meta>
-Section de développement 71 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
+Développement de la coda finale ; les stretto de doubles octaves s'enchaînent, rappelant le premier sujet dans sa version la plus concentrée.
 </meta>
-    <section=section_72, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
+    <section=coda, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |do5 do6, sol#4 sol#5, la4 la5|
             <piano_1_v3>  |do3 do4, sol#2 sol#3, la2 la3|
@@ -2924,9 +2924,9 @@ Section de développement 71 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
     </section>
 
 <meta>
-Section de développement 72 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
+Intensification de la coda finale ; les octaves couvrent tout l'ambitus du clavier dans une course virtuose finale.
 </meta>
-    <section=section_73, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
+    <section=coda, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |(mi4, la4), (sol#4, mi5), (re#5, do#5)|
             <piano_1_v3>  |(do#3, la3), sol#3, _|
@@ -2962,9 +2962,9 @@ Section de développement 72 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
     </section>
 
 <meta>
-Section de développement 73 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
+Péroraison de la coda finale ; les accords de do dièse mineur s'affirment avant la surprise de la tierce de Picardie.
 </meta>
-    <section=section_74, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
+    <section=coda, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |(re#5, mi5), (re#5, re#6), (do#6, si5)|
             <piano_1_v3>  |si1 si2, si3 si4, _|
@@ -3000,9 +3000,9 @@ Section de développement 73 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
     </section>
 
 <meta>
-Section de développement 74 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
+Avant-dernières mesures de la coda finale ; la dynamique fortissimo atteint son apogée.
 </meta>
-    <section=section_75, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
+    <section=coda, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |(do#6, mi6 do#7), (do#6, fa#6), (la6, sol#6)|
             <piano_1_v3>  |la3 la4, _, _|
@@ -3038,9 +3038,9 @@ Section de développement 74 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
     </section>
 
 <meta>
-Section de développement 75 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
+Mesures conclusives de la coda finale ; la tierce de Picardie (do dièse majeur) est annoncée par la cadence de dominante finale.
 </meta>
-    <section=section_76, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
+    <section=coda, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |sol#3 mi4 sol#4, la3 mi4 la4, -|
             <piano_1_v3>  |sol#2, (la2, sol2), (la2, sol2)|
@@ -3076,9 +3076,9 @@ Section de développement 75 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
     </section>
 
 <meta>
-Section de développement 76 — 8 mesures. Tonalité Do# mineur, tempo 110 BPM.
+Accord final en do dièse majeur (tierce de Picardie) ; le Scherzo n°3, entièrement construit sur do dièse mineur, se conclut dans la lumière inattendue du majeur. Cette conclusion paradoxale est d'une beauté saisissante et d'un sens symbolique profond.
 </meta>
-    <section=section_77, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
+    <section=coda, n_mesure=8, bpm=110, format=3/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |(mi4, la4), (sol#4, mi5), (re#5, do#5)|
             <piano_1_v3>  |(do#3, la3), sol#3, _|

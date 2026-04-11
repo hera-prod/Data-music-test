@@ -4,18 +4,18 @@ TACHE : composition
 STYLE : romantique
 FORMAT : piano_solo
 NIVEAU : intermediaire
-Titre : Sonata_2_3rd
-Date : ?
-Auteur : Chopin
+Titre : Sonate n°2 en si bémol mineur op.35, 3e mouvement : Marche funèbre (Lento)
+Date : 1837
+Auteur : Frédéric Chopin
 Tonalite : Sib_mineur
 Unite : quarter
-Intention : Pièce pour piano solo, modéré, mélancolique, au cadre binaire régulier. Tonalité : Sib mineur. 84 mesures.
+Intention : Page immortelle du répertoire romantique, cette Marche funèbre associe la gravité d'une procession mortuaire et la douceur nocturne du trio en ré bémol majeur. Forme ternaire ABA en si bémol mineur, mesure 4/4, 84 mesures, tempo Lento ; la pulsation régulière de la marche et le rythme pointé caractéristique créent un sentiment d'irrévocabilité, tandis que le trio apporte un répit pastoral et mélancolique avant la reprise de la marche.
 </tete>
 
 <meta>
-Section d'ouverture — 8 mesures. Tonalité Sib mineur, tempo 90 BPM.
+Marche funèbre, si bémol mineur, Lento ; le rythme pointé (noire pointée-croche) instaure immédiatement la solennité de la procession. Les accords à la basse soutiennent la mélodie sombre dans le registre médian. Maintenir un tempo de marche rigoureusement régulier, pondre avec gravité.
 </meta>
-    <section=section_1, n_mesure=8, bpm=90, format=4/4, tonalite=Sib_mineur>
+    <section=partie_A, n_mesure=8, bpm=90, format=4/4, tonalite=Sib_mineur>
         <mesure num=1>
             <piano_1_v1>  |sib3, (sib3, sib3), sib3, -|
             <piano_1_v2>  |fa3, solb3, fa3, solb3|
@@ -60,9 +60,9 @@ Section d'ouverture — 8 mesures. Tonalité Sib mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 1 — 8 mesures. Tonalité Sib mineur, tempo 90 BPM.
+Continuation de la marche funèbre ; la mélodie monte vers les octaves aiguës, le rythme pointé s'affirme avec plus d'insistance. Les harmonies de ré bémol majeur apportent un bref rayon de lumière dans la sombre procession. Soigner la conduite mélodique dans les octaves.
 </meta>
-    <section=section_2, n_mesure=8, bpm=90, format=4/4, tonalite=Sib_mineur>
+    <section=partie_A, n_mesure=8, bpm=90, format=4/4, tonalite=Sib_mineur>
         <mesure num=1>
             <piano_1_v1>  |sib3, (sib3, sib3), sib3, (reb4, do4)|
             <piano_1_v2>  |fa3, solb3, fa3, solb3|
@@ -104,9 +104,9 @@ Section de développement 1 — 8 mesures. Tonalité Sib mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 2 — 8 mesures. Tonalité Sib mineur, tempo 90 BPM.
+Développement de la marche ; les accords en ré bémol majeur montant par degrés créent un contraste expressif avec le si bémol mineur environnant. Le rythme de marche reste inébranlable. Garder une sonorité pleine et profonde.
 </meta>
-    <section=section_3, n_mesure=8, bpm=90, format=4/4, tonalite=Sib_mineur>
+    <section=partie_A, n_mesure=8, bpm=90, format=4/4, tonalite=Sib_mineur>
         <mesure num=1>
             <piano_1_v1>  |fa4 do5 mib5 fa5, (fa4 sib4 reb5 fa5, sol4 sol5), (la4 reb5 fa5 la5, sib4 sib5), (do5 fa5 do6, reb5 reb6)|
             <piano_1_v4>  |sib1 sib2, fa3 sib3 reb4, reb2 reb3, fa3 sib3 reb4 fa4|
@@ -148,9 +148,9 @@ Section de développement 2 — 8 mesures. Tonalité Sib mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 3 — 8 mesures. Tonalité Sib mineur, tempo 90 BPM.
+Clôture de la section A de la marche ; la phrase mélodique redescend vers la tonique si bémol mineur dans une cadence authentique. La répétition de la section confère à la marche sa structure en arche. Respecter les nuances dynamiques indiquées.
 </meta>
-    <section=section_4, n_mesure=8, bpm=90, format=4/4, tonalite=Sib_mineur>
+    <section=partie_A, n_mesure=8, bpm=90, format=4/4, tonalite=Sib_mineur>
         <mesure num=1>
             <piano_1_v1>  |fa4 do5 mib5 fa5, (fa4 sib4 reb5 fa5, sol4 sol5), (la4 reb5 fa5 la5, sib4 sib5), (do5 fa5 do6, reb5 reb6)|
             <piano_1_v4>  |sib1 sib2, fa3 sib3 reb4, reb2 reb3, fa3 sib3 reb4 fa4|
@@ -192,9 +192,9 @@ Section de développement 3 — 8 mesures. Tonalité Sib mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 4 — 8 mesures. Tonalité Sib mineur, tempo 90 BPM.
+Trio en ré bémol majeur, piano ; mélodie nocturne d'une sérénité irréelle sur un accompagnement ternaire doux. Comme un souvenir tendre dans le deuil, cette section constitue l'une des plus belles pages de tout le répertoire pianistique romantique. Voix du dessus portée avec délicatesse, legato parfait.
 </meta>
-    <section=section_5, n_mesure=8, bpm=90, format=4/4, tonalite=Sib_mineur>
+    <section=trio, n_mesure=8, bpm=90, format=4/4, tonalite=Sib_mineur>
         <mesure num=1>
             <piano_1_v1>  |solb5, -, (lab5, solb5), (fa5, mib5)|
             <piano_1_v4>  |(lab1, lab2), (solb3, do4), (lab1, lab2), (solb3, do4)|
@@ -232,9 +232,9 @@ Section de développement 4 — 8 mesures. Tonalité Sib mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 5 — 8 mesures. Tonalité Sib mineur, tempo 90 BPM.
+Développement du trio en ré bémol majeur ; la mélodie évolue vers le registre aigu avec des ornements expressifs. La simplicité apparente du thème contraste avec la profondeur émotionnelle du contexte. Ne pas accélérer, goûter chaque note.
 </meta>
-    <section=section_6, n_mesure=8, bpm=90, format=4/4, tonalite=Sib_mineur>
+    <section=trio, n_mesure=8, bpm=90, format=4/4, tonalite=Sib_mineur>
         <mesure num=1>
             <piano_1_v1>  |reb5, -, (mib5, reb5), (do5, sib4)|
             <piano_1_v4>  |(sib1, sib2), (mi3, reb4), (sib1, sib2), (mi3, reb4)|
@@ -270,9 +270,9 @@ Section de développement 5 — 8 mesures. Tonalité Sib mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 6 — 8 mesures. Tonalité Sib mineur, tempo 90 BPM.
+Fin du trio et transition vers la reprise de la marche ; les dernières notes du ré bémol major s'éteignent doucement avant que le si bémol mineur ne reprenne son droit. Ce silence entre les deux sections doit être pleinement respecté.
 </meta>
-    <section=section_7, n_mesure=8, bpm=90, format=4/4, tonalite=Sib_mineur>
+    <section=trio, n_mesure=8, bpm=90, format=4/4, tonalite=Sib_mineur>
         <mesure num=1>
             <piano_1_v1>  |solb5, -, (lab5, solb5), (fa5, mib5)|
             <piano_1_v4>  |(lab1, lab2), (solb3, do4), (lab1, lab2), (solb3, do4)|
@@ -312,9 +312,9 @@ Section de développement 6 — 8 mesures. Tonalité Sib mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 7 — 8 mesures. Tonalité Sib mineur, tempo 90 BPM.
+Reprise de la marche funèbre en si bémol mineur ; le retour du rythme pointé est vécu différemment après la douceur du trio, son caractère inéluctable s'en trouve amplifié. Jouer avec encore plus de poids et de gravité.
 </meta>
-    <section=section_8, n_mesure=8, bpm=90, format=4/4, tonalite=Sib_mineur>
+    <section=partie_A, n_mesure=8, bpm=90, format=4/4, tonalite=Sib_mineur>
         <mesure num=1>
             <piano_1_v1>  |sib3, (sib3, sib3), sib3, (reb4, do4)|
             <piano_1_v2>  |fa3, solb3, fa3, solb3|
@@ -359,9 +359,9 @@ Section de développement 7 — 8 mesures. Tonalité Sib mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 8 — 8 mesures. Tonalité Sib mineur, tempo 90 BPM.
+Continuation de la reprise ; la marche poursuit son cours implacable. Certains interprètes varient discrètement les nuances pour éviter la répétition à l'identique. Intégrer subtilement une variation de sonorité ou de dynamique.
 </meta>
-    <section=section_9, n_mesure=8, bpm=90, format=4/4, tonalite=Sib_mineur>
+    <section=partie_A, n_mesure=8, bpm=90, format=4/4, tonalite=Sib_mineur>
         <mesure num=1>
             <piano_1_v1>  |(sib4 sib5, lab4 lab5), ({lab4, reb5, lab5, solb4 solb5}, fa4 fa5), fa4 reb5 fa5, reb4 sib4 reb5|
             <piano_1_v2>  |reb5, reb5, -, -|
@@ -401,9 +401,9 @@ Section de développement 8 — 8 mesures. Tonalité Sib mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 9 — 8 mesures. Tonalité Sib mineur, tempo 90 BPM.
+Approche de la cadence finale de la marche ; les accords descendent vers la tonique si bémol mineur dans une progression inévitable. La tension s'accroît dans les dernières mesures avant la clôture.
 </meta>
-    <section=section_10, n_mesure=8, bpm=90, format=4/4, tonalite=Sib_mineur>
+    <section=partie_A, n_mesure=8, bpm=90, format=4/4, tonalite=Sib_mineur>
         <mesure num=1>
             <piano_1_v1>  |solb3 lab3 do4 lab4, solb3 lab3 do4 lab4, fa3 lab4, _|
             <piano_1_v2>  |fa4, mib4, reb4, _|
@@ -445,9 +445,9 @@ Section de développement 9 — 8 mesures. Tonalité Sib mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section conclusive — 4 mesures. Tonalité Sib mineur, tempo 90 BPM.
+Mesures conclusives de la Marche funèbre ; les derniers accords en si bémol mineur scellent le mouvement dans la gravité la plus profonde. Ce silence après le dernier accord prépare l'entrée du Presto final, totalement inattendu.
 </meta>
-    <section=section_11, n_mesure=4, bpm=90, format=4/4, tonalite=Sib_mineur>
+    <section=partie_A, n_mesure=4, bpm=90, format=4/4, tonalite=Sib_mineur>
         <mesure num=1>
             <piano_1_v1>  |solb3 lab3 do4 lab4, solb3 lab3 do4 lab4, fa3 lab4, _|
             <piano_1_v2>  |fa4, mib4, reb4, _|

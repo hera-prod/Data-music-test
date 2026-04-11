@@ -3,19 +3,19 @@
 TACHE : composition
 STYLE : romantique
 FORMAT : piano_solo
-NIVEAU : simple
-Titre : Sonata_2_2nd
-Date : ?
-Auteur : Chopin
-Tonalite : Fa#_majeur
+NIVEAU : avance
+Titre : Sonate n°2 en si bémol mineur op.35, 2e mouvement : Scherzo
+Date : 1839
+Auteur : Frédéric Chopin
+Tonalite : Mib_mineur
 Unite : quarter
-Intention : Pièce pour piano solo, modéré, lumineux, au balancement ternaire. Tonalité : Fa# majeur. 290 mesures.
+Intention : Scherzo d'une énergie motorique implacable, construit sur un martèlement obsessionnel d'octaves et de rythmes syncopés. Forme scherzo-trio-scherzo en mi bémol mineur, mesure ternaire à 3/4, 290 mesures ; le trio en sol bémol majeur offre un contrepoint lyrique d'une grâce sereine avant le retour brutal du scherzo initial.
 </tete>
 
 <meta>
-Section d'ouverture — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
+Ouverture du scherzo en mi bémol mineur ; deux mesures d'accords fortissimo frappés sur les temps forts imposent un caractère percussif et brutal. Le motif obsessionnel d'octaves répétées s'installe immédiatement. Attaque ferme, accent sur le deuxième temps pour le balancement caractéristique.
 </meta>
-    <section=section_1, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
+    <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
         <mesure num=1>
             <piano_1_v1>  |la#2 la#3, -, -|
             <piano_1_v4>  |la#1, -, -|
@@ -51,9 +51,9 @@ Section d'ouverture — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 1 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
+Continuation du scherzo A, mi bémol mineur ; les accords en quartes glissent le long du clavier dans un trait virtuose. Chopin manipule le temps ternaire avec des accents déplacés sur le troisième temps. Souplesse du poignet indispensable.
 </meta>
-    <section=section_2, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
+    <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
         <mesure num=1>
             <piano_1_v1>  |la#3 re#4 la#4, sol#3 re#4 sol#4, sol3 sol#3 re#4 fa#4|
             <piano_1_v4>  |si2 si3, si1 si2, do2 do3|
@@ -89,9 +89,9 @@ Section de développement 1 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 2 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
+Développement du premier thème du scherzo ; la texture s'épaissit, les trilles et les mordants ornent les octaves répétées. La dynamique reste soutenue en forte. Clarté de l'articulation malgré la densité.
 </meta>
-    <section=section_3, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
+    <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
         <mesure num=1>
             <piano_1_v1>  |la#3 la#4, -, -|
             <piano_1_v4>  |_, _, _|
@@ -127,9 +127,9 @@ Section de développement 2 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 3 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
+Épisode central du scherzo A ; les traits en accords de quartes s'élancent sur tout le clavier, les deux mains en miroir. La logique harmonique reste fermement ancrée en mi bémol mineur. Précision dans les sauts de registre.
 </meta>
-    <section=section_4, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
+    <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
         <mesure num=1>
             <piano_1_v1>  |sol#3 re4 fa#4 sol#4, (sol#4 re5 fa#5 sol#5, fa#4 fa#5), (sol#4 do#5 fa5 sol#5, la4 la5)|
             <piano_1_v4>  |si1 si2, si2 fa#3 sol#3 re4, do#3 sol#3 si3 fa4|
@@ -167,9 +167,9 @@ Section de développement 3 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 4 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
+Passage contrapuntique du scherzo ; les voix médianes prennent le relais dans une texture à trois plans. L'influence de Bach est perceptible dans la conduite linéaire des voix. Mettre en valeur chaque ligne sans écraser les autres.
 </meta>
-    <section=section_5, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
+    <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
         <mesure num=1>
             <piano_1_v1>  |do#5 sol#5 do#6, fa#5 do#6 fa#6, do#4 sol#4 do#5|
             <piano_1_v4>  |do#4 fa4 si4, fa#3 do#4 la4, do#3 fa3 si3|
@@ -205,9 +205,9 @@ Section de développement 4 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 5 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
+Développement motorique du scherzo A ; les octaves répétées s'enchaînent en séquences ascendantes créant une montée dramatique. L'accentuation syncopée du deuxième temps amplifie l'effet de suspension rhythmique.
 </meta>
-    <section=section_6, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
+    <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
         <mesure num=1>
             <piano_1_v1>  |la4 re5, la#4 re#5, re#5 la#5 re#6|
             <piano_1_v4>  |fa#4, sol4, sol3 la#3 re#4 sol4|
@@ -243,9 +243,9 @@ Section de développement 5 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 6 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
+Section agitée du scherzo ; les deux mains jouent en dialogue serré, échangeant le motif principal dans les registres grave et aigu. La dynamique fluctue entre forte et fortissimo. Maintenir la précision dans les échanges thématiques.
 </meta>
-    <section=section_7, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
+    <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
         <mesure num=1>
             <piano_1_v1>  |(sol4 sol5, sol#4 sol#5), (la4 la5, la4 la5), (la4 la5, la4 la5)|
             <piano_1_v4>  |(si3 re4, do4 re#4), (do#4 mi4, do#4 mi4), (do#4 mi4, do#4 mi4)|
@@ -281,9 +281,9 @@ Section de développement 6 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 7 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
+Intensification du scherzo A ; les accords s'enchaînent en rafale, la progression harmonique chromatique crée une tension accrue. Préparer mentalement la transition vers le trio.
 </meta>
-    <section=section_8, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
+    <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
         <mesure num=1>
             <piano_1_v1>  |fa#6 re#7, re#4 fa#4 la4, fa#4 la4 fa#5|
             <piano_1_v4>  |la5 do6, do3 do4, do1 do2|
@@ -319,9 +319,9 @@ Section de développement 7 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 8 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
+Sommet dramatique du scherzo A ; fortissimo généralisé, accords martelés dans les deux registres extrêmes. L'énergie motorique atteint son paroxysme avant le contraste du trio. Maintenir la régularité du tempo malgré l'intensité.
 </meta>
-    <section=section_9, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
+    <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
         <mesure num=1>
             <piano_1_v1>  |la#3 la#4, la#4 la#5, la#5 la#6|
             <piano_1_v4>  |si1 si2, la#1 la#2, fa#1 fa#2|
@@ -357,9 +357,9 @@ Section de développement 8 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 9 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
+Section de transition scherzo-trio ; les accords se raréfient progressivement, la dynamique décroît. Un point d'orgue sur l'accord de dominante instaure une suspension avant le glissement vers sol bémol majeur.
 </meta>
-    <section=section_10, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
+    <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
         <mesure num=1>
             <piano_1_v1>  |sol#3 re#4 sol#4, re#4 sol#4 re#5, fa4 si4 re#5 fa5|
             <piano_1_v4>  |si2 si3, si1 si2, sol#1 sol#2|
@@ -395,9 +395,9 @@ Section de développement 9 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 10 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
+Préparation harmonique de la transition ; la tonalité pivote subtilement de mi bémol mineur vers sol bémol majeur relatif. Les chromatismes ménagent un pont expressif entre les deux sections contrastées.
 </meta>
-    <section=section_11, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
+    <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
         <mesure num=1>
             <piano_1_v1>  |re#3 re#4, _, _|
             <piano_1_v4>  |re#1 re#2, _, _|
@@ -436,9 +436,9 @@ Section de développement 10 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 11 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
+Dernières mesures du premier scherzo ; la cadence demi-cadencielle suspensive ouvre l'espace pour le trio. Laisser résonner le point d'orgue pour marquer clairement la césure formelle.
 </meta>
-    <section=section_12, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
+    <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
         <mesure num=1>
             <piano_1_v1>  |la#4, -, -|
             <piano_1_v2>  |_, la#3 fa#4, la#3 fa#4|
@@ -479,9 +479,9 @@ Section de développement 11 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 12 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
+Continuation de la cadence transitoire ; accord tenu sur la dominante de sol bémol prépare l'entrée du trio dans la sérénité. Respecter le silence avant le changement de caractère.
 </meta>
-    <section=section_13, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
+    <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
         <mesure num=1>
             <piano_1_v1>  |re#5, do#5, -|
             <piano_1_v2>  |_, do#4 la#4, do#4 la#4|
@@ -522,9 +522,9 @@ Section de développement 12 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 13 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
+Mesures de liaison avant le trio ; motifs résiduels du scherzo s'estompent en douceur. La texture s'allège radicalement pour préparer le caractère nocturne du trio. Diminuendo très progressif.
 </meta>
-    <section=section_14, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
+    <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
         <mesure num=1>
             <piano_1_v1>  |la#4, -, -|
             <piano_1_v2>  |_, la#3 fa#4, la#3 fa#4|
@@ -565,9 +565,9 @@ Section de développement 13 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 14 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
+Clôture de la première section A ; la phrase conclusive en mi bémol mineur pose la cadence parfaite avant l'interruption formelle du trio. Les octaves finales s'éteignent dans le piano.
 </meta>
-    <section=section_15, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
+    <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
         <mesure num=1>
             <piano_1_v1>  |fa5, -, -|
             <piano_1_v2>  |_, fa4 la4, fa4 la4|
@@ -611,9 +611,9 @@ Section de développement 14 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 15 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
+Couplet de liaison formel ; mesures de respiration entre scherzo et trio, permettant à l'auditeur de se préparer au contraste lyrique. Maintenir le fil narratif malgré l'interruption thématique.
 </meta>
-    <section=section_16, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
+    <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
         <mesure num=1>
             <piano_1_v1>  |si4, -, -|
             <piano_1_v2>  |fa4, re#4, fa4|
@@ -656,9 +656,9 @@ Section de développement 15 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 16 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
+Trio en sol bémol majeur, piano ; mélodie d'une quiétude presque irréelle, chantée sur un accompagnement en balancement ternaire. Ce refuge lumineux suspend le caractère agité du scherzo dans un nocturne intérieur. Legato absolu, voix du dessus projetée comme un chant.
 </meta>
-    <section=section_17, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
+    <section=trio, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
         <mesure num=1>
             <piano_1_v1>  |fa#3 do#4, sol#3 do#4, la#3 do#4|
             <piano_1_v4>  |la#2 do#3, sol#2 do#3, fa#2 do#3|
@@ -700,9 +700,9 @@ Section de développement 16 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 17 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
+Développement du trio ; la mélodie se déploie en longues phrases expressives, légèrement ornée de broderies et de fioritures. L'accompagnement en croches régulières berce l'auditeur dans un tempo plus posé. Goûter chaque intervalle harmonique.
 </meta>
-    <section=section_18, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
+    <section=trio, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
         <mesure num=1>
             <piano_1_v1>  |sol#3 re#4, la#3 re#4, fa#3 si3 re#4|
             <piano_1_v4>  |si2 re#3, la#2 re#3, sol#2 re#3|
@@ -746,9 +746,9 @@ Section de développement 17 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 18 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
+Cœur du trio en sol bémol majeur ; climax expressif, la mélodie atteint son apogée dans le registre médium-aigu. Les accords dans les graves renforcent la base harmonique. Équilibrer la richesse harmonique sans alourdir.
 </meta>
-    <section=section_19, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
+    <section=trio, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
         <mesure num=1>
             <piano_1_v1>  |la#3 do#4 fa#4, -, -|
             <piano_1_v4>  |fa#2 do#3, -, -|
@@ -790,9 +790,9 @@ Section de développement 18 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 19 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
+Retour du thème de trio légèrement varié ; des ornements supplémentaires enrichissent la ligne mélodique. L'harmonie explore de courtes digressions vers la sous-dominante avant de revenir au sol bémol majeur. Fluidité expressive requise.
 </meta>
-    <section=section_20, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
+    <section=trio, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
         <mesure num=1>
             <piano_1_v1>  |do#4 re#4 sol4, -, -|
             <piano_1_v4>  |(do4, la#3), (re3, re#3), (do4, la#3)|
@@ -833,9 +833,9 @@ Section de développement 19 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 20 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
+Section centrale du trio ; la mélodie dialogue avec elle-même dans des répétitions légèrement transformées. Les chromatismes apportent une nuance de mélancolie au cœur de la sérénité. Ne pas précipiter les ornements.
 </meta>
-    <section=section_21, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
+    <section=trio, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
         <mesure num=1>
             <piano_1_v1>  |fa4 do#5, -, -|
             <piano_1_v2>  |do#4, -, -|
@@ -878,9 +878,9 @@ Section de développement 20 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 21 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
+Développement interne du trio ; la texture s'enrichit discrètement d'une troisième voix intermédiaire. L'atmosphère nocturne s'approfondit. Maintenir la clarté du cantabile principal.
 </meta>
-    <section=section_22, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
+    <section=trio, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
         <mesure num=1>
             <piano_1_v1>  |fa#3 do#4, sol#3 do#4, fa#3 do#4|
             <piano_1_v4>  |la#2 do#3, si2 do#3, la#2 do#3|
@@ -922,9 +922,9 @@ Section de développement 21 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 22 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
+Préparation du retour au scherzo ; les deux chords intenses fortissimo font irruption comme un réveil brutal, les vestiges du trio s'estompent pianissimo smorzando. Ce moment est l'un des contrastes les plus saisissants de l'œuvre.
 </meta>
-    <section=section_23, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
+    <section=trio, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
         <mesure num=1>
             <piano_1_v1>  |sol#3 re#4, la#3 re#4, fa#3 si3 re#4|
             <piano_1_v4>  |si2 re#3, la#2 re#3, sol#2 re#3|
@@ -968,9 +968,9 @@ Section de développement 22 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 23 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
+Transition trio-scherzo ; les derniers accords du trio laissent place aux octaves initiales du scherzo. La violence de la réentrée doit être pleinement assumée.
 </meta>
-    <section=section_24, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
+    <section=trio, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
         <mesure num=1>
             <piano_1_v1>  |la#3 do#4 fa#4, -, -|
             <piano_1_v4>  |fa#2 do#3, -, -|
@@ -1006,9 +1006,9 @@ Section de développement 23 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 24 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
+Retour du scherzo A' en mi bémol mineur ; la réapparition du motif initial est identique mais son impact psychologique est décuplé par le souvenir du trio. Identique au début mais désormais inéluctable. Redonner l'élan avec fermeté.
 </meta>
-    <section=section_25, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
+    <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
         <mesure num=1>
             <piano_1_v1>  |fa3 si3 re#4 fa4, (fa4 si4 re#5 fa5, re#4 re#5), (fa4 la#4 re5 fa5, fa#4 fa#5)|
             <piano_1_v4>  |sol#1 sol#2, sol#2 re#3 fa3 si3, la#2 fa3 sol#3 re4|
@@ -1044,9 +1044,9 @@ Section de développement 24 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 25 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
+Continuation du retour du scherzo ; les accords de quartes reprennent leur course implacable. La cohérence formelle est assurée, le matériau identique à la première section. Maintenir le caractère percussif.
 </meta>
-    <section=section_26, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
+    <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
         <mesure num=1>
             <piano_1_v1>  |(do#5 la#5, do#5), (fa#5 do#6, fa#5), (la#5 fa#6, la#5)|
             <piano_1_v4>  |la#3 fa#4, do#4 la#4, fa#4 do#5|
@@ -1082,9 +1082,9 @@ Section de développement 25 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 26 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
+Développement du scherzo A' ; légères variantes rhythmiques par rapport à l'exposé initial intensifient le sentiment de conclusion inévitable. La dynamique reste en forte soutenu.
 </meta>
-    <section=section_27, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
+    <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
         <mesure num=1>
             <piano_1_v1>  |la#3 la#4, -, -|
             <piano_1_v4>  |fa#2 fa#3, fa2 fa3, do#2 do#3|
@@ -1120,9 +1120,9 @@ Section de développement 26 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 27 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
+Intensification de la reprise du scherzo ; la main gauche ajoute un trille supplémentaire, densifiant encore la texture. Les accents déplacés créent une instabilité croissante vers la coda.
 </meta>
-    <section=section_28, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
+    <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
         <mesure num=1>
             <piano_1_v1>  |(si3 fa4 la4 si4, si3 fa4 la4 si4), (si3 fa4 la4 si4, si3 fa4 la4 si4), si3 fa4 la4 si4|
             <piano_1_v4>  |re2 re3, (re#2 re#3, mi2 mi3), fa2 fa3|
@@ -1160,9 +1160,9 @@ Section de développement 27 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 28 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
+Section de développement cadentiel du scherzo A' ; pédale de dominante à la basse sous une succession d'accords de septième diminuée et de neuvième de dominante prépare la cadence parfaite.
 </meta>
-    <section=section_29, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
+    <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
         <mesure num=1>
             <piano_1_v1>  |do#4 sol#4 do#5, fa#4 do#5 fa#5, do#4 do#5|
             <piano_1_v4>  |do#3 fa3 si3, fa#2 do#3 la3, do#2 do#3|
@@ -1198,9 +1198,9 @@ Section de développement 28 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 29 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
+Préparation de la coda ; retour de la cadence parfaite en mi bémol majeur (tierce picarde) ; les octaves finales du scherzo s'enchaînent en accélération vers la conclusion.
 </meta>
-    <section=section_30, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
+    <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
         <mesure num=1>
             <piano_1_v1>  |(si3 mi4, do4 fa4), (do#4 fa#4, re4 sol4), (re#4 sol#4, mi4 la4)|
             <piano_1_v4>  |(sol#3, la3), (la#3, si3), (do4, do#4)|
@@ -1236,9 +1236,9 @@ Section de développement 29 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 30 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
+Dernières mesures du scherzo avant la coda ; les traits d'octaves en rafale dans toute l'étendue du clavier amènent la résolution finale. Tenir la régularité jusqu'au bout.
 </meta>
-    <section=section_31, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
+    <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
         <mesure num=1>
             <piano_1_v1>  |sol#4 do#5 sol#5, ({la#4 la#5, sol#4 do#5 sol#5}, sol4 sol5), (sol#4 do#5 sol#5, la#4 la#5)|
             <piano_1_v4>  |si3 do#4 fa4, do#2 do#3, si3 do#4 fa4|
@@ -1274,9 +1274,9 @@ Section de développement 30 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 31 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
+Coda du scherzo ; les derniers accords en mi bémol mineur et majeur concluent le mouvement avec une puissance sèche et définitive. Chopin ne résout pas en majeur mais affirme le mineur dans une clôture implacable.
 </meta>
-    <section=section_32, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
+    <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
         <mesure num=1>
             <piano_1_v1>  |do#4 fa4 la#4 do#5, do#4 fa4, re#4 fa4 la4 do5|
             <piano_1_v4>  |fa1 fa2, fa2 fa3, fa1 fa2|
@@ -1312,9 +1312,9 @@ Section de développement 31 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 32 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
+Clôture finale du scherzo ; les accords fortissimo en mi bémol mineur terminent abruptement le mouvement. Laisser l'accord résonner pleinement avant de lever les mains.
 </meta>
-    <section=section_33, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
+    <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
         <mesure num=1>
             <piano_1_v1>  |fa3 si3 re#4 fa4, (fa4 si4 re#5 fa5, re#4 re#5), (fa4 la#4 re5 fa5, fa#4 fa#5)|
             <piano_1_v4>  |sol#1 sol#2, sol#2 re#3 fa3 si3, la#2 fa3 sol#3 re4|
@@ -1350,9 +1350,9 @@ Section de développement 32 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 33 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
+Mesures conclusives du 2e mouvement ; la strette finale de doubles octaves converge vers l'accord terminal. La clôture est brutale et définitive.
 </meta>
-    <section=section_34, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
+    <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
         <mesure num=1>
             <piano_1_v1>  |re5 re6, re4 fa#4 sol#4 si4, si4 si5|
             <piano_1_v4>  |si1 si2, re3 fa#3 sol#3 si3, re2 re3|
@@ -1388,9 +1388,9 @@ Section de développement 33 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 34 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
+Péroraison du scherzo ; série d'accords en mi bémol qui s'affirment avec une énergie péremptoire. Le rythme ternaire obstiné aboutit à sa conclusion logique.
 </meta>
-    <section=section_35, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
+    <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
         <mesure num=1>
             <piano_1_v1>  |do#4 do#5, fa#4 fa#5, do#4 sol#4 do#5|
             <piano_1_v4>  |do#3 fa#3 la#3, fa#2, do#3 fa3 si3|
@@ -1431,9 +1431,9 @@ Section de développement 34 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 35 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
+Dernière mesure du scherzo avant la double barre ; l'accord terminal en mi bémol scelle le mouvement. Ponctuation décisive, pas de rallentando inutile.
 </meta>
-    <section=section_36, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
+    <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
         <mesure num=1>
             <piano_1_v1>  |do#4 fa#4, sol#3 do#4, fa#3 do#4|
             <piano_1_v4>  |do#3 fa#3 la#3, si2 do#3, la#2 do#3|
@@ -1469,9 +1469,9 @@ Section de développement 35 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section conclusive — 2 mesures. Tonalité Fa# majeur, tempo 90 BPM.
+Accord final et point d'orgue ; deux mesures conclusives en mi bémol mineur clôturent le second mouvement dans un silence pesant avant l'entrée de la Marche funèbre.
 </meta>
-    <section=section_37, n_mesure=2, bpm=90, format=3/4, tonalite=Fa#_majeur>
+    <section=coda, n_mesure=2, bpm=90, format=3/4, tonalite=Fa#_majeur>
         <mesure num=1>
             <piano_1_v1>  |fa#3 do#4 fa#4 la#4, -, -|
             <piano_1_v4>  |_, _, _|
