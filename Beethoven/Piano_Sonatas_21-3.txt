@@ -3,19 +3,20 @@
 TACHE : composition
 STYLE : classique
 FORMAT : piano_solo
-NIVEAU : simple
-Titre : Piano_Sonatas_21-3
-Date : ?
-Auteur : Beethoven
+NIVEAU : avance
+Titre : Sonate pour piano n°21 en Do majeur, op.53 "Waldstein", 3e mouvement (Rondo: Allegretto moderato - Prestissimo)
+Date : 1804
+Auteur : Ludwig van Beethoven
 Tonalite : Do_majeur
 Unite : quarter
-Intention : Pièce pour piano solo, modéré, lumineux, au cadre binaire régulier. Tonalité : Do majeur. 541 mesures.
+Intention : Le Rondo final de la Sonate Waldstein déploie un thème pastoral lumineux en Do majeur (2/4) soutenu par l'emploi continu de la pédale de sostenuto, parcourant des épisodes contrastants en La mineur et Do mineur avant une longue coda Prestissimo tourbillonnante. Forme rondo en Do majeur, à 2/4, Allegretto moderato puis Prestissimo, 88 à 200 BPM, 541 mesures, concluant la sonate dans un élan impétueux.
 </tete>
 
 <meta>
-Section d'ouverture — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+1-8 (8 mes), Allegretto moderato, Do majeur, 88 BPM.
+Le thème principal du Rondo (Do majeur, 2/4) déploie une mélodie pastorale et lumineuse en doubles croches, soutenue par une basse discrète en staccato. Carl Czerny soulignait que ce Rondo repose entièrement sur l'emploi de la pédale de sostenuto, permettant aux harmonies de se mêler pour créer une atmosphère mystérieuse et vaporeuse. Utiliser généreusement la pédale pour fondre les harmonies, surtout dans la nuance pianissimo du début.
 </meta>
-    <section=section_1, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=theme_1, n_mesure=8, bpm=88, format=2/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |({_, mi3}, sol3, do4), ({mi4, mi3}, sol3, do4)|
             <piano_1_v4>  |(do2, _), sol5|
@@ -51,9 +52,10 @@ Section d'ouverture — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 1 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+9-16 (8 mes), Allegretto moderato, Do majeur, 88 BPM.
+Le thème principal du Rondo (Do majeur, 2/4) déploie une mélodie pastorale et lumineuse en doubles croches, soutenue par une basse discrète en staccato. Carl Czerny soulignait que ce Rondo repose entièrement sur l'emploi de la pédale de sostenuto, permettant aux harmonies de se mêler pour créer une atmosphère mystérieuse et vaporeuse. Utiliser généreusement la pédale pour fondre les harmonies, surtout dans la nuance pianissimo du début.
 </meta>
-    <section=section_2, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=theme_1, n_mesure=8, bpm=88, format=2/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |({si3, sol3}, si3, re4), ({sol4, sol3}, si3, re4)|
             <piano_1_v4>  |(sol1, _), fa5|
@@ -89,9 +91,10 @@ Section de développement 1 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 2 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+17-24 (8 mes), Allegretto moderato, Do majeur, 88 BPM.
+Le thème principal du Rondo (Do majeur, 2/4) déploie une mélodie pastorale et lumineuse en doubles croches, soutenue par une basse discrète en staccato. Carl Czerny soulignait que ce Rondo repose entièrement sur l'emploi de la pédale de sostenuto, permettant aux harmonies de se mêler pour créer une atmosphère mystérieuse et vaporeuse. Utiliser généreusement la pédale pour fondre les harmonies, surtout dans la nuance pianissimo du début.
 </meta>
-    <section=section_3, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=theme_1, n_mesure=8, bpm=88, format=2/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |({_, sol3}, do4, sol4), ({_, sol3}, mi4, sol4)|
             <piano_1_v4>  |mi5, do5|
@@ -127,9 +130,10 @@ Section de développement 2 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 3 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+25-32 (8 mes), Allegretto moderato, Do majeur, 88 BPM.
+Le thème principal du Rondo (Do majeur, 2/4) déploie une mélodie pastorale et lumineuse en doubles croches, soutenue par une basse discrète en staccato. Carl Czerny soulignait que ce Rondo repose entièrement sur l'emploi de la pédale de sostenuto, permettant aux harmonies de se mêler pour créer une atmosphère mystérieuse et vaporeuse. Utiliser généreusement la pédale pour fondre les harmonies, surtout dans la nuance pianissimo du début.
 </meta>
-    <section=section_4, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=theme_1, n_mesure=8, bpm=88, format=2/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |({si4, sol4}, si4, re5), ({sol5, si5}, la5, fa#5)|
             <piano_1_v4>  |_, _|
@@ -165,9 +169,10 @@ Section de développement 3 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 4 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+33-40 (8 mes), Allegretto moderato, Do majeur, 88 BPM.
+Le thème principal du Rondo (Do majeur, 2/4) déploie une mélodie pastorale et lumineuse en doubles croches, soutenue par une basse discrète en staccato. Carl Czerny soulignait que ce Rondo repose entièrement sur l'emploi de la pédale de sostenuto, permettant aux harmonies de se mêler pour créer une atmosphère mystérieuse et vaporeuse. Utiliser généreusement la pédale pour fondre les harmonies, surtout dans la nuance pianissimo du début.
 </meta>
-    <section=section_5, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=theme_1, n_mesure=8, bpm=88, format=2/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |re5 re6, sol4 sol5|
             <piano_1_v4>  |({fa4, mi4}, re4, do4), ({si3, la3}, sol3, fa3)|
@@ -203,9 +208,10 @@ Section de développement 4 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 5 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+41-48 (8 mes), Allegretto moderato, Do majeur, 88 BPM.
+Le thème principal du Rondo (Do majeur, 2/4) déploie une mélodie pastorale et lumineuse en doubles croches, soutenue par une basse discrète en staccato. Carl Czerny soulignait que ce Rondo repose entièrement sur l'emploi de la pédale de sostenuto, permettant aux harmonies de se mêler pour créer une atmosphère mystérieuse et vaporeuse. Utiliser généreusement la pédale pour fondre les harmonies, surtout dans la nuance pianissimo du début.
 </meta>
-    <section=section_6, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=theme_1, n_mesure=8, bpm=88, format=2/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |mi5 mi6, do5 do6|
             <piano_1_v4>  |({sol3, do4}, sol4, do4), ({sol3, mi4}, sol4, mi4)|
@@ -241,9 +247,10 @@ Section de développement 5 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 6 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+49-56 (8 mes), Allegretto moderato, Do majeur, 88 BPM.
+Le thème principal du Rondo (Do majeur, 2/4) déploie une mélodie pastorale et lumineuse en doubles croches, soutenue par une basse discrète en staccato. Carl Czerny soulignait que ce Rondo repose entièrement sur l'emploi de la pédale de sostenuto, permettant aux harmonies de se mêler pour créer une atmosphère mystérieuse et vaporeuse. Utiliser généreusement la pédale pour fondre les harmonies, surtout dans la nuance pianissimo du début.
 </meta>
-    <section=section_7, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=theme_1, n_mesure=8, bpm=88, format=2/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |re#5 re#6, do5 do6|
             <piano_1_v4>  |({sol3, do4}, sol4, do4), ({sol3, re#4}, sol4, re#4)|
@@ -287,9 +294,10 @@ Section de développement 6 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 7 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+57-64 (8 mes), Allegretto moderato, Do majeur, 88 BPM.
+Le thème principal du Rondo (Do majeur, 2/4) déploie une mélodie pastorale et lumineuse en doubles croches, soutenue par une basse discrète en staccato. Carl Czerny soulignait que ce Rondo repose entièrement sur l'emploi de la pédale de sostenuto, permettant aux harmonies de se mêler pour créer une atmosphère mystérieuse et vaporeuse. Utiliser généreusement la pédale pour fondre les harmonies, surtout dans la nuance pianissimo du début.
 </meta>
-    <section=section_8, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=theme_1, n_mesure=8, bpm=88, format=2/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |sol5, sol5|
             <piano_1_v2>  |({la5, sol5, la5}, {sol5, la5, sol5}, {la5, sol5}), ({la5, sol5, la5}, {sol5, la5, sol5}, {la5, sol5})|
@@ -339,9 +347,10 @@ Section de développement 7 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 8 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+65-72 (8 mes), Allegretto moderato, Do majeur, 88 BPM.
+Le passage de liaison (mm.62-70) prépare l'entrée du premier épisode, avec des figures mélodiques dérivées du thème principal. L'harmonie glisse progressivement vers La mineur. Maintenir la continuité du legato dans cette courte transition.
 </meta>
-    <section=section_9, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=transition, n_mesure=8, bpm=88, format=2/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |({do4, mi4}, do4)|
             <piano_1_v4>  |({sol3, mi3}, sol3), ({si3, re4}, {si3, fa3, re3}, fa3)|
@@ -383,9 +392,10 @@ Section de développement 8 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 9 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+73-80 (8 mes), Allegretto moderato, La mineur, 88 BPM.
+L'épisode (La mineur) contraste avec le thème principal par son caractère plus dramatique, explorant des modulations en Do mineur, Fa mineur et Lab majeur. Des séquences en triolets et des syncopes créent une agitation expressive. Jouer avec une articulation plus incisive pour marquer ce changement de caractère.
 </meta>
-    <section=section_10, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=episode, n_mesure=8, bpm=88, format=2/4, tonalite=La_mineur>
         <mesure num=1>
             <piano_1_v1>  |({_, do4}, {do5, _, si3}, si4), ({_, do4}, {do5, _, la3}, la4)|
             <piano_1_v4>  |(do2 do3, si1 si2), (do2 do3, la1 la2)|
@@ -422,9 +432,10 @@ Section de développement 9 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 10 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+81-88 (8 mes), Allegretto moderato, La mineur, 88 BPM.
+L'épisode (La mineur) contraste avec le thème principal par son caractère plus dramatique, explorant des modulations en Do mineur, Fa mineur et Lab majeur. Des séquences en triolets et des syncopes créent une agitation expressive. Jouer avec une articulation plus incisive pour marquer ce changement de caractère.
 </meta>
-    <section=section_11, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=episode, n_mesure=8, bpm=88, format=2/4, tonalite=La_mineur>
         <mesure num=1>
             <piano_1_v1>  |({do5, re5}, {mi5, do5, si4}, la4), ({si4, do5}, {re5, si4, la4}, sol#4)|
             <piano_1_v4>  |(mi2 la2 mi3, mi2 mi3), (mi2 mi3, mi2 mi3)|
@@ -463,9 +474,10 @@ Section de développement 10 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 11 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+89-96 (8 mes), Allegretto moderato, La mineur, 88 BPM.
+L'épisode (La mineur) contraste avec le thème principal par son caractère plus dramatique, explorant des modulations en Do mineur, Fa mineur et Lab majeur. Des séquences en triolets et des syncopes créent une agitation expressive. Jouer avec une articulation plus incisive pour marquer ce changement de caractère.
 </meta>
-    <section=section_12, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=episode, n_mesure=8, bpm=88, format=2/4, tonalite=La_mineur>
         <mesure num=1>
             <piano_1_v1>  |({do6, mi6}, re6, do6), ({si5, re6}, do6, si5)|
             <piano_1_v4>  |({do3, la3}, mi3, la3), ({re3, sol#3}, mi3, sol#3)|
@@ -509,9 +521,10 @@ Section de développement 11 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 12 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+97-104 (8 mes), Allegretto moderato, La mineur, 88 BPM.
+L'épisode (La mineur) contraste avec le thème principal par son caractère plus dramatique, explorant des modulations en Do mineur, Fa mineur et Lab majeur. Des séquences en triolets et des syncopes créent une agitation expressive. Jouer avec une articulation plus incisive pour marquer ce changement de caractère.
 </meta>
-    <section=section_13, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=episode, n_mesure=8, bpm=88, format=2/4, tonalite=La_mineur>
         <mesure num=1>
             <piano_1_v1>  |({la5, do6}, si5, la5), ({si5, re6}, do6, si5)|
             <piano_1_v4>  |({do3, la3}, mi3, la3), ({re3, sol#3}, mi3, sol#3)|
@@ -549,9 +562,10 @@ Section de développement 12 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 13 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+105-112 (8 mes), Allegretto moderato, La mineur, 88 BPM.
+L'épisode (La mineur) contraste avec le thème principal par son caractère plus dramatique, explorant des modulations en Do mineur, Fa mineur et Lab majeur. Des séquences en triolets et des syncopes créent une agitation expressive. Jouer avec une articulation plus incisive pour marquer ce changement de caractère.
 </meta>
-    <section=section_14, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=episode, n_mesure=8, bpm=88, format=2/4, tonalite=La_mineur>
         <mesure num=1>
             <piano_1_v1>  |(fa4 fa5, _), (_, _)|
             <piano_1_v4>  |(fa3, _), (_, _)|
@@ -592,9 +606,10 @@ Section de développement 13 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 14 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+113-120 (8 mes), Allegretto moderato, La mineur, 88 BPM.
+L'épisode (La mineur) contraste avec le thème principal par son caractère plus dramatique, explorant des modulations en Do mineur, Fa mineur et Lab majeur. Des séquences en triolets et des syncopes créent une agitation expressive. Jouer avec une articulation plus incisive pour marquer ce changement de caractère.
 </meta>
-    <section=section_15, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=episode, n_mesure=8, bpm=88, format=2/4, tonalite=La_mineur>
         <mesure num=1>
             <piano_1_v1>  |_, (_, _)|
             <piano_1_v4>  |sol3, -|
@@ -631,9 +646,10 @@ Section de développement 14 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 15 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+121-128 (8 mes), Allegretto moderato, Do majeur, 88 BPM.
+Le thème principal du Rondo (Do majeur, 2/4) déploie une mélodie pastorale et lumineuse en doubles croches, soutenue par une basse discrète en staccato. Carl Czerny soulignait que ce Rondo repose entièrement sur l'emploi de la pédale de sostenuto, permettant aux harmonies de se mêler pour créer une atmosphère mystérieuse et vaporeuse. Utiliser généreusement la pédale pour fondre les harmonies, surtout dans la nuance pianissimo du début.
 </meta>
-    <section=section_16, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=theme_1, n_mesure=8, bpm=88, format=2/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |(_, mi3, sol3), ({do4, mi4}, re4, do4)|
             <piano_1_v4>  |(do5, _), (_, sol2)|
@@ -669,9 +685,10 @@ Section de développement 15 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 16 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+129-136 (8 mes), Allegretto moderato, Do majeur, 88 BPM.
+Le thème principal du Rondo (Do majeur, 2/4) déploie une mélodie pastorale et lumineuse en doubles croches, soutenue par une basse discrète en staccato. Carl Czerny soulignait que ce Rondo repose entièrement sur l'emploi de la pédale de sostenuto, permettant aux harmonies de se mêler pour créer une atmosphère mystérieuse et vaporeuse. Utiliser généreusement la pédale pour fondre les harmonies, surtout dans la nuance pianissimo du début.
 </meta>
-    <section=section_17, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=theme_1, n_mesure=8, bpm=88, format=2/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |({_, sol3}, re4, sol4), ({_, sol3}, si3, sol4)|
             <piano_1_v4>  |si4, re5|
@@ -707,9 +724,10 @@ Section de développement 16 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 17 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+137-144 (8 mes), Allegretto moderato, Do majeur, 88 BPM.
+Le thème principal du Rondo (Do majeur, 2/4) déploie une mélodie pastorale et lumineuse en doubles croches, soutenue par une basse discrète en staccato. Carl Czerny soulignait que ce Rondo repose entièrement sur l'emploi de la pédale de sostenuto, permettant aux harmonies de se mêler pour créer une atmosphère mystérieuse et vaporeuse. Utiliser généreusement la pédale pour fondre les harmonies, surtout dans la nuance pianissimo du début.
 </meta>
-    <section=section_18, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=theme_1, n_mesure=8, bpm=88, format=2/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |({sol4, si3}, re4, sol4), ({si4, re5}, do5, la4)|
             <piano_1_v4>  |_, _|
@@ -745,9 +763,10 @@ Section de développement 17 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 18 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+145-152 (8 mes), Allegretto moderato, Do majeur, 88 BPM.
+Le thème principal du Rondo (Do majeur, 2/4) déploie une mélodie pastorale et lumineuse en doubles croches, soutenue par une basse discrète en staccato. Carl Czerny soulignait que ce Rondo repose entièrement sur l'emploi de la pédale de sostenuto, permettant aux harmonies de se mêler pour créer une atmosphère mystérieuse et vaporeuse. Utiliser généreusement la pédale pour fondre les harmonies, surtout dans la nuance pianissimo du début.
 </meta>
-    <section=section_19, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=theme_1, n_mesure=8, bpm=88, format=2/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |sol5 sol6, mi5 mi6|
             <piano_1_v4>  |({do4, mi3}, sol3, do4), ({mi4, sol3}, do4, mi4)|
@@ -783,9 +802,10 @@ Section de développement 18 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 19 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+153-160 (8 mes), Allegretto moderato, Do majeur, 88 BPM.
+Le thème principal du Rondo (Do majeur, 2/4) déploie une mélodie pastorale et lumineuse en doubles croches, soutenue par une basse discrète en staccato. Carl Czerny soulignait que ce Rondo repose entièrement sur l'emploi de la pédale de sostenuto, permettant aux harmonies de se mêler pour créer une atmosphère mystérieuse et vaporeuse. Utiliser généreusement la pédale pour fondre les harmonies, surtout dans la nuance pianissimo du début.
 </meta>
-    <section=section_20, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=theme_1, n_mesure=8, bpm=88, format=2/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |fa5 fa6, re5 re6|
             <piano_1_v4>  |({re3, sol3}, si3, re4), ({sol3, si3}, re4, sol4)|
@@ -821,9 +841,10 @@ Section de développement 19 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 20 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+161-168 (8 mes), Allegretto moderato, Do majeur, 88 BPM.
+Le thème principal du Rondo (Do majeur, 2/4) déploie une mélodie pastorale et lumineuse en doubles croches, soutenue par une basse discrète en staccato. Carl Czerny soulignait que ce Rondo repose entièrement sur l'emploi de la pédale de sostenuto, permettant aux harmonies de se mêler pour créer une atmosphère mystérieuse et vaporeuse. Utiliser généreusement la pédale pour fondre les harmonies, surtout dans la nuance pianissimo du début.
 </meta>
-    <section=section_21, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=theme_1, n_mesure=8, bpm=88, format=2/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |si4 si5, re5 re6|
             <piano_1_v4>  |({sol3, re4}, sol4, re4), ({sol3, si3}, sol4, si3)|
@@ -865,9 +886,10 @@ Section de développement 20 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 21 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+169-176 (8 mes), Allegretto moderato, Do majeur, 88 BPM.
+Le thème principal du Rondo (Do majeur, 2/4) déploie une mélodie pastorale et lumineuse en doubles croches, soutenue par une basse discrète en staccato. Carl Czerny soulignait que ce Rondo repose entièrement sur l'emploi de la pédale de sostenuto, permettant aux harmonies de se mêler pour créer une atmosphère mystérieuse et vaporeuse. Utiliser généreusement la pédale pour fondre les harmonies, surtout dans la nuance pianissimo du début.
 </meta>
-    <section=section_22, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=theme_1, n_mesure=8, bpm=88, format=2/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |sol5, -|
             <piano_1_v2>  |({la5, sol5, la5}, {sol5, la5, sol5}, {la5, sol5}), ({la5, sol5, la5}, {sol5, la5, sol5}, {la5, sol5})|
@@ -917,9 +939,10 @@ Section de développement 21 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 22 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+177-184 (8 mes), Allegretto moderato, Do mineur, 88 BPM.
+L'épisode (La mineur) contraste avec le thème principal par son caractère plus dramatique, explorant des modulations en Do mineur, Fa mineur et Lab majeur. Des séquences en triolets et des syncopes créent une agitation expressive. Jouer avec une articulation plus incisive pour marquer ce changement de caractère.
 </meta>
-    <section=section_23, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=episode, n_mesure=8, bpm=88, format=2/4, tonalite=Do_mineur>
         <mesure num=1>
             <piano_1_v1>  |({_, _}, _, _), ({_, _}, _, _)|
             <piano_1_v2>  |(do4, do4), (sol#4, sol4)|
@@ -961,9 +984,10 @@ Section de développement 22 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 23 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+185-192 (8 mes), Allegretto moderato, Do mineur, 88 BPM.
+L'épisode (La mineur) contraste avec le thème principal par son caractère plus dramatique, explorant des modulations en Do mineur, Fa mineur et Lab majeur. Des séquences en triolets et des syncopes créent une agitation expressive. Jouer avec une articulation plus incisive pour marquer ce changement de caractère.
 </meta>
-    <section=section_24, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=episode, n_mesure=8, bpm=88, format=2/4, tonalite=Do_mineur>
         <mesure num=1>
             <piano_1_v1>  |(do4 do5, do4 do5), (sol#4 sol#5, sol4 sol5)|
             <piano_1_v4>  |(do3, {mi2, re2}, mi2), ({fa2, sol#2}, {la#2, do3, re3}, mi3)|
@@ -999,9 +1023,10 @@ Section de développement 23 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 24 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+193-200 (8 mes), Allegretto moderato, Do mineur, 88 BPM.
+L'épisode (La mineur) contraste avec le thème principal par son caractère plus dramatique, explorant des modulations en Do mineur, Fa mineur et Lab majeur. Des séquences en triolets et des syncopes créent une agitation expressive. Jouer avec une articulation plus incisive pour marquer ce changement de caractère.
 </meta>
-    <section=section_25, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=episode, n_mesure=8, bpm=88, format=2/4, tonalite=Do_mineur>
         <mesure num=1>
             <piano_1_v1>  |(sol#5, {mi4, re4}, mi4), ({fa4, sol#4}, {la#4, do5, re5}, mi5)|
             <piano_1_v4>  |(sol#2 sol#3, do2 do3), (sol#2 sol#3, sol2 sol3)|
@@ -1037,9 +1062,10 @@ Section de développement 24 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 25 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+201-208 (8 mes), Allegretto moderato, Do mineur, 88 BPM.
+L'épisode (La mineur) contraste avec le thème principal par son caractère plus dramatique, explorant des modulations en Do mineur, Fa mineur et Lab majeur. Des séquences en triolets et des syncopes créent une agitation expressive. Jouer avec une articulation plus incisive pour marquer ce changement de caractère.
 </meta>
-    <section=section_26, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=episode, n_mesure=8, bpm=88, format=2/4, tonalite=Do_mineur>
         <mesure num=1>
             <piano_1_v1>  |(sol#4 sol#5, do4 do5), (sol#4 sol#5, sol4 sol5)|
             <piano_1_v4>  |(sol#3, {mi2, re2}, mi2), ({fa2, sol#2}, {la#2, do3, re3}, mi3)|
@@ -1075,9 +1101,10 @@ Section de développement 25 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 26 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+209-216 (8 mes), Allegretto moderato, Do mineur, 88 BPM.
+L'épisode (La mineur) contraste avec le thème principal par son caractère plus dramatique, explorant des modulations en Do mineur, Fa mineur et Lab majeur. Des séquences en triolets et des syncopes créent une agitation expressive. Jouer avec une articulation plus incisive pour marquer ce changement de caractère.
 </meta>
-    <section=section_27, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=episode, n_mesure=8, bpm=88, format=2/4, tonalite=Do_mineur>
         <mesure num=1>
             <piano_1_v1>  |({sol5, sol#5}, {sol5, fa#5, sol5}, fa#5), ({sol5, sol#5}, {sol5, fa#5, sol5}, fa#5)|
             <piano_1_v4>  |si1 si2, (sol1 sol2, sol1 sol2)|
@@ -1113,9 +1140,10 @@ Section de développement 26 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 27 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+217-224 (8 mes), Allegretto moderato, Do mineur, 88 BPM.
+L'épisode (La mineur) contraste avec le thème principal par son caractère plus dramatique, explorant des modulations en Do mineur, Fa mineur et Lab majeur. Des séquences en triolets et des syncopes créent une agitation expressive. Jouer avec une articulation plus incisive pour marquer ce changement de caractère.
 </meta>
-    <section=section_28, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=episode, n_mesure=8, bpm=88, format=2/4, tonalite=Do_mineur>
         <mesure num=1>
             <piano_1_v1>  |(do4 do5, _), (do4 do5, _)|
             <piano_1_v4>  |(do2 do3, _), (do2 do3, _)|
@@ -1151,9 +1179,10 @@ Section de développement 27 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 28 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+225-232 (8 mes), Allegretto moderato, Lab majeur, 88 BPM.
+Le vaste développement (mm.221-312) explore des régions tonales éloignées comme Lab majeur, Fa mineur et Ré bémol majeur, avec des références au thème principal transformées harmoniquement. Des séquences en syncopes conduisent à de nouvelles figures mélodiques (m.251 et m.269) avant de remonter vers Do mineur (m.277). Dérouler chaque modulation avec une clarté de direction harmonique.
 </meta>
-    <section=section_29, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=developpement, n_mesure=8, bpm=88, format=2/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |_, do4 fa4 sol#4 do5|
             <piano_1_v4>  |fa3|
@@ -1190,9 +1219,10 @@ Section de développement 28 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 29 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+233-240 (8 mes), Allegretto moderato, Lab majeur, 88 BPM.
+Le vaste développement (mm.221-312) explore des régions tonales éloignées comme Lab majeur, Fa mineur et Ré bémol majeur, avec des références au thème principal transformées harmoniquement. Des séquences en syncopes conduisent à de nouvelles figures mélodiques (m.251 et m.269) avant de remonter vers Do mineur (m.277). Dérouler chaque modulation avec une clarté de direction harmonique.
 </meta>
-    <section=section_30, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=developpement, n_mesure=8, bpm=88, format=2/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |fa#4 re#5, fa#4 sol#4|
             <piano_1_v4>  |do#3 sol#3 do4, do#3 sol#3 do4|
@@ -1238,9 +1268,10 @@ Section de développement 29 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 30 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+241-248 (8 mes), Allegretto moderato, Lab majeur, 88 BPM.
+Le vaste développement (mm.221-312) explore des régions tonales éloignées comme Lab majeur, Fa mineur et Ré bémol majeur, avec des références au thème principal transformées harmoniquement. Des séquences en syncopes conduisent à de nouvelles figures mélodiques (m.251 et m.269) avant de remonter vers Do mineur (m.277). Dérouler chaque modulation avec une clarté de direction harmonique.
 </meta>
-    <section=section_31, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=developpement, n_mesure=8, bpm=88, format=2/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |(si3 re#4, si3 re#4), si3 re4 fa4|
             <piano_1_v4>  |(sol#3, sol#3), sol#3|
@@ -1278,9 +1309,10 @@ Section de développement 30 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 31 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+249-256 (8 mes), Allegretto moderato, Lab majeur, 88 BPM.
+Le vaste développement (mm.221-312) explore des régions tonales éloignées comme Lab majeur, Fa mineur et Ré bémol majeur, avec des références au thème principal transformées harmoniquement. Des séquences en syncopes conduisent à de nouvelles figures mélodiques (m.251 et m.269) avant de remonter vers Do mineur (m.277). Dérouler chaque modulation avec une clarté de direction harmonique.
 </meta>
-    <section=section_32, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=developpement, n_mesure=8, bpm=88, format=2/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |(do4 fa4 sol#4, do4 fa4 sol#4), do4 fa4 sol#4|
             <piano_1_v4>  |fa3, fa3|
@@ -1316,9 +1348,10 @@ Section de développement 31 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 32 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+257-264 (8 mes), Allegretto moderato, Lab majeur, 88 BPM.
+Le vaste développement (mm.221-312) explore des régions tonales éloignées comme Lab majeur, Fa mineur et Ré bémol majeur, avec des références au thème principal transformées harmoniquement. Des séquences en syncopes conduisent à de nouvelles figures mélodiques (m.251 et m.269) avant de remonter vers Do mineur (m.277). Dérouler chaque modulation avec une clarté de direction harmonique.
 </meta>
-    <section=section_33, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=developpement, n_mesure=8, bpm=88, format=2/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |({mi6, fa6}, do6, la5), ({fa5, do5}, la4, fa4)|
             <piano_1_v4>  |la3 do4, -|
@@ -1354,9 +1387,10 @@ Section de développement 32 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 33 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+265-272 (8 mes), Allegretto moderato, Lab majeur, 88 BPM.
+Le vaste développement (mm.221-312) explore des régions tonales éloignées comme Lab majeur, Fa mineur et Ré bémol majeur, avec des références au thème principal transformées harmoniquement. Des séquences en syncopes conduisent à de nouvelles figures mélodiques (m.251 et m.269) avant de remonter vers Do mineur (m.277). Dérouler chaque modulation avec une clarté de direction harmonique.
 </meta>
-    <section=section_34, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=developpement, n_mesure=8, bpm=88, format=2/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |({si4, re#5}, fa#5, la#5), ({si5, fa#5}, re#5, si4)|
             <piano_1_v4>  |re#4 fa#4, -|
@@ -1392,9 +1426,10 @@ Section de développement 33 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 34 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+273-280 (8 mes), Allegretto moderato, Lab majeur, 88 BPM.
+Le vaste développement (mm.221-312) explore des régions tonales éloignées comme Lab majeur, Fa mineur et Ré bémol majeur, avec des références au thème principal transformées harmoniquement. Des séquences en syncopes conduisent à de nouvelles figures mélodiques (m.251 et m.269) avant de remonter vers Do mineur (m.277). Dérouler chaque modulation avec une clarté de direction harmonique.
 </meta>
-    <section=section_35, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=developpement, n_mesure=8, bpm=88, format=2/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |({_, do#6}, do6, do#6), ({fa6, do#6}, fa6, do#6)|
             <piano_1_v4>  |sol#3 do#4 fa4, -|
@@ -1430,9 +1465,10 @@ Section de développement 34 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 35 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+281-288 (8 mes), Allegretto moderato, Lab majeur, 88 BPM.
+Le vaste développement (mm.221-312) explore des régions tonales éloignées comme Lab majeur, Fa mineur et Ré bémol majeur, avec des références au thème principal transformées harmoniquement. Des séquences en syncopes conduisent à de nouvelles figures mélodiques (m.251 et m.269) avant de remonter vers Do mineur (m.277). Dérouler chaque modulation avec une clarté de direction harmonique.
 </meta>
-    <section=section_36, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=developpement, n_mesure=8, bpm=88, format=2/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |({re#5, do5}, sol4, re#4), ({do5, sol4}, re#4, do4)|
             <piano_1_v4>  |do2, do3 re#3 sol3|
@@ -1469,9 +1505,10 @@ Section de développement 35 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 36 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+289-296 (8 mes), Allegretto moderato, Lab majeur, 88 BPM.
+Le vaste développement (mm.221-312) explore des régions tonales éloignées comme Lab majeur, Fa mineur et Ré bémol majeur, avec des références au thème principal transformées harmoniquement. Des séquences en syncopes conduisent à de nouvelles figures mélodiques (m.251 et m.269) avant de remonter vers Do mineur (m.277). Dérouler chaque modulation avec une clarté de direction harmonique.
 </meta>
-    <section=section_37, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=developpement, n_mesure=8, bpm=88, format=2/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |({_, sol3}, re3, si2), ({_, sol3}, re3, si2)|
             <piano_1_v4>  |(sol1, _), sol#3|
@@ -1507,9 +1544,10 @@ Section de développement 36 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 37 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+297-304 (8 mes), Allegretto moderato, Lab majeur, 88 BPM.
+Le vaste développement (mm.221-312) explore des régions tonales éloignées comme Lab majeur, Fa mineur et Ré bémol majeur, avec des références au thème principal transformées harmoniquement. Des séquences en syncopes conduisent à de nouvelles figures mélodiques (m.251 et m.269) avant de remonter vers Do mineur (m.277). Dérouler chaque modulation avec une clarté de direction harmonique.
 </meta>
-    <section=section_38, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=developpement, n_mesure=8, bpm=88, format=2/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |({re4, si3}, sol3, si3), ({re4, si3}, sol3, si3)|
             <piano_1_v4>  |(sol1, _), fa4|
@@ -1545,9 +1583,10 @@ Section de développement 37 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 38 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+305-312 (8 mes), Allegretto moderato, Lab majeur, 88 BPM.
+Le vaste développement (mm.221-312) explore des régions tonales éloignées comme Lab majeur, Fa mineur et Ré bémol majeur, avec des références au thème principal transformées harmoniquement. Des séquences en syncopes conduisent à de nouvelles figures mélodiques (m.251 et m.269) avant de remonter vers Do mineur (m.277). Dérouler chaque modulation avec une clarté de direction harmonique.
 </meta>
-    <section=section_39, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=developpement, n_mesure=8, bpm=88, format=2/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |({fa4, si3 re4}, sol3, si3 re4), ({fa4, si3 re4}, sol3, si3 re4)|
             <piano_1_v4>  |fa5, sol#1 sol#2|
@@ -1583,9 +1622,10 @@ Section de développement 38 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 39 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+313-320 (8 mes), Allegretto moderato, Do majeur, 88 BPM.
+Le thème principal du Rondo (Do majeur, 2/4) déploie une mélodie pastorale et lumineuse en doubles croches, soutenue par une basse discrète en staccato. Carl Czerny soulignait que ce Rondo repose entièrement sur l'emploi de la pédale de sostenuto, permettant aux harmonies de se mêler pour créer une atmosphère mystérieuse et vaporeuse. Utiliser généreusement la pédale pour fondre les harmonies, surtout dans la nuance pianissimo du début.
 </meta>
-    <section=section_40, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=theme_1, n_mesure=8, bpm=88, format=2/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |re5 re6, sol4 sol5|
             <piano_1_v4>  |({fa4, mi4}, re4, do4), ({si3, la3}, sol3, fa3)|
@@ -1621,9 +1661,10 @@ Section de développement 39 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 40 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+321-328 (8 mes), Allegretto moderato, Do majeur, 88 BPM.
+Le thème principal du Rondo (Do majeur, 2/4) déploie une mélodie pastorale et lumineuse en doubles croches, soutenue par une basse discrète en staccato. Carl Czerny soulignait que ce Rondo repose entièrement sur l'emploi de la pédale de sostenuto, permettant aux harmonies de se mêler pour créer une atmosphère mystérieuse et vaporeuse. Utiliser généreusement la pédale pour fondre les harmonies, surtout dans la nuance pianissimo du début.
 </meta>
-    <section=section_41, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=theme_1, n_mesure=8, bpm=88, format=2/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |mi5 mi6, do5 do6|
             <piano_1_v4>  |({sol3, do4}, sol4, do4), ({sol3, mi4}, sol4, mi4)|
@@ -1659,9 +1700,10 @@ Section de développement 40 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 41 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+329-336 (8 mes), Allegretto moderato, Do majeur, 88 BPM.
+Le thème principal du Rondo (Do majeur, 2/4) déploie une mélodie pastorale et lumineuse en doubles croches, soutenue par une basse discrète en staccato. Carl Czerny soulignait que ce Rondo repose entièrement sur l'emploi de la pédale de sostenuto, permettant aux harmonies de se mêler pour créer une atmosphère mystérieuse et vaporeuse. Utiliser généreusement la pédale pour fondre les harmonies, surtout dans la nuance pianissimo du début.
 </meta>
-    <section=section_42, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=theme_1, n_mesure=8, bpm=88, format=2/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |re#5 re#6, do5 do6|
             <piano_1_v4>  |({sol3, do4}, sol4, do4), ({sol3, re#4}, sol4, re#4)|
@@ -1705,9 +1747,10 @@ Section de développement 41 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 42 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+337-344 (8 mes), Allegretto moderato, Do majeur, 88 BPM.
+Le thème principal du Rondo (Do majeur, 2/4) déploie une mélodie pastorale et lumineuse en doubles croches, soutenue par une basse discrète en staccato. Carl Czerny soulignait que ce Rondo repose entièrement sur l'emploi de la pédale de sostenuto, permettant aux harmonies de se mêler pour créer une atmosphère mystérieuse et vaporeuse. Utiliser généreusement la pédale pour fondre les harmonies, surtout dans la nuance pianissimo du début.
 </meta>
-    <section=section_43, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=theme_1, n_mesure=8, bpm=88, format=2/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |sol5, sol5|
             <piano_1_v2>  |({la5, sol5, la5}, {sol5, la5, sol5}, {la5, sol5}), ({la5, sol5, la5}, {sol5, la5, sol5}, {la5, sol5})|
@@ -1757,9 +1800,10 @@ Section de développement 42 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 43 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+345-352 (8 mes), Allegretto moderato, Do majeur, 88 BPM.
+L'épisode (La mineur) contraste avec le thème principal par son caractère plus dramatique, explorant des modulations en Do mineur, Fa mineur et Lab majeur. Des séquences en triolets et des syncopes créent une agitation expressive. Jouer avec une articulation plus incisive pour marquer ce changement de caractère.
 </meta>
-    <section=section_44, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=episode, n_mesure=8, bpm=88, format=2/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |({do4, mi4}, do4), ({si3, re4}, si3)|
             <piano_1_v4>  |({sol3, mi3}, sol3), ({fa3, re3}, fa3)|
@@ -1797,9 +1841,10 @@ Section de développement 43 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 44 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+353-360 (8 mes), Allegretto moderato, Do majeur, 88 BPM.
+L'épisode (La mineur) contraste avec le thème principal par son caractère plus dramatique, explorant des modulations en Do mineur, Fa mineur et Lab majeur. Des séquences en triolets et des syncopes créent une agitation expressive. Jouer avec une articulation plus incisive pour marquer ce changement de caractère.
 </meta>
-    <section=section_45, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=episode, n_mesure=8, bpm=88, format=2/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |({sol4, do5}, {sol4, mi4, do4}, mi4), ({fa4, si4}, {fa4, re4, si3}, re4)|
             <piano_1_v4>  |({do2, mi2}, {sol2, do3, sol2}, mi2), ({do2, re2}, {fa2, do3, fa2}, re2)|
@@ -1835,9 +1880,10 @@ Section de développement 44 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 45 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+361-368 (8 mes), Allegretto moderato, Do majeur, 88 BPM.
+L'épisode (La mineur) contraste avec le thème principal par son caractère plus dramatique, explorant des modulations en Do mineur, Fa mineur et Lab majeur. Des séquences en triolets et des syncopes créent une agitation expressive. Jouer avec une articulation plus incisive pour marquer ce changement de caractère.
 </meta>
-    <section=section_46, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=episode, n_mesure=8, bpm=88, format=2/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |({re5, sol5}, {re5, do5, sol4}, do5), ({re5, sol5}, {re5, si4, sol4}, si4)|
             <piano_1_v4>  |({sol2, do3}, {re3, sol3, re3}, do3), ({sol2, si2}, {re3, sol3, re3}, si2)|
@@ -1873,9 +1919,10 @@ Section de développement 45 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 46 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+369-376 (8 mes), Allegretto moderato, Do majeur, 88 BPM.
+L'épisode (La mineur) contraste avec le thème principal par son caractère plus dramatique, explorant des modulations en Do mineur, Fa mineur et Lab majeur. Des séquences en triolets et des syncopes créent une agitation expressive. Jouer avec une articulation plus incisive pour marquer ce changement de caractère.
 </meta>
-    <section=section_47, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=episode, n_mesure=8, bpm=88, format=2/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |({re6, sol6}, {re6, si5, sol5}, si5), ({re6, fa#6}, {re6, la5, fa#5}, la5)|
             <piano_1_v4>  |({sol2, si2}, {re3, sol3, re3}, si2), ({sol2, do3}, {re3, la3, re3}, do3)|
@@ -1911,9 +1958,10 @@ Section de développement 46 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 47 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+377-384 (8 mes), Allegretto moderato, Do majeur, 88 BPM.
+L'épisode (La mineur) contraste avec le thème principal par son caractère plus dramatique, explorant des modulations en Do mineur, Fa mineur et Lab majeur. Des séquences en triolets et des syncopes créent une agitation expressive. Jouer avec une articulation plus incisive pour marquer ce changement de caractère.
 </meta>
-    <section=section_48, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=episode, n_mesure=8, bpm=88, format=2/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |sol4 si4 re5 sol5, -|
             <piano_1_v4>  |_, sol2 si2 re3 sol3|
@@ -1949,9 +1997,10 @@ Section de développement 47 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 48 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+385-392 (8 mes), Allegretto moderato, Do majeur, 88 BPM.
+Le pont sur pédale de dominante (mm.378-401) prépare l'entrée de la coda Prestissimo, maintenant la tension harmonique sur Sol avec une intensité pianissimo mystérieuse. L'attente se prolonge avant l'explosion de vitesse. Jouer les trilles avec une régularité cristalline.
 </meta>
-    <section=section_49, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=pont, n_mesure=8, bpm=88, format=2/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |_, sol#5 si5 re6 fa6|
             <piano_1_v4>  |sol3 si3 re4 fa4, _|
@@ -1987,9 +2036,10 @@ Section de développement 48 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 49 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+393-400 (8 mes), Allegretto moderato, Do majeur, 88 BPM.
+Le pont sur pédale de dominante (mm.378-401) prépare l'entrée de la coda Prestissimo, maintenant la tension harmonique sur Sol avec une intensité pianissimo mystérieuse. L'attente se prolonge avant l'explosion de vitesse. Jouer les trilles avec une régularité cristalline.
 </meta>
-    <section=section_50, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=pont, n_mesure=8, bpm=88, format=2/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |_, _|
             <piano_1_v4>  |_, _|
@@ -2025,9 +2075,10 @@ Section de développement 49 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 50 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+401-408 (8 mes), Prestissimo, Do majeur, 200 BPM.
+La coda Prestissimo (mm.401-541) transforme le thème pastoral en un tourbillon impétueux, Beethoven exploitant toutes les ressources du pianoforte dans des passages de gammes en doubles croches, des trilles en cascade et des modulations fulgurantes. Maintenir une pulsation implacable et une clarté articulatoire dans la vitesse maximale.
 </meta>
-    <section=section_51, n_mesure=8, bpm=90, format=2/2, tonalite=Do_majeur>
+    <section=coda, n_mesure=8, bpm=200, format=2/2, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |(do4, sol6), (sol6, mi6)|
             <piano_1_v4>  |(do2 do3, mi4, sol4), ({mi4, sol4}, mi4, sol4)|
@@ -2067,9 +2118,10 @@ Section de développement 50 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 51 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+409-416 (8 mes), Prestissimo, Do majeur, 200 BPM.
+La coda Prestissimo (mm.401-541) transforme le thème pastoral en un tourbillon impétueux, Beethoven exploitant toutes les ressources du pianoforte dans des passages de gammes en doubles croches, des trilles en cascade et des modulations fulgurantes. Maintenir une pulsation implacable et une clarté articulatoire dans la vitesse maximale.
 </meta>
-    <section=section_52, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=coda, n_mesure=8, bpm=200, format=2/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |(re6, do#6), (re6, sol5), (do6, si5), (do6, mi6)|
             <piano_1_v4>  |(fa4, sol4), (fa4, sol4), (mi4, re#4), (mi4, do4)|
@@ -2106,9 +2158,10 @@ Section de développement 51 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 52 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+417-424 (8 mes), Prestissimo, Do majeur, 200 BPM.
+La coda Prestissimo (mm.401-541) transforme le thème pastoral en un tourbillon impétueux, Beethoven exploitant toutes les ressources du pianoforte dans des passages de gammes en doubles croches, des trilles en cascade et des modulations fulgurantes. Maintenir une pulsation implacable et une clarté articulatoire dans la vitesse maximale.
 </meta>
-    <section=section_53, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=coda, n_mesure=8, bpm=200, format=2/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |(mi4, do4), (sol3, mi4), (re4, si3), (sol3, re4)|
             <piano_1_v4>  |do3, (_, do3), sol2, (_, sol2)|
@@ -2144,9 +2197,10 @@ Section de développement 52 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 53 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+425-432 (8 mes), Prestissimo, Do majeur, 200 BPM.
+La coda Prestissimo (mm.401-541) transforme le thème pastoral en un tourbillon impétueux, Beethoven exploitant toutes les ressources du pianoforte dans des passages de gammes en doubles croches, des trilles en cascade et des modulations fulgurantes. Maintenir une pulsation implacable et une clarté articulatoire dans la vitesse maximale.
 </meta>
-    <section=section_54, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=coda, n_mesure=8, bpm=200, format=2/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |_, do6, do6, la5|
             <piano_1_v4>  |fa2, (la3, do4), (la3, do4), (la3, do4)|
@@ -2182,9 +2236,10 @@ Section de développement 53 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 54 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+433-440 (8 mes), Prestissimo, Do majeur, 200 BPM.
+La coda Prestissimo (mm.401-541) transforme le thème pastoral en un tourbillon impétueux, Beethoven exploitant toutes les ressources du pianoforte dans des passages de gammes en doubles croches, des trilles en cascade et des modulations fulgurantes. Maintenir une pulsation implacable et une clarté articulatoire dans la vitesse maximale.
 </meta>
-    <section=section_55, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=coda, n_mesure=8, bpm=200, format=2/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |do5 do6, la4 la5, sol4 sol5, si4 si5|
             <piano_1_v4>  |la3, do4, si3, sol3|
@@ -2226,9 +2281,10 @@ Section de développement 54 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 55 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+441-448 (8 mes), Prestissimo, Do majeur, 200 BPM.
+La coda Prestissimo (mm.401-541) transforme le thème pastoral en un tourbillon impétueux, Beethoven exploitant toutes les ressources du pianoforte dans des passages de gammes en doubles croches, des trilles en cascade et des modulations fulgurantes. Maintenir une pulsation implacable et une clarté articulatoire dans la vitesse maximale.
 </meta>
-    <section=section_56, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=coda, n_mesure=8, bpm=200, format=2/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |(do#6, la#5), sol5, (do#5, la#4), sol4|
             <piano_1_v4>  |re#2, _, re#3 sol3 la#3 do#4, _|
@@ -2264,9 +2320,10 @@ Section de développement 55 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 56 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+449-456 (8 mes), Prestissimo, Do majeur, 200 BPM.
+La coda Prestissimo (mm.401-541) transforme le thème pastoral en un tourbillon impétueux, Beethoven exploitant toutes les ressources du pianoforte dans des passages de gammes en doubles croches, des trilles en cascade et des modulations fulgurantes. Maintenir une pulsation implacable et une clarté articulatoire dans la vitesse maximale.
 </meta>
-    <section=section_57, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=coda, n_mesure=8, bpm=200, format=2/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |(fa#5, re#5), do5, (fa#4, re#4), do4|
             <piano_1_v4>  |sol#1, _, sol#2 do3 re#3 fa#3, _|
@@ -2305,9 +2362,10 @@ Section de développement 56 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 57 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+457-464 (8 mes), Prestissimo, Do majeur, 200 BPM.
+La coda Prestissimo (mm.401-541) transforme le thème pastoral en un tourbillon impétueux, Beethoven exploitant toutes les ressources du pianoforte dans des passages de gammes en doubles croches, des trilles en cascade et des modulations fulgurantes. Maintenir une pulsation implacable et une clarté articulatoire dans la vitesse maximale.
 </meta>
-    <section=section_58, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=coda, n_mesure=8, bpm=200, format=2/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |_, (do4, re#4), sol#4|
             <piano_1_v4>  |re#3, sol#3|
@@ -2346,9 +2404,10 @@ Section de développement 57 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 58 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+465-472 (8 mes), Prestissimo, Do majeur, 200 BPM.
+La coda Prestissimo (mm.401-541) transforme le thème pastoral en un tourbillon impétueux, Beethoven exploitant toutes les ressources du pianoforte dans des passages de gammes en doubles croches, des trilles en cascade et des modulations fulgurantes. Maintenir une pulsation implacable et une clarté articulatoire dans la vitesse maximale.
 </meta>
-    <section=section_59, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=coda, n_mesure=8, bpm=200, format=2/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |sol3 do4 mi4 sol4, -|
             <piano_1_v4>  |(_, sol1 sol2), (la1 la2, si1 si2), (do2 do3, re2 re3), (mi2 mi3, fa2 fa3)|
@@ -2384,9 +2443,10 @@ Section de développement 58 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 59 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+473-480 (8 mes), Prestissimo, Do majeur, 200 BPM.
+La coda Prestissimo (mm.401-541) transforme le thème pastoral en un tourbillon impétueux, Beethoven exploitant toutes les ressources du pianoforte dans des passages de gammes en doubles croches, des trilles en cascade et des modulations fulgurantes. Maintenir une pulsation implacable et une clarté articulatoire dans la vitesse maximale.
 </meta>
-    <section=section_60, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=coda, n_mesure=8, bpm=200, format=2/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |sol4, (re4, mi4), (fa4, fa#4)|
             <piano_1_v2>  |_, _, _, _|
@@ -2431,9 +2491,10 @@ Section de développement 59 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 60 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+481-488 (8 mes), Prestissimo, Do majeur, 200 BPM.
+La coda Prestissimo (mm.401-541) transforme le thème pastoral en un tourbillon impétueux, Beethoven exploitant toutes les ressources du pianoforte dans des passages de gammes en doubles croches, des trilles en cascade et des modulations fulgurantes. Maintenir une pulsation implacable et une clarté articulatoire dans la vitesse maximale.
 </meta>
-    <section=section_61, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=coda, n_mesure=8, bpm=200, format=2/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |sol5, -|
             <piano_1_v2>  |({la5, sol5}, la5, sol5), ({la5, sol5}, la5, sol5), ({la5, sol5}, la5, sol5), ({la5, sol5}, la5, sol5)|
@@ -2483,9 +2544,10 @@ Section de développement 60 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 61 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+489-496 (8 mes), Prestissimo, Do majeur, 200 BPM.
+La coda Prestissimo (mm.401-541) transforme le thème pastoral en un tourbillon impétueux, Beethoven exploitant toutes les ressources du pianoforte dans des passages de gammes en doubles croches, des trilles en cascade et des modulations fulgurantes. Maintenir une pulsation implacable et une clarté articulatoire dans la vitesse maximale.
 </meta>
-    <section=section_62, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=coda, n_mesure=8, bpm=200, format=2/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |re6, -, sol5|
             <piano_1_v2>  |sol5, -, sol5|
@@ -2538,9 +2600,10 @@ Section de développement 61 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 62 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+497-504 (8 mes), Prestissimo, Do majeur, 200 BPM.
+La coda Prestissimo (mm.401-541) transforme le thème pastoral en un tourbillon impétueux, Beethoven exploitant toutes les ressources du pianoforte dans des passages de gammes en doubles croches, des trilles en cascade et des modulations fulgurantes. Maintenir une pulsation implacable et une clarté articulatoire dans la vitesse maximale.
 </meta>
-    <section=section_63, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=coda, n_mesure=8, bpm=200, format=2/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |la#5, -, re#5|
             <piano_1_v2>  |re#5, -, re#5|
@@ -2593,9 +2656,10 @@ Section de développement 62 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 63 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+505-512 (8 mes), Prestissimo, Do majeur, 200 BPM.
+La coda Prestissimo (mm.401-541) transforme le thème pastoral en un tourbillon impétueux, Beethoven exploitant toutes les ressources du pianoforte dans des passages de gammes en doubles croches, des trilles en cascade et des modulations fulgurantes. Maintenir une pulsation implacable et une clarté articulatoire dans la vitesse maximale.
 </meta>
-    <section=section_64, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=coda, n_mesure=8, bpm=200, format=2/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |{re5, do5}|
             <piano_1_v2>  |({re5, do5}, re5, do5), ({re5, do5}, re5, do5), ({re5, do5}, re5, do5), ({re5, do5}, re5, do5)|
@@ -2643,9 +2707,10 @@ Section de développement 63 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 64 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+513-520 (8 mes), Prestissimo, Do majeur, 200 BPM.
+La coda Prestissimo (mm.401-541) transforme le thème pastoral en un tourbillon impétueux, Beethoven exploitant toutes les ressources du pianoforte dans des passages de gammes en doubles croches, des trilles en cascade et des modulations fulgurantes. Maintenir une pulsation implacable et une clarté articulatoire dans la vitesse maximale.
 </meta>
-    <section=section_65, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=coda, n_mesure=8, bpm=200, format=2/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |mi5, sol6, sol6, mi6|
             <piano_1_v2>  |do5, sol5, sol5|
@@ -2685,9 +2750,10 @@ Section de développement 64 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 65 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+521-528 (8 mes), Prestissimo, Do majeur, 200 BPM.
+La coda Prestissimo (mm.401-541) transforme le thème pastoral en un tourbillon impétueux, Beethoven exploitant toutes les ressources du pianoforte dans des passages de gammes en doubles croches, des trilles en cascade et des modulations fulgurantes. Maintenir une pulsation implacable et une clarté articulatoire dans la vitesse maximale.
 </meta>
-    <section=section_66, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=coda, n_mesure=8, bpm=200, format=2/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |(re4, do#4), (re4, sol3), (do4, si3), (do4, mi4)|
             <piano_1_v4>  |do3 fa3, do3 fa3, do3 mi3, do3 mi3|
@@ -2723,9 +2789,10 @@ Section de développement 65 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 66 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+529-536 (8 mes), Prestissimo, Do majeur, 200 BPM.
+La coda Prestissimo (mm.401-541) transforme le thème pastoral en un tourbillon impétueux, Beethoven exploitant toutes les ressources du pianoforte dans des passages de gammes en doubles croches, des trilles en cascade et des modulations fulgurantes. Maintenir une pulsation implacable et une clarté articulatoire dans la vitesse maximale.
 </meta>
-    <section=section_67, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=coda, n_mesure=8, bpm=200, format=2/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |do5 mi5, sol5 do6, mi5 sol5, do6 mi6|
             <piano_1_v4>  |do4 mi4, sol4 do5, mi4 sol4, do5 mi5|
@@ -2761,9 +2828,10 @@ Section de développement 66 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section conclusive — 5 mesures. Tonalité Do majeur, tempo 90 BPM.
+537-541 (5 mes), Prestissimo, Do majeur, 200 BPM.
+La coda Prestissimo (mm.401-541) transforme le thème pastoral en un tourbillon impétueux, Beethoven exploitant toutes les ressources du pianoforte dans des passages de gammes en doubles croches, des trilles en cascade et des modulations fulgurantes. Maintenir une pulsation implacable et une clarté articulatoire dans la vitesse maximale.
 </meta>
-    <section=section_68, n_mesure=5, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=coda, n_mesure=5, bpm=200, format=2/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |do5 mi5, _, _, _|
             <piano_1_v4>  |do4 mi4, _, _, _|

@@ -3,19 +3,20 @@
 TACHE : composition
 STYLE : classique
 FORMAT : piano_solo
-NIVEAU : simple
-Titre : Piano_Sonatas_22-1
-Date : ?
-Auteur : Beethoven
+NIVEAU : avance
+Titre : Sonate pour piano n°22 en Fa majeur, op.54, 1er mouvement (In tempo d'un Menuetto)
+Date : 1804
+Auteur : Ludwig van Beethoven
 Tonalite : Fa_majeur
 Unite : quarter
-Intention : Pièce pour piano solo, modéré, lumineux, au balancement ternaire. Tonalité : Fa majeur. 152 mesures.
+Intention : Le premier mouvement de la Sonate op.54 juxtapose un menuet galant et élégant en Fa majeur avec un trio turbulent en triolets canoniques, l'ensemble suivant une structure ABABA avec variations de diminution progressives du thème de menuet. Forme rondo-variation en Fa majeur, à 3/4, In tempo d'un Menuetto, 72 BPM, 152 mesures, avec coda sur pédale de tonique.
 </tete>
 
 <meta>
-Section d'ouverture — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
+1-8 (8 mes), In tempo d'un Menuetto, Fa majeur, 72 BPM.
+Le premier thème (partie A) présente un menuet galant et élégant en Fa majeur à 3/4, construit sur une phrase de cinq mesures (mm.1-5) répétée avec imitation (mm.5-9) et élargie (mm.9-25). La texture imitative entre les voix ajoute un raffinement contrapuntique à la grâce du menuet. Jouer legato avec une légèreté aristocratique, en marquant subtilement le premier temps de chaque mesure.
 </meta>
-    <section=section_1, n_mesure=8, bpm=90, format=3/4, tonalite=Fa_majeur>
+    <section=partie_A, n_mesure=8, bpm=72, format=3/4, tonalite=Fa_majeur>
         <mesure num=1>
             <piano_1_v1>  |_, _, (do4, mi4)|
             <piano_1_v4>  |fa3, -, -|
@@ -70,9 +71,10 @@ Section d'ouverture — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 1 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
+9-16 (8 mes), In tempo d'un Menuetto, Fa majeur, 72 BPM.
+Le premier thème (partie A) présente un menuet galant et élégant en Fa majeur à 3/4, construit sur une phrase de cinq mesures (mm.1-5) répétée avec imitation (mm.5-9) et élargie (mm.9-25). La texture imitative entre les voix ajoute un raffinement contrapuntique à la grâce du menuet. Jouer legato avec une légèreté aristocratique, en marquant subtilement le premier temps de chaque mesure.
 </meta>
-    <section=section_2, n_mesure=8, bpm=90, format=3/4, tonalite=Fa_majeur>
+    <section=partie_A, n_mesure=8, bpm=72, format=3/4, tonalite=Fa_majeur>
         <mesure num=1>
             <piano_1_v1>  |reb4, re4, (re4, si3)|
             <piano_1_v4>  |_, _, _|
@@ -129,9 +131,10 @@ Section de développement 1 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 2 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
+17-24 (8 mes), In tempo d'un Menuetto, Fa majeur, 72 BPM.
+Le premier thème (partie A) présente un menuet galant et élégant en Fa majeur à 3/4, construit sur une phrase de cinq mesures (mm.1-5) répétée avec imitation (mm.5-9) et élargie (mm.9-25). La texture imitative entre les voix ajoute un raffinement contrapuntique à la grâce du menuet. Jouer legato avec une légèreté aristocratique, en marquant subtilement le premier temps de chaque mesure.
 </meta>
-    <section=section_3, n_mesure=8, bpm=90, format=3/4, tonalite=Fa_majeur>
+    <section=partie_A, n_mesure=8, bpm=72, format=3/4, tonalite=Fa_majeur>
         <mesure num=1>
             <piano_1_v1>  |reb4, re4, (re4, si3)|
             <piano_1_v4>  |_, _, _|
@@ -190,9 +193,10 @@ Section de développement 2 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 3 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
+25-32 (8 mes), In tempo d'un Menuetto, Fa majeur, 72 BPM.
+L'épisode (trio, mm.25-63) offre un contraste saisissant avec le menuet : des triolets de croches canoniques entre les deux mains instaurent une énergie turbulente et inattendue, avec des modulations surprenantes vers Do mineur, Lab majeur et Sol majeur. Beethoven joue sur l'irrégularité métrique et les sforzandi pour déstabiliser l'auditeur. Jouer les triolets avec une vigueur rythmique accentuée, en contrastant nettement avec le menuet.
 </meta>
-    <section=section_4, n_mesure=8, bpm=90, format=3/4, tonalite=Fa_majeur>
+    <section=trio, n_mesure=8, bpm=72, format=3/4, tonalite=Fa_majeur>
         <mesure num=1>
             <piano_1_v1>  |_, _, (do4 do5, {do5 do6, si4 si5})|
             <piano_1_v4>  |_, _, _|
@@ -236,9 +240,10 @@ Section de développement 3 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 4 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
+33-40 (8 mes), In tempo d'un Menuetto, Fa majeur, 72 BPM.
+L'épisode (trio, mm.25-63) offre un contraste saisissant avec le menuet : des triolets de croches canoniques entre les deux mains instaurent une énergie turbulente et inattendue, avec des modulations surprenantes vers Do mineur, Lab majeur et Sol majeur. Beethoven joue sur l'irrégularité métrique et les sforzandi pour déstabiliser l'auditeur. Jouer les triolets avec une vigueur rythmique accentuée, en contrastant nettement avec le menuet.
 </meta>
-    <section=section_5, n_mesure=8, bpm=90, format=3/4, tonalite=Fa_majeur>
+    <section=trio, n_mesure=8, bpm=72, format=3/4, tonalite=Fa_majeur>
         <mesure num=1>
             <piano_1_v1>  |(re4 si4, {mi4 do5, fa4 re5}), (mi4 do5, {fa4 re5, sol4 mi5}), (do4 do5, {re4 re5, mi4 mi5})|
             <piano_1_v4>  |_, _, _|
@@ -283,9 +288,10 @@ Section de développement 4 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 5 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
+41-48 (8 mes), In tempo d'un Menuetto, Fa majeur, 72 BPM.
+L'épisode (trio, mm.25-63) offre un contraste saisissant avec le menuet : des triolets de croches canoniques entre les deux mains instaurent une énergie turbulente et inattendue, avec des modulations surprenantes vers Do mineur, Lab majeur et Sol majeur. Beethoven joue sur l'irrégularité métrique et les sforzandi pour déstabiliser l'auditeur. Jouer les triolets avec une vigueur rythmique accentuée, en contrastant nettement avec le menuet.
 </meta>
-    <section=section_6, n_mesure=8, bpm=90, format=3/4, tonalite=Fa_majeur>
+    <section=trio, n_mesure=8, bpm=72, format=3/4, tonalite=Fa_majeur>
         <mesure num=1>
             <piano_1_v1>  |(sol4 sol5, {lab4 lab5, sib4 sib5}), (lab4 lab5, {sol4 sol5, fa4 fa5}), (mib4 mib5, {fa4 fa5, sol4 sol5})|
             <piano_1_v4>  |_, _, _|
@@ -329,9 +335,10 @@ Section de développement 5 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 6 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
+49-56 (8 mes), In tempo d'un Menuetto, Fa majeur, 72 BPM.
+L'épisode (trio, mm.25-63) offre un contraste saisissant avec le menuet : des triolets de croches canoniques entre les deux mains instaurent une énergie turbulente et inattendue, avec des modulations surprenantes vers Do mineur, Lab majeur et Sol majeur. Beethoven joue sur l'irrégularité métrique et les sforzandi pour déstabiliser l'auditeur. Jouer les triolets avec une vigueur rythmique accentuée, en contrastant nettement avec le menuet.
 </meta>
-    <section=section_7, n_mesure=8, bpm=90, format=3/4, tonalite=Fa_majeur>
+    <section=trio, n_mesure=8, bpm=72, format=3/4, tonalite=Fa_majeur>
         <mesure num=1>
             <piano_1_v1>  |(sib3 sol4, {do4 lab4, reb4 sib4}), (do4 lab4, {reb4 sib4, mib4 do5}), (lab3 lab4, {sib3 sib4, do4 do5})|
             <piano_1_v4>  |_, _, _|
@@ -377,9 +384,10 @@ Section de développement 6 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 7 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
+57-64 (8 mes), In tempo d'un Menuetto, Fa majeur, 72 BPM.
+L'épisode (trio, mm.25-63) offre un contraste saisissant avec le menuet : des triolets de croches canoniques entre les deux mains instaurent une énergie turbulente et inattendue, avec des modulations surprenantes vers Do mineur, Lab majeur et Sol majeur. Beethoven joue sur l'irrégularité métrique et les sforzandi pour déstabiliser l'auditeur. Jouer les triolets avec une vigueur rythmique accentuée, en contrastant nettement avec le menuet.
 </meta>
-    <section=section_8, n_mesure=8, bpm=90, format=3/4, tonalite=Fa_majeur>
+    <section=trio, n_mesure=8, bpm=72, format=3/4, tonalite=Fa_majeur>
         <mesure num=1>
             <piano_1_v1>  |(do5, {sib4, lab4}), (solb4, {fa4, mib4}), (reb4, {mib4, do4})|
             <piano_1_v4>  |_, _, _|
@@ -423,9 +431,10 @@ Section de développement 7 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 8 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
+65-72 (8 mes), In tempo d'un Menuetto, Fa majeur, 72 BPM.
+Le retour du menuet (partie A variée) orne progressivement le thème initial avec des valeurs de notes plus petites, créant un effet de variation par diminution rhythmique. Chaque réapparition enrichit la texture tout en maintenant le caractère menuet d'origine. Veiller à la clarté de l'ornementation sans perdre le fil mélodique principal.
 </meta>
-    <section=section_9, n_mesure=8, bpm=90, format=3/4, tonalite=Fa_majeur>
+    <section=partie_A, n_mesure=8, bpm=72, format=3/4, tonalite=Fa_majeur>
         <mesure num=1>
             <piano_1_v1>  |do6, _, (do6, {reb6, si5})|
             <piano_1_v4>  |_, _, _|
@@ -474,9 +483,10 @@ Section de développement 8 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 9 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
+73-80 (8 mes), In tempo d'un Menuetto, Fa majeur, 72 BPM.
+Le retour du menuet (partie A variée) orne progressivement le thème initial avec des valeurs de notes plus petites, créant un effet de variation par diminution rhythmique. Chaque réapparition enrichit la texture tout en maintenant le caractère menuet d'origine. Veiller à la clarté de l'ornementation sans perdre le fil mélodique principal.
 </meta>
-    <section=section_10, n_mesure=8, bpm=90, format=3/4, tonalite=Fa_majeur>
+    <section=partie_A, n_mesure=8, bpm=72, format=3/4, tonalite=Fa_majeur>
         <mesure num=1>
             <piano_1_v1>  |fa5, _, re3|
             <piano_1_v4>  |_, _, ({do3, si2}, do3, mi3)|
@@ -532,9 +542,10 @@ Section de développement 9 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 10 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
+81-88 (8 mes), In tempo d'un Menuetto, Fa majeur, 72 BPM.
+Le retour du menuet (partie A variée) orne progressivement le thème initial avec des valeurs de notes plus petites, créant un effet de variation par diminution rhythmique. Chaque réapparition enrichit la texture tout en maintenant le caractère menuet d'origine. Veiller à la clarté de l'ornementation sans perdre le fil mélodique principal.
 </meta>
-    <section=section_11, n_mesure=8, bpm=90, format=3/4, tonalite=Fa_majeur>
+    <section=partie_A, n_mesure=8, bpm=72, format=3/4, tonalite=Fa_majeur>
         <mesure num=1>
             <piano_1_v1>  |(do5, la4), (fa4, _), (fa5, la5)|
             <piano_1_v4>  |_, _, _|
@@ -591,9 +602,10 @@ Section de développement 10 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 11 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
+89-96 (8 mes), In tempo d'un Menuetto, Fa majeur, 72 BPM.
+Le retour du menuet (partie A variée) orne progressivement le thème initial avec des valeurs de notes plus petites, créant un effet de variation par diminution rhythmique. Chaque réapparition enrichit la texture tout en maintenant le caractère menuet d'origine. Veiller à la clarté de l'ornementation sans perdre le fil mélodique principal.
 </meta>
-    <section=section_12, n_mesure=8, bpm=90, format=3/4, tonalite=Fa_majeur>
+    <section=partie_A, n_mesure=8, bpm=72, format=3/4, tonalite=Fa_majeur>
         <mesure num=1>
             <piano_1_v1>  |({re5, do5, si4}, do5, la4), ({fa4, mi5}, fa5, mi5), ({sol5, fa5, mi5}, fa5, la5)|
             <piano_1_v4>  |_, _, _|
@@ -643,9 +655,10 @@ Section de développement 11 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 12 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
+97-104 (8 mes), In tempo d'un Menuetto, Fa majeur, 72 BPM.
+L'épisode (trio, mm.25-63) offre un contraste saisissant avec le menuet : des triolets de croches canoniques entre les deux mains instaurent une énergie turbulente et inattendue, avec des modulations surprenantes vers Do mineur, Lab majeur et Sol majeur. Beethoven joue sur l'irrégularité métrique et les sforzandi pour déstabiliser l'auditeur. Jouer les triolets avec une vigueur rythmique accentuée, en contrastant nettement avec le menuet.
 </meta>
-    <section=section_13, n_mesure=8, bpm=90, format=3/4, tonalite=Fa_majeur>
+    <section=trio, n_mesure=8, bpm=72, format=3/4, tonalite=Fa_majeur>
         <mesure num=1>
             <piano_1_v1>  |(re4 re5, {do4 do5, sib3 sib4}), (la3 la4, {sol3 sol4, fa3 fa4}), (mi4, {fa4, re4})|
             <piano_1_v4>  |_, _, (mi3, {fa3, re3})|
@@ -691,9 +704,10 @@ Section de développement 12 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 13 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
+105-112 (8 mes), In tempo d'un Menuetto, Fa majeur, 72 BPM.
+L'épisode (trio, mm.25-63) offre un contraste saisissant avec le menuet : des triolets de croches canoniques entre les deux mains instaurent une énergie turbulente et inattendue, avec des modulations surprenantes vers Do mineur, Lab majeur et Sol majeur. Beethoven joue sur l'irrégularité métrique et les sforzandi pour déstabiliser l'auditeur. Jouer les triolets avec une vigueur rythmique accentuée, en contrastant nettement avec le menuet.
 </meta>
-    <section=section_14, n_mesure=8, bpm=90, format=3/4, tonalite=Fa_majeur>
+    <section=trio, n_mesure=8, bpm=72, format=3/4, tonalite=Fa_majeur>
         <mesure num=1>
             <piano_1_v1>  |_, _, (do4, mi4)|
             <piano_1_v4>  |fa3, -, -|
@@ -750,9 +764,10 @@ Section de développement 13 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 14 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
+113-120 (8 mes), In tempo d'un Menuetto, Fa majeur, 72 BPM.
+Le retour du menuet (partie A variée) orne progressivement le thème initial avec des valeurs de notes plus petites, créant un effet de variation par diminution rhythmique. Chaque réapparition enrichit la texture tout en maintenant le caractère menuet d'origine. Veiller à la clarté de l'ornementation sans perdre le fil mélodique principal.
 </meta>
-    <section=section_15, n_mesure=8, bpm=90, format=3/4, tonalite=Fa_majeur>
+    <section=partie_A, n_mesure=8, bpm=72, format=3/4, tonalite=Fa_majeur>
         <mesure num=1>
             <piano_1_v1>  |reb4, re4, (re4, si3)|
             <piano_1_v4>  |_, _, _|
@@ -806,9 +821,10 @@ Section de développement 14 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 15 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
+121-128 (8 mes), In tempo d'un Menuetto, Fa majeur, 72 BPM.
+Le retour du menuet (partie A variée) orne progressivement le thème initial avec des valeurs de notes plus petites, créant un effet de variation par diminution rhythmique. Chaque réapparition enrichit la texture tout en maintenant le caractère menuet d'origine. Veiller à la clarté de l'ornementation sans perdre le fil mélodique principal.
 </meta>
-    <section=section_16, n_mesure=8, bpm=90, format=3/4, tonalite=Fa_majeur>
+    <section=partie_A, n_mesure=8, bpm=72, format=3/4, tonalite=Fa_majeur>
         <mesure num=1>
             <piano_1_v1>  |({reb4, re4}, re4, re4), ({re4, re4}, re4, re4), ({mi4, re4, reb4}, re4, si3)|
             <piano_1_v4>  |_, _, _|
@@ -860,9 +876,10 @@ Section de développement 15 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 16 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
+129-136 (8 mes), In tempo d'un Menuetto, Fa majeur, 72 BPM.
+Le retour du menuet (partie A variée) orne progressivement le thème initial avec des valeurs de notes plus petites, créant un effet de variation par diminution rhythmique. Chaque réapparition enrichit la texture tout en maintenant le caractère menuet d'origine. Veiller à la clarté de l'ornementation sans perdre le fil mélodique principal.
 </meta>
-    <section=section_17, n_mesure=8, bpm=90, format=3/4, tonalite=Fa_majeur>
+    <section=partie_A, n_mesure=8, bpm=72, format=3/4, tonalite=Fa_majeur>
         <mesure num=1>
             <piano_1_v1>  |({do5, re5}, {do5, si4, do5}, mi5), ({re5, mi5}, {re5, do5, re5}, do5), ({sib4, do5}, {sib4, la4, sib4}, re5)|
             <piano_1_v4>  |_, _, _|
@@ -913,9 +930,10 @@ Section de développement 16 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 17 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
+137-144 (8 mes), In tempo d'un Menuetto, Fa majeur, 72 BPM.
+La coda (mm.137-152) synthétise les éléments du menuet sur une pédale de tonique, confirmant Fa majeur dans une conclusion tranquille et équilibrée. Les ornements du thème se simplifient pour mener vers une cadence transparente. Conclure avec une douce clarté, sans précipitation.
 </meta>
-    <section=section_18, n_mesure=8, bpm=90, format=3/4, tonalite=Fa_majeur>
+    <section=coda, n_mesure=8, bpm=72, format=3/4, tonalite=Fa_majeur>
         <mesure num=1>
             <piano_1_v1>  |fa4, (do4, _), (fa4, la4)|
             <piano_1_v2>  |do4, -, -|
@@ -973,9 +991,10 @@ Section de développement 17 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section conclusive — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
+145-152 (8 mes), In tempo d'un Menuetto, Fa majeur, 72 BPM.
+La coda (mm.137-152) synthétise les éléments du menuet sur une pédale de tonique, confirmant Fa majeur dans une conclusion tranquille et équilibrée. Les ornements du thème se simplifient pour mener vers une cadence transparente. Conclure avec une douce clarté, sans précipitation.
 </meta>
-    <section=section_19, n_mesure=8, bpm=90, format=3/4, tonalite=Fa_majeur>
+    <section=coda, n_mesure=8, bpm=72, format=3/4, tonalite=Fa_majeur>
         <mesure num=1>
             <piano_1_v1>  |la4 do5, -, (do4 fa4 la4, fa4 la4 do5)|
             <piano_1_v4>  |_, _, _|

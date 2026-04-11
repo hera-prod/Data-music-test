@@ -3,19 +3,20 @@
 TACHE : composition
 STYLE : classique
 FORMAT : piano_solo
-NIVEAU : simple
-Titre : Piano_Sonatas_22-2
-Date : ?
-Auteur : Beethoven
+NIVEAU : avance
+Titre : Sonate pour piano n°22 en Fa majeur, op.54, 2e mouvement (Allegretto)
+Date : 1804
+Auteur : Ludwig van Beethoven
 Tonalite : Fa_majeur
 Unite : quarter
-Intention : Pièce pour piano solo, modéré, lumineux, au cadre binaire régulier. Tonalité : Fa majeur. 176 mesures.
+Intention : L'Allegretto de la Sonate op.54 est un perpetuum mobile construit sur un unique thème exposé en canon à la basse puis à la main droite, dont le développement parcourt 17 tonalités dans une économie thématique extrême avant de conclure par une coda Più Allegro percussive. Forme sonate modifiée en Fa majeur, à 2/4, Allegretto puis Più Allegro, 96 à 120 BPM, 176 mesures, avec un développement disproportionnellement long par rapport à l'exposition.
 </tete>
 
 <meta>
-Section d'ouverture — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
+1-8 (8 mes), Allegretto, Fa majeur, 96 BPM.
+L'Allegretto (2/4, Fa majeur) est un perpetuum mobile fondé sur un unique thème de quatre mesures exposé à la basse (mm.1-4) puis imité deux mesures plus tard à la main droite. Cette économie thématique extrême contraste avec l'ampleur du développement. L'exposition se clôt en Do majeur (m.13) avant une courte accessory section sur pédale de basse. Jouer avec une régularité de croche absolue, comme une horloge mécanique.
 </meta>
-    <section=section_1, n_mesure=8, bpm=90, format=2/4, tonalite=Fa_majeur>
+    <section=exposition, n_mesure=8, bpm=96, format=2/4, tonalite=Fa_majeur>
         <mesure num=1>
             <piano_1_v1>  |_, _|
             <piano_1_v3>  |({fa2, la2}, do3, fa3), ({sol2, mi3}, la2, fa3)|
@@ -51,9 +52,10 @@ Section d'ouverture — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 1 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
+9-16 (8 mes), Allegretto, Fa majeur, 96 BPM.
+L'Allegretto (2/4, Fa majeur) est un perpetuum mobile fondé sur un unique thème de quatre mesures exposé à la basse (mm.1-4) puis imité deux mesures plus tard à la main droite. Cette économie thématique extrême contraste avec l'ampleur du développement. L'exposition se clôt en Do majeur (m.13) avant une courte accessory section sur pédale de basse. Jouer avec une régularité de croche absolue, comme une horloge mécanique.
 </meta>
-    <section=section_2, n_mesure=8, bpm=90, format=2/4, tonalite=Fa_majeur>
+    <section=exposition, n_mesure=8, bpm=96, format=2/4, tonalite=Fa_majeur>
         <mesure num=1>
             <piano_1_v1>  |({la5, fa5}, do6, mi5), ({fa5, re5}, la5, do5)|
             <piano_1_v3>  |({fa4, la4}, do4, sol4), ({re4, fa4}, la3, mi4)|
@@ -91,9 +93,10 @@ Section de développement 1 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 2 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
+17-24 (8 mes), Allegretto, Fa majeur, 96 BPM.
+L'Allegretto (2/4, Fa majeur) est un perpetuum mobile fondé sur un unique thème de quatre mesures exposé à la basse (mm.1-4) puis imité deux mesures plus tard à la main droite. Cette économie thématique extrême contraste avec l'ampleur du développement. L'exposition se clôt en Do majeur (m.13) avant une courte accessory section sur pédale de basse. Jouer avec une régularité de croche absolue, comme une horloge mécanique.
 </meta>
-    <section=section_3, n_mesure=8, bpm=90, format=2/4, tonalite=Fa_majeur>
+    <section=exposition, n_mesure=8, bpm=96, format=2/4, tonalite=Fa_majeur>
         <mesure num=1>
             <piano_1_v1>  |({do6, do5}, re5, mi5), ({fa5, sol5}, la5, si5)|
             <piano_1_v3>  |({sol2, fa2}, mi2, re2), ({do2, do3}, si2, la2)|
@@ -131,9 +134,10 @@ Section de développement 2 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 3 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
+25-32 (8 mes), Allegretto, Fa majeur, 96 BPM.
+Le développement (mm.22-115) est de loin la section la plus étendue, constituée de répétitions du thème dans une succession de tonalités éloignées reliées par de courts épisodes contrapuntiques dérivés du même motif. Beethoven parcourt 17 tonalités sur 24 possibles, créant une vertigineuse errance harmonique. Maintenir la pulsation implacable des doubles croches à travers toutes les modulations.
 </meta>
-    <section=section_4, n_mesure=8, bpm=90, format=2/4, tonalite=Fa_majeur>
+    <section=developpement, n_mesure=8, bpm=96, format=2/4, tonalite=Fa_majeur>
         <mesure num=1>
             <piano_1_v1>  |({reb5, la4}, mi5), mi5|
             <piano_1_v3>  |({la3, reb4}, mi4, la4), ({si3, lab4}, reb4, la4)|
@@ -169,9 +173,10 @@ Section de développement 3 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 4 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
+33-40 (8 mes), Allegretto, Fa majeur, 96 BPM.
+Le développement (mm.22-115) est de loin la section la plus étendue, constituée de répétitions du thème dans une succession de tonalités éloignées reliées par de courts épisodes contrapuntiques dérivés du même motif. Beethoven parcourt 17 tonalités sur 24 possibles, créant une vertigineuse errance harmonique. Maintenir la pulsation implacable des doubles croches à travers toutes les modulations.
 </meta>
-    <section=section_5, n_mesure=8, bpm=90, format=2/4, tonalite=Fa_majeur>
+    <section=developpement, n_mesure=8, bpm=96, format=2/4, tonalite=Fa_majeur>
         <mesure num=1>
             <piano_1_v1>  |({fa5, re5}, la5, do5), ({re5, sib4}, fa5, la4)|
             <piano_1_v3>  |({re4, fa4}, la3, mi4), ({sib3, re4}, fa3, do4)|
@@ -208,9 +213,10 @@ Section de développement 4 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 5 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
+41-48 (8 mes), Allegretto, Fa majeur, 96 BPM.
+Le développement (mm.22-115) est de loin la section la plus étendue, constituée de répétitions du thème dans une succession de tonalités éloignées reliées par de courts épisodes contrapuntiques dérivés du même motif. Beethoven parcourt 17 tonalités sur 24 possibles, créant une vertigineuse errance harmonique. Maintenir la pulsation implacable des doubles croches à travers toutes les modulations.
 </meta>
-    <section=section_6, n_mesure=8, bpm=90, format=2/4, tonalite=Fa_majeur>
+    <section=developpement, n_mesure=8, bpm=96, format=2/4, tonalite=Fa_majeur>
         <mesure num=1>
             <piano_1_v1>  |({solb4, la4}, do5, solb5), ({fa5, solb5}, la4, do5)|
             <piano_1_v3>  |mib1 mib2, -|
@@ -246,9 +252,10 @@ Section de développement 5 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 6 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
+49-56 (8 mes), Allegretto, Fa majeur, 96 BPM.
+Le développement (mm.22-115) est de loin la section la plus étendue, constituée de répétitions du thème dans une succession de tonalités éloignées reliées par de courts épisodes contrapuntiques dérivés du même motif. Beethoven parcourt 17 tonalités sur 24 possibles, créant une vertigineuse errance harmonique. Maintenir la pulsation implacable des doubles croches à travers toutes les modulations.
 </meta>
-    <section=section_7, n_mesure=8, bpm=90, format=2/4, tonalite=Fa_majeur>
+    <section=developpement, n_mesure=8, bpm=96, format=2/4, tonalite=Fa_majeur>
         <mesure num=1>
             <piano_1_v1>  |(re5 re6, re5 re6), re5 re6|
             <piano_1_v3>  |({do3, la3}, re3, si3), ({mi3, do4}, solb3, re4)|
@@ -284,9 +291,10 @@ Section de développement 6 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 7 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
+57-64 (8 mes), Allegretto, Fa majeur, 96 BPM.
+Le développement (mm.22-115) est de loin la section la plus étendue, constituée de répétitions du thème dans une succession de tonalités éloignées reliées par de courts épisodes contrapuntiques dérivés du même motif. Beethoven parcourt 17 tonalités sur 24 possibles, créant une vertigineuse errance harmonique. Maintenir la pulsation implacable des doubles croches à travers toutes les modulations.
 </meta>
-    <section=section_8, n_mesure=8, bpm=90, format=2/4, tonalite=Fa_majeur>
+    <section=developpement, n_mesure=8, bpm=96, format=2/4, tonalite=Fa_majeur>
         <mesure num=1>
             <piano_1_v1>  |(sol4 sol5, sol4 sol5), sol5|
             <piano_1_v3>  |({fa3, re4}, sol3, mib4), ({la3, fa4}, si3, sol4)|
@@ -323,9 +331,10 @@ Section de développement 7 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 8 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
+65-72 (8 mes), Allegretto, Fa majeur, 96 BPM.
+Le développement (mm.22-115) est de loin la section la plus étendue, constituée de répétitions du thème dans une succession de tonalités éloignées reliées par de courts épisodes contrapuntiques dérivés du même motif. Beethoven parcourt 17 tonalités sur 24 possibles, créant une vertigineuse errance harmonique. Maintenir la pulsation implacable des doubles croches à travers toutes les modulations.
 </meta>
-    <section=section_9, n_mesure=8, bpm=90, format=2/4, tonalite=Fa_majeur>
+    <section=developpement, n_mesure=8, bpm=96, format=2/4, tonalite=Fa_majeur>
         <mesure num=1>
             <piano_1_v1>  |_, (mib4, mib4)|
             <piano_1_v3>  |({mib3, sib3}, mib3, la3), (lab3, lab3)|
@@ -364,9 +373,10 @@ Section de développement 8 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 9 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
+73-80 (8 mes), Allegretto, Fa majeur, 96 BPM.
+Le développement (mm.22-115) est de loin la section la plus étendue, constituée de répétitions du thème dans une succession de tonalités éloignées reliées par de courts épisodes contrapuntiques dérivés du même motif. Beethoven parcourt 17 tonalités sur 24 possibles, créant une vertigineuse errance harmonique. Maintenir la pulsation implacable des doubles croches à travers toutes les modulations.
 </meta>
-    <section=section_10, n_mesure=8, bpm=90, format=2/4, tonalite=Fa_majeur>
+    <section=developpement, n_mesure=8, bpm=96, format=2/4, tonalite=Fa_majeur>
         <mesure num=1>
             <piano_1_v1>  |({reb4, fa4}, lab4, reb5), ({solb4, do5}, fa4, reb5)|
             <piano_1_v3>  |(reb3, _), (mib4, reb4)|
@@ -402,9 +412,10 @@ Section de développement 9 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 10 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
+81-88 (8 mes), Allegretto, Fa majeur, 96 BPM.
+Le développement (mm.22-115) est de loin la section la plus étendue, constituée de répétitions du thème dans une succession de tonalités éloignées reliées par de courts épisodes contrapuntiques dérivés du même motif. Beethoven parcourt 17 tonalités sur 24 possibles, créant une vertigineuse errance harmonique. Maintenir la pulsation implacable des doubles croches à travers toutes les modulations.
 </meta>
-    <section=section_11, n_mesure=8, bpm=90, format=2/4, tonalite=Fa_majeur>
+    <section=developpement, n_mesure=8, bpm=96, format=2/4, tonalite=Fa_majeur>
         <mesure num=1>
             <piano_1_v1>  |({si4, mi5}, sib4, mi5), ({reb5, mi5}, solb4, mi5)|
             <piano_1_v3>  |(sol4, solb4), (sib4, sib3)|
@@ -440,9 +451,10 @@ Section de développement 10 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 11 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
+89-96 (8 mes), Allegretto, Fa majeur, 96 BPM.
+Le développement (mm.22-115) est de loin la section la plus étendue, constituée de répétitions du thème dans une succession de tonalités éloignées reliées par de courts épisodes contrapuntiques dérivés du même motif. Beethoven parcourt 17 tonalités sur 24 possibles, créant une vertigineuse errance harmonique. Maintenir la pulsation implacable des doubles croches à travers toutes les modulations.
 </meta>
-    <section=section_12, n_mesure=8, bpm=90, format=2/4, tonalite=Fa_majeur>
+    <section=developpement, n_mesure=8, bpm=96, format=2/4, tonalite=Fa_majeur>
         <mesure num=1>
             <piano_1_v1>  |({fa4, re5}, do5, mib4), ({re4, sib4}, do4, la4)|
             <piano_1_v3>  |(sib3, solb3), (sol3, la2)|
@@ -478,9 +490,10 @@ Section de développement 11 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 12 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
+97-104 (8 mes), Allegretto, Fa majeur, 96 BPM.
+Le développement (mm.22-115) est de loin la section la plus étendue, constituée de répétitions du thème dans une succession de tonalités éloignées reliées par de courts épisodes contrapuntiques dérivés du même motif. Beethoven parcourt 17 tonalités sur 24 possibles, créant une vertigineuse errance harmonique. Maintenir la pulsation implacable des doubles croches à travers toutes les modulations.
 </meta>
-    <section=section_13, n_mesure=8, bpm=90, format=2/4, tonalite=Fa_majeur>
+    <section=developpement, n_mesure=8, bpm=96, format=2/4, tonalite=Fa_majeur>
         <mesure num=1>
             <piano_1_v1>  |({sol4, mi5}, la4, fa5), ({fa4, re5}, sol4, mi5)|
             <piano_1_v3>  |(do4 mi4, _), _|
@@ -516,9 +529,10 @@ Section de développement 12 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 13 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
+105-112 (8 mes), Allegretto, Fa majeur, 96 BPM.
+Le développement (mm.22-115) est de loin la section la plus étendue, constituée de répétitions du thème dans une succession de tonalités éloignées reliées par de courts épisodes contrapuntiques dérivés du même motif. Beethoven parcourt 17 tonalités sur 24 possibles, créant une vertigineuse errance harmonique. Maintenir la pulsation implacable des doubles croches à travers toutes les modulations.
 </meta>
-    <section=section_14, n_mesure=8, bpm=90, format=2/4, tonalite=Fa_majeur>
+    <section=developpement, n_mesure=8, bpm=96, format=2/4, tonalite=Fa_majeur>
         <mesure num=1>
             <piano_1_v1>  |({la4, fa4}, sib4, sol4), ({do5, la4}, re5, sib4)|
             <piano_1_v3>  |({fa3, la3}, sol3, sib3), ({la3, do4}, sib3, re4)|
@@ -554,9 +568,10 @@ Section de développement 13 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 14 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
+113-120 (8 mes), Allegretto, Fa majeur, 96 BPM.
+Le développement (mm.22-115) est de loin la section la plus étendue, constituée de répétitions du thème dans une succession de tonalités éloignées reliées par de courts épisodes contrapuntiques dérivés du même motif. Beethoven parcourt 17 tonalités sur 24 possibles, créant une vertigineuse errance harmonique. Maintenir la pulsation implacable des doubles croches à travers toutes les modulations.
 </meta>
-    <section=section_15, n_mesure=8, bpm=90, format=2/4, tonalite=Fa_majeur>
+    <section=developpement, n_mesure=8, bpm=96, format=2/4, tonalite=Fa_majeur>
         <mesure num=1>
             <piano_1_v1>  |({la4, do5}, mi5, la5), ({do5, la5}, re5, sib5)|
             <piano_1_v3>  |({fa3, la3}, do4, fa4), ({mib4, fa4}, re4, fa4)|
@@ -592,9 +607,10 @@ Section de développement 14 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 15 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
+121-128 (8 mes), Allegretto, Fa majeur, 96 BPM.
+La récapitulation (mm.116-165) ramène le thème en Fa majeur sur pédale de tonique, considérablement altéré et élargi par rapport à l'exposition. La section est plus longue que l'exposition entière, renversant les proportions habituelles. Jouer avec une plénitude sonore qui reflète l'aboutissement du parcours harmonique.
 </meta>
-    <section=section_16, n_mesure=8, bpm=90, format=2/4, tonalite=Fa_majeur>
+    <section=recapitulation, n_mesure=8, bpm=96, format=2/4, tonalite=Fa_majeur>
         <mesure num=1>
             <piano_1_v1>  |(fa4, mib4), (reb4, do4)|
             <piano_1_v3>  |(lab3, solb3 sib3), (fa3 lab3, mi3 solb3)|
@@ -634,9 +650,10 @@ Section de développement 15 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 16 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
+129-136 (8 mes), Allegretto, Fa majeur, 96 BPM.
+La récapitulation (mm.116-165) ramène le thème en Fa majeur sur pédale de tonique, considérablement altéré et élargi par rapport à l'exposition. La section est plus longue que l'exposition entière, renversant les proportions habituelles. Jouer avec une plénitude sonore qui reflète l'aboutissement du parcours harmonique.
 </meta>
-    <section=section_17, n_mesure=8, bpm=90, format=2/4, tonalite=Fa_majeur>
+    <section=recapitulation, n_mesure=8, bpm=96, format=2/4, tonalite=Fa_majeur>
         <mesure num=1>
             <piano_1_v1>  |({sib4, re5}, fa5, sib5), ({si4, la5}, sib4, sib5)|
             <piano_1_v3>  |({_, fa4}, re4, fa4), ({mib4, fa4}, re4, fa4)|
@@ -672,9 +689,10 @@ Section de développement 16 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 17 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
+137-144 (8 mes), Allegretto, Fa majeur, 96 BPM.
+La récapitulation (mm.116-165) ramène le thème en Fa majeur sur pédale de tonique, considérablement altéré et élargi par rapport à l'exposition. La section est plus longue que l'exposition entière, renversant les proportions habituelles. Jouer avec une plénitude sonore qui reflète l'aboutissement du parcours harmonique.
 </meta>
-    <section=section_18, n_mesure=8, bpm=90, format=2/4, tonalite=Fa_majeur>
+    <section=recapitulation, n_mesure=8, bpm=96, format=2/4, tonalite=Fa_majeur>
         <mesure num=1>
             <piano_1_v1>  |({mib4, do5}, reb4, reb5), ({reb4, sib4}, si3, si4)|
             <piano_1_v3>  |({solb3, lab3}, fa3, lab3), ({fa3, solb3}, mib3, solb3)|
@@ -716,9 +734,10 @@ Section de développement 17 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 18 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
+145-152 (8 mes), Allegretto, Fa majeur, 96 BPM.
+La récapitulation (mm.116-165) ramène le thème en Fa majeur sur pédale de tonique, considérablement altéré et élargi par rapport à l'exposition. La section est plus longue que l'exposition entière, renversant les proportions habituelles. Jouer avec une plénitude sonore qui reflète l'aboutissement du parcours harmonique.
 </meta>
-    <section=section_19, n_mesure=8, bpm=90, format=2/4, tonalite=Fa_majeur>
+    <section=recapitulation, n_mesure=8, bpm=96, format=2/4, tonalite=Fa_majeur>
         <mesure num=1>
             <piano_1_v1>  |({_, _}, _, _), ({_, _}, _, _)|
             <piano_1_v2>  |(sol3 mi4, sol3 mi4), (sol3 mi4, sol3 mi4)|
@@ -764,9 +783,10 @@ Section de développement 18 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 19 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
+153-160 (8 mes), Allegretto, Fa majeur, 96 BPM.
+La récapitulation (mm.116-165) ramène le thème en Fa majeur sur pédale de tonique, considérablement altéré et élargi par rapport à l'exposition. La section est plus longue que l'exposition entière, renversant les proportions habituelles. Jouer avec une plénitude sonore qui reflète l'aboutissement du parcours harmonique.
 </meta>
-    <section=section_20, n_mesure=8, bpm=90, format=2/4, tonalite=Fa_majeur>
+    <section=recapitulation, n_mesure=8, bpm=96, format=2/4, tonalite=Fa_majeur>
         <mesure num=1>
             <piano_1_v1>  |({sol4 sib4, sol5}, la4 do5, la5), ({sib4 re5, sib5}, do5 mi5, do6)|
             <piano_1_v3>  |({fa1, fa2}, fa1, fa2), ({fa1, fa2}, fa1, fa2)|
@@ -805,9 +825,10 @@ Section de développement 19 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 20 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
+161-168 (8 mes), Allegretto, Fa majeur, 96 BPM.
+La récapitulation (mm.116-165) ramène le thème en Fa majeur sur pédale de tonique, considérablement altéré et élargi par rapport à l'exposition. La section est plus longue que l'exposition entière, renversant les proportions habituelles. Jouer avec une plénitude sonore qui reflète l'aboutissement du parcours harmonique.
 </meta>
-    <section=section_21, n_mesure=8, bpm=90, format=2/4, tonalite=Fa_majeur>
+    <section=recapitulation, n_mesure=8, bpm=96, format=2/4, tonalite=Fa_majeur>
         <mesure num=1>
             <piano_1_v1>  |({sol4 sib4, sol5}, la4 do5, la5), ({sib4 re5, sib5}, do5 mi5, do6)|
             <piano_1_v3>  |({fa1, fa2}, fa1, fa2), ({fa1, fa2}, fa1, fa2)|
@@ -843,9 +864,10 @@ Section de développement 20 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section conclusive — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
+169-176 (8 mes), Più Allegro, Fa majeur, 120 BPM.
+La coda Più Allegro (mm.165-176) accélère brusquement le tempo pour conclure le mouvement dans un élan percussif sur la tonique. Ces douze mesures énergiques résument l'esprit de toccata du mouvement. Jouer avec une attaque déterminée et un crescendo final décisif.
 </meta>
-    <section=section_22, n_mesure=8, bpm=90, format=2/4, tonalite=Fa_majeur>
+    <section=coda, n_mesure=8, bpm=120, format=2/4, tonalite=Fa_majeur>
         <mesure num=1>
             <piano_1_v1>  |do4 do5, (do4 do5, do4 do5)|
             <piano_1_v3>  |({fa2, la2}, do3, fa3), ({lab2, mi3}, la2, fa3)|
