@@ -3,19 +3,19 @@
 TACHE : composition
 STYLE : classique
 FORMAT : piano_solo
-NIVEAU : simple
-Titre : Piano_Sonatas_28-2
-Date : ?
-Auteur : Beethoven
+NIVEAU : avance
+Titre : Sonate n°28 op.101 - Mouvement II (Vivace alla Marcia)
+Date : 1816
+Auteur : Ludwig van Beethoven
 Tonalite : Fa_majeur
 Unite : quarter
-Intention : Pièce pour piano solo, modéré, lumineux, au cadre binaire régulier. Tonalité : Fa majeur. 98 mesures.
+Intention : Marche vivante et ironique d'une énergie agressive et déstabilisante, formant un contraste saisissant avec la rêverie du premier mouvement, avec ses rythmes pointés obsessionnels, ses dissonances stridents et son trio en canon strict à l'octave. Vivace alla Marcia en Fa majeur, 4/4, forme ternaire A-B-A, 98 mesures, à la fois puissante et volontiers parodique dans ses effets de dissonance et d'ambiguïté rythmique.
 </tete>
 
 <meta>
-Section d'ouverture — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
+8 mesures. Partie A, première section, Fa majeur, 4/4, noire à 120. La marche démarre avec une impulsion de croches et de noires pointées d'une agression rythmique caractéristique. Les dissonances et les chromatismes "sauvagement hors de propos en contexte" (LA Phil) créent un effet perturbateur intentionnel. Les voix basses en octaves dessinent l'armature harmonique. Jouer avec raideur militaire et articulation nette, en soulignant les dissonances.
 </meta>
-    <section=section_1, n_mesure=8, bpm=90, format=4/4, tonalite=Fa_majeur>
+    <section=partie_A, n_mesure=8, bpm=90, format=4/4, tonalite=Fa_majeur>
         <mesure num=1>
             <piano_1_v1>  |la3 do4 fa4 la4|
             <piano_1_v4>  |_|
@@ -77,9 +77,9 @@ Section d'ouverture — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 1 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
+8 mesures. Partie A, première section, suite. Les effets de dissonances et les trilles aux moments inattendus intensifient le caractère parodique et subversif de cette marche. La texture en accords répétés à la main gauche soutient le dialogue entre les voix. Maintenir la pulsation stricte et l'énergie de la marche.
 </meta>
-    <section=section_2, n_mesure=8, bpm=90, format=4/4, tonalite=Fa_majeur>
+    <section=partie_A, n_mesure=8, bpm=90, format=4/4, tonalite=Fa_majeur>
         <mesure num=1>
             <piano_1_v1>  |_, (_, _, _), do4, (_, la3 do4 fa4 la4)|
             <piano_1_v2>  |do4, (si3, si3)|
@@ -142,9 +142,9 @@ Section de développement 1 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 2 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
+8 mesures. Partie A, seconde section, début. Le développement de la partie A explore de nouvelles figurations rythmiques tout en maintenant l'idée fixe du rythme pointé. Les modulations vers le relatif (ré mineur) enrichissent momentanément la couleur harmonique.
 </meta>
-    <section=section_3, n_mesure=8, bpm=90, format=4/4, tonalite=Fa_majeur>
+    <section=partie_A, n_mesure=8, bpm=90, format=4/4, tonalite=Fa_majeur>
         <mesure num=1>
             <piano_1_v1>  |(_, _, _), (_, _, _), (_, _, _), (_, _, _)|
             <piano_1_v2>  |(sol5 sol6, mi6), (sol6, reb6), (mi6, sol5), (sib5, la5)|
@@ -199,9 +199,9 @@ Section de développement 2 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 3 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
+8 mesures. Partie A, seconde section, suite. Les arpèges brisés et les gammes rapides créent une agitation supplémentaire. La structure harmonique reste ancrée dans Fa majeur malgré les détours chromatiques. Jouer avec précision et élan.
 </meta>
-    <section=section_4, n_mesure=8, bpm=90, format=4/4, tonalite=Fa_majeur>
+    <section=partie_A, n_mesure=8, bpm=90, format=4/4, tonalite=Fa_majeur>
         <mesure num=1>
             <piano_1_v1>  |la5, _, (_, solb4), (la4, do5)|
             <piano_1_v2>  |_, _, _, solb4|
@@ -257,9 +257,9 @@ Section de développement 3 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 4 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
+8 mesures. Partie A, fermeture. Les formules conclusives de Fa majeur ferment la partie A. La dynamique retombe sur une cadence nette. Jouer les accords conclusifs avec autorité.
 </meta>
-    <section=section_5, n_mesure=8, bpm=90, format=4/4, tonalite=Fa_majeur>
+    <section=partie_A, n_mesure=8, bpm=90, format=4/4, tonalite=Fa_majeur>
         <mesure num=1>
             <piano_1_v1>  |lab5, sib5, (sib5, mib5), (solb5, do6)|
             <piano_1_v4>  |_, _, _, _|
@@ -306,9 +306,9 @@ Section de développement 4 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 5 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
+8 mesures. Trio (partie B), Sib majeur, canons stricts à l'octave. Ce trio en canon pur à deux voix à l'octave est d'une contrapuntique d'une rigueur presque bachienne, formant un contraste saisissant avec l'agitation de la marche. La ligne canonique s'écoule dans une clarté sereine. Jouer les deux voix avec une égalité parfaite, en laissant chaque voix chanter indépendamment.
 </meta>
-    <section=section_6, n_mesure=8, bpm=90, format=4/4, tonalite=Fa_majeur>
+    <section=trio, n_mesure=8, bpm=90, format=4/4, tonalite=Fa_majeur>
         <mesure num=1>
             <piano_1_v1>  |(sol5, mi5), (fa5, la5), (_, _, _), (_, _, _)|
             <piano_1_v2>  |_, _, (do5, do5), (si4, sol4 sib4)|
@@ -357,9 +357,9 @@ Section de développement 5 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 6 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
+8 mesures. Trio, suite, canons à l'octave. Le canon se développe avec de nouveaux motifs toujours rigoureusement imités. La texture contrapuntique atteint ici sa pleine maturité. Maintenir la légèreté et la clarté dans les deux voix simultanées.
 </meta>
-    <section=section_7, n_mesure=8, bpm=90, format=4/4, tonalite=Fa_majeur>
+    <section=trio, n_mesure=8, bpm=90, format=4/4, tonalite=Fa_majeur>
         <mesure num=1>
             <piano_1_v1>  |(la4, {fa4, sib4}), (do5, {la4, re5}), (do5, {la4, re5}), (mi5, {do5, fa5})|
             <piano_1_v4>  |_, _, _, _|
@@ -415,9 +415,9 @@ Section de développement 6 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 7 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
+8 mesures. Trio, fermeture. La conclusion du trio revient sur Sib majeur, avant la reprise da capo de la marche. Un bref lien harmonique prépare le retour à Fa. Jouer la dernière phrase du trio avec une retenue expressive qui annonce la reprise.
 </meta>
-    <section=section_8, n_mesure=8, bpm=90, format=4/4, tonalite=Fa_majeur>
+    <section=trio, n_mesure=8, bpm=90, format=4/4, tonalite=Fa_majeur>
         <mesure num=1>
             <piano_1_v1>  |_, (_, _), fa5 la5 fa6, _|
             <piano_1_v2>  |(la4 fa5 la5, lab4 fa5 lab5), (sol4 mi5 sol5, mi5 sol5 mi6)|
@@ -466,9 +466,9 @@ Section de développement 7 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 8 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
+8 mesures. Da capo, partie A, première section. La reprise de la marche da capo est identique à la première occurrence, mais l'oreille a été transformée par le contraste du trio. La même agression rythmique sonne différemment après la sérénité contrapuntique. Jouer avec la même vigueur initiale.
 </meta>
-    <section=section_9, n_mesure=8, bpm=90, format=4/4, tonalite=Fa_majeur>
+    <section=partie_A, n_mesure=8, bpm=90, format=4/4, tonalite=Fa_majeur>
         <mesure num=1>
             <piano_1_v1>  |(do5, la4), (sib4, sib5), sib5, mi5|
             <piano_1_v4>  |_, _, _, _|
@@ -512,9 +512,9 @@ Section de développement 8 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 9 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
+8 mesures. Da capo, partie A, seconde section. Les dissonances et les trilles parodiques reprennent leur effet perturbateur. La marche impose à nouveau son rythme inflexible.
 </meta>
-    <section=section_10, n_mesure=8, bpm=90, format=4/4, tonalite=Fa_majeur>
+    <section=partie_A, n_mesure=8, bpm=90, format=4/4, tonalite=Fa_majeur>
         <mesure num=1>
             <piano_1_v1>  |mib5, re5, do5, sib4|
             <piano_1_v4>  |_, _, _, _|
@@ -559,9 +559,9 @@ Section de développement 9 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 10 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
+8 mesures. Da capo, fermeture de la partie A. La cadence conclusive de la marche est maintenant définitive, préparant la Coda. Jouer avec autorité conclusive.
 </meta>
-    <section=section_11, n_mesure=8, bpm=90, format=4/4, tonalite=Fa_majeur>
+    <section=partie_A, n_mesure=8, bpm=90, format=4/4, tonalite=Fa_majeur>
         <mesure num=1>
             <piano_1_v1>  |fa5, -, -, -|
             <piano_1_v2>  |({sol5, fa5}, {sol5, fa5, sol5}, {fa5, sol5}), ({fa5, sol5, fa5}, {sol5, fa5, sol5}, {fa5, sol5}), ({fa5, sol5, fa5}, {sol5, fa5, sol5}, {fa5, sol5}), ({fa5, sol5, fa5}, {sol5, fa5, sol5}, {fa5, sol5})|
@@ -609,9 +609,9 @@ Section de développement 10 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 11 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
+8 mesures. Coda, section 1. La Coda conserve l'énergie rythmique de la marche mais oriente le discours vers la conclusion définitive. Les arpèges ascendants et les accords en sforzato ponctuent le discours avec autorité.
 </meta>
-    <section=section_12, n_mesure=8, bpm=90, format=4/4, tonalite=Fa_majeur>
+    <section=coda, n_mesure=8, bpm=90, format=4/4, tonalite=Fa_majeur>
         <mesure num=1>
             <piano_1_v1>  |sib4 mi5, (do5 fa5, sib4 mi5), sib4 mi5, (do5 fa5, sib4 mi5)|
             <piano_1_v4>  |_, _, _, _|
@@ -658,9 +658,9 @@ Section de développement 11 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section conclusive — 2 mesures. Tonalité Fa majeur, tempo 90 BPM.
+2 mesures. Coda finale. Les deux derniers accords de Fa majeur frappent l'auditoire avec une brièveté tranchante, laissant l'oreille suspendue entre le dynamisme de la marche et l'intimité du premier mouvement. Jouer fortissimo et sans retenue.
 </meta>
-    <section=section_13, n_mesure=2, bpm=90, format=4/4, tonalite=Fa_majeur>
+    <section=coda, n_mesure=2, bpm=90, format=4/4, tonalite=Fa_majeur>
         <mesure num=1>
             <piano_1_v1>  |sib5, sib5, (sib5, sol5), (la5, do6)|
             <piano_1_v2>  |mi5 sol5, (sol5, fa5), mi5, (fa5, do5)|
