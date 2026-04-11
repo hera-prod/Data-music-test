@@ -3,19 +3,19 @@
 TACHE : composition
 STYLE : baroque
 FORMAT : piano_solo
-NIVEAU : simple
-Titre : Fugue_bwv_893
-Date : ?
-Auteur : Bach
+NIVEAU : avance
+Titre : Fugue en Si mineur, BWV 893, Le Clavier bien tempéré Livre II n°24
+Date : 1742
+Auteur : Johann Sebastian Bach
 Tonalite : Si_mineur
 Unite : quarter
-Intention : Pièce pour piano solo, modéré, mélancolique, au balancement ternaire. Tonalité : Si mineur. 101 mesures.
+Intention : Fugue légère et bondissante au rythme de passepied, dont le sujet aux «sauts d'octave» caractéristiques porte un élan irrésistible, animée d'un contre-sujet en doubles croches descendantes aux intervalles de septième qui confère une couleur mélancolique à ce tourbillon ternaire. Fugue à trois voix en mesure 3/8, 101 mesures à 96 BPM, organisée en exposition, six épisodes modulants, deux strettes et une coda conclusive en Si mineur.
 </tete>
 
 <meta>
-Section d'ouverture — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
+8 mesures, 96 BPM, mesure 3/8, tonalité Si mineur. Exposition: le sujet, exposé à l'alto (mes. 1), présente un saut caractéristique d'octave descendante (mes. 3-4) et des doubles croches coulantes; la réponse tonale à la soprano (mes. 6) constitue la réponse de la fugue «tonale»; le caractère de passepied imprime dès les premières mesures un balancement ternaire enjoué qui contraste avec la gravité attendue d'une conclusion du Clavier bien tempéré.
 </meta>
-    <section=section_1, n_mesure=8, bpm=90, format=3/8, tonalite=Si_mineur>
+    <section=exposition, n_mesure=8, bpm=96, format=3/8, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |_, _, _|
             <piano_1_v2>  |fa#4, -, -|
@@ -59,9 +59,9 @@ Section d'ouverture — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 1 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
+8 mesures, 96 BPM, mesure 3/8, tonalité Si mineur. Suite de l'exposition: la basse énonce le sujet (mes. 15) tandis que le contre-sujet réapparaît à l'alto (mes. 26-29) pour la première fois; la réponse à l'alto (mes. 26) et le premier épisode (mes. 21-26) modulant vers Fa dièse mineur préparent la section médiane; les «sauts d'octave» du sujet créent des froissements harmoniques savoureux avec le contrepoint des voix supérieures.
 </meta>
-    <section=section_2, n_mesure=8, bpm=90, format=3/8, tonalite=Si_mineur>
+    <section=exposition, n_mesure=8, bpm=96, format=3/8, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |fa#4, (sol#4, la4), (si4, do#5)|
             <piano_1_v4>  |la3, fa#3, fa3|
@@ -98,9 +98,9 @@ Section de développement 1 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 2 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
+8 mesures, 96 BPM, mesure 3/8, tonalité Si mineur et Ré majeur. Épisode I et entrée en Ré majeur: le premier canon libre (épisode I) propose un dialogue imitatif entre basse et soprano; le sujet reparaît à la soprano en Ré majeur (mes. 35) avec le contre-sujet en alto; l'atmosphère se déplace vers le relatif majeur, apportant un bref rayon de lumière au sein de la couleur mineure dominante; l'épisode III (mes. 41) module ensuite vers La majeur.
 </meta>
-    <section=section_3, n_mesure=8, bpm=90, format=3/8, tonalite=Si_mineur>
+    <section=episodes, n_mesure=8, bpm=96, format=3/8, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |(re4, mi4), (fa#4, sol4), fa#4|
             <piano_1_v2>  |_, _, (_, mi4)|
@@ -146,9 +146,9 @@ Section de développement 2 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 3 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
+8 mesures, 96 BPM, mesure 3/8, tonalités La majeur et Fa dièse mineur. Épisodes III et IV: le sujet s'entend à la basse en La majeur (mes. 44) accompagné du contre-sujet à la soprano; l'épisode IV (mes. 50) construit sa basse courante sur des réminiscences du sujet; la réponse à l'alto en Fa dièse mineur (mes. 54) reprend le contre-sujet en soprano; le balancement ternaire du passepied continue sans relâche, associant légèreté rythmique et rigueur contrapuntique.
 </meta>
-    <section=section_4, n_mesure=8, bpm=90, format=3/8, tonalite=Si_mineur>
+    <section=episodes, n_mesure=8, bpm=96, format=3/8, tonalite=La_majeur>
         <mesure num=1>
             <piano_1_v1>  |(si4, re5), (do#5, si4), (la4, sol#4)|
             <piano_1_v2>  |_, _, _|
@@ -192,9 +192,9 @@ Section de développement 3 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 4 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
+8 mesures, 96 BPM, mesure 3/8, tonalité Fa dièse mineur. Épisodes V et retour vers Si mineur: l'épisode V (mes. 60) en imitation libre est fondé sur la figure brève de la codette initiale (mes. 6); le sujet reparaît à l'alto sans contre-sujet (mes. 69) puis à la basse en strette (mes. 70-76) formant la première strette imcomplète; l'épisode VI (mes. 76) module de Mi mineur vers Si mineur pour la section conclusive, avec ses figures imitatives en alto.
 </meta>
-    <section=section_5, n_mesure=8, bpm=90, format=3/8, tonalite=Si_mineur>
+    <section=episodes, n_mesure=8, bpm=96, format=3/8, tonalite=Fa#_mineur>
         <mesure num=1>
             <piano_1_v1>  |do#4, -, fa#4|
             <piano_1_v4>  |la3, si3, do#4|
@@ -238,9 +238,9 @@ Section de développement 4 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 5 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
+8 mesures, 96 BPM, mesure 3/8, tonalité Si mineur. Épisode VI et premières strettes: l'épisode VI (mes. 76) renoue avec la couleur expressive de l'épisode V; la première strette (mes. 69-76) oppose alto et basse à un temps d'intervalle; les figures incisives du contre-sujet donnent une urgence croissante au discours; le retour définitif en Si mineur s'affirme harmoniquement avant la récapitulation et la coda conclusive.
 </meta>
-    <section=section_6, n_mesure=8, bpm=90, format=3/8, tonalite=Si_mineur>
+    <section=strettes, n_mesure=8, bpm=96, format=3/8, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |sol5, (la5, sol5), (fa#5, mi5)|
             <piano_1_v4>  |(mi3, re4), (do#4, mi4), (la3, do#4)|
@@ -284,9 +284,9 @@ Section de développement 5 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 6 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
+8 mesures, 96 BPM, mesure 3/8, tonalité Si mineur. Récapitulation et deuxième strette: le sujet reparaît à la soprano (mes. 81) sans contre-sujet, établissant la récapitulation dans la tonique; la deuxième strette (mes. 96-99) superpose alto et basse sur seulement quelques mesures du sujet; les trilles ornant la soprano finale (mes. 99-100) ajoutent l'élément de gaieté conclusive qui fait de cette fugue, selon Bach lui-même, une clôture légèrement décalée pour l'ensemble de la collection.
 </meta>
-    <section=section_7, n_mesure=8, bpm=90, format=3/8, tonalite=Si_mineur>
+    <section=strettes, n_mesure=8, bpm=96, format=3/8, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |(do#4, si4), (do#4, si4), (do#4, la4)|
             <piano_1_v2>  |_, sol#4, fa#4|
@@ -330,9 +330,9 @@ Section de développement 6 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 7 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
+8 mesures, 96 BPM, mesure 3/8, tonalité Si mineur. Récapitulation (suite): le sujet s'entend en soprano avec ornementation (mes. 99-100) et en strette rapprochée avec l'alto et la basse; le contre-sujet, remarquable par ses septièmes descendantes, réapparaît en force; la légèreté bondissante du passepied persiste jusque dans ces pages conclusives, montrant comment Bach parvient à synthétiser érudition contrapuntique et joie rythmique dans un même élan.
 </meta>
-    <section=section_8, n_mesure=8, bpm=90, format=3/8, tonalite=Si_mineur>
+    <section=recapitulation, n_mesure=8, bpm=96, format=3/8, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |fa#4, _, _|
             <piano_1_v2>  |fa#4, (sol#4, la#4), (si4, do#5)|
@@ -376,9 +376,9 @@ Section de développement 7 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 8 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
+8 mesures, 96 BPM, mesure 3/8, tonalité Si mineur. Suite de la récapitulation: le retour des figures d'exposition confirme l'ancrage tonal; les trois voix tissent leur contrepoint avec une fluidité accrue par rapport au début; la coda se prépare dans ce passage avec une superposition de figures mélodiques reconnaissables; la clarté de la texture à trois voix, propre à la fugue en 3/8, contraste avec la densité à quatre voix de la fugue précédente en Si majeur.
 </meta>
-    <section=section_9, n_mesure=8, bpm=90, format=3/8, tonalite=Si_mineur>
+    <section=recapitulation, n_mesure=8, bpm=96, format=3/8, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |la4, la4, re5|
             <piano_1_v2>  |(fa#4, mi4), re4, fa#4|
@@ -422,9 +422,9 @@ Section de développement 8 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 9 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
+8 mesures, 96 BPM, mesure 3/8, tonalité Si mineur. Coda (début): les entrées successives du sujet à l'alto (mes. 96) et à la basse (mes. 97) forment la deuxième strette complète avant la conclusion; le mouvement ternaire irrésistible du passepied n'a jamais cessé de propulser le discours vers l'avant; les trilles sur le sujet ornementé de la soprano (mes. 99) apportent une dernière touche de gaieté baroque avant l'accord conclusif.
 </meta>
-    <section=section_10, n_mesure=8, bpm=90, format=3/8, tonalite=Si_mineur>
+    <section=coda, n_mesure=8, bpm=96, format=3/8, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |_, _, _|
             <piano_1_v2>  |sol4, mi4, re#4|
@@ -468,9 +468,9 @@ Section de développement 9 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 10 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
+8 mesures, 96 BPM, mesure 3/8, tonalité Si mineur. Coda (suite): le tissu imitatif des trois voix se resserre en une densité contrapuntique conclusive; l'atmosphère joyeuse et légère du passepied, maintenue de bout en bout, confirme le parti pris de Bach de clore le second livre du Clavier bien tempéré non par un monument solennel mais par une pièce bondissante et souriante; les ornements («les trilles qui rehaussent l'atmosphère») soulignent cet esprit festif.
 </meta>
-    <section=section_11, n_mesure=8, bpm=90, format=3/8, tonalite=Si_mineur>
+    <section=coda, n_mesure=8, bpm=96, format=3/8, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |(la#4, si4), (do#5, re5), mi5|
             <piano_1_v2>  |sol4, _, (_, sol4)|
@@ -514,9 +514,9 @@ Section de développement 10 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 11 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
+8 mesures, 96 BPM, mesure 3/8, tonalité Si mineur. Fin de la coda: le mouvement en doubles croches du contre-sujet se maintient jusqu'au bout dans les trois voix; les figures ascendantes et descendantes s'entrelacent en une polyphonie serrée qui prépare l'accord final; la trajectoire de la fugue, de l'énoncé solitaire du sujet en alto jusqu'à cet épanouissement à trois voix, dessine l'arc expressif d'une oeuvre qui réconcilie légèreté populaire et maîtrise contrapuntique.
 </meta>
-    <section=section_12, n_mesure=8, bpm=90, format=3/8, tonalite=Si_mineur>
+    <section=coda, n_mesure=8, bpm=96, format=3/8, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |fa#5, mi5, re5|
             <piano_1_v2>  |sol4, la4, si4|
@@ -560,9 +560,9 @@ Section de développement 11 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section conclusive — 5 mesures. Tonalité Si mineur, tempo 90 BPM.
+5 mesures, 96 BPM, mesure 3/8, tonalité Si mineur. Conclusion: les cinq dernières mesures réaffirment solennellement la tonique de Si mineur; la strette finale entre les voix supérieures et la basse condense le discours imitatif en quelques traits vigoureux; l'accord final en Si mineur à quatre sons, incluant la basse grave, ferme avec une sobriété éloquente le dernier diptyque du Clavier bien tempéré Livre II, offrant à Bach une dernière occasion d'allier esprit ludique et rigueur formelle.
 </meta>
-    <section=section_13, n_mesure=5, bpm=90, format=3/8, tonalite=Si_mineur>
+    <section=coda, n_mesure=5, bpm=96, format=3/8, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |fa#5, -, _|
             <piano_1_v2>  |si4, la#4, fa#4|
