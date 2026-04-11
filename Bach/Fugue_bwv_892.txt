@@ -3,19 +3,19 @@
 TACHE : composition
 STYLE : baroque
 FORMAT : piano_solo
-NIVEAU : simple
-Titre : Fugue_bwv_892
-Date : ?
-Auteur : Bach
-Tonalite : Sol#_mineur
+NIVEAU : avance
+Titre : Fugue en Si majeur, BWV 892, Le Clavier bien tempéré Livre II n°23
+Date : 1742
+Auteur : Johann Sebastian Bach
+Tonalite : Si_majeur
 Unite : quarter
-Intention : Pièce pour piano solo, modéré, mélancolique, au cadre binaire régulier. Tonalité : Sol# mineur. 104 mesures.
+Intention : Double fugue en stile antico d'une majesté sereine, fondée sur un sujet solennel en valeurs longues parcourant une octave ascendante en Si majeur, enrichie d'un contre-sujet expressif qui l'accompagne presque sans interruption. Fugue à quatre voix en mesure alla breve, 104 mesures à 72 BPM, organisée en exposition, contre-exposition, épisodes modulants, divertissement, strettes et coda.
 </tete>
 
 <meta>
-Section d'ouverture — 8 mesures. Tonalité Sol# mineur, tempo 90 BPM.
+8 mesures, 72 BPM, mesure alla breve (2/2), tonalité Si majeur. Exposition de la double fugue: le sujet solennel en blanches, couvrant une octave ascendante, est énoncé d'abord à la basse, puis repris par le ténor en réponse réelle, ébauçant dès la mes. 5 le contre-sujet aux notes conjointes ascendantes qui colorera l'ensemble de l'oeuvre; la clarté lumineuse du Si majeur s'affirme avec noblesse dès les premières mesures.
 </meta>
-    <section=section_1, n_mesure=8, bpm=90, format=2/2, tonalite=Sol#_mineur>
+    <section=exposition, n_mesure=8, bpm=72, format=2/2, tonalite=Si_majeur>
         <mesure num=1>
             <piano_1_v1>  |_, _|
             <piano_1_v2>  |_, _|
@@ -69,9 +69,9 @@ Section d'ouverture — 8 mesures. Tonalité Sol# mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 1 — 8 mesures. Tonalité Sol# mineur, tempo 90 BPM.
+8 mesures, 72 BPM, mesure alla breve (2/2), tonalité Si majeur avec incursion en Fa dièse majeur. Poursuite de l'exposition: l'alto (mes. 10) puis la soprano (mes. 14) prononcent le sujet et sa réponse; une entrée redondante de la basse (mes. 19) consolide l'ancrage tonal avant le premier épisode; le contre-sujet I s'entend aux quatre voix en doubles contrepoints à l'octave, tissant une polyphonie lumineuse et équilibrée.
 </meta>
-    <section=section_2, n_mesure=8, bpm=90, format=2/2, tonalite=Sol#_mineur>
+    <section=exposition, n_mesure=8, bpm=72, format=2/2, tonalite=Si_majeur>
         <mesure num=1>
             <piano_1_v1>  |_, _|
             <piano_1_v2>  |_, _|
@@ -123,9 +123,9 @@ Section de développement 1 — 8 mesures. Tonalité Sol# mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 2 — 8 mesures. Tonalité Sol# mineur, tempo 90 BPM.
+8 mesures, 72 BPM, mesure alla breve (2/2), tonalité Si majeur et Fa dièse majeur. Premier épisode et apparition du second sujet: le contre-sujet II fait son entrée (mes. 27) en contrepoint inversible à la douzième avec le sujet principal; les deux thèmes se combinent en tierces et sixtes, créant un dialogue serein et lumineux caractéristique du stile antico bachien; l'épisode I module de Si à Fa dièse.
 </meta>
-    <section=section_3, n_mesure=8, bpm=90, format=2/2, tonalite=Sol#_mineur>
+    <section=episodes, n_mesure=8, bpm=72, format=2/2, tonalite=Si_majeur>
         <mesure num=1>
             <piano_1_v1>  |(fa#5, fa5, re#5), (do#5, si4)|
             <piano_1_v2>  |(la#4, si4), (la#4, sol#4)|
@@ -177,9 +177,9 @@ Section de développement 2 — 8 mesures. Tonalité Sol# mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 3 — 8 mesures. Tonalité Sol# mineur, tempo 90 BPM.
+8 mesures, 72 BPM, mesure alla breve (2/2), tonalités Sol dièse mineur et Do dièse mineur. Épisode II et entrée modulante: le sujet reparaît avec le contre-sujet II dans des tonalités relatives éloignées; l'inversion du contre-sujet II à la douzième (mes. 36) apporte une nouvelle couleur harmonique; les suspensions de l'épisode III créent une tension expressive qui accentue la gravité poignante du contrepoint.
 </meta>
-    <section=section_4, n_mesure=8, bpm=90, format=2/2, tonalite=Sol#_mineur>
+    <section=episodes, n_mesure=8, bpm=72, format=2/2, tonalite=Sol#_mineur>
         <mesure num=1>
             <piano_1_v1>  |({si4, la#4}, si4), (si4, la#4)|
             <piano_1_v2>  |sol#4, (do#4, fa#4)|
@@ -229,9 +229,9 @@ Section de développement 3 — 8 mesures. Tonalité Sol# mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 4 — 8 mesures. Tonalité Sol# mineur, tempo 90 BPM.
+8 mesures, 72 BPM, mesure alla breve (2/2), tonalités Mi majeur et Sol dièse mineur. Épisodes IV et V: la basse porte le sujet en Mi majeur (mes. 44) accompagnée par le contre-sujet II en soprano; l'épisode V (mes. 56) est le plus long de la fugue, avec des réminiscences du contre-sujet II en imitation libre; les trois voix supérieures explorent les registres aigus tandis que la basse prépare sa grande entrée finale.
 </meta>
-    <section=section_5, n_mesure=8, bpm=90, format=2/2, tonalite=Sol#_mineur>
+    <section=episodes, n_mesure=8, bpm=72, format=2/2, tonalite=Mi_majeur>
         <mesure num=1>
             <piano_1_v1>  |(fa#4, si5, la#5), ({sol#5, la#5}, si5, sol#5)|
             <piano_1_v2>  |_, _|
@@ -283,9 +283,9 @@ Section de développement 4 — 8 mesures. Tonalité Sol# mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 5 — 8 mesures. Tonalité Sol# mineur, tempo 90 BPM.
+8 mesures, 72 BPM, mesure alla breve (2/2), tonalité Sol dièse mineur. Suite de l'épisode V: le contrepoint à trois voix déploie des réminiscences du contre-sujet en imitation libre; l'ascension vers les registres aigus crée une tension expressive avant le retour au grave; les voix croisées, technique caractéristique de cette fugue, apparaissent avec une subtilité qui rappelle les Contrapuncti de l'Art de la fugue.
 </meta>
-    <section=section_6, n_mesure=8, bpm=90, format=2/2, tonalite=Sol#_mineur>
+    <section=episodes, n_mesure=8, bpm=72, format=2/2, tonalite=Sol#_mineur>
         <mesure num=1>
             <piano_1_v1>  |_, _|
             <piano_1_v2>  |fa#4, fa4|
@@ -337,9 +337,9 @@ Section de développement 5 — 8 mesures. Tonalité Sol# mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 6 — 8 mesures. Tonalité Sol# mineur, tempo 90 BPM.
+8 mesures, 72 BPM, mesure alla breve (2/2), tonalité Sol dièse mineur et Do dièse mineur. Divertissement: épisode à trois voix en contrepoint fleuri, analogue à ceux des Contrapuncti 4 et 10 de l'Art de la Fugue; les figures mélodiques ondulantes créent un moment de détente harmonique au sein de la rigueur contrapuntique; Bach y démontre la liberté et la plasticité de son écriture en stile antico.
 </meta>
-    <section=section_7, n_mesure=8, bpm=90, format=2/2, tonalite=Sol#_mineur>
+    <section=divertissement, n_mesure=8, bpm=72, format=2/2, tonalite=Sol#_mineur>
         <mesure num=1>
             <piano_1_v1>  |(_, sol#5, fa#5), ({mi5, fa#5}, sol#5, mi5)|
             <piano_1_v2>  |({do#4, do4}, do#4), sol#4|
@@ -388,9 +388,9 @@ Section de développement 6 — 8 mesures. Tonalité Sol# mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 7 — 8 mesures. Tonalité Sol# mineur, tempo 90 BPM.
+8 mesures, 72 BPM, mesure alla breve (2/2), tonalité Sol dièse mineur. Suite du divertissement: l'épisode VI modulant de Si à Ré dièse mineur prépare la récapitulation finale; les broderies chromatiques et les lignes conjointes descendantes créent une tension harmonique croissante; ce passage est le miroir expressif de l'épisode à trois voix de la section médiane (mes. 64-74), soulignant l'architecture symétrique de la double fugue.
 </meta>
-    <section=section_8, n_mesure=8, bpm=90, format=2/2, tonalite=Sol#_mineur>
+    <section=divertissement, n_mesure=8, bpm=72, format=2/2, tonalite=Sol#_mineur>
         <mesure num=1>
             <piano_1_v1>  |(do#5, fa#5, mi5), (fa#5, re#5)|
             <piano_1_v2>  |la4, (_, la4)|
@@ -441,9 +441,9 @@ Section de développement 7 — 8 mesures. Tonalité Sol# mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 8 — 8 mesures. Tonalité Sol# mineur, tempo 90 BPM.
+8 mesures, 72 BPM, mesure alla breve (2/2), tonalité Si majeur. Début de la récapitulation: la grande entrée de la basse (mes. 75) produit un effet monumental comparable aux dernières entrées des fugues en Fa mineur (BWV 857) et Si mineur (BWV 869); le contre-sujet II, sans être omis, s'allège de la basse pour la première fois depuis son introduction; la lumière du Si majeur s'impose de nouveau après les excursions modulantes.
 </meta>
-    <section=section_9, n_mesure=8, bpm=90, format=2/2, tonalite=Sol#_mineur>
+    <section=strettes, n_mesure=8, bpm=72, format=2/2, tonalite=Si_majeur>
         <mesure num=1>
             <piano_1_v1>  |(fa#5, mi5), ({mi5, re#5}, mi5)|
             <piano_1_v2>  |sol#4, (sol4, do#5)|
@@ -487,9 +487,9 @@ Section de développement 8 — 8 mesures. Tonalité Sol# mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 9 — 8 mesures. Tonalité Sol# mineur, tempo 90 BPM.
+8 mesures, 72 BPM, mesure alla breve (2/2), tonalité Si majeur et Fa dièse majeur. Suite des strettes: l'épisode VII (mes. 88) amène la réponse du ténor (mes. 85) avec le contre-sujet II en alto; le motif «chancelant» du début, discret aux premières mesures, refait surface avec force avant la coda, confirmant le principe bachien que rien n'est jamais gaspillé dans l'architecture contrapuntique.
 </meta>
-    <section=section_10, n_mesure=8, bpm=90, format=2/2, tonalite=Sol#_mineur>
+    <section=strettes, n_mesure=8, bpm=72, format=2/2, tonalite=Si_majeur>
         <mesure num=1>
             <piano_1_v1>  |({sol#5, sol#5}, fa#5, mi5), ({re#5, mi5}, fa#5, re#5)|
             <piano_1_v2>  |la#4, si4|
@@ -540,9 +540,9 @@ Section de développement 9 — 8 mesures. Tonalité Sol# mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 10 — 8 mesures. Tonalité Sol# mineur, tempo 90 BPM.
+8 mesures, 72 BPM, mesure alla breve (2/2), tonalité Si majeur. Récapitulation: la soprano prononce le sujet (mes. 93) dans la tonalité principale, soutenue par le contre-sujet II au ténor; la plénitude harmonique des quatre voix en Si majeur rayonne avec une sérénité inégalée dans la collection; les intervalles de tierces et de sixtes prédominants, propres à la combinaison des deux sujets, donnent à ce passage une douceur lumineuse caractéristique.
 </meta>
-    <section=section_11, n_mesure=8, bpm=90, format=2/2, tonalite=Sol#_mineur>
+    <section=recapitulation, n_mesure=8, bpm=72, format=2/2, tonalite=Si_majeur>
         <mesure num=1>
             <piano_1_v1>  |sol#5, fa#5|
             <piano_1_v2>  |(_, fa5), (re#5, do#5)|
@@ -590,9 +590,9 @@ Section de développement 10 — 8 mesures. Tonalité Sol# mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 11 — 8 mesures. Tonalité Sol# mineur, tempo 90 BPM.
+8 mesures, 72 BPM, mesure alla breve (2/2), tonalité Si majeur. Suite de la récapitulation: le contrepoint à quatre voix s'épanouit dans toute sa richesse; les deux sujets, principal et secondaire, se superposent une dernière fois dans une combinaison à l'octave d'une plénitude et d'un équilibre parfaits; la majesté sereine de Si majeur confirme le caractère exceptionnel de cette double fugue, l'une des plus belles du second livre.
 </meta>
-    <section=section_12, n_mesure=8, bpm=90, format=2/2, tonalite=Sol#_mineur>
+    <section=recapitulation, n_mesure=8, bpm=72, format=2/2, tonalite=Si_majeur>
         <mesure num=1>
             <piano_1_v1>  |(la4, la4), (sol#4, fa#4)|
             <piano_1_v2>  |(fa#4, do4, fa#4), (mi4, re#4)|
@@ -642,9 +642,9 @@ Section de développement 11 — 8 mesures. Tonalité Sol# mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section conclusive — 8 mesures. Tonalité Sol# mineur, tempo 90 BPM.
+8 mesures, 72 BPM, mesure alla breve (2/2), tonalité Si majeur. Coda: les mesures 96 à 104 établissent définitivement la tonique de Si majeur; le motif «chancelant» évoqué précédemment s'y déploie pleinement, confirmant que rien dans la construction bachienne n'est laissé au hasard; la conclusion en accord de Si majeur à quatre voix referme ce «pur chef-d'oeuvre de splendeur et d'harmonie» sur une luminosité sereine et apaisée.
 </meta>
-    <section=section_13, n_mesure=8, bpm=90, format=2/2, tonalite=Sol#_mineur>
+    <section=coda, n_mesure=8, bpm=72, format=2/2, tonalite=Si_majeur>
         <mesure num=1>
             <piano_1_v1>  |mi5, -|
             <piano_1_v2>  |({si4, la#4}, sol#4, si4), ({la#4, si4}, do#5, la#4)|
