@@ -4,18 +4,17 @@ TACHE : composition
 STYLE : baroque
 FORMAT : piano_solo
 NIVEAU : intermediaire
-Titre : Fugue_bwv_888
-Date : ?
-Auteur : Bach
-Tonalite : Fa#_mineur
+Titre : Fugue en La majeur, BWV 888, Clavier bien tempéré Livre II n°19
+Date : 1742
+Auteur : Johann Sebastian Bach
+Tonalite : La_majeur
 Unite : quarter
-Intention : Pièce pour piano solo, modéré, mélancolique, au cadre binaire régulier. Tonalité : Fa# mineur. 29 mesures.
+Intention : Fugue légère et lumineuse en La majeur, dont le sujet débute par un silence d'expression caractéristique qui donne à la musique un élan rythmique pétillant. Fugue en mesure commune à trois voix, La majeur, composée de 29 mesures ; réponse réelle en Mi majeur, quatre épisodes modulants traversant Fa dièse mineur, Do dièse mineur et Ré majeur, retour du sujet en tonique, tempo animato vers 80 BPM.
 </tete>
-
 <meta>
-Section d'ouverture — 8 mesures. Tonalité Fa# mineur, tempo 90 BPM.
+8 mesures, 80 BPM, 4/4, La majeur. Exposition : le sujet fait son entrée à la basse, suivi d'une réponse réelle à l'alto, puis d'une seconde entrée au soprano, chaque voix introduisant le thème avec l'aisance naturelle d'une conversation à trois. La brève pause initiale du sujet doit être clairement ménagée pour que l'élan du thème soit ressenti pleinement ; veiller à ce que chaque entrée de la fugue brille dans sa propre couleur vocale.
 </meta>
-    <section=section_1, n_mesure=8, bpm=90, format=4/4, tonalite=Fa#_mineur>
+    <section=exposition, n_mesure=8, bpm=80, format=4/4, tonalite=La_majeur>
         <mesure num=1>
             <piano_1_v1>  |_, _, _, _|
             <piano_1_v3>  |(_, la3, si3), ({do#4, si3}, la3, do#4), ({si3, re4}, do#4), ({do#4, mi4}, re4)|
@@ -55,9 +54,9 @@ Section d'ouverture — 8 mesures. Tonalité Fa# mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 1 — 8 mesures. Tonalité Fa# mineur, tempo 90 BPM.
+16 mesures, 80 BPM, 4/4, La majeur et tonalités voisines. Épisodes et modulations : quatre épisodes conduisent le sujet à travers Fa dièse mineur, Do dièse mineur, Ré majeur et Mi majeur, chaque épisode reprenant des fragments du sujet en imitation libre. Bach insuffle à la fugue un chromatisme piquant à mi-parcours ; jouer les épisodes avec une souplesse rythmique qui souligne les imitations et les inflexions harmoniques inattendues.
 </meta>
-    <section=section_2, n_mesure=8, bpm=90, format=4/4, tonalite=Fa#_mineur>
+    <section=episodes, n_mesure=16, bpm=80, format=4/4, tonalite=La_majeur>
         <mesure num=1>
             <piano_1_v1>  |(do#5, la#4), si4, ({si4, fa4}, fa#4, sol#4), ({la4, sol#4}, fa#4, la4)|
             <piano_1_v2>  |re#4, (re#4, re4), do#4, re#4|
@@ -99,49 +98,43 @@ Section de développement 1 — 8 mesures. Tonalité Fa# mineur, tempo 90 BPM.
             <piano_1_v2>  |(la4, _), _, _, _|
             <piano_1_v3>  |({la1, mi2}, la2, si2), ({do#3, si2}, la2, do#3), ({si2, re3}, do#3), ({do#3, mi3}, re3)|
         </mesure>
-    </section>
-
-<meta>
-Section de développement 2 — 8 mesures. Tonalité Fa# mineur, tempo 90 BPM.
-</meta>
-    <section=section_3, n_mesure=8, bpm=90, format=4/4, tonalite=Fa#_mineur>
-        <mesure num=1>
+        <mesure num=9>
             <piano_1_v1>  |si4, (si4, si4), la4, (la4, la4)|
             <piano_1_v2>  |(_, _, fa#4), sol4, (sol4, fa4), fa#4|
             <piano_1_v3>  |({re3, fa#3}, mi3, re#3), ({mi3, si2}, do#3, re3), ({do#3, mi3}, re3, do#3), ({re3, la2}, si2, do#3)|
         </mesure>
-        <mesure num=2>
+        <mesure num=10>
             <piano_1_v1>  |sol#4, (sol#4, sol4), fa#4, _|
             <piano_1_v2>  |(fa#4, re#4), mi4, (mi4, re4, do#4)|
             <piano_1_v3>  |_, _, _, ({si3, la#3}, sol#3, fa#3)|
             <piano_1_v4>  |({si2, re3}, do#3, si2), ({do#3, sol#2}, la#2, si2), ({la#2, fa#2}, sol#2, la#2), ({sol#2, do#3}, si2, la#2)|
         </mesure>
-        <mesure num=3>
+        <mesure num=11>
             <piano_1_v1>  |fa#4, _, _, _|
             <piano_1_v2>  |({re4, do#4}, si3, la#3), ({si3, mi4}, re4, do#4), ({re4, re5}, do#5, si4), ({do#5, sol#4}, la4, si4)|
             <piano_1_v3>  |({si2, do#3}, re3, mi3), ({re3, sol3}, fa#3, mi3), ({fa#3, sol#3}, la3, si3), ({la3, re4}, do#4, si3)|
         </mesure>
-        <mesure num=4>
+        <mesure num=12>
             <piano_1_v1>  |({_, do#5}, re5, mi5), ({fa#5, mi5}, re5, fa#5), ({mi5, sol5}, fa#5), ({fa#5, la5}, sol5)|
             <piano_1_v2>  |la4, si4, (do#5, do#5), (re5, re#5)|
             <piano_1_v3>  |({do#4, la3}, si3, do#4), (re4, re3), (la3, la#3), (si3, si2)|
         </mesure>
-        <mesure num=5>
+        <mesure num=13>
             <piano_1_v1>  |({sol5, si5}, la5, sol#5), ({la5, mi5}, fa#5, sol5), fa#5, -|
             <piano_1_v2>  |mi5, -, ({mi5, mi5}, re5, do#5), ({re5, la4}, si4, do#5)|
             <piano_1_v3>  |(do3, do4), (do#4, la3), ({re4, do#4}, si3, la3), ({si3, fa#3}, sol#3, la3)|
         </mesure>
-        <mesure num=6>
+        <mesure num=14>
             <piano_1_v1>  |({fa#5, fa#5}, mi5, re#5), ({mi5, si4}, do#5, re5), do#5, -|
             <piano_1_v2>  |si4, -, ({si4, si4}, la4, sol#4), ({la4, mi4}, fa#4, sol4)|
             <piano_1_v3>  |({sol#3, la3}, sol#3, fa#3), ({sol#3, si3}, la3, sol#3), ({la3, sol#3}, fa#3, mi3), ({fa#3, do#3}, re#3, mi3)|
         </mesure>
-        <mesure num=7>
+        <mesure num=15>
             <piano_1_v1>  |({do#5, do5}, si4, la#4), ({si4, fa#4}, sol#4, la4), (sol#4, la4), (si4, do#5)|
             <piano_1_v2>  |fa#4, -, ({fa#4, si3}, mi4, fa#4), ({sol#4, fa#4}, mi4, sol4)|
             <piano_1_v3>  |({re#3, mi3}, re#3, do#3), ({re#3, fa#3}, mi3, re#3), (mi3, mi2), (mi3, la#2)|
         </mesure>
-        <mesure num=8>
+        <mesure num=16>
             <piano_1_v1>  |(re5, re#5), (mi5, fa5), fa#5, -|
             <piano_1_v2>  |({fa#4, la4}, sol#4), ({sol#4, si4}, la4), ({la4, do#5}, si4, la4), ({si4, fa#4}, sol#4, la4)|
             <piano_1_v3>  |(si2, si3), (do#4, do#3), (re3, re4), (re#4, re#3)|
@@ -149,9 +142,9 @@ Section de développement 2 — 8 mesures. Tonalité Fa# mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section conclusive — 5 mesures. Tonalité Fa# mineur, tempo 90 BPM.
+5 mesures, 80 BPM, 4/4, La majeur. Récapitulation conclusive : le sujet revient une dernière fois au soprano en La majeur, affirmant la tonique avec clarté avant la cadence finale. Ces cinq mesures doivent être jouées avec une assurance tranquille, la voix du soprano se détachant naturellement des deux voix d'accompagnement dans un mouvement d'ensemble serein et résolu.
 </meta>
-    <section=section_4, n_mesure=5, bpm=90, format=4/4, tonalite=Fa#_mineur>
+    <section=recapitulation, n_mesure=5, bpm=80, format=4/4, tonalite=La_majeur>
         <mesure num=1>
             <piano_1_v1>  |({fa#5, re#5}, mi5, fa#5), ({mi5, la5}, sol#5, fa#5), ({sol#5, fa#5}, mi5, re#5), ({mi5, si4}, do#5, re5)|
             <piano_1_v2>  |({sol#4, la4}, sol#4, fa#4), ({sol#4, re#4}, mi4, fa#4), (mi4, _), _|
