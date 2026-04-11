@@ -3,19 +3,19 @@
 TACHE : composition
 STYLE : baroque
 FORMAT : piano_solo
-NIVEAU : simple
-Titre : Fugue_bwv_885
-Date : ?
-Auteur : Bach
+NIVEAU : avance
+Titre : Fugue en Sol mineur, BWV 885, Clavier bien tempéré II n°16
+Date : 1742
+Auteur : Johann Sebastian Bach
 Tonalite : Sol_mineur
 Unite : quarter
-Intention : Pièce pour piano solo, modéré, mélancolique, au balancement ternaire. Tonalité : Sol mineur. 84 mesures.
+Intention : Fugue à quatre voix d'un caractère grave, académique et profondément réfléchi, construite sur un sujet robuste à l'allure presque populaire que Bach soumet à un travail contrapuntique d'une ingéniosité exceptionnelle, notamment par l'emploi du contresujet inversible en double et triple contrepoint à la dixième et à la douzième. Tonalité de Sol mineur, mesure ternaire 3/4, 84 mesures, tempo environ 72 BPM, avec exposition complète à quatre entrées, six épisodes modulants et une section récapitulative saisissante où les voix se regroupent deux à deux en tierces avant une coda majestueuse.
 </tete>
 
 <meta>
-Section d'ouverture — 8 mesures. Tonalité Sol mineur, tempo 90 BPM.
+84 mesures, 72 BPM, mesure 3/4, Sol mineur. Fugue à quatre voix (soprano, alto, ténor, basse) du Clavier bien tempéré II de Bach (1742). L'exposition (mesures 1 à 17) présente le sujet au ténor en sol mineur, puis la réponse tonale à l'alto avec le contresujet, le sujet au soprano et la réponse à la basse. Six épisodes issus du contresujet parcourent les tons relatifs (ré mineur, si bémol majeur, fa majeur, do mineur, mi bémol majeur) avant le retour en sol mineur. La récapitulation (mesures 67 à 75) voit les voix se regrouper en tierces dans un effet de richesse presque orchestral, et la coda (mesures 75 à 84) referme l'oeuvre sur la tonique. Jouer avec une pulsation ternaire ample et sobre, en laissant le contresujet s'exprimer distinctement face au sujet.
 </meta>
-    <section=section_1, n_mesure=8, bpm=90, format=3/4, tonalite=Sol_mineur>
+    <section=exposition, n_mesure=8, bpm=72, format=3/4, tonalite=Sol_mineur>
         <mesure num=1>
             <piano_1_v1>  |_, _, _|
             <piano_1_v4>  |_, re4, (_, sib3)|
@@ -56,9 +56,9 @@ Section d'ouverture — 8 mesures. Tonalité Sol mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 1 — 8 mesures. Tonalité Sol mineur, tempo 90 BPM.
+Suite de l'exposition avec réponse à l'alto, contre-sujet au ténor, puis entrée du soprano. Mesures 9 à 16, sol mineur et ré mineur. La réponse tonale à l'alto (mesures 5 à 9 de la fugue) est accompagnée du contresujet au ténor, inversible à la dixième et à la douzième. Le soprano entre ensuite avec le sujet en sol mineur. Le contresujet démontrera son inépuisable souplesse tout au long de la fugue. Différencier nettement sujet et contresujet par le toucher, en faveur du sujet.
 </meta>
-    <section=section_2, n_mesure=8, bpm=90, format=3/4, tonalite=Sol_mineur>
+    <section=exposition_suite, n_mesure=8, bpm=72, format=3/4, tonalite=Sol_mineur>
         <mesure num=1>
             <piano_1_v1>  |_, re5, (_, sib4)|
             <piano_1_v2>  |(sol4, fa4, mi4), ({fa4, re4}, mi4, solb4), ({sol4, solb4}, sol4)|
@@ -108,9 +108,9 @@ Section de développement 1 — 8 mesures. Tonalité Sol mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 2 — 8 mesures. Tonalité Sol mineur, tempo 90 BPM.
+Réponse de la basse et entrée redondante du ténor complétant l'exposition. Mesures 17 à 24, sol mineur. La basse présente la réponse tonale (mesures 13 à 17), puis le ténor réentre avec le sujet (mesures 20 à 24), entrée qualifiée de redondante par les théoriciens mais qui permet de présenter le sujet au ténor accompagné du contresujet, combinaison impossible avant ce point. Premier épisode bref (mesures 17 à 20) qui relie ré mineur à sol mineur. Maintenir les quatre voix parfaitement équilibrées.
 </meta>
-    <section=section_3, n_mesure=8, bpm=90, format=3/4, tonalite=Sol_mineur>
+    <section=exposition_basse, n_mesure=8, bpm=72, format=3/4, tonalite=Sol_mineur>
         <mesure num=1>
             <piano_1_v1>  |(reb4, la4), (re4, do5), ({si4, re5}, fa5)|
             <piano_1_v2>  |la3, _, (_, _, re5)|
@@ -157,9 +157,9 @@ Section de développement 2 — 8 mesures. Tonalité Sol mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 3 — 8 mesures. Tonalité Sol mineur, tempo 90 BPM.
+Deuxième épisode, modulation de sol mineur vers ré mineur, puis sujet à l'alto en ré mineur. Mesures 25 à 32, modulation vers ré mineur et si bémol majeur. Cet épisode II est fondé sur le contresujet et se déploie en imitations serrées entre les voix. Le sujet à l'alto en ré mineur (mesures 28 à 32) témoigne de l'art de Bach à présenter le matériau dans des registres et tonalités nouvelles. Les entrées en double contrepoint à la douzième enrichissent la texture. Mettre en évidence les imitations entre les parties extrêmes.
 </meta>
-    <section=section_4, n_mesure=8, bpm=90, format=3/4, tonalite=Sol_mineur>
+    <section=episode_1, n_mesure=8, bpm=72, format=3/4, tonalite=Sol_mineur>
         <mesure num=1>
             <piano_1_v1>  |({sib4, sib4}, la4, sol4), ({la4, la4}, si4, do5), ({re5, do5}, re5)|
             <piano_1_v2>  |(fa4, mi4), (fa4, _), (_, _, fa4)|
@@ -208,9 +208,9 @@ Section de développement 3 — 8 mesures. Tonalité Sol mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 4 — 8 mesures. Tonalité Sol mineur, tempo 90 BPM.
+Troisième épisode et entrées en si bémol majeur, double contrepoint à la dixième. Mesures 33 à 40, si bémol majeur et fa majeur. La fugue s'éloigne vers les tons majeurs relatifs. Le sujet en si bémol majeur au soprano (mesures 32 à 36) est accompagné du contresujet utilisé en double contrepoint à la dixième, une technique de composition savante qui produit une richesse harmonique et une fluidité sonore remarquables. Jouer avec une clarté de voix accrue pour mettre en évidence les retournements du double contrepoint.
 </meta>
-    <section=section_5, n_mesure=8, bpm=90, format=3/4, tonalite=Sol_mineur>
+    <section=episode_2, n_mesure=8, bpm=72, format=3/4, tonalite=Sol_mineur>
         <mesure num=1>
             <piano_1_v1>  |sol5, mib5, (_, do5)|
             <piano_1_v2>  |(re5, sol4), ({_, sol4}, la4, sib4), ({do5, sib4}, do5)|
@@ -259,23 +259,26 @@ Section de développement 4 — 8 mesures. Tonalité Sol mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 5 — 8 mesures. Tonalité Sol mineur, tempo 90 BPM.
+Quatrième et cinquième épisodes, do mineur et mi bémol majeur. Mesures 41 à 56, do mineur et mi bémol majeur. Le quatrième épisode (mesures 40 à 45) module vers si bémol majeur. Le sujet en do mineur aux voix du soprano et de l'alto en sixtes (mesures 51 à 55) constitue l'un des passages les plus saisissants de la fugue ; les deux voix chantent ensemble le sujet à la sixte, le contresujet s'insinuant simultanément au ténor. Soigner la mise en valeur des tierces et sixtes parallèles entre les voix.
 </meta>
-    <section=section_6, n_mesure=8, bpm=90, format=3/4, tonalite=Sol_mineur>
+    <section=episodes_3_4, n_mesure=8, bpm=72, format=3/4, tonalite=Sol_mineur>
         <mesure num=1>
             <piano_1_v1>  |(re5, sol4), (sol5, fa5, mib5), (fa5, re5)|
             <piano_1_v2>  |(fa4, re4), _, ({_, la4}, si4, la4)|
             <piano_1_v4>  |({do4, do4}, si3, la3), ({si3, sol3}, si3, do4), ({re4, do4}, re4)|
+            <piano_1_v5>  |({mi2, do2}, re2, mi2), ({fa2, do2}, fa2, sol2), (lab2, re2)|
         </mesure>
         <mesure num=2>
             <piano_1_v1>  |(mib5, do5), (lab5, sol5, fa5), (sol5, mib5)|
             <piano_1_v2>  |(sol4, mib4), _, ({_, si4}, do5, sib4)|
             <piano_1_v4>  |({re4, sol3}, do4, si3), ({do4, sol3}, do4, re4), ({mib4, re4}, mib4)|
+            <piano_1_v5>  |({sol2, solb2}, sol2, la2), ({si2, sol2}, si2, re3), (sol3, si2)|
         </mesure>
         <mesure num=3>
             <piano_1_v1>  |fa5, -, ({fa5, mib5}, re5, do5)|
             <piano_1_v2>  |({lab4, sol4}, lab4), ({lab4, sol4}, lab4), lab4|
             <piano_1_v4>  |(mib4, mib4), (re4, do4), (si3, re4)|
+            <piano_1_v5>  |({do3, do4}, sol3, mib3), do3, (_, _, lab3)|
         </mesure>
         <mesure num=4>
             <piano_1_v1>  |(si4, re5), ({re5, sol4}, do5), ({do5, do5}, si4)|
@@ -309,9 +312,9 @@ Section de développement 5 — 8 mesures. Tonalité Sol mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 6 — 8 mesures. Tonalité Sol mineur, tempo 90 BPM.
+Sixième épisode et sujet en mi bémol majeur, double contrepoint à la tierce. Mesures 57 à 64, mi bémol majeur. Le sixième épisode (mesures 55 à 59) module vers mi bémol majeur. Le sujet au ténor et à la basse en tierces parallèles (mesures 59 à 63), accompagné du contresujet en tierces au soprano et à l'alto, constitue le sommet expressif de la section modulante. Cet assemblage à quatre voix produit une richesse sonore presque orchestrale. Jouer ces tierces avec homogénéité de son entre les deux paires de voix.
 </meta>
-    <section=section_7, n_mesure=8, bpm=90, format=3/4, tonalite=Sol_mineur>
+    <section=episode_5_6, n_mesure=8, bpm=72, format=3/4, tonalite=Sol_mineur>
         <mesure num=1>
             <piano_1_v1>  |sol4, (fa4, _), _|
             <piano_1_v2>  |(re4, do4), _, (_, _, fa4)|
@@ -363,9 +366,9 @@ Section de développement 6 — 8 mesures. Tonalité Sol mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 7 — 8 mesures. Tonalité Sol mineur, tempo 90 BPM.
+Retour modulant vers sol mineur et récapitulation des premières entrées. Mesures 65 à 72, sol mineur. Le sixième épisode (mesures 63 à 67) conduit de mi bémol majeur vers sol mineur, clôturant la longue section modulante. Le ténor réexpose le sujet en sol mineur (mesures 67 à 69), suivi immédiatement des voix du soprano et du ténor en tierces avec le contresujet à l'alto et à la basse, produisant un regroupement des voix en paires dont l'effet est saisissant. Jouer ce retour avec gravité et assurance, comme une conclusion inéluctable.
 </meta>
-    <section=section_8, n_mesure=8, bpm=90, format=3/4, tonalite=Sol_mineur>
+    <section=recapitulation, n_mesure=8, bpm=72, format=3/4, tonalite=Sol_mineur>
         <mesure num=1>
             <piano_1_v1>  |(do5, si4, la4), si4, sib4|
             <piano_1_v2>  |fa4, ({_, lab4}, sol4, fa4), ({mi4, fa4}, mi4, fa4)|
@@ -417,9 +420,9 @@ Section de développement 7 — 8 mesures. Tonalité Sol mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 8 — 8 mesures. Tonalité Sol mineur, tempo 90 BPM.
+Codette de cadence et début de la coda en sol mineur. Mesures 73 à 80, sol mineur. La codette (mesures 73 à 75) conduit vers une cadence parfaite en sol mineur. La coda (mesures 75 à 84) reprend les deux premières sections du contresujet, principalement en tierces aux voix supérieures, avec un sujet légèrement modifié à la basse (mesures 79 à 83). Un grand geste rhétorique de suspension marque le chemin vers la conclusion. Jouer avec une décélération expressive, laissant les dissonances de retard résonner pleinement.
 </meta>
-    <section=section_9, n_mesure=8, bpm=90, format=3/4, tonalite=Sol_mineur>
+    <section=coda, n_mesure=8, bpm=72, format=3/4, tonalite=Sol_mineur>
         <mesure num=1>
             <piano_1_v1>  |la4, sib4, do5|
             <piano_1_v2>  |solb4, sol4, la4|
@@ -471,9 +474,9 @@ Section de développement 8 — 8 mesures. Tonalité Sol mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 9 — 8 mesures. Tonalité Sol mineur, tempo 90 BPM.
+Continuation de la coda avec le sujet légèrement modifié à la basse. Mesures 81 à 84 (coda suite), sol mineur. Cette section constitue le coeur de la coda : le sujet légèrement altéré apparaît à la basse (mesures 79 à 83), accompagné des réminiscences du contresujet en tierces au soprano et à l'alto. Une pédale de soprano (mesures 80 à 82) crée une tension supplémentaire avant la résolution finale. Jouer avec une grande expressivité, en soulignant le sujet modifié à la basse.
 </meta>
-    <section=section_10, n_mesure=8, bpm=90, format=3/4, tonalite=Sol_mineur>
+    <section=coda_suite, n_mesure=8, bpm=72, format=3/4, tonalite=Sol_mineur>
         <mesure num=1>
             <piano_1_v1>  |do5, (_, re5), sib4|
             <piano_1_v2>  |re4 la4, (_, re4 solb4), re4 sol4|
@@ -524,10 +527,11 @@ Section de développement 9 — 8 mesures. Tonalité Sol mineur, tempo 90 BPM.
         </mesure>
     </section>
 
+
 <meta>
-Section conclusive — 4 mesures. Tonalité Sol mineur, tempo 90 BPM.
+Fin de la coda et conclusion définitive. Mesures 81 à 84, sol mineur. Les quatre dernières mesures opèrent deux haltes rhétoriques (pauses sur la dominante) avant la cadence finale en sol mineur. Le sujet légèrement modifié à la basse (mesures 79 à 83) rappelle une dernière fois le thème principal, tandis que le contresujet en tierces conclut avec noblesse. Jouer ces dernières mesures avec une grande plénitude sonore et un geste conclusif majestueux.
 </meta>
-    <section=section_11, n_mesure=4, bpm=90, format=3/4, tonalite=Sol_mineur>
+    <section=conclusion, n_mesure=4, bpm=72, format=3/4, tonalite=Sol_mineur>
         <mesure num=1>
             <piano_1_v1>  |sol4, -, -|
             <piano_1_v2>  |({_, do4}, re4, mib4), ({fa4, mib4}, fa4), fa4|
