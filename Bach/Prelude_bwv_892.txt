@@ -3,19 +3,19 @@
 TACHE : composition
 STYLE : baroque
 FORMAT : piano_solo
-NIVEAU : intermediaire
-Titre : Prelude_bwv_892
-Date : ?
-Auteur : Bach
+NIVEAU : avance
+Titre : Prélude en Si majeur, BWV 892, Le Clavier bien tempéré Livre II n°23
+Date : 1742
+Auteur : Johann Sebastian Bach
 Tonalite : Si_majeur
 Unite : quarter
-Intention : Pièce pour piano solo, modéré, lumineux, au cadre binaire régulier. Tonalité : Si majeur. 46 mesures.
+Intention : Toccata brillante et jubilatoire de caractère concertant, déployant trois thèmes contrastés en doubles croches ininterrompues qui se relaient entre les deux mains avec une virtuosité lumineuse, évoquant la gaieté d'un concerto pour clavier. Prélude en Si majeur, 4/4, 46 mesures à 80 BPM, articulé en quatre périodes dont une récapitulation abrégée précédée d'une pédale de dominante répétée huit fois.
 </tete>
 
 <meta>
-Section d'ouverture — 8 mesures. Tonalité Si majeur, tempo 90 BPM.
+8 mesures, 80 BPM, mesure 4/4, tonalité Si majeur. Période I, début: le thème I, figuré en doubles croches brisées, est immédiatement repris en mouvement contraire à la basse dès la mes. 1; la texture à deux voix principals crée un dialogue énergique comparable au Prélude de la Partita en Sol majeur BWV 829; après deux mesures d'introduction à deux voix, la brillance de Si majeur s'impose avec éclat dès les premiers ornements prescrits par le compositeur.
 </meta>
-    <section=section_1, n_mesure=8, bpm=90, format=4/4, tonalite=Si_majeur>
+    <section=introduction, n_mesure=8, bpm=80, format=4/4, tonalite=Si_majeur>
         <mesure num=1>
             <piano_1_v1>  |({_, si3}, do#4, re#4), ({mi4, fa#4}, sol#4, la#4), (si4, do#5), (do#5, {si4, do#5})|
             <piano_1_v3>  |(si2, _), _, ({_, si3}, la#3, sol#3), ({fa#3, mi3}, re#3, do#3)|
@@ -51,9 +51,9 @@ Section d'ouverture — 8 mesures. Tonalité Si majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 1 — 8 mesures. Tonalité Si majeur, tempo 90 BPM.
+8 mesures, 80 BPM, mesure 4/4, tonalité Si majeur cadençant en Fa dièse. Fin de la période I et début de la période II: la cadence parfaite en Fa dièse (mes. 12) clôt la première section; le thème II apparaît en séquence aux voix supérieures avec une figure roulante à la basse; la modulation touche Sol dièse mineur (mes. 16-17) et revient en Si majeur (mes. 23), le dialogue entre les mains s'intensifiant dans une écriture quasi pianistique qui anticipe Mozart.
 </meta>
-    <section=section_2, n_mesure=8, bpm=90, format=4/4, tonalite=Si_majeur>
+    <section=theme_1, n_mesure=8, bpm=80, format=4/4, tonalite=Si_majeur>
         <mesure num=1>
             <piano_1_v1>  |({mi5, re#5}, do#5, re#5), (mi5, sol#4), ({fa#4, sol#4}, la#4, si4), ({do#5, re#5}, mi5, do#5)|
             <piano_1_v3>  |({do#3, re#3}, mi3, fa#3), ({sol#3, la#3}, si3, sol#3), (la#3, do#4), (la#3, fa#3)|
@@ -94,9 +94,9 @@ Section de développement 1 — 8 mesures. Tonalité Si majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 2 — 8 mesures. Tonalité Si majeur, tempo 90 BPM.
+8 mesures, 80 BPM, mesure 4/4, tonalité Si majeur passant par diverses tonalités relatives. Période III: le thème III apparaît à la voix supérieure (mes. 23), caractérisé par des sauts et un style libre proche du toccata de concerto; la pédale de Fa dièse (mes. 35-36) est préparée par des modulations successives touchant Sol dièse mineur (mes. 26-27), La dièse mineur (mes. 28), Ré dièse mineur (mes. 29-30), Do dièse mineur (mes. 31); une troisième voix s'ajoute ponctuellement pour enrichir l'harmonie.
 </meta>
-    <section=section_3, n_mesure=8, bpm=90, format=4/4, tonalite=Si_majeur>
+    <section=theme_2, n_mesure=8, bpm=80, format=4/4, tonalite=Si_majeur>
         <mesure num=1>
             <piano_1_v1>  |sol#4, (_, _), _|
             <piano_1_v3>  |(si3, do#4, re#4), sol#3, (la#3, si3, do#4), ({si3, la#3}, sol#3, fa#3)|
@@ -140,9 +140,9 @@ Section de développement 2 — 8 mesures. Tonalité Si majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 3 — 8 mesures. Tonalité Si majeur, tempo 90 BPM.
+8 mesures, 80 BPM, mesure 4/4, tonalité Si majeur (pédale de dominante). Pédale de dominante et début de la récapitulation: huit accords dissonants répétés à la main gauche (mes. 35) créent une tension expressément notée par Bach, analogue au moment correspondant dans la Sonate pour viole de gambe BWV 1028; la récapitulation (période IV, mes. 37) reprend avec légère modification les mesures initiales en tonalité principale, ramenant la brillance originelle de Si majeur.
 </meta>
-    <section=section_4, n_mesure=8, bpm=90, format=4/4, tonalite=Si_majeur>
+    <section=developpement, n_mesure=8, bpm=80, format=4/4, tonalite=Si_majeur>
         <mesure num=1>
             <piano_1_v1>  |la#5, -, (la#5, fa#5), ({mi5, re#5}, {do#5, si4})|
             <piano_1_v2>  |(_, fa#5), (do#5, mi5), (re#5, _), _|
@@ -189,9 +189,9 @@ Section de développement 3 — 8 mesures. Tonalité Si majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 4 — 8 mesures. Tonalité Si majeur, tempo 90 BPM.
+8 mesures, 80 BPM, mesure 4/4, tonalité Si majeur. Récapitulation (période IV): les figures en doubles croches de la période initiale réapparaissent transposées à la tonique, créant une symétrie formelle caractéristique de la toccata concertante; le dialogue entre les deux mains, d'abord à deux voix, s'enrichit progressivement pour préparer la conclusion; le caractère lumineux et joyeux propre à Si majeur s'exprime ici avec une spontanéité qui rappelle les meilleurs concertos de clavier du compositeur.
 </meta>
-    <section=section_5, n_mesure=8, bpm=90, format=4/4, tonalite=Si_majeur>
+    <section=recapitulation, n_mesure=8, bpm=80, format=4/4, tonalite=Si_majeur>
         <mesure num=1>
             <piano_1_v1>  |({la#4, re#4}, mi4, do#5), ({la#4, do#5}, mi4, do#5), ({la#4, re#4}, mi4, do#5), ({la#4, do#5}, mi4, do#5)|
             <piano_1_v3>  |(fa#3, fa#2), (la#2, do#3), (fa#3, la#3), (do#4, la#3)|
@@ -230,9 +230,9 @@ Section de développement 4 — 8 mesures. Tonalité Si majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section conclusive — 6 mesures. Tonalité Si majeur, tempo 90 BPM.
+6 mesures, 80 BPM, mesure 4/4, tonalité Si majeur. Coda conclusive: le mouvement perpétuel en doubles croches ralentit progressivement son discours mélodique; les deux voix convergent vers le registre grave; l'accord final en Si majeur referme cette toccata brillante sur une note d'apaisement lumineux, ouvrant directement la voie à la grande double fugue en stile antico dont le sujet solennel en blanches reprendra le dernier accord du prélude.
 </meta>
-    <section=section_6, n_mesure=6, bpm=90, format=4/4, tonalite=Si_majeur>
+    <section=coda, n_mesure=6, bpm=80, format=4/4, tonalite=Si_majeur>
         <mesure num=1>
             <piano_1_v1>  |({do#5, la#4}, sol#4, fa#4), ({sol#4, fa#4}, fa4, re#4), ({si4, sol#4}, fa#4, fa4), ({fa#4, fa4}, re#4, do#4)|
             <piano_1_v3>  |(la#2, do#3), (re#3, fa#3), (sol#2, si2), (do#3, fa3)|
