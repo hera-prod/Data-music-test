@@ -1,21 +1,22 @@
 [BOS]
 <tete>
 TACHE : composition
-STYLE : classique
+STYLE : romantique
 FORMAT : piano_solo
 NIVEAU : avance
-Titre : Piano_Sonatas_23-1
-Date : ?
-Auteur : Beethoven
+Titre : Sonate pour piano n°23 en Fa mineur, op.57 "Appassionata", 1er mouvement (Allegro assai)
+Date : 1805
+Auteur : Ludwig van Beethoven
 Tonalite : Fa_mineur
 Unite : quarter
-Intention : Pièce pour piano solo, modéré, mélancolique, au cadre binaire régulier. Tonalité : Fa mineur. 249 mesures.
+Intention : Le premier mouvement de l'"Appassionata" déploie une énergie dramatique et passionnée d'une intensité sans précédent, alliant tension ominous, explosions soudaines et une économie thématique rigoureuse qui confère à chaque motif une portée structurelle décisive. Forme sonate en Fa mineur, mesure 12/8, Allegro assai, tempo 138 BPM, 249 mesures, avec exposition (thème 1 Fa mineur, thème 2 Lab majeur), développement modulant, réexposition et coda culminante.
 </tete>
 
 <meta>
-Section d'ouverture — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
+8 mesures, Allegro assai (12/8), Fa_mineur, 138 BPM.
+Le thème 1 s'ouvre pianissimo sur un arpège en Fa mineur en octaves parallèles mains gauche et droite, descendant puis montant en rythme pointé, cadençant sur la dominante. Ce motif sobre et menaçant exploite la tessiture grave du clavier (Fa1), créant une tension suspendue. Un trille comme frisson psychologique clôt la phrase. Jouer avec une articulation précise et un son intérieur, sans hâte, laissant le silence résonner entre les octaves.
 </meta>
-    <section=section_1, n_mesure=8, bpm=90, format=12/8, tonalite=Fa_mineur>
+    <section=exposition_theme_1, n_mesure=8, bpm=90, format=12/8, tonalite=Fa_mineur>
         <mesure num=1>
             <piano_1_v1>  |do4, -, (do4, lab3)|
             <piano_1_v5>  |do2, -, (do2, lab1)|
@@ -53,9 +54,10 @@ Section d'ouverture — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 1 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
+8 mesures, Allegro assai (12/8), Fa_mineur, 138 BPM.
+La phrase d'ouverture est répétée une seconde mineure au-dessus, en passant par Solb (accord napolitain), introduisant une couleur harmonique plus sombre et déstabilisante. L'accord napolitain (sixte napolitaine sur Reb) est un élément structural fondamental de toute l'oeuvre. L'effet de froid et d'étrangeté doit être rendu par une légère hausse de pression sur les doigts, sans aucun rubato.
 </meta>
-    <section=section_2, n_mesure=8, bpm=90, format=12/8, tonalite=Fa_mineur>
+    <section=exposition_theme_1, n_mesure=8, bpm=90, format=12/8, tonalite=Fa_mineur>
         <mesure num=1>
             <piano_1_v1>  |reb5, -, _, _, _, _, _, _, _, _, _, _|
             <piano_1_v5>  |fa3 lab3 reb4, -, _, _, _, _, _, _, _, _, _, _|
@@ -95,9 +97,10 @@ Section de développement 1 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 2 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
+8 mesures, Allegro assai (12/8), Fa_mineur, 138 BPM.
+Le motif du destin emerge depuis la réunion des premières notes des deux phrases précédentes. L'énergie se libère en un passage de triples croches fortissimo, suivi de barrages d'accords martelés. Le passage entre tension statique et explosion sonore doit être dosé avec une précision rythmique absolue dans le 12/8.
 </meta>
-    <section=section_3, n_mesure=8, bpm=90, format=12/8, tonalite=Fa_mineur>
+    <section=exposition_theme_1, n_mesure=8, bpm=90, format=12/8, tonalite=Fa_mineur>
         <mesure num=1>
             <piano_1_v1>  |_, _, _, _, _, _, _, _, _, do4, -, (do4, lab3)|
             <piano_1_v5>  |mi3 sol3 do4, -, -, -, -, -, mi3 sol3 do4, -, -, -, -, -|
@@ -139,9 +142,10 @@ Section de développement 2 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 3 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
+8 mesures, Allegro assai (12/8), Fa_mineur / Lab_majeur, 138 BPM.
+La transition module vers Lab majeur, ton relatif, en développant le motif d'arpège de manière séquentielle. La voix de basse établit une ligne chromatique descendante qui prépare l'arrivée du thème 2. Maintenir la pulsation ternaire du 12/8 avec une main gauche stable, laissant la main droite articuler les figurations mélodiques avec clarté.
 </meta>
-    <section=section_4, n_mesure=8, bpm=90, format=12/8, tonalite=Fa_mineur>
+    <section=exposition_transition, n_mesure=8, bpm=90, format=12/8, tonalite=Fa_mineur>
         <mesure num=1>
             <piano_1_v1>  |sol5 sib5, -, -, _, _, _, _, _, _, _, _, _|
             <piano_1_v5>  |mib4 sol4, mib5, mib5, mib5, mib5, mib5, mib5, mib5, mib5, mib5, mib5, mib5|
@@ -177,9 +181,10 @@ Section de développement 3 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 4 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
+8 mesures, Allegro assai (12/8), Lab_majeur, 138 BPM.
+Le thème 2, en Lab majeur, est thématiquement une inversion du motif d'arpège du thème 1, créant une unité motivique saisissante. Malgré son apparence plus lyrique, il reste tendu. Les brèves îlots de calme cèdent rapidement la place à de nouvelles explosions. Jouer ce thème avec une ligne mélodique liée à la main droite, soutenue par des accords piano à la main gauche.
 </meta>
-    <section=section_5, n_mesure=8, bpm=90, format=12/8, tonalite=Fa_mineur>
+    <section=exposition_theme_2, n_mesure=8, bpm=90, format=12/8, tonalite=Fa_mineur>
         <mesure num=1>
             <piano_1_v1>  |fa4 lab4 re5, -, _, _, _, _, mi4 sol4 reb5, -, -, _, _, _|
             <piano_1_v5>  |_, mib4, mib4, fa3 lab3, mib4, mib4, _, mib4, mib4, mi3 sol3, mib4, mib4|
@@ -218,9 +223,10 @@ Section de développement 4 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 5 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
+8 mesures, Allegro assai (12/8), Lab_majeur, 138 BPM.
+La section de clôture de l'exposition développe le thème 2 avec des figurations de croches en triolets ascendants, préparant la répétition de l'exposition ou l'entrée dans le développement. L'articulation en 12/8 doit être sentie en quatre groupes de trois, avec une légère accentuation sur le premier temps de chaque triolet.
 </meta>
-    <section=section_6, n_mesure=8, bpm=90, format=12/8, tonalite=Fa_mineur>
+    <section=exposition_theme_2, n_mesure=8, bpm=90, format=12/8, tonalite=Fa_mineur>
         <mesure num=1>
             <piano_1_v1>  |lab4 lab5, -, -, do5 do6, -, (do5 do6, lab4 lab5), sol4 sol5, -, -, sib4 sib5, -, (sib4 sib5, sol4 sol5)|
             <piano_1_v5>  |lab2, do3 mib3 lab3, lab2, do3 mib3 lab3, lab2, do3 mib3 lab3, sib2, reb3 mib3 sib3, sib2, reb3 mib3 sib3, sib2, reb3 mib3 sib3|
@@ -259,9 +265,10 @@ Section de développement 5 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 6 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
+8 mesures, Allegro assai (12/8), Lab_majeur / Fa_mineur, 138 BPM.
+La coda d'exposition affirme la polarité Lab majeur / Fa mineur à travers des cadences martelées. Le retour à Fa mineur en fin de section installe une tension irrésolue, condition dramatique qui donnera son élan au développement. Jouer les accords avec un poids de bras plein, sans durcir le poignet.
 </meta>
-    <section=section_7, n_mesure=8, bpm=90, format=12/8, tonalite=Fa_mineur>
+    <section=exposition_coda, n_mesure=8, bpm=90, format=12/8, tonalite=Fa_mineur>
         <mesure num=1>
             <piano_1_v1>  |(mi4, si3), (lab3, si3), (mi4, si3), (lab4, si3), (solb4, si3), (mi4, si3), (mi4, si3), (lab3, si3), (mi4, si3), (lab4, si3), (solb4, si3), (mi4, si3)|
             <piano_1_v5>  |(lab1, mi2), (lab2, mi2), (lab1, mi2), (lab1, mi2), (lab1, mi2), (lab1, mi2), (lab1, mi2), (lab2, mi2), (lab1, mi2), (lab1, mi2), (lab1, mi2), (lab1, mi2)|
@@ -298,9 +305,10 @@ Section de développement 6 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 7 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
+8 mesures, Allegro assai (12/8), Fa_mineur, 138 BPM.
+Les dernières mesures de l'exposition condensent le motif arpégé en formules cadentielles répétées sur l'accord de dominante. La main gauche maintient un ostinato rythmique pendant que la droite esquisse des réponses motiviques fragmentées. Préparer ici l'inflexion dynamique qui lancera le développement.
 </meta>
-    <section=section_8, n_mesure=8, bpm=90, format=12/8, tonalite=Fa_mineur>
+    <section=exposition_coda, n_mesure=8, bpm=90, format=12/8, tonalite=Fa_mineur>
         <mesure num=1>
             <piano_1_v1>  |_, (_, si5), (re6, fa6), (lab6, fa6), (re6, si6), (sib6, lab6), (sol6, sib6), (lab6, sol6), (mi6, mib6), (reb6, mi6), (mib6, reb6), (si5, sib5)|
             <piano_1_v5>  |(re5, fa5), lab5, -, lab5, -, -, (mib5, sol5), sol5, -, sol5, -, -|
@@ -339,9 +347,10 @@ Section de développement 7 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 8 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
+8 mesures, Allegro assai (12/8), Reb_majeur / Mi_majeur, 138 BPM.
+Le développement débute par une modulation surprenante vers Reb majeur (enharmonique de Do# majeur), exploitant la relation napolitaine déjà annoncée dans l'exposition. Le motif principal est fragmenté, transposé et combiné à travers des modulations rapides. La main gauche doit assurer la pulsation ternaire dans chaque nouvelle tonalité.
 </meta>
-    <section=section_9, n_mesure=8, bpm=90, format=12/8, tonalite=Fa_mineur>
+    <section=developpement, n_mesure=8, bpm=90, format=12/8, tonalite=Fa_mineur>
         <mesure num=1>
             <piano_1_v1>  |si4, -, _, _, _, _, _, _, _, _, _, _|
             <piano_1_v5>  |mib3 solb3 si3, -, _, _, _, _, _, _, _, _, _, _|
@@ -381,9 +390,10 @@ Section de développement 8 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 9 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
+8 mesures, Allegro assai (12/8), Mi_majeur / Do#_mineur, 138 BPM.
+Les séquences thématiques se succèdent en basses continues et figurations de triples croches à la main droite, traversant les tons de Mi majeur et Do# mineur. L'intensité dynamique monte progressivement vers un climax. Jouer les séquences avec une ligne mélodique claire au-dessus d'un accompagnement régulier et économique.
 </meta>
-    <section=section_10, n_mesure=8, bpm=90, format=12/8, tonalite=Fa_mineur>
+    <section=developpement, n_mesure=8, bpm=90, format=12/8, tonalite=Fa_mineur>
         <mesure num=1>
             <piano_1_v1>  |_, _, _, _, _, _, _, _, _, si4, -, (si4, re5)|
             <piano_1_v5>  |(fa4, sol4), (si4, sol4), fa4, (re4, fa4), (sol4, fa4), re4, (si3, re4), (fa4, re4), si3, (sol3, si3), (re4, si3), sol3|
@@ -419,9 +429,10 @@ Section de développement 9 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 10 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
+8 mesures, Allegro assai (12/8), La_majeur / Re_mineur, 138 BPM.
+Le coeur du développement présente le motif du destin martelé avec une insistance croissante, alternant entre les registres aigu et grave dans une mise en tension maximale. Les silences soudains entre les accords fortissimo créent un effet dramatique saisissant. Articuler chaque coup comme une sentence irrévocable.
 </meta>
-    <section=section_11, n_mesure=8, bpm=90, format=12/8, tonalite=Fa_mineur>
+    <section=developpement, n_mesure=8, bpm=90, format=12/8, tonalite=Fa_mineur>
         <mesure num=1>
             <piano_1_v1>  |solb4, -, -, -, -, -, solb4, -, -, do5, -, (do5, mib5)|
             <piano_1_v5>  |(la3, do4), (mib4, do4), la3, (solb3, la3), (do4, la3), solb3, (mib3, solb3), (la3, solb3), mib3, (do3, mib3), (solb3, mib3), do3|
@@ -457,9 +468,10 @@ Section de développement 10 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 11 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
+8 mesures, Allegro assai (12/8), Fa_mineur (dominante), 138 BPM.
+La descente vers la dominante de Fa mineur s'effectue par un mouvement de basses chromatiques ascendantes contre une voix aiguë statique. Cette section prépare la réexposition avec une pulsation rythmique de triolets en main gauche, évoquant une urgence irréversible. Maintenir une égalité de toucher dans les triolets, crescendo progressif.
 </meta>
-    <section=section_12, n_mesure=8, bpm=90, format=12/8, tonalite=Fa_mineur>
+    <section=developpement, n_mesure=8, bpm=90, format=12/8, tonalite=Fa_mineur>
         <mesure num=1>
             <piano_1_v1>  |do4 mib4 lab4, -, _, _, _, _, _, _, _, do4 mib4, -, (do4 mib4, do4 mib4)|
             <piano_1_v5>  |do3 mib3, lab3, lab3, lab3, lab3, lab3, lab3, lab3, lab3, lab3, lab3, lab3|
@@ -495,9 +507,10 @@ Section de développement 11 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 12 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
+8 mesures, Allegro assai (12/8), Do_majeur (dominante de Fa), 138 BPM.
+La pédale de dominante étire la tension harmonique sur plusieurs mesures, le motif du destin répété en piano sur Do, puis éclatant en fortissimo à l'octave supérieure. Cette stratégie d'étirement de la tension, suivie d'une libération explosive, est une des grandes innovations de l'Appassionata. Ne pas accélérer malgré la tension, garder le tempo implacable.
 </meta>
-    <section=section_13, n_mesure=8, bpm=90, format=12/8, tonalite=Fa_mineur>
+    <section=developpement, n_mesure=8, bpm=90, format=12/8, tonalite=Fa_mineur>
         <mesure num=1>
             <piano_1_v1>  |lab3 do4 solb4, -, _, _, _, _, mib5, fa5, mib5, reb5, mib5, reb5|
             <piano_1_v5>  |_, lab2, -, lab2, -, lab2, lab2, -, -, -, -, -|
@@ -537,9 +550,10 @@ Section de développement 12 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 13 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
+8 mesures, Allegro assai (12/8), Do_majeur / Fa_mineur, 138 BPM.
+Les triolets en main gauche se transforment en une pulsation continue, obstacle harmonique que la réexposition va forcer à traverser. Beethoven instaure ici ce qui sera une de ses signatures formelles : la réexposition n'apporte pas le soulagement escompté, mais confirme que la tension initiale était bien la condition permanente du discours. Jouer avec une régularité de métronome.
 </meta>
-    <section=section_14, n_mesure=8, bpm=90, format=12/8, tonalite=Fa_mineur>
+    <section=developpement, n_mesure=8, bpm=90, format=12/8, tonalite=Fa_mineur>
         <mesure num=1>
             <piano_1_v1>  |do4, -, -, fa4, -, -, -, -, -, reb4 reb5, -, (reb4 reb5, fa4 fa5)|
             <piano_1_v5>  |la2, do3 fa3 la3, la2, do3 fa3 la3, la2, do3 fa3 la3, la2, do3 fa3 la3, la2, reb3 fa3 sib3, la2, reb3 fa3 sib3|
@@ -576,9 +590,10 @@ Section de développement 13 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 14 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
+8 mesures, Allegro assai (12/8), Fa_mineur, 138 BPM.
+La réexposition du thème 1 est transformée : la main gauche pulse maintenant en triolets continus, remplissant les silences qui créaient le mystère initial. Ce choix de réécriture change radicalement le caractère, transformant le mystère en urgence. Le matériau est reconnu mais sans rien de rassurant ; sa nature menaçante se révèle pleinement. Maintenir la ligne mélodique claire au-dessus de l'ostinato.
 </meta>
-    <section=section_15, n_mesure=8, bpm=90, format=12/8, tonalite=Fa_mineur>
+    <section=recapitulation_theme_1, n_mesure=8, bpm=90, format=12/8, tonalite=Fa_mineur>
         <mesure num=1>
             <piano_1_v1>  |sol5 sol6, -, -, re5 re6, -, -, -, -, -, re5 re6, -, -|
             <piano_1_v5>  |si3, re4 sol4 si4, si3, re4 sol4 si4, si3, re4 sol4 si4, si3, re4 sol4 si4, si3, re4 sol4 si4, si3, re4 sol4 si4|
@@ -630,9 +645,10 @@ Section de développement 14 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 15 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
+8 mesures, Allegro assai (12/8), Fa_mineur / Solb_majeur, 138 BPM.
+La répétition de la phrase à la sixte napolitaine (Solb) est maintenue dans la réexposition, confirmant le rôle structurel de cet accord dans l'ensemble de l'oeuvre. L'ostinato de triolets persiste, accentuant le sentiment d'inéluctabilité. Veiller à ne pas laisser la main gauche couvrir la mélodie de la main droite.
 </meta>
-    <section=section_16, n_mesure=8, bpm=90, format=12/8, tonalite=Fa_mineur>
+    <section=recapitulation_theme_1, n_mesure=8, bpm=90, format=12/8, tonalite=Fa_mineur>
         <mesure num=1>
             <piano_1_v1>  |_, _, _, _, _, _, _, _, _, _, _, _|
             <piano_1_v5>  |_, (mi3, sol3), sib3, -, (reb3, mi3), sol3, -, (sib2, reb3), mi3, -, (sol2, sib2), reb3|
@@ -669,9 +685,10 @@ Section de développement 15 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 16 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
+8 mesures, Allegro assai (12/8), Fa_mineur, 138 BPM.
+La transition de la réexposition reste en Fa mineur (contrairement à l'exposition qui modulait vers Lab), conformément à la logique tonale de la forme sonate. Les figurations motiviques s'amplifient, conduisant directement au thème 2 en Fa mineur. Accentuer les basses de transition pour marquer la direction harmonique.
 </meta>
-    <section=section_17, n_mesure=8, bpm=90, format=12/8, tonalite=Fa_mineur>
+    <section=recapitulation_transition, n_mesure=8, bpm=90, format=12/8, tonalite=Fa_mineur>
         <mesure num=1>
             <piano_1_v1>  |fa3 fa4, -, -, lab3 lab4, -, (lab3 lab4, do4 do5), fa4 fa5, -, -, fa3 fa4, -, -|
             <piano_1_v5>  |do2, do2, do2, do2, do2, do2, do2, do2, do2, do2, do2, do2|
@@ -710,9 +727,10 @@ Section de développement 16 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 17 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
+8 mesures, Allegro assai (12/8), Fa_mineur, 138 BPM.
+Le thème 2 est ramené en Fa mineur, sa couleur majeure (Lab majeur dans l'exposition) ayant disparu. Cette transposition dans le mode mineur renforce le caractère tragique du discours, et la prière implicite du thème 2 se fait plus pathétique. Jouer avec une ligne chantante mais voilée, sans chercher un effet de rupture.
 </meta>
-    <section=section_18, n_mesure=8, bpm=90, format=12/8, tonalite=Fa_mineur>
+    <section=recapitulation_theme_2, n_mesure=8, bpm=90, format=12/8, tonalite=Fa_mineur>
         <mesure num=1>
             <piano_1_v1>  |mi5, -, _, _, _, _, _, _, _, mi5 sol5, mi5 sol5, mi5 sol5|
             <piano_1_v5>  |_, _, _, reb3, reb3, reb3, do3, -, -, -, -, -|
@@ -753,9 +771,10 @@ Section de développement 17 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 18 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
+8 mesures, Allegro assai (12/8), Fa_mineur, 138 BPM.
+La section de clôture de la réexposition développe les figurations cadentielles en Fa mineur, conduisant à un grand climax dynamique. Beethoven étire encore la tension avant le vrai climax, instaurant une fausse résolution. L'interprète doit sentir que chaque accalmie n'est que le calme avant une nouvelle tempête.
 </meta>
-    <section=section_19, n_mesure=8, bpm=90, format=12/8, tonalite=Fa_mineur>
+    <section=recapitulation_coda, n_mesure=8, bpm=90, format=12/8, tonalite=Fa_mineur>
         <mesure num=1>
             <piano_1_v1>  |_, sol3 do4 mi4, -, do4 mi4 sol4, -, mi4 sol4 do5, -, sol4 do5 mi5, -, do5 mi5 sol5, -, mi5 sol5 do6|
             <piano_1_v5>  |mi3 sol3 do4, -, -, -, -, -, -, -, -, -, -, -|
@@ -794,9 +813,10 @@ Section de développement 18 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 19 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
+8 mesures, Allegro assai (12/8), Fa_mineur, 138 BPM.
+Le plus grand climax du mouvement conduit à une dissipation des accords en répétitions pianissimo du motif du destin, comme si la neige couvrait le champ de bataille. Ce passage singulier, entre geste tragique et résignation, doit être joué avec une extrême délicatesse après les fortissimo précédents.
 </meta>
-    <section=section_20, n_mesure=8, bpm=90, format=12/8, tonalite=Fa_mineur>
+    <section=recapitulation_coda, n_mesure=8, bpm=90, format=12/8, tonalite=Fa_mineur>
         <mesure num=1>
             <piano_1_v1>  |fa5 lab5 reb6, -, -, -, -, -, -, -, -, -, -, -|
             <piano_1_v5>  |_, do5, do5, fa4 lab4, do5, do5, fa4 lab4, do5, do5, fa4 lab4, do5, do5|
@@ -832,9 +852,10 @@ Section de développement 19 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 20 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
+8 mesures, Allegro assai (12/8), Fa_mineur, 138 BPM.
+La coda s'ouvre sur une bataille entre les mains, utilisant un motif tronqué du destin en alternance fortissimo. La figure d'arpège quasi-improvisatoire envahit tout le registre du clavier (Fa1 à l'aigu), explorant l'étendue maximale de l'instrument. Ces arpeggios exploitent l'étendue de l'Erard que Beethoven possédait. Jouer avec une liberté gestuelle totale, tout en maintenant la pulsation.
 </meta>
-    <section=section_21, n_mesure=8, bpm=90, format=12/8, tonalite=Fa_mineur>
+    <section=coda, n_mesure=8, bpm=90, format=12/8, tonalite=Fa_mineur>
         <mesure num=1>
             <piano_1_v1>  |_, _, _, _, _, _, _, _, _, _, _, _|
             <piano_1_v5>  |sib2 do3 mi3 sol3, -, -, -, -, -, -, -, -, -, -, -|
@@ -875,9 +896,10 @@ Section de développement 20 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 21 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
+8 mesures, Allegro assai (12/8), Fa_mineur, 138 BPM.
+La coda développe une lutte entre registres grave et aigu à travers des arpèges de plus en plus étendus, exprimant l'insistance du destin. Le thème du deuxième sujet réapparait brièvement en mode mineur, transformé en une imploration pathétique. Laisser la ligne mélodique se détacher avec naturel au-dessus des accords de soutien.
 </meta>
-    <section=section_22, n_mesure=8, bpm=90, format=12/8, tonalite=Fa_mineur>
+    <section=coda, n_mesure=8, bpm=90, format=12/8, tonalite=Fa_mineur>
         <mesure num=1>
             <piano_1_v1>  |reb4 reb5, -, -, sib3 sib4, -, -, -, -, -, sib3 sib4, -, -|
             <piano_1_v5>  |fa3, -, -, solb3, -, -, -, -, -, solb3, -, -|
@@ -917,9 +939,10 @@ Section de développement 21 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 22 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
+8 mesures, Allegro assai (12/8), Fa_mineur, 138 BPM.
+Le climax de la coda présente les arpèges quasi-improvisatoires les plus étendus, balayant tout le registre. Cette expansion soudaine de l'espace sonore produit un effet de vertige dramatique culminant. Les arpèges doivent être joués avec une fluidité absolue des poignets, sans rigidité, dans un mouvement continu et élastique.
 </meta>
-    <section=section_23, n_mesure=8, bpm=90, format=12/8, tonalite=Fa_mineur>
+    <section=coda, n_mesure=8, bpm=90, format=12/8, tonalite=Fa_mineur>
         <mesure num=1>
             <piano_1_v1>  |(reb4, lab3), (fa3, lab3), (reb4, lab3), (fa4, lab3), (mib4, lab3), (reb4, lab3), (reb4, lab3), (fa3, lab3), (reb4, lab3), (fa4, lab3), (mib4, lab3), (reb4, lab3)|
             <piano_1_v5>  |(fa1, reb2), (fa2, reb2), (fa1, reb2), (fa1, reb2), (fa1, reb2), (fa1, reb2), (fa1, reb2), (fa2, reb2), (fa1, reb2), (fa1, reb2), (fa1, reb2), (fa1, reb2)|
@@ -956,9 +979,10 @@ Section de développement 22 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 23 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
+8 mesures, Allegro assai (12/8), Fa_mineur, 138 BPM.
+La coda entame une descente en arpèges de Fa mineur depuis l'aigu vers le grave, symbolisant la chute inévitable. Ce mouvement descendant, associé à des accents en fortissimo sur des accords de dominante, crée un sentiment de dénouement tragique irrévocable. Jouer la descente avec un poids de bras croissant, sans précipiter le tempo.
 </meta>
-    <section=section_24, n_mesure=8, bpm=90, format=12/8, tonalite=Fa_mineur>
+    <section=coda, n_mesure=8, bpm=90, format=12/8, tonalite=Fa_mineur>
         <mesure num=1>
             <piano_1_v1>  |_, _, (si5, re6), (fa6, re6), (si5, lab6), (sol6, fa6), (mi6, sol6), (fa6, mi6), (reb6, do6), (sib5, reb6), (do6, sib5), (lab5, sol5)|
             <piano_1_v5>  |(si4, re5), (fa5, lab5), lab5, lab5, -, -, (do5, mi5), mi5 sol5, -, mi5 sol5, -, -|
@@ -997,9 +1021,10 @@ Section de développement 23 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 24 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
+8 mesures, Allegro assai (12/8), Fa_mineur, 138 BPM.
+Les accords répétés en Fa mineur instaurent une répétition rituelle qui transforme la violence en fatalisme. L'accumulation d'accords identiques, de plus en plus forts, annonce la conclusion imminente. Chaque accord doit être perçu comme une sentence définitive, joué avec un engagement physique total.
 </meta>
-    <section=section_25, n_mesure=8, bpm=90, format=12/8, tonalite=Fa_mineur>
+    <section=coda, n_mesure=8, bpm=90, format=12/8, tonalite=Fa_mineur>
         <mesure num=1>
             <piano_1_v1>  |(mib6, do6), (lab5, do6), (mib6, do6), (mib6, do6), (lab5, do6), (mib6, do6), (mib6, do6), (lab5, do6), (mib6, do6), (mib6, do6), (lab5, do6), (mib6, do6)|
             <piano_1_v5>  |solb3, -, -, do4, -, (do4, mib4), solb4, -, -, solb3, -, -|
@@ -1035,9 +1060,10 @@ Section de développement 24 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 25 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
+8 mesures, Allegro assai (12/8), Fa_mineur, 138 BPM.
+Les dernières montées en arpèges de triples croches en Fa mineur constituent une des conclusions les plus puissantes de la littérature pianistique. Le mouvement monte en vagues répétées avant de s'écraser dans les accords conclusifs. Préparer physiquement les arpèges ascendants par un transfert progressif du poids vers la main droite.
 </meta>
-    <section=section_26, n_mesure=8, bpm=90, format=12/8, tonalite=Fa_mineur>
+    <section=coda, n_mesure=8, bpm=90, format=12/8, tonalite=Fa_mineur>
         <mesure num=1>
             <piano_1_v1>  |do6, -, -, mi6, -, -, -, -, -, sol5 sol6, -, (sol5 sol6, fa5 fa6)|
             <piano_1_v5>  |mi4, sol4 do5 mi5, mi4, sol4 do5 mi5, mi4, sol4 do5 mi5, mi4, sol4 do5 mi5, mi4, sol4 do5 mi5, mi4, sol4 do5 mi5|
@@ -1073,9 +1099,10 @@ Section de développement 25 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 26 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
+8 mesures, Allegro assai (12/8), Fa_mineur, 138 BPM.
+La continuation de la coda présente des figurations en triples croches ascendantes, marquant un ressac final avant les accords de conclusion. L'énergie cinétique doit être maintenue sans raideur, avec un son plein mais jamais percussif. La pulsation ternaire du 12/8 guide chaque groupe de notes.
 </meta>
-    <section=section_27, n_mesure=8, bpm=90, format=12/8, tonalite=Fa_mineur>
+    <section=coda, n_mesure=8, bpm=90, format=12/8, tonalite=Fa_mineur>
         <mesure num=1>
             <piano_1_v1>  |(_, lab4), (fa4, reb5), _, _, (reb5, lab4), fa5, (_, sib4), (sol4, mi5), _, _, (mi5, sib4), sol5|
             <piano_1_v5>  |fa2 fa3, _, (lab3, reb4), fa4, _, _, sol2 sol3, _, (sib3, mi4), sol4, _, _|
@@ -1114,9 +1141,10 @@ Section de développement 26 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 27 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
+8 mesures, Allegro assai (12/8), Fa_mineur, 138 BPM.
+Les accords fortissimo en Fa mineur s'enchainent en une accumulation rythmique implacable. La main gauche ancre les fondamentales pendant que la main droite frappe les accords pleins. Chaque temps fort du 12/8 reçoit un accent maximal, les temps faibles étant joués avec une énergie à peine moindre.
 </meta>
-    <section=section_28, n_mesure=8, bpm=90, format=12/8, tonalite=Fa_mineur>
+    <section=coda, n_mesure=8, bpm=90, format=12/8, tonalite=Fa_mineur>
         <mesure num=1>
             <piano_1_v1>  |_, (_, lab6), (fa6, do7), (lab6, fa6), (do6, lab5), (fa5, do6), (lab5, fa5), (do5, lab4), (fa4, do5), (lab4, fa4)|
             <piano_1_v5>  |_, _, _, _, _, _, _, _, _, _, (do4, lab3), (fa3, do4)|
@@ -1156,9 +1184,10 @@ Section de développement 27 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 28 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
+8 mesures, Allegro assai (12/8), Fa_mineur, 138 BPM.
+L'avant-dernière grande vague de la coda condense tous les éléments motiviques du mouvement en une synthèse conclusive. Les arpèges descendants en Fa mineur évoquent la chute finale décrite par le musicologue Donald Francis Tovey comme une 'ruée vers la mort'. Jouer avec une continuité sonore absolue, en reliant chaque arpège au suivant.
 </meta>
-    <section=section_29, n_mesure=8, bpm=90, format=12/8, tonalite=Fa_mineur>
+    <section=coda, n_mesure=8, bpm=90, format=12/8, tonalite=Fa_mineur>
         <mesure num=1>
             <piano_1_v1>  |mi5 sol5 sib5 do6 mi6, mi5 sol5 sib5 do6 mi6, mi5 sol5 sib5 do6 mi6, -, -, -, -, -, -, -, -, -|
             <piano_1_v5>  |do2 do3, do2 do3, do2 do3, -, -, -, -, -, -, -, -, -|
@@ -1194,9 +1223,10 @@ Section de développement 28 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 29 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
+8 mesures, Allegro assai (12/8), Fa_mineur, 138 BPM.
+Les arpèges conclusifs en Fa mineur s'étendent sur tout le registre, constituant une des fins les plus saisissantes de l'ère classique. Le mouvement descendant des arpèges symbolise la conclusion tragique du discours. Maintenir la vitesse et la clarté des arpèges jusqu'à la toute dernière note.
 </meta>
-    <section=section_30, n_mesure=8, bpm=90, format=12/8, tonalite=Fa_mineur>
+    <section=coda, n_mesure=8, bpm=90, format=12/8, tonalite=Fa_mineur>
         <mesure num=1>
             <piano_1_v1>  |solb5 solb6, -, -, do5 do6, -, -, -, -, -, mib5 mib6, -, (mib5 mib6, do5 do6)|
             <piano_1_v5>  |la2, mib3 solb3 la3, la2, mib3 solb3 la3, la2, mib3 solb3 la3, la2, mib3 solb3 la3, la2, mib3 solb3 la3, la2, mib3 solb3 la3|
@@ -1232,9 +1262,10 @@ Section de développement 29 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 30 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
+8 mesures, Allegro assai (12/8), Fa_mineur, 138 BPM.
+Les huit dernières mesures avant la conclusion conclusent par des accords de Fa mineur en position fondamentale, portant l'effet de dénouement cataclysmique. L'absence de toute ornement ou figure mélodique laisse les accords seuls face à l'auditeur, dans un geste de vérité absolue. Jouer avec une plénitude sonore maximale, en tenant chaque accord jusqu'à sa durée complète.
 </meta>
-    <section=section_31, n_mesure=8, bpm=90, format=12/8, tonalite=Fa_mineur>
+    <section=coda, n_mesure=8, bpm=90, format=12/8, tonalite=Fa_mineur>
         <mesure num=1>
             <piano_1_v1>  |_, do3 fa3 lab3 do4, _, reb3 fa3 sol3 reb4, _, reb3 fa3 sol3 reb4, _, do3 fa3 lab3 do4, _, do3 mi3 sol3 do4, _, do3 mi3 sol3 do4|
             <piano_1_v5>  |fa2 lab2, _, fa2 lab2, _, sib1 fa2 sol2, _, do2 fa2 lab2, _, do2 fa2 lab2, _, sib1 mi2 sol2, _|
@@ -1270,9 +1301,10 @@ Section de développement 30 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section conclusive — 1 mesures. Tonalité Fa mineur, tempo 90 BPM.
+1 mesure, Allegro assai (12/8), Fa_mineur, 138 BPM.
+L'accord final de Fa mineur conclut le mouvement sans appel. Cette mesure terminale doit résonner longuement dans le silence, laissant le temps à l'auditeur d'absorber la charge émotionnelle accumulée. Ne pas lever les mains trop tôt, laisser la pédale prolonger le son jusqu'à l'extinction naturelle.
 </meta>
-    <section=section_32, n_mesure=1, bpm=90, format=12/8, tonalite=Fa_mineur>
+    <section=coda, n_mesure=1, bpm=90, format=12/8, tonalite=Fa_mineur>
         <mesure num=1>
             <piano_1_v1>  |lab4 do5, -, -, -, -, -, -, -, -, -, -, -|
             <piano_1_v5>  |fa1, -, -, -, -, -, -, -, -, -, -, -|
