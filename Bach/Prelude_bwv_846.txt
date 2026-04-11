@@ -4,18 +4,19 @@ TACHE : composition
 STYLE : baroque
 FORMAT : piano_solo
 NIVEAU : intermediaire
-Titre : Prelude_bwv_846
-Date : ?
-Auteur : Bach
+Titre : Prélude en Do majeur, BWV 846
+Date : 1722
+Auteur : Johann Sebastian Bach
 Tonalite : Do_majeur
 Unite : quarter
-Intention : Pièce pour piano solo, modéré, lumineux, au cadre binaire régulier. Tonalité : Do majeur. 35 mesures.
+Intention : Oeuvre lumineuse et sereine, fondée sur une figuration en arpèges continus qui installe une atmosphère de plénitude contemplative. Forme en quatre sections, tonalité de Do majeur, 35 mesures en 4/4, tempo entre 60 et 72 BPM.
 </tete>
 
 <meta>
-Section d'ouverture — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+4 mesures, 66 BPM, 4/4, Do_majeur.
+L'introduction pose l'accord de tonique en Do majeur par un geste d'arpège répété à chaque mesure: cette figuration uniforme, sans mélodie détachée, crée une sensation d'espace suspendu et de repos tonal. La basse grave ancre la fondamentale tandis que les voix intermédiaires forment le coeur de l'harmonie. À l'interprétation, maintenir une touche égale et légère, sans accentuation particulière, afin que l'arpège coule sans rupture.
 </meta>
-    <section=section_1, n_mesure=8, bpm=90, format=4/4, tonalite=Do_majeur>
+    <section=introduction, n_mesure=4, bpm=66, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |(_, sol4, do5), ({mi5, sol4}, do5, mi5), (_, sol4, do5), ({mi5, sol4}, do5, mi5)|
             <piano_1_v2>  |{_, mi4}, mi4, {_, mi4}, mi4|
@@ -36,182 +37,179 @@ Section d'ouverture — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
             <piano_1_v2>  |{_, mi4}, mi4, {_, mi4}, mi4|
             <piano_1_v3>  |do4, -, do4, -|
         </mesure>
-        <mesure num=5>
+    </section>
+
+<meta>
+7 mesures, 66 BPM, 4/4, Sol_majeur.
+Cette section engage une séquence harmonique descendante qui conduit progressivement vers la dominante Sol majeur. Dès la mesure 1, l'accord de La mineur introduit une couleur plus sombre, puis la succession des accords de septième et de dominante secondaire oriente l'oreille vers Sol majeur. La pédale de ré à la basse (mesures 3 à 7) renforce la tension harmonique et prépare la résolution sur la dominante. L'interprète veillera à une légère inflexion expressive sur les accords altérés, sans rompre la régularité de la figuration.
+</meta>
+    <section=modulation, n_mesure=7, bpm=66, format=4/4, tonalite=Sol_majeur>
+        <mesure num=1>
             <piano_1_v1>  |(_, la4, mi5), ({la5, la4}, mi5, la5), (_, la4, mi5), ({la5, la4}, mi5, la5)|
             <piano_1_v2>  |{_, mi4}, mi4, {_, mi4}, mi4|
             <piano_1_v3>  |do4, -, do4, -|
         </mesure>
-        <mesure num=6>
+        <mesure num=2>
             <piano_1_v1>  |(_, fa#4, la4), ({re5, fa#4}, la4, re5), (_, fa#4, la4), ({re5, fa#4}, la4, re5)|
             <piano_1_v2>  |{_, re4}, re4, {_, re4}, re4|
             <piano_1_v3>  |do4, -, do4, -|
         </mesure>
-        <mesure num=7>
+        <mesure num=3>
             <piano_1_v1>  |(_, sol4, re5), ({sol5, sol4}, re5, sol5), (_, sol4, re5), ({sol5, sol4}, re5, sol5)|
             <piano_1_v2>  |{_, re4}, re4, {_, re4}, re4|
             <piano_1_v3>  |si3, -, si3, -|
         </mesure>
-        <mesure num=8>
+        <mesure num=4>
             <piano_1_v1>  |(_, mi4, sol4), ({do5, mi4}, sol4, do5), (_, mi4, sol4), ({do5, mi4}, sol4, do5)|
             <piano_1_v2>  |{_, do4}, do4, {_, do4}, do4|
             <piano_1_v3>  |si3, -, si3, -|
         </mesure>
-    </section>
-
-<meta>
-Section de développement 1 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
-</meta>
-    <section=section_2, n_mesure=8, bpm=90, format=4/4, tonalite=Do_majeur>
-        <mesure num=1>
+        <mesure num=5>
             <piano_1_v1>  |(_, mi4, sol4), ({do5, mi4}, sol4, do5), (_, mi4, sol4), ({do5, mi4}, sol4, do5)|
             <piano_1_v2>  |{_, do4}, do4, {_, do4}, do4|
             <piano_1_v3>  |la3, -, la3, -|
         </mesure>
-        <mesure num=2>
+        <mesure num=6>
             <piano_1_v1>  |(_, re4, fa#4), ({do5, re4}, fa#4, do5), (_, re4, fa#4), ({do5, re4}, fa#4, do5)|
             <piano_1_v2>  |{_, la3}, la3, {_, la3}, la3|
             <piano_1_v3>  |re3, -, re3, -|
         </mesure>
-        <mesure num=3>
+        <mesure num=7>
             <piano_1_v1>  |(_, re4, sol4), ({si4, re4}, sol4, si4), (_, re4, sol4), ({si4, re4}, sol4, si4)|
             <piano_1_v2>  |{_, si3}, si3, {_, si3}, si3|
             <piano_1_v3>  |sol3, -, sol3, -|
         </mesure>
-        <mesure num=4>
+    </section>
+
+<meta>
+8 mesures, 66 BPM, 4/4, Do_majeur.
+Le retour à la tonique s'amorce par une succession chromatique descendante à la basse qui assombrit momentanément la couleur harmonique avant de retrouver Do majeur. Les accords de dominante de dominante, de napolitaine et d'accord augmenté créent une tension expressive maximale, résolue progressivement par une cadence authentique. Ce parcours harmonique riche donne à cette section le caractère d'un développement intérieur. L'interprète peut légèrement ralentir l'impulsion des arpèges sur les harmonies les plus tendues, pour laisser résonner les dissonances.
+</meta>
+    <section=retour_tonique, n_mesure=8, bpm=66, format=4/4, tonalite=Do_majeur>
+        <mesure num=1>
             <piano_1_v1>  |(_, mi4, sol4), ({do#5, mi4}, sol4, do#5), (_, mi4, sol4), ({do#5, mi4}, sol4, do#5)|
             <piano_1_v2>  |{_, la#3}, la#3, {_, la#3}, la#3|
             <piano_1_v3>  |sol3, -, sol3, -|
         </mesure>
-        <mesure num=5>
+        <mesure num=2>
             <piano_1_v1>  |(_, re4, la4), ({re5, re4}, la4, re5), (_, re4, la4), ({re5, re4}, la4, re5)|
             <piano_1_v2>  |{_, la3}, la3, {_, la3}, la3|
             <piano_1_v3>  |fa3, -, fa3, -|
         </mesure>
-        <mesure num=6>
+        <mesure num=3>
             <piano_1_v1>  |(_, re4, fa4), ({si4, re4}, fa4, si4), (_, re4, fa4), ({si4, re4}, fa4, si4)|
             <piano_1_v2>  |{_, sol#3}, sol#3, {_, sol#3}, sol#3|
             <piano_1_v3>  |fa3, -, fa3, -|
         </mesure>
-        <mesure num=7>
+        <mesure num=4>
             <piano_1_v1>  |(_, do4, sol4), ({do5, do4}, sol4, do5), (_, do4, sol4), ({do5, do4}, sol4, do5)|
             <piano_1_v2>  |{_, sol3}, sol3, {_, sol3}, sol3|
             <piano_1_v3>  |mi3, -, mi3, -|
         </mesure>
-        <mesure num=8>
+        <mesure num=5>
             <piano_1_v1>  |(_, la3, do4), ({fa4, la3}, do4, fa4), (_, la3, do4), ({fa4, la3}, do4, fa4)|
             <piano_1_v2>  |{_, fa3}, fa3, {_, fa3}, fa3|
             <piano_1_v3>  |mi3, -, mi3, -|
         </mesure>
-    </section>
-
-<meta>
-Section de développement 2 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
-</meta>
-    <section=section_3, n_mesure=8, bpm=90, format=4/4, tonalite=Do_majeur>
-        <mesure num=1>
+        <mesure num=6>
             <piano_1_v1>  |(_, la3, do4), ({fa4, la3}, do4, fa4), (_, la3, do4), ({fa4, la3}, do4, fa4)|
             <piano_1_v2>  |{_, fa3}, fa3, {_, fa3}, fa3|
             <piano_1_v3>  |re3, -, re3, -|
         </mesure>
-        <mesure num=2>
+        <mesure num=7>
             <piano_1_v1>  |(_, sol3, si3), ({fa4, sol3}, si3, fa4), (_, sol3, si3), ({fa4, sol3}, si3, fa4)|
             <piano_1_v2>  |{_, re3}, re3, {_, re3}, re3|
             <piano_1_v3>  |sol2, -, sol2, -|
         </mesure>
-        <mesure num=3>
+        <mesure num=8>
             <piano_1_v1>  |(_, sol3, do4), ({mi4, sol3}, do4, mi4), (_, sol3, do4), ({mi4, sol3}, do4, mi4)|
             <piano_1_v2>  |{_, mi3}, mi3, {_, mi3}, mi3|
             <piano_1_v3>  |do3, -, do3, -|
         </mesure>
-        <mesure num=4>
+    </section>
+
+<meta>
+16 mesures, 66 BPM, 4/4, Do_majeur.
+La coda se divise en deux mouvements complémentaires: une longue pédale de dominante (sol grave, mesures 1 à 12) sur laquelle se déroulent des harmonies suspensives et chromatiques, suivie d'une pédale de tonique (do grave, mesures 13 à 16) qui referme la pièce sur une affirmation sereine de Do majeur. La pédale de dominante maintient une tension harmonique prolongée qui amplifie l'attente de la résolution finale. L'interprète maintiendra le do grave bien tenu dans les dernières mesures, laissant les arpèges s'éteindre progressivement jusqu'à l'accord de tonique conclusif.
+</meta>
+    <section=coda, n_mesure=16, bpm=66, format=4/4, tonalite=Do_majeur>
+        <mesure num=1>
             <piano_1_v1>  |(_, la#3, do4), ({mi4, la#3}, do4, mi4), (_, la#3, do4), ({mi4, la#3}, do4, mi4)|
             <piano_1_v2>  |{_, sol3}, sol3, {_, sol3}, sol3|
             <piano_1_v3>  |do3, -, do3, -|
         </mesure>
-        <mesure num=5>
+        <mesure num=2>
             <piano_1_v1>  |(_, la3, do4), ({mi4, la3}, do4, mi4), (_, la3, do4), ({mi4, la3}, do4, mi4)|
             <piano_1_v2>  |{_, fa3}, fa3, {_, fa3}, fa3|
             <piano_1_v3>  |fa2, -, fa2, -|
         </mesure>
-        <mesure num=6>
+        <mesure num=3>
             <piano_1_v1>  |(_, la3, do4), ({re#4, la3}, do4, re#4), (_, la3, do4), ({re#4, la3}, do4, re#4)|
             <piano_1_v2>  |{_, do3}, do3, {_, do3}, do3|
             <piano_1_v3>  |fa#2, -, fa#2, -|
         </mesure>
-        <mesure num=7>
+        <mesure num=4>
             <piano_1_v1>  |(_, si3, do4), ({re4, si3}, do4, re4), (_, si3, do4), ({re4, si3}, do4, re4)|
             <piano_1_v2>  |{_, fa3}, fa3, {_, fa3}, fa3|
             <piano_1_v3>  |sol#2, -, sol#2, -|
         </mesure>
-        <mesure num=8>
+        <mesure num=5>
             <piano_1_v1>  |(_, sol3, si3), ({re4, sol3}, si3, re4), (_, sol3, si3), ({re4, sol3}, si3, re4)|
             <piano_1_v2>  |{_, fa3}, fa3, {_, fa3}, fa3|
             <piano_1_v3>  |sol2, -, sol2, -|
         </mesure>
-    </section>
-
-<meta>
-Section de développement 3 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
-</meta>
-    <section=section_4, n_mesure=8, bpm=90, format=4/4, tonalite=Do_majeur>
-        <mesure num=1>
+        <mesure num=6>
             <piano_1_v1>  |(_, sol3, do4), ({mi4, sol3}, do4, mi4), (_, sol3, do4), ({mi4, sol3}, do4, mi4)|
             <piano_1_v2>  |{_, mi3}, mi3, {_, mi3}, mi3|
             <piano_1_v3>  |sol2, -, sol2, -|
         </mesure>
-        <mesure num=2>
-            <piano_1_v1>  |(_, sol3, do4), ({fa4, sol3}, do4, fa4), (_, sol3, do4), ({fa4, sol3}, do4, fa4)|
-            <piano_1_v2>  |{_, re3}, re3, {_, re3}, re3|
-            <piano_1_v3>  |sol2, -, sol2, -|
-        </mesure>
-        <mesure num=3>
-            <piano_1_v1>  |(_, sol3, si3), ({fa4, sol3}, si3, fa4), (_, sol3, si3), ({fa4, sol3}, si3, fa4)|
-            <piano_1_v2>  |{_, re3}, re3, {_, re3}, re3|
-            <piano_1_v3>  |sol2, -, sol2, -|
-        </mesure>
-        <mesure num=4>
-            <piano_1_v1>  |(_, la3, do4), ({fa#4, la3}, do4, fa#4), (_, la3, do4), ({fa#4, la3}, do4, fa#4)|
-            <piano_1_v2>  |{_, re#3}, re#3, {_, re#3}, re#3|
-            <piano_1_v3>  |sol2, -, sol2, -|
-        </mesure>
-        <mesure num=5>
-            <piano_1_v1>  |(_, sol3, do4), ({sol4, sol3}, do4, sol4), (_, sol3, do4), ({sol4, sol3}, do4, sol4)|
-            <piano_1_v2>  |{_, mi3}, mi3, {_, mi3}, mi3|
-            <piano_1_v3>  |sol2, -, sol2, -|
-        </mesure>
-        <mesure num=6>
-            <piano_1_v1>  |(_, sol3, do4), ({fa4, sol3}, do4, fa4), (_, sol3, do4), ({fa4, sol3}, do4, fa4)|
-            <piano_1_v2>  |{_, re3}, re3, {_, re3}, re3|
-            <piano_1_v3>  |sol2, -, sol2, -|
-        </mesure>
         <mesure num=7>
-            <piano_1_v1>  |(_, sol3, si3), ({fa4, sol3}, si3, fa4), (_, sol3, si3), ({fa4, sol3}, si3, fa4)|
+            <piano_1_v1>  |(_, sol3, do4), ({fa4, sol3}, do4, fa4), (_, sol3, do4), ({fa4, sol3}, do4, fa4)|
             <piano_1_v2>  |{_, re3}, re3, {_, re3}, re3|
             <piano_1_v3>  |sol2, -, sol2, -|
         </mesure>
         <mesure num=8>
+            <piano_1_v1>  |(_, sol3, si3), ({fa4, sol3}, si3, fa4), (_, sol3, si3), ({fa4, sol3}, si3, fa4)|
+            <piano_1_v2>  |{_, re3}, re3, {_, re3}, re3|
+            <piano_1_v3>  |sol2, -, sol2, -|
+        </mesure>
+        <mesure num=9>
+            <piano_1_v1>  |(_, la3, do4), ({fa#4, la3}, do4, fa#4), (_, la3, do4), ({fa#4, la3}, do4, fa#4)|
+            <piano_1_v2>  |{_, re#3}, re#3, {_, re#3}, re#3|
+            <piano_1_v3>  |sol2, -, sol2, -|
+        </mesure>
+        <mesure num=10>
+            <piano_1_v1>  |(_, sol3, do4), ({sol4, sol3}, do4, sol4), (_, sol3, do4), ({sol4, sol3}, do4, sol4)|
+            <piano_1_v2>  |{_, mi3}, mi3, {_, mi3}, mi3|
+            <piano_1_v3>  |sol2, -, sol2, -|
+        </mesure>
+        <mesure num=11>
+            <piano_1_v1>  |(_, sol3, do4), ({fa4, sol3}, do4, fa4), (_, sol3, do4), ({fa4, sol3}, do4, fa4)|
+            <piano_1_v2>  |{_, re3}, re3, {_, re3}, re3|
+            <piano_1_v3>  |sol2, -, sol2, -|
+        </mesure>
+        <mesure num=12>
+            <piano_1_v1>  |(_, sol3, si3), ({fa4, sol3}, si3, fa4), (_, sol3, si3), ({fa4, sol3}, si3, fa4)|
+            <piano_1_v2>  |{_, re3}, re3, {_, re3}, re3|
+            <piano_1_v3>  |sol2, -, sol2, -|
+        </mesure>
+        <mesure num=13>
             <piano_1_v1>  |(_, sol3, la#3), ({mi4, sol3}, la#3, mi4), (_, sol3, la#3), ({mi4, sol3}, la#3, mi4)|
             <piano_1_v2>  |{_, do3}, do3, {_, do3}, do3|
             <piano_1_v3>  |do2, -, do2, -|
         </mesure>
-    </section>
-
-<meta>
-Section conclusive — 3 mesures. Tonalité Do majeur, tempo 90 BPM.
-</meta>
-    <section=section_5, n_mesure=3, bpm=90, format=4/4, tonalite=Do_majeur>
-        <mesure num=1>
+        <mesure num=14>
             <piano_1_v1>  |(_, fa3, la3), ({do4, fa4}, do4, la3), do4|
             <piano_1_v2>  |_, _, (la3, fa3, la3), ({fa3, re3}, fa3, re3)|
             <piano_1_v3>  |{_, do3}, do3, do3, -|
             <piano_1_v4>  |do2, -, do2, -|
         </mesure>
-        <mesure num=2>
+        <mesure num=15>
             <piano_1_v1>  |(_, sol4, si4), ({re5, fa5}, re5, si4), ({re5, si4}, sol4, si4), ({re4, fa4}, mi4, re4)|
             <piano_1_v2>  |{_, do3}, do3, do3, -|
             <piano_1_v3>  |do2, -, do2, -|
         </mesure>
-        <mesure num=3>
+        <mesure num=16>
             <piano_1_v1>  |mi4 sol4 do5, -, -, -|
             <piano_1_v2>  |do3, -, -, -|
             <piano_1_v3>  |do2, -, -, -|
