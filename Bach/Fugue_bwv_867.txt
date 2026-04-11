@@ -3,19 +3,19 @@
 TACHE : composition
 STYLE : baroque
 FORMAT : piano_solo
-NIVEAU : simple
-Titre : Fugue_bwv_867
-Date : ?
-Auteur : Bach
+NIVEAU : avance
+Titre : Fugue en Sib mineur, BWV 867, Clavier bien tempéré I n°22
+Date : 1722
+Auteur : Johann Sebastian Bach
 Tonalite : Sib_mineur
 Unite : quarter
-Intention : Pièce pour piano solo, modéré, mélancolique, au cadre binaire régulier. Tonalité : Sib mineur. 75 mesures.
+Intention : Cette fugue à cinq voix incarne une gravité intense et recueillie, portée par un sujet chromatique à l'intervalle de neuvième mineure et par des suspensions rhétoriques qui confèrent au discours une éloquence sombre. Fugue en Sib mineur en 2/2 (alla breve), 75 mesures, construite sur une exposition en cinq parties, trois épisodes, deux strettes complètes et une coda terminée sur une tierce de Picardie, proche du style antico.
 </tete>
 
 <meta>
-Section d'ouverture — 8 mesures. Tonalité Sib mineur, tempo 90 BPM.
+Exposition, 17 mesures, 2/2, Sib mineur, 60 BPM. Les cinq voix entrent successivement avec le sujet (premier dessus, deuxième dessus, alto, ténor, basse) ; une réponse tonale à la quinte inférieure et une codette en imitation à la quarte instaurent la polyphonie dense caractéristique de ce mouvement. L'absence de contre-sujet permanent renforce la rigueur du tissu contrapuntique et oblige chaque voix à soutenir l'harmonie par mouvement contraire.
 </meta>
-    <section=section_1, n_mesure=8, bpm=90, format=2/2, tonalite=Sib_mineur>
+    <section=exposition, n_mesure=17, bpm=60, format=2/2, tonalite=Sib_mineur>
         <mesure num=1>
             <piano_1_v1>  |_, _|
             <piano_1_v2>  |sib4, fa4|
@@ -56,286 +56,274 @@ Section d'ouverture — 8 mesures. Tonalité Sib mineur, tempo 90 BPM.
             <piano_1_v2>  |(reb5, do5, sib4), (do5, re5)|
             <piano_1_v4>  |_, _|
         </mesure>
-    </section>
-
-<meta>
-Section de développement 1 — 8 mesures. Tonalité Sib mineur, tempo 90 BPM.
-</meta>
-    <section=section_2, n_mesure=8, bpm=90, format=2/2, tonalite=Sib_mineur>
-        <mesure num=1>
+        <mesure num=9>
             <piano_1_v1>  |(lab5, sol5, fa5), (sol5, la5)|
             <piano_1_v2>  |mib5, (reb5, do5)|
             <piano_1_v4>  |_, _|
         </mesure>
-        <mesure num=2>
+        <mesure num=10>
             <piano_1_v1>  |sib5, (la5, sol5)|
             <piano_1_v2>  |(reb5, mib5), fa5|
             <piano_1_v4>  |_, _|
             <piano_1_v5>  |sib3, fa3|
         </mesure>
-        <mesure num=3>
+        <mesure num=11>
             <piano_1_v1>  |(la5, sib5), do6|
             <piano_1_v2>  |(fa5, mib5, reb5), mib5|
             <piano_1_v3>  |(_, solb4), (fa4, mib4)|
             <piano_1_v4>  |_, _|
         </mesure>
-        <mesure num=4>
+        <mesure num=12>
             <piano_1_v1>  |(do6, sib5, la5), (sib5, lab5)|
             <piano_1_v2>  |(mib5, fa5, mib5), (reb5, do5)|
             <piano_1_v3>  |(reb4, do4), (sib3, do4, reb4)|
             <piano_1_v4>  |_, _|
             <piano_1_v5>  |fa3, sib2|
         </mesure>
-        <mesure num=5>
+        <mesure num=13>
             <piano_1_v1>  |(solb5, fa5), mib5|
             <piano_1_v2>  |sib4, (la4, sib4)|
             <piano_1_v3>  |(mib4, fa4), solb4|
             <piano_1_v4>  |_, _|
             <piano_1_v5>  |(_, reb4), (do4, sib3)|
         </mesure>
-        <mesure num=6>
+        <mesure num=14>
             <piano_1_v1>  |(mib5, fa5, solb5), (fa5, mib5)|
             <piano_1_v2>  |(do5, la4), (sib4, do5)|
             <piano_1_v3>  |(fa4, mib4), (reb4, do4)|
             <piano_1_v4>  |_, _|
             <piano_1_v5>  |(la3, fa3), (sol3, la3)|
         </mesure>
-        <mesure num=7>
+        <mesure num=15>
             <piano_1_v1>  |reb5, -|
             <piano_1_v2>  |(do5, sib4, la4), sib4|
             <piano_1_v3>  |(reb4, mib4), (fa4, solb4)|
             <piano_1_v4>  |(sib3, do3), (reb3, mib3)|
             <piano_1_v5>  |sib2, fa2|
         </mesure>
-        <mesure num=8>
+        <mesure num=16>
             <piano_1_v1>  |do5, -|
             <piano_1_v2>  |sib4, lab4|
             <piano_1_v3>  |do4, fa4|
             <piano_1_v4>  |(fa3, solb3), lab3|
             <piano_1_v5>  |(_, solb3), (fa3, mib3)|
         </mesure>
-    </section>
-
-<meta>
-Section de développement 2 — 8 mesures. Tonalité Sib mineur, tempo 90 BPM.
-</meta>
-    <section=section_3, n_mesure=8, bpm=90, format=2/2, tonalite=Sib_mineur>
-        <mesure num=1>
+        <mesure num=17>
             <piano_1_v1>  |sib4, -|
             <piano_1_v2>  |lab4, -|
             <piano_1_v3>  |(fa4, re4), (mib4, fa4)|
             <piano_1_v4>  |sib3, -|
             <piano_1_v5>  |(re3, sib2), (do3, re3)|
         </mesure>
-        <mesure num=2>
+    </section>
+
+<meta>
+Episode I, 8 mesures, 2/2, Sib mineur vers Reb majeur, 60 BPM. Le premier épisode exploite le second membre du sujet par mouvement direct et contraire, produisant une modulation progressive de Sib mineur vers Reb majeur ; les voix dialoguent par paires et la texture se densifie jusqu'à cinq parties simultanées, préparant le retour thématique.
+</meta>
+    <section=divertissement, n_mesure=8, bpm=60, format=2/2, tonalite=Reb_majeur>
+        <mesure num=1>
             <piano_1_v1>  |sib4, mib5|
             <piano_1_v2>  |solb4, -|
             <piano_1_v3>  |(fa4, mib4, re4), mib4|
             <piano_1_v4>  |sib3, -|
             <piano_1_v5>  |(mib3, fa3), (mib3, reb3)|
         </mesure>
-        <mesure num=3>
+        <mesure num=2>
             <piano_1_v1>  |lab4, -|
             <piano_1_v2>  |solb4, -|
             <piano_1_v3>  |mib4, -|
             <piano_1_v4>  |(do4, do3), (reb3, mib3)|
             <piano_1_v5>  |(do3, lab2), (sib2, do3)|
         </mesure>
-        <mesure num=4>
+        <mesure num=3>
             <piano_1_v1>  |lab4, sib4 reb5|
             <piano_1_v2>  |reb4, fa4|
             <piano_1_v3>  |fa4, _|
             <piano_1_v4>  |(fa3, mib3), (fa3, solb3)|
             <piano_1_v5>  |reb3, sib2|
         </mesure>
-        <mesure num=5>
+        <mesure num=4>
             <piano_1_v1>  |lab4 do5, fa5|
             <piano_1_v2>  |fa4, -|
             <piano_1_v3>  |_, reb5|
             <piano_1_v4>  |(lab3, sib3, do4), (sib3, lab3)|
             <piano_1_v5>  |fa3, reb3|
         </mesure>
-        <mesure num=6>
+        <mesure num=5>
             <piano_1_v1>  |fa5, (mib5, reb5)|
             <piano_1_v2>  |(sib4, lab4), (solb4, fa4)|
             <piano_1_v3>  |(reb5, do5), sib4|
             <piano_1_v4>  |(solb3, lab3), (sib3, do4, reb4)|
             <piano_1_v5>  |(mib3, fa3), solb3|
         </mesure>
-        <mesure num=7>
+        <mesure num=6>
             <piano_1_v1>  |do5, reb5|
             <piano_1_v2>  |mib4, fa4|
             <piano_1_v3>  |lab4, -|
             <piano_1_v4>  |lab3, -|
             <piano_1_v5>  |(solb3, fa3), (mib3, reb3)|
         </mesure>
-        <mesure num=8>
+        <mesure num=7>
             <piano_1_v1>  |reb5, do5|
             <piano_1_v2>  |mib4, -|
             <piano_1_v3>  |(lab4, sib4), (lab4, solb4)|
             <piano_1_v4>  |lab3, -|
             <piano_1_v5>  |lab3, lab2|
         </mesure>
-    </section>
-
-<meta>
-Section de développement 3 — 8 mesures. Tonalité Sib mineur, tempo 90 BPM.
-</meta>
-    <section=section_4, n_mesure=8, bpm=90, format=2/2, tonalite=Sib_mineur>
-        <mesure num=1>
+        <mesure num=8>
             <piano_1_v1>  |reb5, lab4|
             <piano_1_v2>  |(reb4 fa4, do4 mib4), (reb4 fa4, mib4 solb4)|
             <piano_1_v4>  |lab3, _|
             <piano_1_v5>  |reb3, _|
         </mesure>
-        <mesure num=2>
+    </section>
+
+<meta>
+Entrées du développement, 14 mesures, 2/2, Reb majeur vers Mib mineur, 60 BPM. Les entrées thématiques se succèdent dans les tons relatifs (Reb majeur, Mib mineur) ; le sujet et sa réponse réapparaissent dans différentes voix avec un contrepoint libre de plus en plus ornementé, instaurant une tension croissante qui annonce les strettes.
+</meta>
+    <section=developpement, n_mesure=14, bpm=60, format=2/2, tonalite=Mib_mineur>
+        <mesure num=1>
             <piano_1_v1>  |(_, si5), (sib5, lab5)|
             <piano_1_v2>  |fa4 lab4, re4 fa4|
             <piano_1_v4>  |_, _|
         </mesure>
-        <mesure num=3>
+        <mesure num=2>
             <piano_1_v1>  |(solb5, fa5), (solb5, lab5)|
             <piano_1_v2>  |mib4, fa4|
             <piano_1_v3>  |sib4, mib4|
             <piano_1_v4>  |_, _|
         </mesure>
-        <mesure num=4>
+        <mesure num=3>
             <piano_1_v1>  |(sib5, la5, sib5), do6|
             <piano_1_v2>  |(solb4, mib4), (la4, sol4, fa4)|
             <piano_1_v3>  |(_, solb5), (fa5, mib5)|
             <piano_1_v4>  |_, _|
         </mesure>
-        <mesure num=5>
+        <mesure num=4>
             <piano_1_v1>  |(do6, sib5), la5|
             <piano_1_v2>  |(sib4, fa5), mib5|
             <piano_1_v3>  |reb5, do5|
             <piano_1_v4>  |_, _|
             <piano_1_v5>  |sib3, fa3|
         </mesure>
-        <mesure num=6>
+        <mesure num=5>
             <piano_1_v1>  |sib5, -|
             <piano_1_v2>  |sib4, -|
             <piano_1_v3>  |re5, mib5|
             <piano_1_v4>  |_, _|
             <piano_1_v5>  |(_, solb4), (fa4, mib4)|
         </mesure>
-        <mesure num=7>
+        <mesure num=6>
             <piano_1_v1>  |sib5, lab5|
             <piano_1_v2>  |sib4, -|
             <piano_1_v3>  |fa5, -|
             <piano_1_v4>  |_, _|
             <piano_1_v5>  |(re4, sib3), (do4, re4)|
         </mesure>
-        <mesure num=8>
+        <mesure num=7>
             <piano_1_v1>  |solb5, -|
             <piano_1_v2>  |sib4, -|
             <piano_1_v3>  |(fa5, mib5, re5), mib5|
             <piano_1_v4>  |(mib4, fa3), (solb3, lab3)|
             <piano_1_v5>  |mib3, sib2|
         </mesure>
-    </section>
-
-<meta>
-Section de développement 4 — 8 mesures. Tonalité Sib mineur, tempo 90 BPM.
-</meta>
-    <section=section_5, n_mesure=8, bpm=90, format=2/2, tonalite=Sib_mineur>
-        <mesure num=1>
+        <mesure num=8>
             <piano_1_v1>  |fa5, mi5|
             <piano_1_v2>  |sib4, -|
             <piano_1_v3>  |mib5, reb5|
             <piano_1_v4>  |(sib3, si3), reb4|
             <piano_1_v5>  |(_, si3), (sib3, lab3)|
         </mesure>
-        <mesure num=2>
+        <mesure num=9>
             <piano_1_v1>  |mib5, -|
             <piano_1_v2>  |sib4, -|
             <piano_1_v3>  |(reb5, mib5, mi5), (mib5, reb5)|
             <piano_1_v4>  |(mib4, sol3), (lab3, sib3)|
             <piano_1_v5>  |(sol3, mib3), (fa3, sol3)|
         </mesure>
-        <mesure num=3>
+        <mesure num=10>
             <piano_1_v1>  |mib5, lab5|
             <piano_1_v2>  |(lab4, sib4), si4|
             <piano_1_v3>  |si4, mi5|
             <piano_1_v4>  |(si3, sib3), (lab3, solb3)|
             <piano_1_v5>  |(lab3, solb3), (mi3, mib3)|
         </mesure>
-        <mesure num=4>
+        <mesure num=11>
             <piano_1_v1>  |lab5, sol5|
             <piano_1_v2>  |sib4, -|
             <piano_1_v3>  |({mi5, mib5}, reb5), ({reb5, mi5}, mib5, reb5)|
             <piano_1_v4>  |mi3, mib3|
             <piano_1_v5>  |(reb3, sib2), (mib3, mib2)|
         </mesure>
-        <mesure num=5>
+        <mesure num=12>
             <piano_1_v1>  |lab5, _|
             <piano_1_v2>  |lab4, reb4|
             <piano_1_v3>  |do5, _|
             <piano_1_v4>  |(mib3, lab3), (solb3, fa3)|
             <piano_1_v5>  |lab2, (sib2, lab2)|
         </mesure>
-        <mesure num=6>
+        <mesure num=13>
             <piano_1_v1>  |(_, fa5), (mib5, reb5)|
             <piano_1_v4>  |(mib3, reb3), sib3|
             <piano_1_v5>  |solb2, solb3|
         </mesure>
-        <mesure num=7>
+        <mesure num=14>
             <piano_1_v1>  |(do5, lab4), (sib4, do5)|
             <piano_1_v2>  |(_, solb4), (fa4, mib4)|
             <piano_1_v4>  |(lab3, fa3), (solb3, lab3)|
             <piano_1_v5>  |(solb3, _), _|
         </mesure>
-        <mesure num=8>
+    </section>
+
+<meta>
+Episode II, 9 mesures, 2/2, Mib mineur vers Sib mineur, 60 BPM. Le deuxième épisode, plus étendu, exploite le second membre du sujet en mouvement contraire entre voix supérieures et inférieures ; la progression séquentielle par tierces et sixtes crée une descente harmonique depuis Lab majeur et Mib mineur vers le ton principal, préparant l'entrée des strettes.
+</meta>
+    <section=episodes, n_mesure=9, bpm=60, format=2/2, tonalite=Sib_mineur>
+        <mesure num=1>
             <piano_1_v1>  |reb5, -|
             <piano_1_v2>  |(reb4, solb4), fa4|
             <piano_1_v4>  |sib3, solb3|
         </mesure>
-    </section>
-
-<meta>
-Section de développement 5 — 8 mesures. Tonalité Sib mineur, tempo 90 BPM.
-</meta>
-    <section=section_6, n_mesure=8, bpm=90, format=2/2, tonalite=Sib_mineur>
-        <mesure num=1>
+        <mesure num=2>
             <piano_1_v1>  |reb5, do5|
             <piano_1_v2>  |mib4, -|
             <piano_1_v4>  |(lab3, sib3), (lab3, solb3)|
         </mesure>
-        <mesure num=2>
+        <mesure num=3>
             <piano_1_v1>  |(reb5, si4, sib4), si4|
             <piano_1_v2>  |_, (lab4, solb4, fa4)|
             <piano_1_v4>  |lab3, _|
             <piano_1_v5>  |fa3, (mib3, reb3)|
         </mesure>
-        <mesure num=3>
+        <mesure num=4>
             <piano_1_v1>  |(si4, sib4, lab4), (sib4, do5)|
             <piano_1_v2>  |(solb4, reb4), mib4|
             <piano_1_v4>  |(mib3, fa3), solb3|
         </mesure>
-        <mesure num=4>
+        <mesure num=5>
             <piano_1_v1>  |reb5, (do5, sib4)|
             <piano_1_v2>  |(_, lab4, solb4), (lab4, mib4)|
             <piano_1_v4>  |(solb3, fa3, mib3), (fa3, sol3)|
             <piano_1_v5>  |(lab3, _), _|
         </mesure>
-        <mesure num=5>
+        <mesure num=6>
             <piano_1_v1>  |(do5, re5), mib5|
             <piano_1_v2>  |(mib4, fa4), _|
             <piano_1_v4>  |lab3, (sol3, fa3)|
             <piano_1_v5>  |_, sib3|
         </mesure>
-        <mesure num=6>
+        <mesure num=7>
             <piano_1_v1>  |(mib5, reb5, do5), ({reb5, mib5}, reb5, mib5)|
             <piano_1_v2>  |(_, fa4), sib3|
             <piano_1_v4>  |(sol3, la3), ({sib3, do4}, sib3, do4)|
             <piano_1_v5>  |(sib3, _), _|
         </mesure>
-        <mesure num=7>
+        <mesure num=8>
             <piano_1_v1>  |fa5, mib5|
             <piano_1_v2>  |(_, reb5), (do5, sib4)|
             <piano_1_v4>  |({reb4, do4}, sib3, lab3), ({solb3, fa3}, solb3, mib3)|
         </mesure>
-        <mesure num=8>
+        <mesure num=9>
             <piano_1_v1>  |(mib5, mib5), (reb5, do5)|
             <piano_1_v2>  |({la4, sib4}, do5, la4), (fa4, lab4)|
             <piano_1_v4>  |fa3, sib2|
@@ -343,9 +331,9 @@ Section de développement 5 — 8 mesures. Tonalité Sib mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 6 — 8 mesures. Tonalité Sib mineur, tempo 90 BPM.
+Strette I, 11 mesures, 2/2, Mib mineur, 60 BPM. La première strette réunit les cinq voix en imitations rapprochées du sujet, chaque entrée chevauchant la précédente à distance d'une blanche ; ce resserrement contrapuntique, proche de la saturation harmonique, produit une tension expressive culminante et constitue le moment le plus élaboré techniquement de la fugue.
 </meta>
-    <section=section_7, n_mesure=8, bpm=90, format=2/2, tonalite=Sib_mineur>
+    <section=strettes, n_mesure=11, bpm=60, format=2/2, tonalite=Mib_mineur>
         <mesure num=1>
             <piano_1_v1>  |({sib4, do5}, reb5, sib4), solb4|
             <piano_1_v2>  |(solb4, fa4), mib4|
@@ -397,93 +385,93 @@ Section de développement 6 — 8 mesures. Tonalité Sib mineur, tempo 90 BPM.
             <piano_1_v4>  |(sib3, do4, reb4), mib4|
             <piano_1_v5>  |solb3, -|
         </mesure>
-    </section>
-
-<meta>
-Section de développement 7 — 8 mesures. Tonalité Sib mineur, tempo 90 BPM.
-</meta>
-    <section=section_8, n_mesure=8, bpm=90, format=2/2, tonalite=Sib_mineur>
-        <mesure num=1>
+        <mesure num=9>
             <piano_1_v1>  |(do5, sib4), (do5, reb5)|
             <piano_1_v2>  |(la4, sol4), (la4, sib4)|
             <piano_1_v4>  |(mib4, reb4), (do4, sib3)|
             <piano_1_v5>  |(solb3, fa3), (mib3, reb3)|
         </mesure>
-        <mesure num=2>
+        <mesure num=10>
             <piano_1_v1>  |(mib5, solb5), (fa5, mib5)|
             <piano_1_v2>  |(do5, mib5), (reb5, si4)|
             <piano_1_v4>  |la3, lab3|
             <piano_1_v5>  |do3, fa3|
         </mesure>
-        <mesure num=3>
+        <mesure num=11>
             <piano_1_v1>  |(re5, fa5), (mib5, reb5)|
             <piano_1_v2>  |(sib4, reb5), (do5, sib4)|
             <piano_1_v4>  |lab3, solb3|
             <piano_1_v5>  |sib2, mib3|
         </mesure>
-        <mesure num=4>
+    </section>
+
+<meta>
+Strette II et récapitulation, 9 mesures, 2/2, Sib mineur, 60 BPM. La seconde strette, plus serrée encore, ramène les cinq voix au ton principal en imitations à distance d'une blanche ; les entrées se chevauchent de façon plus uniforme, chaque voix relançant la suivante sans repos, jusqu'à la conclusion sur une tierce de Picardie qui transfigure l'obscurité du ton mineur en un accord majeur lumineux.
+</meta>
+    <section=recapitulation, n_mesure=9, bpm=60, format=2/2, tonalite=Sib_mineur>
+        <mesure num=1>
             <piano_1_v1>  |do5, reb5|
             <piano_1_v2>  |la4, sib4|
             <piano_1_v4>  |(solb3, fa3), (mib3, reb3)|
             <piano_1_v5>  |(mib3, reb3), (do3, sib2)|
         </mesure>
-        <mesure num=5>
+        <mesure num=2>
             <piano_1_v1>  |(reb5, do5), sib4|
             <piano_1_v2>  |mib4, mi4|
             <piano_1_v4>  |sib3, do4|
             <piano_1_v5>  |solb3, sol3|
         </mesure>
-        <mesure num=6>
+        <mesure num=3>
             <piano_1_v1>  |(la4, solb5), (fa5, mib5)|
             <piano_1_v2>  |(fa4, la4), (sib4, do5)|
             <piano_1_v4>  |reb3, -|
             <piano_1_v5>  |(reb4, do4), (reb4, mib4)|
         </mesure>
-        <mesure num=7>
+        <mesure num=4>
             <piano_1_v1>  |reb5, do5|
             <piano_1_v2>  |(do5, sib4), la4|
             <piano_1_v3>  |fa4, -|
             <piano_1_v4>  |reb3, fa2|
         </mesure>
-        <mesure num=8>
+        <mesure num=5>
             <piano_1_v1>  |sib4, -|
             <piano_1_v2>  |(sib4, lab4), (solb4, fa4)|
             <piano_1_v3>  |fa4, (mib4, reb4)|
             <piano_1_v4>  |solb2, -|
         </mesure>
-    </section>
-
-<meta>
-Section de développement 8 — 8 mesures. Tonalité Sib mineur, tempo 90 BPM.
-</meta>
-    <section=section_9, n_mesure=8, bpm=90, format=2/2, tonalite=Sib_mineur>
-        <mesure num=1>
+        <mesure num=6>
             <piano_1_v1>  |lab4, -|
             <piano_1_v2>  |si3, -|
             <piano_1_v3>  |(mib4, re4, mib4), fa4|
             <piano_1_v4>  |(solb2, fa2), (mib2, re2)|
         </mesure>
-        <mesure num=2>
+        <mesure num=7>
             <piano_1_v1>  |solb4, -|
             <piano_1_v2>  |(sib3, reb4), (do4, sib3)|
             <piano_1_v3>  |(fa4, fa4), (mib4, reb4)|
             <piano_1_v4>  |mib2, mib3|
         </mesure>
-        <mesure num=3>
+        <mesure num=8>
             <piano_1_v1>  |_, sib4|
             <piano_1_v2>  |(do4, mib4), reb4|
             <piano_1_v3>  |fa4, -|
             <piano_1_v4>  |(mib3, reb3, do3), (reb3, mib3)|
             <piano_1_v5>  |la3, sib3|
         </mesure>
-        <mesure num=4>
+        <mesure num=9>
             <piano_1_v1>  |fa4, (_, solb5)|
             <piano_1_v2>  |do4, sib3|
             <piano_1_v3>  |fa4, sib3|
             <piano_1_v4>  |la3, _|
             <piano_1_v5>  |(fa3, mib3), (reb3, do3)|
         </mesure>
-        <mesure num=5>
+    </section>
+
+<meta>
+Coda, 4 mesures, 2/2, Sib mineur vers Sib majeur, 60 BPM. La coda rassemble les reminiscences fragmentées du sujet dans les voix médiane et inférieure, conduisant à la cadence finale et à la tierce de Picardie qui résout la tension accumulée sur un accord de Sib majeur, dernier geste rhétorique d'une pièce hors du commun par sa gravité et son architecture.
+</meta>
+    <section=coda, n_mesure=4, bpm=60, format=2/2, tonalite=Sib_mineur>
+        <mesure num=1>
             <piano_1_v1>  |(fa5, mib5), (reb5, la4 do5)|
             <piano_1_v2>  |_, (_, solb4)|
             <piano_1_v3>  |(_, do5), (sib4, _)|
@@ -491,20 +479,20 @@ Section de développement 8 — 8 mesures. Tonalité Sib mineur, tempo 90 BPM.
             <piano_1_v5>  |fa3, sib2|
             <piano_1_v6>  |(reb3, la2), _|
         </mesure>
-        <mesure num=6>
+        <mesure num=2>
             <piano_1_v1>  |(sib4 reb5, la4 mib5), (sib4 fa5, do5 mib5)|
             <piano_1_v2>  |(fa4, mib4), (reb4, do4)|
             <piano_1_v4>  |(_, do4), (sib3, la3)|
             <piano_1_v5>  |fa2, (_, solb3)|
         </mesure>
-        <mesure num=7>
+        <mesure num=3>
             <piano_1_v1>  |(sib4 reb5, la4 do5), sib4|
             <piano_1_v2>  |({reb4, mib4}, fa4), solb4|
             <piano_1_v3>  |_, sib4|
             <piano_1_v4>  |(sib3, do4), (reb4, mib4)|
             <piano_1_v5>  |(fa3, mib3), (reb3, do3)|
         </mesure>
-        <mesure num=8>
+        <mesure num=4>
             <piano_1_v1>  |(sib4, do5), reb5|
             <piano_1_v2>  |(fa4 lab4, mib4 solb4), reb4 fa4|
             <piano_1_v4>  |sib3, -|
@@ -513,9 +501,9 @@ Section de développement 8 — 8 mesures. Tonalité Sib mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section conclusive — 3 mesures. Tonalité Sib mineur, tempo 90 BPM.
+Conclusion (tierce de Picardie), 3 mesures, 2/2, Sib majeur, 60 BPM. Ces trois dernières mesures dissolvent la tension en un accord de Sib majeur conclusif, dernier trait rhétorique qui illumine le ton mineur de la fugue entière et requiert un toucher ferme et résolu, laissant résonner l'accord final dans le grave.
 </meta>
-    <section=section_10, n_mesure=3, bpm=90, format=2/2, tonalite=Sib_mineur>
+    <section=coda, n_mesure=3, bpm=60, format=2/2, tonalite=Sib_majeur>
         <mesure num=1>
             <piano_1_v1>  |(reb5, reb5), (do5, sib4)|
             <piano_1_v2>  |sol4, do4|
