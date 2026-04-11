@@ -3,53 +3,53 @@
 TACHE : composition
 STYLE : baroque
 FORMAT : piano_solo
-NIVEAU : simple
-Titre : Fugue_bwv_870
-Date : ?
-Auteur : Bach
+NIVEAU : avance
+Titre : Fugue en do majeur, BWV 870, Clavier bien tempéré II n°1
+Date : 1742
+Auteur : Johann Sebastian Bach
 Tonalite : Do_majeur
 Unite : quarter
-Intention : Pièce pour piano solo, modéré, lumineux, au cadre binaire régulier. Tonalité : Do majeur. 83 mesures.
+Intention : Fugue à trois voix d'un caractère enjoué et lumineux, dont le sujet rythmique et assertif crée une énergie dansante portée jusqu'à une coda d'une vigueur sonore remarquable selon les mots de Tovey. Forme fugue à trois voix en do majeur, mesure à 2/4, 83 mesures, tempo modéré vif aux alentours de 90 pulsations par minute, avec contre-sujet présent tout au long de l'oeuvre.
 </tete>
 
 <meta>
-Section d'ouverture — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+Exposition : 8 mesures, tempo 90 BPM, mesure à 2/4, tonalité do majeur. Le sujet énergique entre à la voix de l'alto aux mesures 1 à 4, avec un motif initial vigoureux et rythmique suivi d'un contre-sujet fluide en doubles croches. La réponse réelle à la soprano (mesures 5 à 8) complète la présentation du matériau thématique fondamental. L'écriture à trois voix est déjà dense dès les premières mesures, et le contre-sujet devient un élément constant de la fugue.
 </meta>
-    <section=section_1, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
-        <mesure num=1>
+    <section=exposition, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+<mesure num=1>
             <piano_1_v1>  |(_, sol4, fa4), (sol4, do4)|
             <piano_1_v4>  |_, _|
         </mesure>
-        <mesure num=2>
+<mesure num=2>
             <piano_1_v1>  |la4, sol4|
             <piano_1_v2>  |{sol4, la4}|
             <piano_1_v4>  |_, _|
         </mesure>
-        <mesure num=3>
+<mesure num=3>
             <piano_1_v1>  |(_, fa4, mi4), ({fa4, sol4}, mi4, fa4)|
             <piano_1_v4>  |_, _|
         </mesure>
-        <mesure num=4>
+<mesure num=4>
             <piano_1_v1>  |({re4, fa4}, mi4, fa4), ({sol4, la4}, fa4, sol4)|
             <piano_1_v4>  |_, _|
         </mesure>
-        <mesure num=5>
+<mesure num=5>
             <piano_1_v1>  |(_, do5, si4), (do5, sol4)|
             <piano_1_v2>  |({mi4, re4}, mi4, fa4), ({mi4, fa4}, re4, mi4)|
             <piano_1_v4>  |_, _|
         </mesure>
-        <mesure num=6>
+<mesure num=6>
             <piano_1_v1>  |mi5, re5|
             <piano_1_v2>  |({do4, si3}, do4, re4), ({do4, re4}, si3, do4)|
             <piano_1_v3>  |{re5, mi5}|
             <piano_1_v4>  |_, _|
         </mesure>
-        <mesure num=7>
+<mesure num=7>
             <piano_1_v1>  |(_, do5, si4), ({do5, re5}, si4, do5)|
             <piano_1_v2>  |({la3, si3}, do4, re4), ({mi4, fa#4}, sol4)|
             <piano_1_v4>  |_, _|
         </mesure>
-        <mesure num=8>
+<mesure num=8>
             <piano_1_v1>  |({la4, do5}, si4, do5), ({re5, mi5}, do5, re5)|
             <piano_1_v2>  |(sol4, fa#4, mi4), fa#4|
             <piano_1_v4>  |_, _|
@@ -57,46 +57,46 @@ Section d'ouverture — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 1 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+Contre-exposition : 8 mesures, tempo 90 BPM, mesure à 2/4, tonalité do majeur. Le sujet revient à la basse dans le registre grave pendant que la soprano redéploie le contre-sujet en sixteenths notes. L'ordre d'entrée des voix est inversé par rapport à l'exposition, ce qui crée une nouvelle perspective sonore sur le même matériau thématique. Cette section renforce l'ancrage tonal en do majeur avant les vastes développements modulants qui suivent.
 </meta>
-    <section=section_2, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
-        <mesure num=1>
+    <section=contre_exposition, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+<mesure num=1>
             <piano_1_v1>  |({si4, la4}, si4, do5), ({si4, do5}, la4, si4)|
             <piano_1_v2>  |sol4, -|
             <piano_1_v4>  |(_, sol3, fa3), (sol3, do3)|
         </mesure>
-        <mesure num=2>
+<mesure num=2>
             <piano_1_v1>  |(do5, la4), (la#4, sol4)|
             <piano_1_v2>  |({sol4, mi4}, fa4), ({fa4, re4}, mi4)|
             <piano_1_v4>  |la3, sol3|
             <piano_1_v5>  |{sol3, la3}|
         </mesure>
-        <mesure num=3>
+<mesure num=3>
             <piano_1_v1>  |la4, (si4, do5)|
             <piano_1_v2>  |(mi4, re4), sol4|
             <piano_1_v4>  |(_, fa3, mi3), ({fa3, sol3}, mi3, fa3)|
         </mesure>
-        <mesure num=4>
+<mesure num=4>
             <piano_1_v1>  |(do5, do5), si4|
             <piano_1_v2>  |({fa4, la4}, sol4, la4), re4|
             <piano_1_v4>  |({re3, fa3}, mi3, fa3), ({sol3, la3}, fa3, sol3)|
         </mesure>
-        <mesure num=5>
+<mesure num=5>
             <piano_1_v1>  |(do5, sol5, fa5), (sol5, do5)|
             <piano_1_v2>  |(do4, _), _|
             <piano_1_v4>  |({mi3, re3}, mi3, fa3), ({mi3, fa3}, re3, mi3)|
         </mesure>
-        <mesure num=6>
+<mesure num=6>
             <piano_1_v1>  |la5, sol5|
             <piano_1_v2>  |(_, do5, si4), (do5, sol4)|
             <piano_1_v4>  |({fa3, mi3}, fa3, sol3), ({fa3, sol3}, mi3, fa3)|
         </mesure>
-        <mesure num=7>
+<mesure num=7>
             <piano_1_v1>  |(fa#5, la5, sol5), (la5, re5)|
             <piano_1_v2>  |re5, do5|
             <piano_1_v4>  |({re3, do#3}, re3, mi3), ({fa#3, sol3}, mi3, fa#3)|
         </mesure>
-        <mesure num=8>
+<mesure num=8>
             <piano_1_v1>  |si5, la5|
             <piano_1_v2>  |(si4, re5, do5), (re5, la4)|
             <piano_1_v4>  |({sol3, fa#3}, sol3, la3), ({sol3, la3}, fa3, sol3)|
@@ -104,46 +104,46 @@ Section de développement 1 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 2 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+Divertissement I : 8 mesures, tempo 90 BPM, mesure à 2/4, passages modulants vers La mineur et Mi mineur. Premier grand épisode de développement où les fragments du sujet circulent librement entre les trois voix en séquences descendantes. Bach déploie ici le procédé du canon par fragments, distribuant les motifs entre soprano, alto et basse en imitation décalée. La texture atteint des registres aigus inhabituels jusqu'au do6, accentuant la luminosité et l'élévation dramatique.
 </meta>
-    <section=section_3, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
-        <mesure num=1>
+    <section=divertissement, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+<mesure num=1>
             <piano_1_v1>  |(sol#5, si5, la5), (si5, mi5)|
             <piano_1_v2>  |mi5, re5|
             <piano_1_v4>  |({mi3, re3}, mi3, fa#3), ({sol#3, la3}, fa#3, sol#3)|
         </mesure>
-        <mesure num=2>
+<mesure num=2>
             <piano_1_v1>  |do6, -|
             <piano_1_v2>  |(do5, mi5, re5), (mi5, la5)|
             <piano_1_v4>  |({la3, sol#3}, la3, si3), ({la3, si3}, sol3, la3)|
         </mesure>
-        <mesure num=3>
+<mesure num=3>
             <piano_1_v1>  |(do6, do6), (si5, sol5)|
             <piano_1_v2>  |re5, -|
             <piano_1_v4>  |({fa#3, sol3}, mi3, fa#3), ({sol3, la3}, si3, sol3)|
         </mesure>
-        <mesure num=4>
+<mesure num=4>
             <piano_1_v1>  |mi5, (fa#5, sol5)|
             <piano_1_v2>  |(re5, do5, si4), (la4, si4)|
             <piano_1_v4>  |({do4, si3}, do4, re4), ({do4, re4}, si3, do4)|
         </mesure>
-        <mesure num=5>
+<mesure num=5>
             <piano_1_v1>  |(sol5, fa#5, mi5), (fa#5, sol5)|
             <piano_1_v2>  |(si4, la4, sol4), (la4, re4)|
             <piano_1_v3>  |_, ({sol5, fa#5, sol5}, fa#5)|
             <piano_1_v4>  |re4, -|
         </mesure>
-        <mesure num=6>
+<mesure num=6>
             <piano_1_v1>  |(sol5, mi5), (do#5, re5)|
             <piano_1_v2>  |si4, la4|
             <piano_1_v4>  |(sol3, sol4, fa4), ({sol4, la4}, fa4, sol4)|
         </mesure>
-        <mesure num=7>
+<mesure num=7>
             <piano_1_v1>  |({re5, sol5}, la#5, la5), ({sol5, fa5}, mi5, re5)|
             <piano_1_v2>  |(_, sol4, fa4), ({sol4, la4}, fa4, sol4)|
             <piano_1_v4>  |mi4, -|
         </mesure>
-        <mesure num=8>
+<mesure num=8>
             <piano_1_v1>  |(do#5, re5), do#5|
             <piano_1_v2>  |({mi4, sol4}, fa4, sol4), ({la4, la#4}, sol4, la4)|
             <piano_1_v4>  |(_, re4), (fa3, la3)|
@@ -151,46 +151,46 @@ Section de développement 2 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 3 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+Episodes : 8 mesures, tempo 90 BPM, mesure à 2/4, exploration des tons de Ré mineur et La majeur. Retour du sujet à la basse suivi d'épisodes en séquence descendante par tierces. Les ornements et mordants caractéristiques du contre-sujet confèrent à ce passage une souplesse expressive particulière. Cette section constitue le coeur modulant de la fugue, traversant plusieurs régions harmoniques avant de préparer le retour progressif vers do majeur.
 </meta>
-    <section=section_4, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
-        <mesure num=1>
+    <section=episodes, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+<mesure num=1>
             <piano_1_v1>  |(_, re5, do#5), (re5, la4)|
             <piano_1_v2>  |({fa4, mi4}, fa4, sol4), ({fa4, sol4}, mi4, fa4)|
             <piano_1_v4>  |(re3, _), _|
         </mesure>
-        <mesure num=2>
+<mesure num=2>
             <piano_1_v1>  |fa5, mi5|
             <piano_1_v2>  |({re4, do4}, re4, mi4), ({re4, mi4}, do4, re4)|
             <piano_1_v4>  |_, _|
         </mesure>
-        <mesure num=3>
+<mesure num=3>
             <piano_1_v1>  |(_, re5, do5), ({re5, mi5}, do5, re5)|
             <piano_1_v2>  |({si3, do4}, re4, mi4), ({fa#4, sol#4}, la4)|
             <piano_1_v4>  |_, _|
         </mesure>
-        <mesure num=4>
+<mesure num=4>
             <piano_1_v1>  |({si4, re5}, do5, re5), ({mi5, fa5}, re5, mi5)|
             <piano_1_v2>  |(la4, sol#4, fa#4), sol#4|
             <piano_1_v3>  |_, ({la4, sol#4, la4}, {sol#4, la4, sol#4})|
             <piano_1_v4>  |_, _|
         </mesure>
-        <mesure num=5>
+<mesure num=5>
             <piano_1_v1>  |(do5, mi5, re5), (mi5, do5)|
             <piano_1_v2>  |({la4, sol#4}, la4, si4), ({la4, si4}, sol4, la4)|
             <piano_1_v4>  |_, _|
         </mesure>
-        <mesure num=6>
+<mesure num=6>
             <piano_1_v1>  |(la5, do5), (la4, re5)|
             <piano_1_v2>  |({fa#4, mi4}, fa#4, sol4), ({fa#4, sol4}, mi4, fa#4)|
             <piano_1_v4>  |_, _|
         </mesure>
-        <mesure num=7>
+<mesure num=7>
             <piano_1_v1>  |(si4, re5, do5), (re5, si4)|
             <piano_1_v2>  |({sol4, fa#4}, sol4, la4), ({sol4, la4}, fa4, sol4)|
             <piano_1_v4>  |_, _|
         </mesure>
-        <mesure num=8>
+<mesure num=8>
             <piano_1_v1>  |(sol5, la#4), (sol4, do5)|
             <piano_1_v2>  |({mi4, re4}, mi4, fa4), ({mi4, fa4}, re4, mi4)|
             <piano_1_v4>  |_, _|
@@ -198,49 +198,49 @@ Section de développement 3 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 4 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+Développement central : 8 mesures, tempo 90 BPM, mesure à 2/4, retour progressif vers do majeur. La basse porte le sujet dans ses registres médians tandis que les voix supérieures échangent le contre-sujet et des fragments libres en imitation. Bach emploie ici la technique de la répétition cumulative sur la tonique, esquissant déjà les procédés de la coda finale. La densité contrapuntique s'intensifie mesure après mesure pour préparer les strettes.
 </meta>
-    <section=section_5, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
-        <mesure num=1>
+    <section=developpement, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+<mesure num=1>
             <piano_1_v1>  |(la4, re5, do5), ({re5, mi5}, do5, re5)|
             <piano_1_v2>  |({fa4, mi4}, fa4, sol4), ({fa4, sol4}, mi4, fa4)|
             <piano_1_v4>  |_, _|
         </mesure>
-        <mesure num=2>
+<mesure num=2>
             <piano_1_v1>  |({si4, la4}, si4, do5), ({si4, do5}, la4, si4)|
             <piano_1_v2>  |(re4, sol4, fa4), ({sol4, la4}, fa4, sol4)|
             <piano_1_v4>  |_, _|
         </mesure>
-        <mesure num=3>
+<mesure num=3>
             <piano_1_v1>  |(sol4, do5, si4), ({do5, re5}, la#4, do5)|
             <piano_1_v2>  |({mi4, re4}, mi4, fa4), ({mi4, fa4}, re4, mi4)|
             <piano_1_v4>  |_, _|
         </mesure>
-        <mesure num=4>
+<mesure num=4>
             <piano_1_v1>  |({la4, sol4}, la4, la#4), ({la4, la#4}, sol4, la4)|
             <piano_1_v2>  |(do4, fa4, mi4), ({fa4, sol4}, mi4, fa4)|
             <piano_1_v4>  |_, _|
         </mesure>
-        <mesure num=5>
+<mesure num=5>
             <piano_1_v1>  |fa4, -|
             <piano_1_v2>  |({re4, do4}, re4, mi4), ({re4, mi4}, do4, re4)|
             <piano_1_v3>  |({sol4, fa4, sol4}, {fa4, sol4, fa4}, {sol4, fa4}), fa4|
             <piano_1_v4>  |_, _|
         </mesure>
-        <mesure num=6>
+<mesure num=6>
             <piano_1_v1>  |(fa4, re5, do5), (re5, fa4)|
             <piano_1_v2>  |({si3, la3}, si3, do4), ({si3, do4}, la3, si3)|
             <piano_1_v3>  |fa4|
             <piano_1_v4>  |_, _|
         </mesure>
-        <mesure num=7>
+<mesure num=7>
             <piano_1_v1>  |({mi4, re4}, mi4, fa4), ({mi4, fa4}, re4, mi4)|
             <piano_1_v2>  |do4, -|
             <piano_1_v3>  |_, si3|
             <piano_1_v4>  |_, _|
             <piano_1_v5>  |(_, do3, si2), (do3, sol2)|
         </mesure>
-        <mesure num=8>
+<mesure num=8>
             <piano_1_v1>  |(do4, do4), (si3, si3)|
             <piano_1_v2>  |si3|
             <piano_1_v4>  |(si3, la3), ({la3, la3}, sol3)|
@@ -249,47 +249,47 @@ Section de développement 4 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 5 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+Strettes I : 8 mesures, tempo 90 BPM, mesure à 2/4, tonalité do majeur. Début des strettes avec chevauchements du sujet entre les voix à intervalles rapprochés. Les entrées canoniques se succèdent à distance d'une mesure, créant un resserrement polyphonique intense. Les voix inférieures maintiennent une ligne continue en doubles croches pendant que la soprano expose le sujet en notes longues. Cette section marque le début du crescendo final de la fugue.
 </meta>
-    <section=section_6, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
-        <mesure num=1>
+    <section=strettes, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+<mesure num=1>
             <piano_1_v1>  |la3, si3|
             <piano_1_v4>  |(sol3, sol3), (fa#3, sol3)|
             <piano_1_v5>  |(_, do3, si2), ({do3, re3}, si2, do3)|
         </mesure>
-        <mesure num=2>
+<mesure num=2>
             <piano_1_v1>  |do4, la3|
             <piano_1_v4>  |({sol3, fa#3}, sol3, mi3), fa#3|
             <piano_1_v5>  |({la2, do3}, si2, do3), ({re3, mi3}, do3, re3)|
         </mesure>
-        <mesure num=3>
+<mesure num=3>
             <piano_1_v1>  |re4, si3|
             <piano_1_v4>  |(fa#3, si3), sol3|
             <piano_1_v5>  |({si2, re3}, do3, re3), ({mi3, fa3}, re3, mi3)|
         </mesure>
-        <mesure num=4>
+<mesure num=4>
             <piano_1_v1>  |mi4, do4|
             <piano_1_v4>  |_, la3|
             <piano_1_v5>  |(sol3, do4), ({fa3, sol3}, mi3, fa3)|
             <piano_1_v6>  |({do3, mi3}, re3, mi3)|
         </mesure>
-        <mesure num=5>
+<mesure num=5>
             <piano_1_v1>  |fa4, re4|
             <piano_1_v2>  |re4, si3|
             <piano_1_v4>  |la3|
             <piano_1_v5>  |({re3, fa3}, mi3, fa3), ({sol3, la3}, fa3, sol3)|
         </mesure>
-        <mesure num=6>
+<mesure num=6>
             <piano_1_v1>  |sol4, (la4, si4)|
             <piano_1_v2>  |(si3, si3), (do4, re4)|
             <piano_1_v4>  |({mi3, re3}, mi3, fa3), ({mi3, fa3}, re3, mi3)|
         </mesure>
-        <mesure num=7>
+<mesure num=7>
             <piano_1_v1>  |do5, -|
             <piano_1_v2>  |(mi4, sol4, fa4), (sol4, do4)|
             <piano_1_v4>  |({do3, re3}, mi3, re3), ({do3, la#2}, la2, sol2)|
         </mesure>
-        <mesure num=8>
+<mesure num=8>
             <piano_1_v1>  |do5, -|
             <piano_1_v2>  |la4, sol4|
             <piano_1_v4>  |({fa2, mi2}, fa2, sol2), ({fa2, sol2}, mi2, fa2)|
@@ -297,45 +297,45 @@ Section de développement 5 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 6 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+Strettes II : 8 mesures, tempo 90 BPM, mesure à 2/4, tonalité do majeur avec pédale de dominante. Continuation et intensification des strettes, la polyphonie atteignant sa complexité maximale. Le sujet circule en imitation serrée entre toutes les voix pendant que la basse soutient une longue pédale de dominante puis de tonique. Cette section constitue la culmination architecturale de la fugue et prépare directement la coda virtuose que Tovey qualifie de spirited.
 </meta>
-    <section=section_7, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
-        <mesure num=1>
+    <section=strettes, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+<mesure num=1>
             <piano_1_v1>  |do5, -|
             <piano_1_v2>  |(_, fa4, mi4), ({fa4, sol4}, mi4, fa4)|
             <piano_1_v4>  |({re2, la2}, si2, do3), ({re3, mi3}, fa3, re3)|
         </mesure>
-        <mesure num=2>
+<mesure num=2>
             <piano_1_v1>  |do5, si4|
             <piano_1_v2>  |({re4, fa4}, mi4, fa4), ({sol4, la4}, fa4, sol4)|
             <piano_1_v4>  |sol3, -|
         </mesure>
-        <mesure num=3>
+<mesure num=3>
             <piano_1_v1>  |(_, do5, si4), (do5, sol4)|
             <piano_1_v2>  |({mi4, re4}, mi4, fa4), ({mi4, fa4}, re4, mi4)|
             <piano_1_v4>  |sol3, -|
         </mesure>
-        <mesure num=4>
+<mesure num=4>
             <piano_1_v1>  |mi5, re5|
             <piano_1_v2>  |({do4, si3}, do4, re4), ({do4, re4}, si3, do4)|
             <piano_1_v4>  |sol3, -|
         </mesure>
-        <mesure num=5>
+<mesure num=5>
             <piano_1_v1>  |(_, do5, si4), ({do5, re5}, si4, do5)|
             <piano_1_v2>  |({la3, si3}, do4, re4), ({mi4, fa#4}, sol4)|
             <piano_1_v4>  |_, (_, si3)|
         </mesure>
-        <mesure num=6>
+<mesure num=6>
             <piano_1_v1>  |({la4, do5}, si4, do5), ({re5, mi5}, do5, re5)|
             <piano_1_v2>  |(sol4, sol4), fa#4|
             <piano_1_v4>  |(do4, la3), (re4, re3)|
         </mesure>
-        <mesure num=7>
+<mesure num=7>
             <piano_1_v1>  |(si4, re5, do5), (re5, sol4)|
             <piano_1_v2>  |sol4, _|
             <piano_1_v4>  |({sol2, fa#2}, sol2, la2), ({si2, do3}, la2, si2)|
         </mesure>
-        <mesure num=8>
+<mesure num=8>
             <piano_1_v1>  |mi5, re5|
             <piano_1_v2>  |(_, sol4, fa4), (sol4, re4)|
             <piano_1_v4>  |({do3, si2}, do3, re3), ({do3, re3}, si2, do3)|
@@ -343,45 +343,45 @@ Section de développement 6 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 7 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+Récapitulation : 8 mesures, tempo 90 BPM, mesure à 2/4, tonalité do majeur. Retour du sujet dans sa forme originale, confié à la soprano dans le registre aigu. Le contre-sujet accompagne fidèlement chaque entrée, confirmant la cohérence thématique de l'ensemble. Bach ramène ici les éléments constitutifs de la fugue dans leur tonalité première, scellant la logique tonale de l'oeuvre avant la grande coda conclusive aux répétitions cumulatives.
 </meta>
-    <section=section_8, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
-        <mesure num=1>
+    <section=recapitulation, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+<mesure num=1>
             <piano_1_v1>  |(do5, mi5, re5), (mi5, la4)|
             <piano_1_v2>  |la4, sol4|
             <piano_1_v4>  |({la2, sol#2}, la2, si2), ({do3, re3}, si2, do3)|
         </mesure>
-        <mesure num=2>
+<mesure num=2>
             <piano_1_v1>  |fa5, mi5|
             <piano_1_v2>  |(fa4, la4, sol4), (la4, mi4)|
             <piano_1_v4>  |({re3, do3}, re3, mi3), ({re3, mi3}, do3, re3)|
         </mesure>
-        <mesure num=3>
+<mesure num=3>
             <piano_1_v1>  |(re5, fa5, mi5), (fa5, si4)|
             <piano_1_v2>  |si4, la4|
             <piano_1_v4>  |({si2, la2}, si2, do3), ({re3, mi3}, do3, re3)|
         </mesure>
-        <mesure num=4>
+<mesure num=4>
             <piano_1_v1>  |sol5, fa5|
             <piano_1_v2>  |(sol4, si4, la4), (si4, sol4)|
             <piano_1_v4>  |({mi3, re3}, mi3, fa3), ({mi3, fa3}, re3, mi3)|
         </mesure>
-        <mesure num=5>
+<mesure num=5>
             <piano_1_v1>  |(mi5, fa5), sol5|
             <piano_1_v2>  |do5, la#4|
             <piano_1_v4>  |({do3, si2}, do3, re3), ({mi3, fa3}, re3, mi3)|
         </mesure>
-        <mesure num=6>
+<mesure num=6>
             <piano_1_v1>  |sol5, fa5|
             <piano_1_v2>  |la4, -|
             <piano_1_v4>  |({fa3, sol3}, fa3, mi3), ({re3, do3}, si2, la2)|
         </mesure>
-        <mesure num=7>
+<mesure num=7>
             <piano_1_v1>  |fa5, mi5|
             <piano_1_v2>  |sol4, -|
             <piano_1_v4>  |({si2, sol2}, la2, si2), ({do3, re3}, si2, do3)|
         </mesure>
-        <mesure num=8>
+<mesure num=8>
             <piano_1_v1>  |mi5, (re5, do5)|
             <piano_1_v2>  |fa4, -|
             <piano_1_v4>  |({la2, do3}, si2, do3), ({re3, mi3}, fa3, re3)|
@@ -389,45 +389,45 @@ Section de développement 7 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 8 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+Coda : 8 mesures, tempo 90 BPM, mesure à 2/4, tonalité do majeur. Début de la grande coda finale avec le procédé de répétition cumulative sur la tonique, cher à Bach. Les trois voix maintiennent des tenues en do pendant que les doubles croches du contre-sujet circulent entre les registres. L'effet d'accumulation harmonique prépare la résolution conclusive et confère à l'ensemble une vigueur sonore croissante qui justifie le commentaire enthousiaste de Tovey sur cette section.
 </meta>
-    <section=section_9, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
-        <mesure num=1>
+    <section=coda, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+<mesure num=1>
             <piano_1_v1>  |(si4, sol4), do5|
             <piano_1_v2>  |fa4, mi4|
             <piano_1_v4>  |({sol3, la3}, fa3, sol3), ({la3, si3}, sol3, la3)|
         </mesure>
-        <mesure num=2>
+<mesure num=2>
             <piano_1_v1>  |do5, si4|
             <piano_1_v2>  |re4, ({re4, fa4}, mi4, re4)|
             <piano_1_v4>  |({fa3, sol3}, mi3, fa3), ({sol3, la3}, fa3, sol3)|
         </mesure>
-        <mesure num=3>
+<mesure num=3>
             <piano_1_v1>  |(do5, re5), ({sol4, do5}, si4)|
             <piano_1_v2>  |({sol4, la4}, fa4, sol4), (mi4, re4)|
             <piano_1_v4>  |(mi3, fa3), (sol3, sol#3)|
         </mesure>
-        <mesure num=4>
+<mesure num=4>
             <piano_1_v1>  |({do5, fa4}, mi4, re4), ({mi4, fa4}, re4, mi4)|
             <piano_1_v2>  |do4, -|
             <piano_1_v4>  |(la2, sol3, fa3), (sol3, do3)|
         </mesure>
-        <mesure num=5>
+<mesure num=5>
             <piano_1_v1>  |({fa4, mi4}, fa4, sol4), ({fa4, sol4}, mi4, fa4)|
             <piano_1_v2>  |do4, -|
             <piano_1_v4>  |la3, sol3|
         </mesure>
-        <mesure num=6>
+<mesure num=6>
             <piano_1_v1>  |({re4, do4}, re4, mi4), ({re4, mi4}, do4, re4)|
             <piano_1_v2>  |do4, -|
             <piano_1_v4>  |(_, fa3, mi3), (fa3, re3)|
         </mesure>
-        <mesure num=7>
+<mesure num=7>
             <piano_1_v1>  |({mi4, re4}, mi4, fa4), ({mi4, fa4}, re4, mi4)|
             <piano_1_v2>  |(do4, do4), si3|
             <piano_1_v4>  |sol3, fa3|
         </mesure>
-        <mesure num=8>
+<mesure num=8>
             <piano_1_v1>  |do4, -|
             <piano_1_v2>  |do4|
             <piano_1_v4>  |(sol3, fa3), (sol3, do3)|
@@ -436,45 +436,45 @@ Section de développement 8 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 9 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+Coda finale : 8 mesures, tempo 90 BPM, mesure à 2/4, tonalité do majeur. Poursuite des répétitions cumulatives sur la tonique, selon le procédé bachien décrit par Tovey comme favorisant la vigoureuse sonorité de la conclusion. Les lignes en doubles croches parcourent l'ensemble du registre avec assurance, ancrant fermement do majeur. Cette section de huit mesures prépare immédiatement les trois mesures de conclusion qui achèvent la fugue par un accord parfait en arpège.
 </meta>
-    <section=section_10, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
-        <mesure num=1>
+    <section=coda, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+<mesure num=1>
             <piano_1_v1>  |do4, -|
             <piano_1_v4>  |la3, sol3|
             <piano_1_v5>  |({fa3, mi3}, fa3, sol3), ({fa3, sol3}, mi3, fa3)|
         </mesure>
-        <mesure num=2>
+<mesure num=2>
             <piano_1_v1>  |do4, -|
             <piano_1_v4>  |(_, fa3, mi3), (fa3, re3)|
             <piano_1_v5>  |({re3, do3}, re3, mi3), ({re3, do3}, si2, la2)|
         </mesure>
-        <mesure num=3>
+<mesure num=3>
             <piano_1_v1>  |(do4, si3), (do4, re4)|
             <piano_1_v4>  |sol3, (la3, si3)|
             <piano_1_v5>  |({sol2, fa2}, sol2, la2), ({sol2, fa2}, mi2, re2)|
         </mesure>
-        <mesure num=4>
+<mesure num=4>
             <piano_1_v1>  |(mi4, sol4, fa4), (sol4, do4)|
             <piano_1_v2>  |(do4, la#3, la3), (la#3, mi4)|
             <piano_1_v4>  |({do2, do3}, mi3, do3), ({do2, do3}, sol3, do3)|
         </mesure>
-        <mesure num=5>
+<mesure num=5>
             <piano_1_v1>  |la4, sol4|
             <piano_1_v2>  |fa4, mi4|
             <piano_1_v4>  |({do2, re2}, mi2, fa2), ({sol2, la2}, si2, do3)|
         </mesure>
-        <mesure num=6>
+<mesure num=6>
             <piano_1_v1>  |_, _|
             <piano_1_v2>  |(_, fa4, mi4), (fa4, re4)|
             <piano_1_v4>  |({do2, do3}, re3, do3), ({do2, do3}, fa3, do3)|
         </mesure>
-        <mesure num=7>
+<mesure num=7>
             <piano_1_v1>  |sol4, fa4|
             <piano_1_v2>  |(_, re4, do4), (re4, sol3)|
             <piano_1_v4>  |({si2, do3}, si2, la2), ({sol2, fa2}, mi2, re2)|
         </mesure>
-        <mesure num=8>
+<mesure num=8>
             <piano_1_v1>  |(do4 mi4, fa4 sol#4), (mi4 sol4, sol#4 si4)|
             <piano_1_v2>  |(_, si3), (do4, re4)|
             <piano_1_v4>  |({do2, do3}, re3, do3), ({mi3, do3}, fa3, do3)|
@@ -482,21 +482,21 @@ Section de développement 9 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section conclusive — 3 mesures. Tonalité Do majeur, tempo 90 BPM.
+Conclusion : 3 mesures, tempo 90 BPM, mesure à 2/4, tonalité do majeur. Les trois dernières mesures réunissent toutes les voix dans l'accord parfait de do majeur en arpège ascendant sur quatre octaves. La basse tient la fondamentale grave pendant que la soprano sonne le do aigu, offrant une résolution simple et majestueuse après la densité polyphonique des strettes et de la coda. Le caractère festif et lumineux de cette conclusion confirme la nature triomphante de la fugue.
 </meta>
-    <section=section_11, n_mesure=3, bpm=90, format=2/4, tonalite=Do_majeur>
-        <mesure num=1>
+    <section=coda, n_mesure=3, bpm=90, format=2/4, tonalite=Do_majeur>
+<mesure num=1>
             <piano_1_v1>  |(sol4 do5, re4 fa4), (mi4, do5)|
             <piano_1_v2>  |(mi4, si3), (do4 mi4, mi4)|
             <piano_1_v4>  |({sol3, do3}, sol#3, do3), ({sol3, do3}, si2, do3)|
         </mesure>
-        <mesure num=2>
+<mesure num=2>
             <piano_1_v1>  |(re4, do5), (fa4, si4)|
             <piano_1_v2>  |(re4, _), (re4, _)|
             <piano_1_v4>  |(la3, _), (sol3, _)|
             <piano_1_v5>  |(fa2, _), (sol2, _)|
         </mesure>
-        <mesure num=3>
+<mesure num=3>
             <piano_1_v1>  |do4 mi4 sol4 do5, -|
             <piano_1_v4>  |do2, -|
         </mesure>
