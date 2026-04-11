@@ -3,19 +3,20 @@
 TACHE : composition
 STYLE : baroque
 FORMAT : piano_solo
-NIVEAU : simple
-Titre : Prelude_bwv_875
-Date : ?
-Auteur : Bach
+NIVEAU : intermediaire
+Titre : Prélude en Ré mineur, BWV 875 (Clavier bien tempéré, Livre II, n°6)
+Date : 1742
+Auteur : Johann Sebastian Bach
 Tonalite : Re_mineur
 Unite : quarter
-Intention : Pièce pour piano solo, modéré, mélancolique, au balancement ternaire. Tonalité : Re mineur. 58 mesures.
+Intention : Prélude pour deux voix d'un caractère sérieux, dévot et fluide, bâti en moto perpetuo sur une harmonie simple qui laisse courir les figures imitatives sans heurt, dans le style d'un balancement ternaire continu. Tonalité Ré mineur, mesure 3/4, 58 mesures, tempo modéré d'environ 90 BPM ; la structure se divise en deux grandes parties d'ampleur quasi égale, la première cadençant sur la dominante mineur, la seconde revenant à la tonique avec une courte coda pédale.
 </tete>
 
 <meta>
-Section d'ouverture — 8 mesures. Tonalité Re mineur, tempo 90 BPM.
+Première partie, section A, 8 mesures. Tonalité Ré mineur avec pédale de tonique, tempo 90 BPM, mesure 3/4.
+L'ouverture pose les deux voix sur une pédale de tonique, la voix supérieure descendant par degrés conjoints de la quinte à la tonique tandis que la basse soutient le bourdon de Ré. Les mesures 5 à 8 reprennent le même matériau avec les voix interverties, établissant solidement la tonalité. Jouer legato et égal, comme une musique de caractère coulant sans aspérités rythmiques.
 </meta>
-    <section=section_1, n_mesure=8, bpm=90, format=3/4, tonalite=Re_mineur>
+    <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Re_mineur>
         <mesure num=1>
             <piano_1_v1>  |(re5, do5, sib4), ({la4, sol4}, fa4, mi4), ({re4, fa4}, mi4, re4)|
             <piano_1_v3>  |re3, re2, _|
@@ -52,9 +53,10 @@ Section d'ouverture — 8 mesures. Tonalité Re mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 1 — 8 mesures. Tonalité Re mineur, tempo 90 BPM.
+Première partie, section B, 8 mesures. Modulations vers Fa majeur et La mineur, tempo 90 BPM, mesure 3/4.
+Cette section introduit une nouvelle figure contrapuntique à la basse, imitée librement par les deux voix alternativement. Les incursions vers Fa majeur (mesure 11-13) et vers La mineur (mesure 15-18) enrichissent la palette harmonique avant le retour. Jouer avec une légère articulation dans les motifs imitatifs, en différenciant les deux voix par la couleur et l'intonation.
 </meta>
-    <section=section_2, n_mesure=8, bpm=90, format=3/4, tonalite=Re_mineur>
+    <section=partie_B, n_mesure=8, bpm=90, format=3/4, tonalite=Fa_majeur>
         <mesure num=1>
             <piano_1_v1>  |(re5, do5, sib4), ({la4, sol4}, fa4, mi4), (fa4, la4)|
             <piano_1_v3>  |({fa3, re3}, mi3, fa3), ({sol3, la3}, si3, reb4), ({re4, do4}, si3, la3)|
@@ -90,9 +92,10 @@ Section de développement 1 — 8 mesures. Tonalité Re mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 2 — 8 mesures. Tonalité Re mineur, tempo 90 BPM.
+Développement central, 8 mesures. Modulation vers Sol mineur, tempo 90 BPM, mesure 3/4.
+Le développement élabore une série de trilles harmoniques en accords répétés, explorant les degrés voisins de Sol mineur par demi-tons chromatiques. La texture se fige sur des formules répétitives qui accumulent la tension harmonique avant la résolution. L'interprète jouera ces figures répétitives avec une égalité stricte, en laissant les notes de passage chromatiques s'entendre distinctement.
 </meta>
-    <section=section_3, n_mesure=8, bpm=90, format=3/4, tonalite=Re_mineur>
+    <section=developpement, n_mesure=8, bpm=90, format=3/4, tonalite=Sol_mineur>
         <mesure num=1>
             <piano_1_v1>  |({sib4, sol5}, sib4, la4), ({sol4, sib4}, sol4, fa4), ({mib4, sib4}, mib4, re4)|
             <piano_1_v3>  |(sol2, sol3, la3), (sib3, re4), (sol3, sib3)|
@@ -128,9 +131,10 @@ Section de développement 2 — 8 mesures. Tonalité Re mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 3 — 8 mesures. Tonalité Re mineur, tempo 90 BPM.
+Deuxième partie, section A, 8 mesures. Modulation vers La majeur et Ré mineur, tempo 90 BPM, mesure 3/4.
+La deuxième partie reprend le matériau initial transposé à la dominante (La mineur), avant de ramener progressivement la tonique. Les figures en accords répétés s'apaisent en dialogue expressif des deux voix. L'interprète mènera ce passage avec une douce continuité, en soulignant les instants de résolution harmonique.
 </meta>
-    <section=section_4, n_mesure=8, bpm=90, format=3/4, tonalite=Re_mineur>
+    <section=transition, n_mesure=8, bpm=90, format=3/4, tonalite=La_majeur>
         <mesure num=1>
             <piano_1_v1>  |({lab4, re5}, lab4, solb4), ({lab4, re5}, lab4, re5), ({lab4, re5}, lab4, re5)|
             <piano_1_v3>  |(mi4, si4), (mi4, si4), (mi4, si4)|
@@ -167,9 +171,10 @@ Section de développement 3 — 8 mesures. Tonalité Re mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 4 — 8 mesures. Tonalité Re mineur, tempo 90 BPM.
+Deuxième partie, section B, 8 mesures. Retour à Ré mineur, tempo 90 BPM, mesure 3/4.
+Les deux voix reprennent leur dialogue en imitations libres, conduisant au retour des figures initiales de la tonique. La ligne supérieure entrelace des motifs descendants chromatiques tandis que la basse soutient la progression harmonique. Jouer avec un sentiment de retour apaisé, en nuançant les tensions chromatiques pour préparer la coda.
 </meta>
-    <section=section_5, n_mesure=8, bpm=90, format=3/4, tonalite=Re_mineur>
+    <section=pont, n_mesure=8, bpm=90, format=3/4, tonalite=Re_mineur>
         <mesure num=1>
             <piano_1_v1>  |({re5, si4}, la4, si4), ({re5, si4}, lab4, si4), ({re5, si4}, lab4, si4)|
             <piano_1_v3>  |(si3, re4), (lab3, si3), (mi4, mi3)|
@@ -210,9 +215,10 @@ Section de développement 4 — 8 mesures. Tonalité Re mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 5 — 8 mesures. Tonalité Re mineur, tempo 90 BPM.
+Episodes chromatiques, 8 mesures. Modulations expressives vers Sib majeur et La mineur, tempo 90 BPM, mesure 3/4.
+Cette section concentre les inflexions chromatiques les plus audacieuses du prélude, enchaînant des séquences descendantes par demi-tons sur fond de basse soutenue. Les deux voix se rejoignent en une longue pédale harmonique. L'interprète conduira ce passage avec fluidité et continuité de phrase, en faisant entendre les changements harmoniques subtils sans briser le fil du moto perpetuo.
 </meta>
-    <section=section_6, n_mesure=8, bpm=90, format=3/4, tonalite=Re_mineur>
+    <section=episodes, n_mesure=8, bpm=90, format=3/4, tonalite=Sib_majeur>
         <mesure num=1>
             <piano_1_v1>  |(do5, reb5), (re5, mi5), (fa5, solb5)|
             <piano_1_v3>  |({mi3, sib3}, la3, sol3), ({fa3, sol3}, fa3, mi3), ({re3, mib3}, re3, do3)|
@@ -248,9 +254,10 @@ Section de développement 5 — 8 mesures. Tonalité Re mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 6 — 8 mesures. Tonalité Re mineur, tempo 90 BPM.
+Récapitulation et retour, 8 mesures. Tonalité Ré mineur, tempo 90 BPM, mesure 3/4.
+Le matériau introductif des deux voix réapparaît légèrement varié, portant les traces du périple harmonique accompli. Les figures contrapuntiques s'élargissent vers les registres extrêmes avant de se recentrer sur la tonique. Jouer avec plénitude, en laissant entendre la résolution finale comme une conclusion sereine et inévitable.
 </meta>
-    <section=section_7, n_mesure=8, bpm=90, format=3/4, tonalite=Re_mineur>
+    <section=recapitulation, n_mesure=8, bpm=90, format=3/4, tonalite=Re_mineur>
         <mesure num=1>
             <piano_1_v1>  |({fa4, sol4}, la4, sol4), ({mi4, sol4}, la4, sol4), (la3, sol4)|
             <piano_1_v3>  |(reb3, mi2), (sol2, reb2), ({_, reb3}, si2, la2)|
@@ -288,9 +295,10 @@ Section de développement 6 — 8 mesures. Tonalité Re mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section conclusive — 2 mesures. Tonalité Re mineur, tempo 90 BPM.
+Coda, 2 mesures. Pédale de tonique Ré mineur, tempo 90 BPM, mesure 3/4.
+La coda resserre les voix sur la tonique en accords répétés qui s'éteignent progressivement, la main gauche tenant la basse pendant que la droite immobilise le mouvement. La dernière mesure laisse résonner la tierce mineure et la quinte dans un unisson final. Terminer en decrescendo, laissant la résonance du dernier accord s'épanouir dans le silence.
 </meta>
-    <section=section_8, n_mesure=2, bpm=90, format=3/4, tonalite=Re_mineur>
+    <section=coda, n_mesure=2, bpm=90, format=3/4, tonalite=Re_mineur>
         <mesure num=1>
             <piano_1_v1>  |({re4, do4}, do4), ({re4, do4}, do4), ({re4, do4}, do4)|
             <piano_1_v3>  |solb3, solb3, solb3|
