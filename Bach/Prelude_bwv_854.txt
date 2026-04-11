@@ -4,18 +4,18 @@ TACHE : composition
 STYLE : baroque
 FORMAT : piano_solo
 NIVEAU : intermediaire
-Titre : Prelude_bwv_854
-Date : ?
-Auteur : Bach
+Titre : Prélude en Mi majeur, BWV 854
+Date : 1722
+Auteur : Johann Sebastian Bach
 Tonalite : Mi_majeur
 Unite : quarter
-Intention : Pièce pour piano solo, modéré, lumineux, au cadre binaire régulier. Tonalité : Mi majeur. 22 mesures.
+Intention : Prélude lumineux et élancé, fondé sur une figure mélodique ornementale continue en 12/8, qui déploie une énergie douce et régulière propre à l'écriture baroque de Bach. Forme tripartite en Mi majeur, 22 mesures à 90 BPM, où la texture à trois ou quatre voix au piano fait alterner pédale de tonique, incursions modulantes et retour expressif à la tonalité principale.
 </tete>
 
 <meta>
-Section d'ouverture — 8 mesures. Tonalité Mi majeur, tempo 90 BPM.
+Partie A, 8 mesures, 12/8, Mi majeur, 90 BPM. Bach pose d'emblée la tonalité de Mi majeur par une pédale de tonique aux mesures 1 et 2, puis développe la figure thématique initiale vers la dominante (Si majeur) pour conclure cette période par une cadence parfaite. L'écriture ornementale en triolets ininterrompus confère à cette section un mouvement continu et un élan lumineux ; jouer avec une légèreté de touché et un legato souple met en valeur la ligne mélodique.
 </meta>
-    <section=section_1, n_mesure=8, bpm=90, format=12/8, tonalite=Mi_majeur>
+    <section=partie_A, n_mesure=8, bpm=90, format=12/8, tonalite=Mi_majeur>
         <mesure num=1>
             <piano_1_v1>  |mi4, sol#4, si4, mi5, re#5, mi5, do#5, si4, do#5, mi5, -, -|
             <piano_1_v2>  |_, _, _, _, _, _, ({re#5, do#5}, {re#5, do#5})|
@@ -63,9 +63,9 @@ Section d'ouverture — 8 mesures. Tonalité Mi majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 1 — 8 mesures. Tonalité Mi majeur, tempo 90 BPM.
+Partie B, 8 mesures, 12/8, modulation vers Fa#_mineur puis retour Mi majeur, 90 BPM. Cette section centrale constitue le coeur modulant du prélude : Bach s'éloigne de la tonique en dirigeant le discours vers fa dièse mineur dès les premières mesures, puis effectue un retour progressif à Mi majeur. L'écriture se densifie ponctuellement avec des doubles notes et des mouvements chromatiques ; maintenir une pulsation régulière permet de faire ressortir la logique harmonique du voyage tonal.
 </meta>
-    <section=section_2, n_mesure=8, bpm=90, format=12/8, tonalite=Mi_majeur>
+    <section=partie_B, n_mesure=8, bpm=90, format=12/8, tonalite=Mi_majeur>
         <mesure num=1>
             <piano_1_v1>  |si5, sol#5, la5, la5, fa#5, sol#5, sol#5, fa5, fa#5, (fa5, fa#5), sol#5, do#5|
             <piano_1_v3>  |do#4, -, -, si3, -, -, do4, -, -, do#4, -, -|
@@ -110,9 +110,9 @@ Section de développement 1 — 8 mesures. Tonalité Mi majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section conclusive — 6 mesures. Tonalité Mi majeur, tempo 90 BPM.
+Coda, 6 mesures, 12/8, Mi majeur, 90 BPM. La conclusion reprend l'esprit de l'ouverture en Mi majeur tout en faisant entendre une pédale de sous-dominante (La) suivie d'une pédale de dominante (Si) qui amplifient la tension vers la résolution finale. La cadence plagale des deux dernières mesures confère à la clôture une sérénité apaisée et lumineuse, caractéristique du style contemplatif de Bach ; tenir les voix graves avec fermeté tandis que la mélodie se dissout dans le registre aigu produit un effet de clôture particulièrement expressif.
 </meta>
-    <section=section_3, n_mesure=6, bpm=90, format=12/8, tonalite=Mi_majeur>
+    <section=coda, n_mesure=6, bpm=90, format=12/8, tonalite=Mi_majeur>
         <mesure num=1>
             <piano_1_v1>  |si3, re#4, fa#4, si4, la4, si4, do#4, mi4, sol#4, la4, -, -|
             <piano_1_v3>  |la3, -, -, sol#3, -, -, -, -, -, sol#3, fa#3, mi3|
