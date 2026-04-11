@@ -3,19 +3,19 @@
 TACHE : composition
 STYLE : romantique
 FORMAT : piano_solo
-NIVEAU : intermediaire
-Titre : Etudes_op_25_8
-Date : ?
-Auteur : Chopin
-Tonalite : Do#_majeur
+NIVEAU : avance
+Titre : Étude op.25 n°8 en Ré bémol majeur «Sixtes»
+Date : 1836
+Auteur : Frédéric Chopin
+Tonalite : Reb_majeur
 Unite : quarter
-Intention : Pièce pour piano solo, modéré, lumineux, au cadre binaire régulier. Tonalité : Do# majeur. 36 mesures.
+Intention : Élégance jubilatoire et virtuosité brillante, cette étude consacre le travail des sixtes parallèles dans les deux mains, exigeant une égalité et une fluidité parfaites dans un intervalle moins naturel que la tierce mais d'une plénitude sonore incomparable. Forme binaire en Ré bémol majeur, 36 mesures en 4/4, Vivace (69 BPM), la pièce la plus courte de l'opus 25, où le défi technique concentré crée une densité expressive maximale en peu de mesures.
 </tete>
 
 <meta>
-Section d'ouverture — 8 mesures. Tonalité Do# majeur, tempo 69 BPM.
+8 mesures, Ré bémol majeur, tempo 69 BPM. Présentation du motif de sixtes parallèles dans les deux mains simultanément, créant une texture d'une plénitude veloutée caractéristique de Chopin. La difficulté réside dans le doigté inhabituel (1-4 et 2-5) et dans l'égalisation des deux voix de chaque sixte. Travailler d'abord les sixtes seules, lentement, voix aiguë puis voix grave séparément.
 </meta>
-    <section=section_1, n_mesure=8, bpm=69, format=4/4, tonalite=Do#_majeur>
+    <section=exposition, n_mesure=8, bpm=69, format=4/4, tonalite=Reb_majeur>
         <mesure num=1>
             <piano_1_v1>  |(fa#4 re#5, {sol#4 fa5, fa#4 re#5}), (sol#4 fa5, {fa#4 re#5, sol#4 fa5}), (fa4 do#5, {fa#4 re#5, sol4 mi5}), (la#4 fa#5, {sol#4 fa5, fa4 do#5})|
             <piano_1_v2>  |(sol#1, {do3 sol#3, re#3 do4}), (sol#3 re#4, {re#3 do4, do3 sol#3}), (do#2, {do3 sol#3, fa3 do#4}), (do#3 sol#3, {fa3 do#4, do#3 sol#3})|
@@ -51,9 +51,9 @@ Section d'ouverture — 8 mesures. Tonalité Do# majeur, tempo 69 BPM.
     </section>
 
 <meta>
-Section de développement 1 — 8 mesures. Tonalité Do# majeur, tempo 69 BPM.
+8 mesures, Ré bémol majeur, enrichissement harmonique, tempo 69 BPM. Les sixtes parallèles s'aventurent dans les régions chromatiques et modulantes; les doigtés se compliquent avec des glissements de demi-tons. La pédale doit être utilisée avec parcimonie pour maintenir la clarté des sixtes dans les passages rapides.
 </meta>
-    <section=section_2, n_mesure=8, bpm=69, format=4/4, tonalite=Do#_majeur>
+    <section=developpement, n_mesure=8, bpm=69, format=4/4, tonalite=Reb_majeur>
         <mesure num=1>
             <piano_1_v1>  |(do#5 la#5, {fa#5 re#6, mi5 do6}), (fa5 do#6, {do#5 la#5, fa5 do#6}), (re#5 do6, {fa5 do#6, re#5 do6}), (do#5 la#5, {do5 la5, re#5 do6})|
             <piano_1_v2>  |(la#2, {fa3 do#4, la#3 fa4}), (do#4 la#4, {la#3 fa4, fa3 do#4}), (fa2, {fa3 do4, la3 fa4}), (do4 la4, {la3 fa4, fa3 do4})|
@@ -89,9 +89,9 @@ Section de développement 1 — 8 mesures. Tonalité Do# majeur, tempo 69 BPM.
     </section>
 
 <meta>
-Section de développement 2 — 8 mesures. Tonalité Do# majeur, tempo 69 BPM.
+8 mesures, modulations expressives, tempo 69 BPM. Passage par les tonalités voisines, créant des couleurs harmoniques variées sur fond de sixtes continues. Les sixtes ici atteignent un climax expressif avec des intervalles plus larges; l'oreille doit percevoir la ligne mélodique supérieure comme une mélodie chantée.
 </meta>
-    <section=section_3, n_mesure=8, bpm=69, format=4/4, tonalite=Do#_majeur>
+    <section=developpement, n_mesure=8, bpm=69, format=4/4, tonalite=Reb_majeur>
         <mesure num=1>
             <piano_1_v1>  |(sol#4 mi5, {sol4 re#5, la#4 sol5}), (sol#4 fa5, {do5 sol#5, la#4 sol5}), (do#5 la#5, {do5 sol#5, re#5 do6}), (do#5 la#5, {fa5 do#6, re#5 do6})|
             <piano_1_v2>  |(sol#2 sol3, {do#3 re#3, sol#2 sol3}), (do#3 re#3, {sol#2 sol3, do#3 re#3}), (sol#2 sol3, {do#3 re#3, sol#2 sol3}), (do#3 re#3, {sol#2 sol3, do#3 re#3})|
@@ -127,9 +127,9 @@ Section de développement 2 — 8 mesures. Tonalité Do# majeur, tempo 69 BPM.
     </section>
 
 <meta>
-Section de développement 3 — 8 mesures. Tonalité Do# majeur, tempo 69 BPM.
+8 mesures, retour en Ré bémol majeur, tempo 69 BPM. Réexposition du thème principal avec une légère densification de la texture; le retour en Ré bémol apporte une satisfaction harmonique après les modulations. La plénitude sonore des sixtes doit ici atteindre sa plus grande richesse.
 </meta>
-    <section=section_4, n_mesure=8, bpm=69, format=4/4, tonalite=Do#_majeur>
+    <section=recapitulation, n_mesure=8, bpm=69, format=4/4, tonalite=Reb_majeur>
         <mesure num=1>
             <piano_1_v1>  |(sol#5 fa6, {sol5 re#6, sol#5 fa6}), (sol5 re#6, {sol#5 fa6, sol5 re#6}), (sol#5 fa6, {sol5 re#6, sol#5 fa6}), (sol5 re#6, {sol#5 fa6, sol5 re#6})|
             <piano_1_v2>  |re#4 do#5, _, _, la1 la2|
@@ -165,9 +165,9 @@ Section de développement 3 — 8 mesures. Tonalité Do# majeur, tempo 69 BPM.
     </section>
 
 <meta>
-Section conclusive — 4 mesures. Tonalité Do# majeur, tempo 69 BPM.
+4 mesures conclusives, Ré bémol majeur, tempo 69 BPM. La coda concentre le matériau thématique en formules cadentielles brillantes. Les sixtes finales s'enchaînent en gammes descendantes vers la tonique grave. Terminer avec clarté et précision, sans accélération finale.
 </meta>
-    <section=section_5, n_mesure=4, bpm=69, format=4/4, tonalite=Do#_majeur>
+    <section=coda, n_mesure=4, bpm=69, format=4/4, tonalite=Reb_majeur>
         <mesure num=1>
             <piano_1_v1>  |(fa4 do#5, {fa#4 re5, sol4 re#5}), (sol#4 mi5, {la4 fa5, la#4 fa#5}), (si4 sol5, {do5 sol#5, do#5 la5}), (re5 la#5, {re#5 si5, mi5 do6})|
             <piano_1_v2>  |(sol#2 sol#3, {re#3 fa#3, sol#2 sol#3}), (re#3 fa#3, {sol#2 sol#3, re#3 fa#3}), (sol#2 sol#3, {re#3 fa#3, sol#2 sol#3}), (re#3 fa#3, {sol#2 sol#3, re#3 fa#3})|

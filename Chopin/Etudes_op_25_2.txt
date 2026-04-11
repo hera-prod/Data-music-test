@@ -3,19 +3,19 @@
 TACHE : composition
 STYLE : romantique
 FORMAT : piano_solo
-NIVEAU : simple
-Titre : Etudes_op_25_2
-Date : ?
-Auteur : Chopin
-Tonalite : Lab_majeur
+NIVEAU : avance
+Titre : Étude op.25 n°2 en Fa mineur «Les Abeilles»
+Date : 1836
+Auteur : Frédéric Chopin
+Tonalite : Fa_mineur
 Unite : quarter
-Intention : Pièce pour piano solo, modéré, lumineux, au cadre binaire régulier. Tonalité : Lab majeur. 70 mesures.
+Intention : Légèreté inquiète et bourdonnante, cette étude oppose un essaim de triolets de croches à la main droite (joués sotto voce et leggiero) à des triolets de noires syncopés à la main gauche, établissant une polyrythmie délicate qui met à l'épreuve l'indépendance et la transparence des deux mains. Forme ABA en Fa mineur, 70 mesures en alla breve (2/2), Presto (90 BPM), tout en nuances piano, ce qui en fait paradoxalement l'une des études les plus difficiles à maîtriser musicalement.
 </tete>
 
 <meta>
-Section d'ouverture — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures, tonalité Fa mineur, tempo 90 BPM. La main droite égrène un motif de triolets de doubles croches en flux ininterrompu, portant une mélodie vocale au-dessus d'une pédalisation harmonique à la main gauche. La difficulté fondamentale est de jouer très vite et très doucement simultanément, en gardant la polyrythmie 2:3 lisible sans l'accentuer de façon mécanique.
 </meta>
-    <section=section_1, n_mesure=8, bpm=90, format=2/2, tonalite=Lab_majeur>
+    <section=partie_A, n_mesure=8, bpm=90, format=2/2, tonalite=Fa_mineur>
         <mesure num=1>
             <piano_1_v1>  |do5|
             <piano_1_v3>  |_|
@@ -51,9 +51,9 @@ Section d'ouverture — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 1 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures, Fa mineur, tempo 90 BPM. Répétition variée du premier thème avec des extensions mélodiques vers le registre aigu; la ligne intérieure de la main gauche commence à affirmer un contrechant expressif. Veiller à la fluidité des rotations de poignet qui rendent possible la légèreté du toucher.
 </meta>
-    <section=section_2, n_mesure=8, bpm=90, format=2/2, tonalite=Lab_majeur>
+    <section=partie_A, n_mesure=8, bpm=90, format=2/2, tonalite=Fa_mineur>
         <mesure num=1>
             <piano_1_v1>  |({sib5, do6}, {lab5, sol5, lab5}, fa5), ({mi5, sol5}, {fa5, mi5, fa5}, reb5)|
             <piano_1_v3>  |(fa3, {fa4, do4}), (lab3, {fa4, reb4})|
@@ -89,9 +89,9 @@ Section de développement 1 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 2 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures, modulation vers La bémol majeur relatif, tempo 90 BPM. La section centrale apporte une couleur majeure apaisée; le motif de triolets se transforme en lignes plus lyriques. L'accent mis sur les deuxièmes temps de la main gauche crée une basse mélodique que l'oreille perçoit comme une voix indépendante. Mettre en valeur discrètement ce contrepoint.
 </meta>
-    <section=section_3, n_mesure=8, bpm=90, format=2/2, tonalite=Lab_majeur>
+    <section=partie_B, n_mesure=8, bpm=90, format=2/2, tonalite=Fa_mineur>
         <mesure num=1>
             <piano_1_v1>  |({lab4, sib4}, {lab4, sol4, lab4}, la4), ({sib4, do5}, {sib4, do5, fa4}, sol4)|
             <piano_1_v3>  |(lab2, {do4, mib3}), (mi3, {reb4, mib3})|
@@ -127,9 +127,9 @@ Section de développement 2 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 3 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures, développement harmonique, tempo 90 BPM. Enrichissement chromatique de la texture avec des inflexions vers les tons voisins; le contrechant de la main gauche s'intensifie avant le retour du thème principal. La dynamique reste piano malgré l'augmentation de la densité harmonique.
 </meta>
-    <section=section_4, n_mesure=8, bpm=90, format=2/2, tonalite=Lab_majeur>
+    <section=partie_B, n_mesure=8, bpm=90, format=2/2, tonalite=Fa_mineur>
         <mesure num=1>
             <piano_1_v1>  |({fa5, sol5}, {fa5, mi5, fa5}, do5), ({reb5, mib5}, {reb5, do5, reb5}, si4)|
             <piano_1_v3>  |(sib2, {reb4, sol3}), (fa3, {reb4, sol3})|
@@ -165,9 +165,9 @@ Section de développement 3 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 4 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures, retour en Fa mineur, tempo 90 BPM. Réexposition du premier thème avec de légères variations ornementales; le retour crée une impression de résolution après les tensions harmoniques de la partie centrale. Appliquer le rubato indiqué dans la coda: allongement du tempo sur la montée, resserrement sur la descente.
 </meta>
-    <section=section_5, n_mesure=8, bpm=90, format=2/2, tonalite=Lab_majeur>
+    <section=partie_A, n_mesure=8, bpm=90, format=2/2, tonalite=Fa_mineur>
         <mesure num=1>
             <piano_1_v1>  |({lab5, sib5}, {lab5, sol5, lab5}, mi5), ({fa5, sol5}, {fa5, mi5, fa5}, reb5)|
             <piano_1_v3>  |(reb3, {fa4, sib3}), (lab3, {fa4, sib3})|
@@ -203,9 +203,9 @@ Section de développement 4 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 5 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures, Fa mineur développé, tempo 90 BPM. L'écriture s'élargit vers le registre suraigu, accentuant la brillance et l'intensité expressives. La polyrythmie atteint ici son point de friction maximale entre les deux mains; maintenir impérativement la pulsation intérieure à deux temps (alla breve).
 </meta>
-    <section=section_6, n_mesure=8, bpm=90, format=2/2, tonalite=Lab_majeur>
+    <section=partie_A, n_mesure=8, bpm=90, format=2/2, tonalite=Fa_mineur>
         <mesure num=1>
             <piano_1_v1>  |({sib4, do5}, {sib4, la4, sib4}, si4), ({do5, reb5}, {do5, reb5, sol4}, la4)|
             <piano_1_v3>  |(sib2, {reb4, fa3}), (solb3, {mib4, fa3})|
@@ -241,9 +241,9 @@ Section de développement 5 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 6 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures, continuation en Fa mineur, tempo 90 BPM. Continuation du développement thématique avec des sauts plus larges dans la main droite, prolongeant la tension expressive avant la grande coda. La main gauche doit garder un rôle de soutien rythmique précis sans alourdissement.
 </meta>
-    <section=section_7, n_mesure=8, bpm=90, format=2/2, tonalite=Lab_majeur>
+    <section=partie_A, n_mesure=8, bpm=90, format=2/2, tonalite=Fa_mineur>
         <mesure num=1>
             <piano_1_v1>  |({sol4, sol5}, {fa5, mi5, reb5}, do5), ({sib4, lab4}, {sol4, fa4, sol4}, lab4)|
             <piano_1_v3>  |(do3, {mi4, sol3}), (fa3, {reb4, lab3})|
@@ -279,9 +279,9 @@ Section de développement 6 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 7 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures, retour du thème initial, tempo 90 BPM. Ultime réaffirmation du thème, légèrement plus ornée, conduisant vers la résolution finale. Une courte ligne descendante chromatique au registre aigu annonce la coda en conduisant à une suspension expressive avant la conclusion.
 </meta>
-    <section=section_8, n_mesure=8, bpm=90, format=2/2, tonalite=Lab_majeur>
+    <section=recapitulation, n_mesure=8, bpm=90, format=2/2, tonalite=Fa_mineur>
         <mesure num=1>
             <piano_1_v1>  |({do5, reb5}, {do5, si4, do5}, sol4), ({lab4, sib4}, {lab4, sol4, lab4}, fa4)|
             <piano_1_v3>  |(do3, {do4, lab3}), (fa3, {do4, lab3})|
@@ -317,9 +317,9 @@ Section de développement 7 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section conclusive — 6 mesures. Tonalité Lab majeur, tempo 90 BPM.
+6 mesures conclusives en Fa mineur, tempo 90 BPM. La coda distille l'essence harmonique en quelques accords purs en Fa mineur, les triolets s'immobilisent progressivement jusqu'à la dernière quinte creuse. Le silence final doit être aussi éloquent que la note.
 </meta>
-    <section=section_9, n_mesure=6, bpm=90, format=2/2, tonalite=Lab_majeur>
+    <section=coda, n_mesure=6, bpm=90, format=2/2, tonalite=Fa_mineur>
         <mesure num=1>
             <piano_1_v1>  |({do5, reb5}, {si4, do5, lab4}, sib4), ({do5, reb5}, {do5, reb5, fa5}, mib5)|
             <piano_1_v3>  |(do3, {fa4, do4}), (lab3, {fa4, reb4})|

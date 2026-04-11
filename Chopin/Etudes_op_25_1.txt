@@ -3,19 +3,19 @@
 TACHE : composition
 STYLE : romantique
 FORMAT : piano_solo
-NIVEAU : intermediaire
-Titre : Etudes_op_25_1
-Date : ?
-Auteur : Chopin
+NIVEAU : avance
+Titre : Étude op.25 n°1 en La bémol majeur «Harpe éolienne»
+Date : 1836
+Auteur : Frédéric Chopin
 Tonalite : Lab_majeur
 Unite : quarter
-Intention : Pièce pour piano solo, animé, lumineux, au cadre binaire régulier. Tonalité : Lab majeur. 50 mesures.
+Intention : Rêverie aérienne et lumineuse, cette étude déploie une mélodie chantante sur un flux ininterrompu d'arpèges brisés qui évoquent le frémissement d'une harpe caressée par le vent, exigeant une légèreté absolue du toucher et une maîtrise des voix internes. Forme de rondo avec variations modulantes en La bémol majeur, 50 mesures en 4/4, Allegro sostenuto (104 BPM), six sextuplets continus par mesure dans les deux mains.
 </tete>
 
 <meta>
-Section d'ouverture — 8 mesures. Tonalité Lab majeur, tempo 104 BPM.
+16 mesures, tonalité Lab majeur, tempo 104 BPM. Le thème principal émerge dès la première mesure dans la voix supérieure du sextuplet, portée par le cinquième doigt de la main droite sur fond d'arpèges ascendants-descendants en La bémol majeur. Jouer avec un legato absolu et veiller à ce que la mélodie soprano chante au-dessus du bruissement des voix internes. Le balancement harmonieux entre tonique et dominante crée un effet de trille éolien.
 </meta>
-    <section=section_1, n_mesure=8, bpm=104, format=4/4, tonalite=Lab_majeur>
+    <section=exposition, n_mesure=8, bpm=104, format=4/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |mib5, -, -, -|
             <piano_1_v2>  |_, _, _, _|
@@ -51,9 +51,9 @@ Section d'ouverture — 8 mesures. Tonalité Lab majeur, tempo 104 BPM.
     </section>
 
 <meta>
-Section de développement 1 — 8 mesures. Tonalité Lab majeur, tempo 104 BPM.
+8 mesures, tonalité Lab majeur, tempo 104 BPM. Variations harmoniques par modulations transitoires sur les degrés voisins, le thème initial se métamorphose en volutes plus larges exigeant des sauts de douzième et de treizième. La pédale de tenue soutient le halo harmonique sans brouiller la clarté mélodique.
 </meta>
-    <section=section_2, n_mesure=8, bpm=104, format=4/4, tonalite=Lab_majeur>
+    <section=developpement, n_mesure=8, bpm=104, format=4/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |({sib4, mib4}, {lab4, sib3, mib4}, lab4), ({do5, mib4}, {lab4, sib3, mib4}, lab4), ({reb5, mib4}, {sol4, sib3, reb4}, mib4), ({mib4, sib3}, {reb4, mib3, sib3}, reb4)|
             <piano_1_v2>  |({mib2, sib2}, {mib3, reb4, mib3}, sib2), ({mib2, sib2}, {mib3, lab3, mib3}, sib2), ({mib2, sib2}, {mib3, sol3, mib3}, sib2), ({mib2, sib2}, {reb3, sol3, reb3}, sib2)|
@@ -89,9 +89,9 @@ Section de développement 1 — 8 mesures. Tonalité Lab majeur, tempo 104 BPM.
     </section>
 
 <meta>
-Section de développement 2 — 8 mesures. Tonalité Lab majeur, tempo 104 BPM.
+8 mesures, modulations chromatiques, tempo 104 BPM. Épisode central dans les tons relatifs avec passage fugace vers la tonalité lointaine de La majeur, moment de tension et de couleur contrastante qui renforce la luminosité de la réexposition. La main gauche assume momentanément le rôle polyrythmique pour enrichir la texture.
 </meta>
-    <section=section_3, n_mesure=8, bpm=104, format=4/4, tonalite=Lab_majeur>
+    <section=developpement, n_mesure=8, bpm=104, format=4/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |({re5, fa4}, {sol4, do4, fa4}, sol4), ({do5, mi4}, {sol4, do4, mi4}, sol4), ({do5, re4}, {sol4, do4, re4}, sol4), ({do5, mi4}, {sol4, do4, mi4}, sol4)|
             <piano_1_v2>  |({do2, sol2}, {do3, sol3, do3}, sol2), ({do2, sol2}, {do3, sol3, do3}, sol2), ({do2, sol2}, {do3, sol3, do3}, sol2), ({do2, sol2}, {do3, sol3}, do3)|
@@ -127,9 +127,9 @@ Section de développement 2 — 8 mesures. Tonalité Lab majeur, tempo 104 BPM.
     </section>
 
 <meta>
-Section de développement 3 — 8 mesures. Tonalité Lab majeur, tempo 104 BPM.
+8 mesures, retour progressif vers Lab majeur, tempo 104 BPM. Climax expressif avec un registre aigu de la main droite montant jusqu'au do6; les arpèges s'élargissent encore, créant un effet de gong sonore avant le retour du thème. Maintenir l'égalité de la sonorité dans les notes les plus exposées.
 </meta>
-    <section=section_4, n_mesure=8, bpm=104, format=4/4, tonalite=Lab_majeur>
+    <section=developpement, n_mesure=8, bpm=104, format=4/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |({mi5, la4}, {reb5, mi4, la4}, reb5), ({re5, la4}, {si4, re4, la4}, si4), ({solb5, la4}, {si4, solb4, la4}, si4), ({mi5, lab4}, {re5, mi4, lab4}, re5)|
             <piano_1_v2>  |({la2, mi3}, {la3, reb4, la3}, mi3), ({la2, solb3}, {la3, si3, la3}, solb3), ({la2, solb3}, {la3, re4, la3}, solb3), ({la2, mi3}, {lab3, re4, lab3}, mi3)|
@@ -165,9 +165,9 @@ Section de développement 3 — 8 mesures. Tonalité Lab majeur, tempo 104 BPM.
     </section>
 
 <meta>
-Section de développement 4 — 8 mesures. Tonalité Lab majeur, tempo 104 BPM.
+16 mesures, retour au thème en Lab majeur, tempo 104 BPM. Le thème initial revient identique dans son architecture harmonique mais enrichi par la mémoire du développement; le piano doit ici retrouver la fraîcheur onirique du début tout en laissant percevoir la maturité du voyage harmonique. Allègement progressif de la dynamique vers pp.
 </meta>
-    <section=section_5, n_mesure=8, bpm=104, format=4/4, tonalite=Lab_majeur>
+    <section=recapitulation, n_mesure=8, bpm=104, format=4/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |({mib5, la4}, {do5, mib4, la4}, do5), ({fa5, la4}, {do5, mib4, la4}, do5), ({solb5, la4}, {do5, mib4, la4}, do5), ({fa5, la4}, {do5, mib4, la4}, do5)|
             <piano_1_v2>  |({mib2, la3}, do4, la3), ({mib3, la3}, {do4, la3}, mib3), ({mib2, la3}, do4, la3), ({mib3, la3}, {fa4, la3}, mib3)|
@@ -203,9 +203,9 @@ Section de développement 4 — 8 mesures. Tonalité Lab majeur, tempo 104 BPM.
     </section>
 
 <meta>
-Section de développement 5 — 8 mesures. Tonalité Lab majeur, tempo 104 BPM.
+8 mesures, dissolution progressive en Lab majeur, tempo 104 BPM. Le discours se fragmente en formules répétées en registre moyen puis grave, produisant un effet de résonance cristalline; le flux de sextuplets s'élargit en nappes d'octaves. Laisser le son s'évaporer comme un souffle d'air.
 </meta>
-    <section=section_6, n_mesure=8, bpm=104, format=4/4, tonalite=Lab_majeur>
+    <section=recapitulation, n_mesure=8, bpm=104, format=4/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |({lab5, lab4}, {do5, mib4, lab4}, do5), ({mib5, lab4}, {do5, mib4, lab4}, do5), ({fa5, lab4}, {do5, mib4, lab4}, do5), ({mib5, lab4}, {do5, mib4, lab4}, do5)|
             <piano_1_v2>  |({lab2, mib3}, {lab3, do4, lab3}, mib3), ({lab2, mib3}, {lab3, do4, lab3}, mib3), ({lab2, mib3}, {lab3, do4, lab3}, mib3), ({lab2, mib3}, {lab3, do4, lab3}, mib3)|
@@ -242,9 +242,9 @@ Section de développement 5 — 8 mesures. Tonalité Lab majeur, tempo 104 BPM.
     </section>
 
 <meta>
-Section conclusive — 2 mesures. Tonalité Lab majeur, tempo 104 BPM.
+2 mesures conclusives en Lab majeur, tempo 104 BPM. La coda condense le geste harmonique essentiel en une montée puis une descente arpégée jusqu'au grave, laissant la tonique vibrer dans le registre le plus grave du piano comme un écho lointain. Ne pas forcer la dynamique finale; la note tenue doit s'éteindre naturellement.
 </meta>
-    <section=section_7, n_mesure=2, bpm=104, format=4/4, tonalite=Lab_majeur>
+    <section=coda, n_mesure=2, bpm=104, format=4/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |lab4, lab5 lab6, _, mib4 do5|
             <piano_1_v2>  |lab3, lab2 mib3 do4, _, {fa2, mib2}|

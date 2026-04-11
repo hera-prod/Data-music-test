@@ -3,19 +3,19 @@
 TACHE : composition
 STYLE : romantique
 FORMAT : piano_solo
-NIVEAU : simple
-Titre : Etudes_op_25_10
-Date : ?
-Auteur : Chopin
-Tonalite : Si_majeur
+NIVEAU : avance
+Titre : Étude op.25 n°10 en Si mineur «Octaves»
+Date : 1836
+Auteur : Frédéric Chopin
+Tonalite : Si_mineur
 Unite : quarter
-Intention : Pièce pour piano solo, modéré, lumineux, au cadre binaire régulier. Tonalité : Si majeur. 119 mesures.
+Intention : Puissance colossale et endurance héroïque, cette étude est la plus exigeante techniquement de l'opus 25, imposant des octaves chromatiques rapides dans les deux mains sur toute l'étendue du clavier; Horowitz la qualifiait de quasi injouable telle qu'écrite. Forme ternaire ABA' en Si mineur, 119 mesures en 4/4, Allegro con fuoco (72 BPM), avec une section centrale plus lente et chantante en Si majeur offrant un répit expressif entre deux tempêtes d'octaves.
 </tete>
 
 <meta>
-Section d'ouverture — 8 mesures. Tonalité Si majeur, tempo 72 BPM.
+8 mesures, Si mineur, tempo 72 BPM. Présentation de l'ossature chromatique ascendante et descendante en octaves dans les deux mains en parallèle, créant immédiatement une impression de force indomptable. La coordination des octaves entre les deux mains est le premier obstacle; chaque octave doit sonner comme un bloc unique, sans priorité d'une main sur l'autre.
 </meta>
-    <section=section_1, n_mesure=8, bpm=72, format=4/4, tonalite=Si_majeur>
+    <section=partie_A, n_mesure=8, bpm=72, format=4/4, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |(fa#3 fa#4, {fa3 fa4, fa#3 fa#4}), (sol3 sol4, {sol#3 sol#4, la3 la4}), (sol#3 sol#4, {sol3 sol4, sol#3 sol#4}), (la3 la4, {la#3 la#4, si3 si4})|
             <piano_1_v4>  |(fa#1 fa#2, {fa1 fa2, fa#1 fa#2}), (sol1 sol2, {sol#1 sol#2, la1 la2}), (sol#1 sol#2, {sol1 sol2, sol#1 sol#2}), (la1 la2, {la#1 la#2, si1 si2})|
@@ -59,9 +59,9 @@ Section d'ouverture — 8 mesures. Tonalité Si majeur, tempo 72 BPM.
     </section>
 
 <meta>
-Section de développement 1 — 8 mesures. Tonalité Si majeur, tempo 72 BPM.
+8 mesures, Si mineur, tempo 72 BPM. Continuation du thème A avec des figures chromatiques ascendantes plus longues. L'endurance musculaire commence à être sollicitée dès cette section; la rotation d'avant-bras doit rester détendue pour éviter les crampes. Jouer d'abord à tempo lent en maintenant la qualité de l'octave.
 </meta>
-    <section=section_2, n_mesure=8, bpm=72, format=4/4, tonalite=Si_majeur>
+    <section=partie_A, n_mesure=8, bpm=72, format=4/4, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |(re4 re5, {do#4 do#5, re4 re5}), (mi4 mi5, {fa4 fa5, sol4 sol5}), (fa4 fa5, {mi4 mi5, re4 re5}), (do#4 do#5, {re4 re5, mi4 mi5})|
             <piano_1_v2>  |la#4, -, la4, -|
@@ -111,9 +111,9 @@ Section de développement 1 — 8 mesures. Tonalité Si majeur, tempo 72 BPM.
     </section>
 
 <meta>
-Section de développement 2 — 8 mesures. Tonalité Si majeur, tempo 72 BPM.
+8 mesures, Si mineur, développement, tempo 72 BPM. Développement du matériau initial avec des sauts plus larges entre les groupes d'octaves; la dynamique monte progressivement vers le forte. Garder les poignets souples et les épaules relâchées à chaque instant.
 </meta>
-    <section=section_3, n_mesure=8, bpm=72, format=4/4, tonalite=Si_majeur>
+    <section=partie_A, n_mesure=8, bpm=72, format=4/4, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |(si4 si5, {la#4 la#5, si4 si5}), (do5 do6, {do#5 do#6, re5 re6}), (do#5 do#6, {do5 do6, si4 si5}), (la#4 la#5, {si4 si5, do#5 do#6})|
             <piano_1_v2>  |fa5 sol5, -, fa5 sol5, fa5 sol5|
@@ -155,9 +155,9 @@ Section de développement 2 — 8 mesures. Tonalité Si majeur, tempo 72 BPM.
     </section>
 
 <meta>
-Section de développement 3 — 8 mesures. Tonalité Si majeur, tempo 72 BPM.
+8 mesures, Si mineur, intensification, tempo 72 BPM. La texture s'épaissit avec des accords intérieurs ajoutés aux octaves; les notes centrales des accords (à ne pas écourter selon Horowitz) enrichissent la couleur harmonique. La dynamique atteint son apex avant la transition vers la section lente.
 </meta>
-    <section=section_4, n_mesure=8, bpm=72, format=4/4, tonalite=Si_majeur>
+    <section=partie_A, n_mesure=8, bpm=72, format=4/4, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |(si3 si4, {fa#3 fa#4, la#3 la#4}), (do#4 do#5, {la#3 la#4, re4 re5}), (la#3 la#4, {si3 si4, mi4 mi5}), (do#4 do#5, {re4 re5, sol4 sol5})|
             <piano_1_v4>  |(fa#1 fa#2, la#1 la#2), (do#2 do#3, {la#1 la#2, re2 re3}), (la#1 la#2, {si1 si2, mi2 mi3}), (do#2 do#3, {re2 re3, sol2 sol3})|
@@ -195,9 +195,9 @@ Section de développement 3 — 8 mesures. Tonalité Si majeur, tempo 72 BPM.
     </section>
 
 <meta>
-Section de développement 4 — 8 mesures. Tonalité Si majeur, tempo 72 BPM.
+8 mesures, transition vers Si majeur, tempo 72 BPM. Transition harmonique préparant le section B; les octaves se font plus lyriques. Quatre accords forts marquent la césure structurelle entre les sections A et B. Prendre légèrement plus de temps sur ces accords pour signaler le changement de caractère.
 </meta>
-    <section=section_5, n_mesure=8, bpm=72, format=4/4, tonalite=Si_majeur>
+    <section=partie_A, n_mesure=8, bpm=72, format=4/4, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |(re#4 re#5, mi4 mi5), (fa4 fa5, fa#4 fa#5), (la#4 la#5, sol#4 sol#5)|
             <piano_1_v4>  |_, si3, -, -|
@@ -238,9 +238,9 @@ Section de développement 4 — 8 mesures. Tonalité Si majeur, tempo 72 BPM.
     </section>
 
 <meta>
-Section de développement 5 — 8 mesures. Tonalité Si majeur, tempo 72 BPM.
+8 mesures, Si majeur, Andante, tempo 72 BPM. Section centrale lyrique et contemplative en Si majeur; les octaves se transforment en lignes chantées. Cette section apporte un répit expressif après la violence des sections extérieures. Jouer les octaves de la section B avec un toucher plus enveloppant et une pédale généreuse.
 </meta>
-    <section=section_6, n_mesure=8, bpm=72, format=4/4, tonalite=Si_majeur>
+    <section=partie_B, n_mesure=8, bpm=72, format=4/4, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |(re#4 re#5, mi4 mi5), (fa4 fa5, fa#4 fa#5), (la#4 la#5, sol#4 sol#5)|
             <piano_1_v4>  |_, si3, -, -|
@@ -281,9 +281,9 @@ Section de développement 5 — 8 mesures. Tonalité Si majeur, tempo 72 BPM.
     </section>
 
 <meta>
-Section de développement 6 — 8 mesures. Tonalité Si majeur, tempo 72 BPM.
+8 mesures, Si majeur, développement lyrique, tempo 72 BPM. Les octaves de la section B sont plus espacées, parfois à une octave de distance, créant des contrastes d'ambitus importants. La ligne mélodique doit s'épanouir vocalement, comme si un chanteur de grande envergure prenait la parole.
 </meta>
-    <section=section_7, n_mesure=8, bpm=72, format=4/4, tonalite=Si_majeur>
+    <section=partie_B, n_mesure=8, bpm=72, format=4/4, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |(sol#4 sol#5, fa#4 fa#5), (mi4 mi5, re#4 re#5), (mi4 mi5, do#4 do#5)|
             <piano_1_v4>  |do3 re#4, do#3 do#4, mi3 sol3, -|
@@ -333,9 +333,9 @@ Section de développement 6 — 8 mesures. Tonalité Si majeur, tempo 72 BPM.
     </section>
 
 <meta>
-Section de développement 7 — 8 mesures. Tonalité Si majeur, tempo 72 BPM.
+8 mesures, Si majeur, profondeur expressive, tempo 72 BPM. Moment d'intensité poétique maximale de l'étude; les harmonies s'enrichissent de modulations inattendues. Permettre au rubato de s'exprimer pleinement dans cette section, en dilatant les moments expressifs.
 </meta>
-    <section=section_8, n_mesure=8, bpm=72, format=4/4, tonalite=Si_majeur>
+    <section=partie_B, n_mesure=8, bpm=72, format=4/4, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |(fa#4 fa#5, fa4 fa5), fa4 fa5, (fa4 fa5, mi4 mi5)|
             <piano_1_v2>  |do5, (do5, si4), si4, -|
@@ -381,9 +381,9 @@ Section de développement 7 — 8 mesures. Tonalité Si majeur, tempo 72 BPM.
     </section>
 
 <meta>
-Section de développement 8 — 8 mesures. Tonalité Si majeur, tempo 72 BPM.
+8 mesures, progression vers la réexposition, tempo 72 BPM. Progression harmonique menant au retour du Si mineur; les octaves commencent à se réchauffer. Un accelerando progressif prépare l'auditeur à la réexposition des octaves chromatiques en Si mineur.
 </meta>
-    <section=section_9, n_mesure=8, bpm=72, format=4/4, tonalite=Si_majeur>
+    <section=partie_B, n_mesure=8, bpm=72, format=4/4, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |(sol4 sol5, sol#4 sol#5), (la#4 la#5, sol#4 sol#5), (si4 si5, la#4 la#5)|
             <piano_1_v4>  |si3 re4, (do#4, si3), (re4, do#4)|
@@ -427,9 +427,9 @@ Section de développement 8 — 8 mesures. Tonalité Si majeur, tempo 72 BPM.
     </section>
 
 <meta>
-Section de développement 9 — 8 mesures. Tonalité Si majeur, tempo 72 BPM.
+8 mesures, retour Si mineur, tempo 72 BPM. Réexposition du thème A avec une intensité renouvelée après la section B; le contraste avec la douceur précédente est maximal et délibéré. Reprendre le niveau de tension dynamique du début immédiatement.
 </meta>
-    <section=section_10, n_mesure=8, bpm=72, format=4/4, tonalite=Si_majeur>
+    <section=partie_A, n_mesure=8, bpm=72, format=4/4, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |(mi4 mi5, fa#4 fa#5), (re#4 re#5, mi4 mi5), (sol#4 sol#5, fa#4 fa#5)|
             <piano_1_v2>  |_, _, do5, -|
@@ -480,9 +480,9 @@ Section de développement 9 — 8 mesures. Tonalité Si majeur, tempo 72 BPM.
     </section>
 
 <meta>
-Section de développement 10 — 8 mesures. Tonalité Si majeur, tempo 72 BPM.
+8 mesures, Si mineur, densification finale, tempo 72 BPM. Développement final avec octaves de plus en plus amples et passage par des harmonies de séptième diminuée. La fatigue physique à ce stade est réelle; maintenir la qualité du toucher coûte que coûte.
 </meta>
-    <section=section_11, n_mesure=8, bpm=72, format=4/4, tonalite=Si_majeur>
+    <section=partie_A, n_mesure=8, bpm=72, format=4/4, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |(re#4 re#5, mi4 mi5), (fa4 fa5, fa#4 fa#5), (la#4 la#5, sol#4 sol#5)|
             <piano_1_v4>  |_, si3, (do4, do#4)|
@@ -523,9 +523,9 @@ Section de développement 10 — 8 mesures. Tonalité Si majeur, tempo 72 BPM.
     </section>
 
 <meta>
-Section de développement 11 — 8 mesures. Tonalité Si majeur, tempo 72 BPM.
+8 mesures, Si mineur, avant-coda, tempo 72 BPM. Accumulation d'énergie vers le point culminant de la pièce; les octaves envahissent les deux extrêmes du clavier simultanément. Ce passage crée la plus grande densité sonore de toute l'étude.
 </meta>
-    <section=section_12, n_mesure=8, bpm=72, format=4/4, tonalite=Si_majeur>
+    <section=partie_A, n_mesure=8, bpm=72, format=4/4, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |(sol#4 sol#5, fa#4 fa#5), (mi4 mi5, re#4 re#5), (mi4 mi5, do#4 do#5)|
             <piano_1_v4>  |do3 re#4, do#3 do#4, mi3 sol3, -|
@@ -570,9 +570,9 @@ Section de développement 11 — 8 mesures. Tonalité Si majeur, tempo 72 BPM.
     </section>
 
 <meta>
-Section de développement 12 — 8 mesures. Tonalité Si majeur, tempo 72 BPM.
+8 mesures, Si mineur, réexposition conclusive, tempo 72 BPM. Ultime réexposition du matériau A dans sa forme la plus condensée et la plus puissante. Chaque octave doit sonner comme un coup de marteau musical; l'énergie accumulée tout au long de la pièce se déverse ici.
 </meta>
-    <section=section_13, n_mesure=8, bpm=72, format=4/4, tonalite=Si_majeur>
+    <section=recapitulation, n_mesure=8, bpm=72, format=4/4, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |(mi4, fa#4), sol4, -|
             <piano_1_v2>  |la#4, -, -, -|
@@ -615,9 +615,9 @@ Section de développement 12 — 8 mesures. Tonalité Si majeur, tempo 72 BPM.
     </section>
 
 <meta>
-Section de développement 13 — 8 mesures. Tonalité Si majeur, tempo 72 BPM.
+8 mesures, Si mineur, approche de la coda, tempo 72 BPM. Approche du point final avec des octaves conclusives en Si mineur, alternant les registres grave et aigu dans un dialogue de plus en plus condensé.
 </meta>
-    <section=section_14, n_mesure=8, bpm=72, format=4/4, tonalite=Si_majeur>
+    <section=recapitulation, n_mesure=8, bpm=72, format=4/4, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |(la4 la5, {sol#4 sol#5, sol4 sol5}), (fa#4 fa#5, {sol4 sol5, re#4 re#5}), (mi4 mi5, {fa4 fa5, fa#4 fa#5}), (fa4 fa5, {fa#4 fa#5, sol4 sol5})|
             <piano_1_v4>  |(la2 la3, {sol#2 sol#3, sol2 sol3}), (fa#2 fa#3, {sol2 sol3, re#2 re#3}), (mi2 mi3, {fa2 fa3, fa#2 fa#3}), (fa2 fa3, {fa#2 fa#3, sol2 sol3})|
@@ -667,9 +667,9 @@ Section de développement 13 — 8 mesures. Tonalité Si majeur, tempo 72 BPM.
     </section>
 
 <meta>
-Section conclusive — 7 mesures. Tonalité Si majeur, tempo 72 BPM.
+7 mesures conclusives, Si mineur, tempo 72 BPM. La coda résout le conflit harmonique en affirmant Si mineur avec une série d'accords massifs. Le trémolo final d'octaves doit avoir une intensité de tonnerre avant le silence soudain. L'accord final, fortissimo, laisse résonner toute la puissance de l'étude dans le grave.
 </meta>
-    <section=section_15, n_mesure=7, bpm=72, format=4/4, tonalite=Si_majeur>
+    <section=coda, n_mesure=7, bpm=72, format=4/4, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |(sol#4 sol#5, {sol4 sol5, fa4 fa5}), (sol#4 sol#5, {la#4 la#5, do#5 do#6}), (si4 si5, {la#4 la#5, sol#4 sol#5}), (si4 si5, {do#5 do#6, mi5 mi6})|
             <piano_1_v2>  |do5, mi5, re#5, sol5|

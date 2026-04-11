@@ -3,19 +3,19 @@
 TACHE : composition
 STYLE : romantique
 FORMAT : piano_solo
-NIVEAU : simple
-Titre : Etudes_op_25_5
-Date : ?
-Auteur : Chopin
-Tonalite : Mi_majeur
+NIVEAU : avance
+Titre : Étude op.25 n°5 en Mi mineur «Fausse Note»
+Date : 1836
+Auteur : Frédéric Chopin
+Tonalite : Mi_mineur
 Unite : quarter
-Intention : Pièce pour piano solo, vif et énergique, lumineux, au balancement ternaire. Tonalité : Mi majeur. 139 mesures.
+Intention : Humour capricieux et léger, cette étude tire son surnom des secondes mineures omniprésentes dans le thème principal, qui donnent l'impression de fausses notes intentionnelles dans un contexte par ailleurs brillant et enjoué; la section centrale en Mi majeur révèle un Chopin lyrique et héroïque. Forme ABA' en Mi mineur, 139 mesures en 3/4, Vivace (184 BPM), exigeant une grande virtuosité dans les ornements de la main gauche et la précision de la main droite en registre extrême.
 </tete>
 
 <meta>
-Section d'ouverture — 8 mesures. Tonalité Mi majeur, tempo 184 BPM.
+8 mesures, tonalité Mi mineur, tempo 184 BPM. Présentation du motif scintillant avec ses secondes mineures caractéristiques à la main droite, sur une main gauche en sauts avec ornements. Ces secondes mineures, jouées legato, produisent une légèreté ambiguë entre humour et mélancolie. Soigner l'équilibre entre les deux mains pour que la plaisanterie reste élégante.
 </meta>
-    <section=section_1, n_mesure=8, bpm=184, format=3/4, tonalite=Mi_majeur>
+    <section=partie_A, n_mesure=8, bpm=184, format=3/4, tonalite=Mi_mineur>
         <mesure num=1>
             <piano_1_v1>  |si4, -, -|
             <piano_1_v4>  |_, _, _|
@@ -51,9 +51,9 @@ Section d'ouverture — 8 mesures. Tonalité Mi majeur, tempo 184 BPM.
     </section>
 
 <meta>
-Section de développement 1 — 8 mesures. Tonalité Mi majeur, tempo 184 BPM.
+8 mesures, Mi mineur, tempo 184 BPM. Extension du motif principal vers le registre aigu; la main droite enchaîne des figures en octaves détachées alternant avec les secondes chromatiques. La main gauche amplifie son rôle de contrepoint avec des sauts couvrant l'étendue du clavier.
 </meta>
-    <section=section_2, n_mesure=8, bpm=184, format=3/4, tonalite=Mi_majeur>
+    <section=partie_A, n_mesure=8, bpm=184, format=3/4, tonalite=Mi_mineur>
         <mesure num=1>
             <piano_1_v1>  |{si4 la5, do5}, {sol#4 fa#5, la4}, {si4 sol5, la4}|
             <piano_1_v4>  |fa#2 do3 la3, _, si2 sol3 re#4|
@@ -90,9 +90,9 @@ Section de développement 1 — 8 mesures. Tonalité Mi majeur, tempo 184 BPM.
     </section>
 
 <meta>
-Section de développement 2 — 8 mesures. Tonalité Mi majeur, tempo 184 BPM.
+8 mesures, Mi mineur, development harmonique, tempo 184 BPM. Premier développement des motifs principaux avec modulations vers les tons voisins; la texture reste légère malgré l'augmentation des sauts de main gauche. Conserver un toucher très superficiel pour la main droite, effleurant les touches.
 </meta>
-    <section=section_3, n_mesure=8, bpm=184, format=3/4, tonalite=Mi_majeur>
+    <section=partie_A, n_mesure=8, bpm=184, format=3/4, tonalite=Mi_mineur>
         <mesure num=1>
             <piano_1_v1>  |{sol#4 re5, la4}, {do#5 si5, re5}, {si4 la5, do5}|
             <piano_1_v4>  |re4, _, _|
@@ -136,9 +136,9 @@ Section de développement 2 — 8 mesures. Tonalité Mi majeur, tempo 184 BPM.
     </section>
 
 <meta>
-Section de développement 3 — 8 mesures. Tonalité Mi majeur, tempo 184 BPM.
+8 mesures, vers la dominante Si mineur, tempo 184 BPM. Transition modulante vers la dominante; le jeu de secondes mineures se densifie harmoniquement. La suspension sur la dominante crée l'attente du contraste majeur qui va suivre. Ne pas accélérer ici malgré la montée de la tension.
 </meta>
-    <section=section_4, n_mesure=8, bpm=184, format=3/4, tonalite=Mi_majeur>
+    <section=partie_A, n_mesure=8, bpm=184, format=3/4, tonalite=Mi_mineur>
         <mesure num=1>
             <piano_1_v1>  |(sol#4 re5, la4), (la#4 re5, si4), (sol#4 re5, la4)|
             <piano_1_v4>  |re2, {mi4, re4}|
@@ -178,9 +178,9 @@ Section de développement 3 — 8 mesures. Tonalité Mi majeur, tempo 184 BPM.
     </section>
 
 <meta>
-Section de développement 4 — 8 mesures. Tonalité Mi majeur, tempo 184 BPM.
+8 mesures, Mi mineur, tempo 184 BPM. Continuation de la partie A avec développement ornamental plus élaboré de la main gauche. Les trilles et battements de la gauche encadrent maintenant la mélodie de la droite dans une texture plus riche tout en conservant la légèreté du caractère.
 </meta>
-    <section=section_5, n_mesure=8, bpm=184, format=3/4, tonalite=Mi_majeur>
+    <section=partie_A, n_mesure=8, bpm=184, format=3/4, tonalite=Mi_mineur>
         <mesure num=1>
             <piano_1_v1>  |fa#5, mi5, re5|
             <piano_1_v2>  |{la4, sol4}, {fa#4, sol4}, {sol#4, la4}|
@@ -223,9 +223,9 @@ Section de développement 4 — 8 mesures. Tonalité Mi majeur, tempo 184 BPM.
     </section>
 
 <meta>
-Section de développement 5 — 8 mesures. Tonalité Mi majeur, tempo 184 BPM.
+8 mesures, Mi majeur, tempo 184 BPM. Irruption lumineuse de la section centrale en Mi majeur; le caractère bascule vers le lyrique et l'héroïque. La main gauche prend le thème en accords et octaves martelés tandis que la droite s'envole en arpèges. Ce contraste structurel est l'un des moments les plus dramatiques de l'opus 25.
 </meta>
-    <section=section_6, n_mesure=8, bpm=184, format=3/4, tonalite=Mi_majeur>
+    <section=partie_B, n_mesure=8, bpm=184, format=3/4, tonalite=Mi_mineur>
         <mesure num=1>
             <piano_1_v1>  |(la4 fa#5, sol4), (fa#4 mi5, sol4), (mi4 re5, fa4)|
             <piano_1_v4>  |(mi3, mi4), (si3, mi4), (sol#2, si3)|
@@ -266,9 +266,9 @@ Section de développement 5 — 8 mesures. Tonalité Mi majeur, tempo 184 BPM.
     </section>
 
 <meta>
-Section de développement 6 — 8 mesures. Tonalité Mi majeur, tempo 184 BPM.
+8 mesures, Mi majeur, climax, tempo 184 BPM. Climax de la section centrale avec un registre aigu culminant; l'écriture s'élargit à toute l'étendue du clavier dans les deux mains. La dynamique forte prend tout son sens après la légèreté de la partie A. Laisser résonner les grandes phrases sans les précipiter.
 </meta>
-    <section=section_7, n_mesure=8, bpm=184, format=3/4, tonalite=Mi_majeur>
+    <section=partie_B, n_mesure=8, bpm=184, format=3/4, tonalite=Mi_mineur>
         <mesure num=1>
             <piano_1_v1>  |(la5, {do6 la6, re#6}), (la5, {do5 la5, re#5}), (la4, {do4 sol#4, re#4})|
             <piano_1_v4>  |la3, -, sol#3|
@@ -314,9 +314,9 @@ Section de développement 6 — 8 mesures. Tonalité Mi majeur, tempo 184 BPM.
     </section>
 
 <meta>
-Section de développement 7 — 8 mesures. Tonalité Mi majeur, tempo 184 BPM.
+8 mesures, Mi majeur, densification, tempo 184 BPM. Deuxième occurrence du thème central, répété avec plus de puissance et de profondeur harmonique. Cette répétition à une octave supérieure crée un effet de perspective monumentale. Veiller à l'articulation des octaves de la main gauche.
 </meta>
-    <section=section_8, n_mesure=8, bpm=184, format=3/4, tonalite=Mi_majeur>
+    <section=partie_B, n_mesure=8, bpm=184, format=3/4, tonalite=Mi_mineur>
         <mesure num=1>
             <piano_1_v1>  |(la5, {do6 la6, re#6}), (la5, {do5 la5, re#5}), (la4, {do4 sol#4, re#4})|
             <piano_1_v4>  |la3, -, sol#3|
@@ -357,9 +357,9 @@ Section de développement 7 — 8 mesures. Tonalité Mi majeur, tempo 184 BPM.
     </section>
 
 <meta>
-Section de développement 8 — 8 mesures. Tonalité Mi majeur, tempo 184 BPM.
+8 mesures, retour Mi mineur, tempo 184 BPM. Réexposition du thème principal en Mi mineur; le retour des secondes mineures capricieuses prend une saveur ironique après la grandeur de la section centrale. La surprise du retour est un effet compositionnel délibéré.
 </meta>
-    <section=section_9, n_mesure=8, bpm=184, format=3/4, tonalite=Mi_majeur>
+    <section=partie_A, n_mesure=8, bpm=184, format=3/4, tonalite=Mi_mineur>
         <mesure num=1>
             <piano_1_v1>  |(si2, {mi3 la3, sol#3}), (si3, {mi4 la4, sol#4}), (si4, {mi5 la5, sol#5})|
             <piano_1_v4>  |mi1 mi2, -, _|
@@ -397,9 +397,9 @@ Section de développement 8 — 8 mesures. Tonalité Mi majeur, tempo 184 BPM.
     </section>
 
 <meta>
-Section de développement 9 — 8 mesures. Tonalité Mi majeur, tempo 184 BPM.
+8 mesures, Mi mineur, tempo 184 BPM. Continuation de la réexposition avec enrichissement ornemental supplémentaire; la main gauche déploie ses sauts avec encore plus d'amplitude. Maintenir une légèreté constante malgré la complexité croissante.
 </meta>
-    <section=section_10, n_mesure=8, bpm=184, format=3/4, tonalite=Mi_majeur>
+    <section=partie_A, n_mesure=8, bpm=184, format=3/4, tonalite=Mi_mineur>
         <mesure num=1>
             <piano_1_v1>  |(si5, {re#6 si6, fa#6}), (si5, {re#5 si5, fa#5}), (si4, {re#4 si4, fa#4})|
             <piano_1_v4>  |si2 si3, -, _|
@@ -441,9 +441,9 @@ Section de développement 9 — 8 mesures. Tonalité Mi majeur, tempo 184 BPM.
     </section>
 
 <meta>
-Section de développement 10 — 8 mesures. Tonalité Mi majeur, tempo 184 BPM.
+8 mesures, Mi mineur, final approach, tempo 184 BPM. Ultime développement du thème A; l'écriture atteint son niveau de complexité maximal avec une superposition des deux difficultés techniques, ornements de gauche et secondes de droite. Soigner la clarté de chaque voix.
 </meta>
-    <section=section_11, n_mesure=8, bpm=184, format=3/4, tonalite=Mi_majeur>
+    <section=partie_A, n_mesure=8, bpm=184, format=3/4, tonalite=Mi_mineur>
         <mesure num=1>
             <piano_1_v1>  |(mi4, {la4 mi5, do5}), (re#4, {la4 re#5, si4}), (si3, {re#4 si4, la4})|
             <piano_1_v2>  |mi4, re#4, si3|
@@ -494,9 +494,9 @@ Section de développement 10 — 8 mesures. Tonalité Mi majeur, tempo 184 BPM.
     </section>
 
 <meta>
-Section de développement 11 — 8 mesures. Tonalité Mi majeur, tempo 184 BPM.
+8 mesures, Mi mineur, tempo 184 BPM. Prolongation du thème avec variations dans les hauteurs; les secondes mineures s'enchaînent en formules plus longues. La tension harmonique s'accumule vers la conclusion imminente.
 </meta>
-    <section=section_12, n_mesure=8, bpm=184, format=3/4, tonalite=Mi_majeur>
+    <section=partie_A, n_mesure=8, bpm=184, format=3/4, tonalite=Mi_mineur>
         <mesure num=1>
             <piano_1_v1>  |({sol#4, si4 sol#5}, re#5, sol#4), ({sol#4 re#5, si4}, re#4, re#4), ({sol#4, si3}, re#4, fa#4)|
             <piano_1_v2>  |_, re#4 si4, re#4 si4|
@@ -545,9 +545,9 @@ Section de développement 11 — 8 mesures. Tonalité Mi majeur, tempo 184 BPM.
     </section>
 
 <meta>
-Section de développement 12 — 8 mesures. Tonalité Mi majeur, tempo 184 BPM.
+8 mesures, Mi mineur, préparation de la coda, tempo 184 BPM. Avant-dernière section avec une montée dynamique vers le fortissimo; l'écriture rassemble tous les éléments techniques de l'étude. Ne pas forcer le tempo mais laisser la musique pousser naturellement vers l'accord final.
 </meta>
-    <section=section_13, n_mesure=8, bpm=184, format=3/4, tonalite=Mi_majeur>
+    <section=partie_A, n_mesure=8, bpm=184, format=3/4, tonalite=Mi_mineur>
         <mesure num=1>
             <piano_1_v1>  |({si3, mi4 si4}, sol#4, si3), ({mi4 si4, sol#4}, si3, mi4 si4), ({sol#4, si3}, mi4 si4, sol#4)|
             <piano_1_v4>  |sol#3, -, -|
@@ -583,9 +583,9 @@ Section de développement 12 — 8 mesures. Tonalité Mi majeur, tempo 184 BPM.
     </section>
 
 <meta>
-Section de développement 13 — 8 mesures. Tonalité Mi majeur, tempo 184 BPM.
+8 mesures, Mi mineur, tempo 184 BPM. Avant-coda avec accumulation d'accords en Mi mineur; les sauts de la main gauche culminent en arpèges ascendants dramatiques. Conserver la précision rythmique malgré l'augmentation de la densité.
 </meta>
-    <section=section_14, n_mesure=8, bpm=184, format=3/4, tonalite=Mi_majeur>
+    <section=partie_A, n_mesure=8, bpm=184, format=3/4, tonalite=Mi_mineur>
         <mesure num=1>
             <piano_1_v1>  |{si4 fa#5 la5, do5}, {do#5 fa#5 si5, re5}, {la#4 mi5 sol5, si4}|
             <piano_1_v4>  |re3 la3 fa#4, sol2 re3 si3, do3 sol3 mi4|
@@ -621,9 +621,9 @@ Section de développement 13 — 8 mesures. Tonalité Mi majeur, tempo 184 BPM.
     </section>
 
 <meta>
-Section de développement 14 — 8 mesures. Tonalité Mi majeur, tempo 184 BPM.
+8 mesures, Mi mineur, dissolution, tempo 184 BPM. La matière thématique se fragmente en éléments motifs isolés, signalant l'approche de la conclusion. Un ultime accord de dominante de Sol dièse crée la dernière suspension avant la résolution.
 </meta>
-    <section=section_15, n_mesure=8, bpm=184, format=3/4, tonalite=Mi_majeur>
+    <section=partie_A, n_mesure=8, bpm=184, format=3/4, tonalite=Mi_mineur>
         <mesure num=1>
             <piano_1_v1>  |(re#5 sol5 si5, mi5), (re#5 fa#5 la5, mi5), (re#5 sol5 si5, mi5)|
             <piano_1_v4>  |si3 mi4 sol4, do4 mi4 fa#4, si3 mi4 sol4|
@@ -665,9 +665,9 @@ Section de développement 14 — 8 mesures. Tonalité Mi majeur, tempo 184 BPM.
     </section>
 
 <meta>
-Section de développement 15 — 8 mesures. Tonalité Mi majeur, tempo 184 BPM.
+8 mesures, Mi mineur, coda approche, tempo 184 BPM. Ultime déploiement du motif à secondes mineures avant l'accord conclusif en arpège. Chopin termine par un arpège de septième de dominante ascendant, finissant sur le Sol dièse aigu, laissant la pièce en suspension humoristique.
 </meta>
-    <section=section_16, n_mesure=8, bpm=184, format=3/4, tonalite=Mi_majeur>
+    <section=partie_A, n_mesure=8, bpm=184, format=3/4, tonalite=Mi_mineur>
         <mesure num=1>
             <piano_1_v1>  |(la#4 sol5, si4), (sol#4 si4 fa#5, la4), (fa4 la#4 si4, fa#4)|
             <piano_1_v4>  |re#2, {do4, si3}|
@@ -706,9 +706,9 @@ Section de développement 15 — 8 mesures. Tonalité Mi majeur, tempo 184 BPM.
     </section>
 
 <meta>
-Section de développement 16 — 8 mesures. Tonalité Mi majeur, tempo 184 BPM.
+8 mesures, Mi mineur, avant-dernière section, tempo 184 BPM. Réitération du geste conclusif avec renforcement de la dynamique; préparer la coda immédiate avec une légère retenue sur la dernière mesure.
 </meta>
-    <section=section_17, n_mesure=8, bpm=184, format=3/4, tonalite=Mi_majeur>
+    <section=partie_A, n_mesure=8, bpm=184, format=3/4, tonalite=Mi_mineur>
         <mesure num=1>
             <piano_1_v1>  |{si4 fa#5 si5, si6}, _, _|
             <piano_1_v4>  |mi4, -, -|
@@ -761,9 +761,9 @@ Section de développement 16 — 8 mesures. Tonalité Mi majeur, tempo 184 BPM.
     </section>
 
 <meta>
-Section conclusive — 3 mesures. Tonalité Mi majeur, tempo 184 BPM.
+3 mesures conclusives, Mi mineur, tempo 184 BPM. La coda concentre l'essence du caractère capricieux de l'étude: un dernier arpège lumineux de dominante septième suivi d'un accord de tenue en Mi mineur. Chopin conclut avec une ironie légère, sans la grandeur attendue, respectant l'esprit de la pièce.
 </meta>
-    <section=section_18, n_mesure=3, bpm=184, format=3/4, tonalite=Mi_majeur>
+    <section=coda, n_mesure=3, bpm=184, format=3/4, tonalite=Mi_mineur>
         <mesure num=1>
             <piano_1_v1>  |mi4 mi5, -, -|
             <piano_1_v2>  |sol#4, -, -|

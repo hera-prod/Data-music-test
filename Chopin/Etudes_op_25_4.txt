@@ -3,19 +3,19 @@
 TACHE : composition
 STYLE : romantique
 FORMAT : piano_solo
-NIVEAU : simple
-Titre : Etudes_op_25_4
-Date : ?
-Auteur : Chopin
+NIVEAU : avance
+Titre : Étude op.25 n°4 en La mineur
+Date : 1836
+Auteur : Frédéric Chopin
 Tonalite : La_mineur
 Unite : quarter
-Intention : Pièce pour piano solo, vif et énergique, mélancolique, au cadre binaire régulier. Tonalité : La mineur. 66 mesures.
+Intention : Énergie sombre et implacable, cette étude confronte l'interprète à des sauts de main gauche couvrant jusqu'à deux octaves en accompagnement d'une mélodie en accords syncopés à la main droite, jouée entièrement staccato; la syncope constante entre les deux mains crée une tension rythmique d'une modernité frappante. Forme binaire en La mineur, 66 mesures en alla breve (2/2), Agitato (160 BPM), l'une des études les plus athématiques de Chopin, dominée par l'énergie motrice plutôt que par la mélodie chantée.
 </tete>
 
 <meta>
-Section d'ouverture — 8 mesures. Tonalité La mineur, tempo 160 BPM.
+8 mesures, La mineur, tempo 160 BPM. Présentation du motif fondamental: octaves à la main gauche qui bondissent en sauts syncopés pendant que la main droite pose des accords staccato décalés d'un temps. Cette opposition rythmique crée immédiatement une instabilité expressive caractéristique. Aborder les sauts de la main gauche avec une rotation d'avant-bras économe et précise.
 </meta>
-    <section=section_1, n_mesure=8, bpm=160, format=2/2, tonalite=La_mineur>
+    <section=exposition, n_mesure=8, bpm=160, format=2/2, tonalite=La_mineur>
         <mesure num=1>
             <piano_1_v1>  |_|
             <piano_1_v4>  |mi3|
@@ -51,9 +51,9 @@ Section d'ouverture — 8 mesures. Tonalité La mineur, tempo 160 BPM.
     </section>
 
 <meta>
-Section de développement 1 — 8 mesures. Tonalité La mineur, tempo 160 BPM.
+8 mesures, La mineur, tempo 160 BPM. Continuation de l'exposition avec extension vers les registres extrêmes; la main gauche atteint des intervalles de décime voire de douzième. Le staccato de la main droite doit rester léger, rebondissant, jamais martelé, contrastant avec la violence latente des sauts de basse.
 </meta>
-    <section=section_2, n_mesure=8, bpm=160, format=2/2, tonalite=La_mineur>
+    <section=exposition, n_mesure=8, bpm=160, format=2/2, tonalite=La_mineur>
         <mesure num=1>
             <piano_1_v1>  |({_, sol#4 si4 mi5}, _, la4 do5 fa#5), ({_, sol4 si4 fa5 sol5}, _, sol#4 re5 mi5 sol#5)|
             <piano_1_v4>  |({mi3, si3 mi4}, re#3, do4 fa#4), ({re3, si3 fa4}, mi2, si3 mi4)|
@@ -96,9 +96,9 @@ Section de développement 1 — 8 mesures. Tonalité La mineur, tempo 160 BPM.
     </section>
 
 <meta>
-Section de développement 2 — 8 mesures. Tonalité La mineur, tempo 160 BPM.
+8 mesures, modulations transitoires, tempo 160 BPM. Premier développement harmonique vers les tons voisins du La mineur; les sauts de la main gauche se compliquent avec des intervalles chromatiques. Accentuer la tête de chaque groupe de deux mesures pour articuler la phrase.
 </meta>
-    <section=section_3, n_mesure=8, bpm=160, format=2/2, tonalite=La_mineur>
+    <section=developpement, n_mesure=8, bpm=160, format=2/2, tonalite=La_mineur>
         <mesure num=1>
             <piano_1_v1>  |{fa#5, mi5}|
             <piano_1_v2>  |({_, sol4 si4}, _, la4 do5), ({_, sol4 si4}, _, la4 do5)|
@@ -139,9 +139,9 @@ Section de développement 2 — 8 mesures. Tonalité La mineur, tempo 160 BPM.
     </section>
 
 <meta>
-Section de développement 3 — 8 mesures. Tonalité La mineur, tempo 160 BPM.
+8 mesures, intensification harmonique, tempo 160 BPM. Développement vers la dominante et les harmonies de passage; la texture s'épaissit, les accords de la main droite prennent plus de corps. Maintenir l'équilibre entre l'énergie motrice et la clarté mélodique du soprano.
 </meta>
-    <section=section_4, n_mesure=8, bpm=160, format=2/2, tonalite=La_mineur>
+    <section=developpement, n_mesure=8, bpm=160, format=2/2, tonalite=La_mineur>
         <mesure num=1>
             <piano_1_v1>  |({re#5, do#5}, la#4), (do#5, do5)|
             <piano_1_v2>  |({_, fa4 sol#4}, _, do#4 sol#4), ({_, fa4 sol#4}, _, re#4 sol#4)|
@@ -183,9 +183,9 @@ Section de développement 3 — 8 mesures. Tonalité La mineur, tempo 160 BPM.
     </section>
 
 <meta>
-Section de développement 4 — 8 mesures. Tonalité La mineur, tempo 160 BPM.
+8 mesures, climax harmonique, tempo 160 BPM. Point culminant de la tension harmonique avec des accords de septième diminuée. La dynamique peut atteindre un forte retenu avant de retomber vers le piano; la résolution vers La mineur apporte un relief expressif fugace.
 </meta>
-    <section=section_5, n_mesure=8, bpm=160, format=2/2, tonalite=La_mineur>
+    <section=developpement, n_mesure=8, bpm=160, format=2/2, tonalite=La_mineur>
         <mesure num=1>
             <piano_1_v1>  |{re5, do5}|
             <piano_1_v2>  |({_, re#4 sol4}, _, fa4 sol#4), ({_, re#4 sol4}, _, fa4 sol#4)|
@@ -228,9 +228,9 @@ Section de développement 4 — 8 mesures. Tonalité La mineur, tempo 160 BPM.
     </section>
 
 <meta>
-Section de développement 5 — 8 mesures. Tonalité La mineur, tempo 160 BPM.
+8 mesures, suite du développement, tempo 160 BPM. Épisode de dialogue entre les deux mains; les sauts de la gauche se font de plus en plus amples tandis que la droite maintient son jeu d'accords staccato syncopés. Préparer ici mentalement le geste de la main gauche une mesure à l'avance.
 </meta>
-    <section=section_6, n_mesure=8, bpm=160, format=2/2, tonalite=La_mineur>
+    <section=developpement, n_mesure=8, bpm=160, format=2/2, tonalite=La_mineur>
         <mesure num=1>
             <piano_1_v1>  |({_, la4 mi5}, _, do6), si5|
             <piano_1_v2>  |(_, _, do5 mi5), ({_, do5 fa5}, _, si4 fa5)|
@@ -269,9 +269,9 @@ Section de développement 5 — 8 mesures. Tonalité La mineur, tempo 160 BPM.
     </section>
 
 <meta>
-Section de développement 6 — 8 mesures. Tonalité La mineur, tempo 160 BPM.
+8 mesures, retour en La mineur, tempo 160 BPM. Réexposition du matériau initial avec une intensification dynamique; le retour au La mineur procure une sensation de résolution malgré la violence rythmique maintenue. Préserver le staccato de la droite jusqu'à la dernière mesure.
 </meta>
-    <section=section_7, n_mesure=8, bpm=160, format=2/2, tonalite=La_mineur>
+    <section=recapitulation, n_mesure=8, bpm=160, format=2/2, tonalite=La_mineur>
         <mesure num=1>
             <piano_1_v1>  |({sol#5, la5}, do6), si5|
             <piano_1_v2>  |({_, la4 mi5}, _, do5 mi5), ({_, do5 fa5}, _, si4 fa5)|
@@ -316,9 +316,9 @@ Section de développement 6 — 8 mesures. Tonalité La mineur, tempo 160 BPM.
     </section>
 
 <meta>
-Section de développement 7 — 8 mesures. Tonalité La mineur, tempo 160 BPM.
+8 mesures, renforcement final, tempo 160 BPM. L'écriture s'élargit vers les extrêmes du clavier, les deux mains poussant jusqu'aux limites de leur tessiture. L'accumulation de tension exige une maîtrise technique absolue pour ne pas sacrifier la musicalité. Demeurer dans une énergie tendue jusqu'au dernier accord.
 </meta>
-    <section=section_8, n_mesure=8, bpm=160, format=2/2, tonalite=La_mineur>
+    <section=recapitulation, n_mesure=8, bpm=160, format=2/2, tonalite=La_mineur>
         <mesure num=1>
             <piano_1_v1>  |{si4, la4}|
             <piano_1_v2>  |({re4 sol#4, do4}, _, re4 fa4), ({_, do4 mi4}, _, re4 fa4)|
@@ -363,9 +363,9 @@ Section de développement 7 — 8 mesures. Tonalité La mineur, tempo 160 BPM.
     </section>
 
 <meta>
-Section conclusive — 2 mesures. Tonalité La mineur, tempo 160 BPM.
+2 mesures conclusives en La mineur, tempo 160 BPM. Conclusion abrupte par deux accords en La mineur, renforçant la brutalité expressive de l'étude. Ne pas atténuer la violence finale; l'arrêt net est partie intégrante du caractère agitato.
 </meta>
-    <section=section_9, n_mesure=2, bpm=160, format=2/2, tonalite=La_mineur>
+    <section=coda, n_mesure=2, bpm=160, format=2/2, tonalite=La_mineur>
         <mesure num=1>
             <piano_1_v1>  |la#4, (re5, do#5)|
             <piano_1_v2>  |re4 fa4, -|

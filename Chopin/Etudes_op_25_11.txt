@@ -3,19 +3,19 @@
 TACHE : composition
 STYLE : romantique
 FORMAT : piano_solo
-NIVEAU : intermediaire
-Titre : Etudes_op_25_11
-Date : ?
-Auteur : Chopin
+NIVEAU : avance
+Titre : Étude op.25 n°11 en La mineur «Vent d'hiver»
+Date : 1836
+Auteur : Frédéric Chopin
 Tonalite : La_mineur
 Unite : quarter
-Intention : Pièce pour piano solo, modéré, mélancolique, au cadre binaire régulier. Tonalité : La mineur. 96 mesures.
+Intention : Tempête intérieure et bravoure implacable, cette étude associe une gamme chromatique en rafales à la main droite à des sauts d'octaves exténuants à la main gauche, exigeant une endurance et une coordination exceptionnelles sur plus de quatre minutes. Un motif introductif de quatre mesures (ajouté après la composition initiale) prépare l'atmosphère tourmentée. Forme de grande fantaisie en La mineur, 96 mesures en 4/4, Lento - Allegro con brio (69 BPM), l'une des études les plus longues et les plus exigeantes du romantisme.
 </tete>
 
 <meta>
-Section d'ouverture — 8 mesures. Tonalité La mineur, tempo 69 BPM.
+8 mesures, La mineur, tempo 69 BPM. Introduction solennelle de quatre mesures avec accords étirés qui posent le caractère sombre et tourmenté de l'étude; les quatre premières mesures furent ajoutées par un ami après la composition. La main droite commence par une mélodie vocale avant que la tempête ne se lève. Ce prologue doit préparer l'oreille à ce qui va suivre: une montée progressive vers le fortissimo.
 </meta>
-    <section=section_1, n_mesure=8, bpm=69, format=4/4, tonalite=La_mineur>
+    <section=introduction, n_mesure=8, bpm=69, format=4/4, tonalite=La_mineur>
         <mesure num=1>
             <piano_1_v1>  |mi4, (mi4, mi4), mi4, fa4|
             <piano_1_v4>  |_, _, _, _|
@@ -53,9 +53,9 @@ Section d'ouverture — 8 mesures. Tonalité La mineur, tempo 69 BPM.
     </section>
 
 <meta>
-Section de développement 1 — 8 mesures. Tonalité La mineur, tempo 69 BPM.
+8 mesures, La mineur, Allegro, tempo 69 BPM. Déferlement de la tempête: la main droite enchaîne des gammes chromatiques continues sur plusieurs octaves pendant que la main gauche assume des sauts d'octaves syncopés. La mélodie principale se cache dans les notes supérieures de la main droite. Travailler séparément: notes supérieures seules (mélodie), puis doigté complet lentement.
 </meta>
-    <section=section_2, n_mesure=8, bpm=69, format=4/4, tonalite=La_mineur>
+    <section=exposition, n_mesure=8, bpm=69, format=4/4, tonalite=La_mineur>
         <mesure num=1>
             <piano_1_v1>  |({mi4, si3}, {re4, fa4, mi5}, si4), ({re5, fa5}, {mi6, si5, re6}, fa5), ({re6, la5}, {do6, fa5, re5}, la4), ({do5, fa4}, {re4, la3, do4}, fa3)|
             <piano_1_v4>  |sol#1, (fa3 re4, fa3 re4), fa3 do4, la1 la2|
@@ -93,9 +93,9 @@ Section de développement 1 — 8 mesures. Tonalité La mineur, tempo 69 BPM.
     </section>
 
 <meta>
-Section de développement 2 — 8 mesures. Tonalité La mineur, tempo 69 BPM.
+8 mesures, La mineur, continuation, tempo 69 BPM. Continuation de l'exposition avec intensification des gammes chromatiques; les sauts de la main gauche s'étendent jusqu'à trois octaves. La double difficulté de la pièce (endurance des deux mains) commence à peser ici. La résolution métronomique est indispensable pour ne pas se perdre dans les gammes.
 </meta>
-    <section=section_3, n_mesure=8, bpm=69, format=4/4, tonalite=La_mineur>
+    <section=exposition, n_mesure=8, bpm=69, format=4/4, tonalite=La_mineur>
         <mesure num=1>
             <piano_1_v1>  |({la4, mi4}, {sol4, la#4, la5}, mi5), ({sol5, la#5}, {la6, mi6, sol6}, la#5), ({la6, re#6}, {sol6, la#5, la5}, re#5), ({sol5, la#4}, {la4, re#4, sol4}, la#3)|
             <piano_1_v4>  |do2, (sol3 la#3 mi4, {si2, do3}), do#3 sol3 la#3 re#4, do#2 do#3|
@@ -133,9 +133,9 @@ Section de développement 2 — 8 mesures. Tonalité La mineur, tempo 69 BPM.
     </section>
 
 <meta>
-Section de développement 3 — 8 mesures. Tonalité La mineur, tempo 69 BPM.
+8 mesures, modulations en La mineur, tempo 69 BPM. Premier développement harmonique; les gammes chromatiques de la main droite traversent différentes régions tonales. La main gauche enrichit son accompagnement avec des accords supplémentaires. Préserver à tout prix la clarté de la mélodie dans les notes supérieures.
 </meta>
-    <section=section_4, n_mesure=8, bpm=69, format=4/4, tonalite=La_mineur>
+    <section=developpement, n_mesure=8, bpm=69, format=4/4, tonalite=La_mineur>
         <mesure num=1>
             <piano_1_v1>  |({mi5, si4}, {re#5, sol4, re5}, si4), ({do#5, sol4}, {do5, sol4, si4}, mi4), ({la#4, sol4}, {la4, mi4, sol#4}, mi4), ({sol4, do4}, {fa#4, do4, fa4}, sol3)|
             <piano_1_v4>  |mi1, (mi2 si2, mi2 si2), mi2 si2, mi2 do3|
@@ -173,9 +173,9 @@ Section de développement 3 — 8 mesures. Tonalité La mineur, tempo 69 BPM.
     </section>
 
 <meta>
-Section de développement 4 — 8 mesures. Tonalité La mineur, tempo 69 BPM.
+8 mesures, tension maximale, tempo 69 BPM. Climax du développement avec les passages les plus larges et les plus exigeants des deux mains simultanément. La dynamique atteint ici son maximum; ne pas retenir ni précipiter le tempo sous la pression physique.
 </meta>
-    <section=section_5, n_mesure=8, bpm=69, format=4/4, tonalite=La_mineur>
+    <section=developpement, n_mesure=8, bpm=69, format=4/4, tonalite=La_mineur>
         <mesure num=1>
             <piano_1_v1>  |({do5, sol4}, {si4, mi4, la#4}, sol4), ({la4, mi4}, {sol#4, mi4, sol4}, si3), ({fa#4, si3}, {fa4, sol3, mi4}, si3), ({re#4, fa#3}, {re4, sol3, do#4}, fa3)|
             <piano_1_v4>  |sol1, (si2, si2), si2, do3|
@@ -213,9 +213,9 @@ Section de développement 4 — 8 mesures. Tonalité La mineur, tempo 69 BPM.
     </section>
 
 <meta>
-Section de développement 5 — 8 mesures. Tonalité La mineur, tempo 69 BPM.
+8 mesures, relâchement transitoire, tempo 69 BPM. Léger relâchement de la tension avec une texture moins dense; quelques mesures de respiration harmonique avant la réexposition. Utiliser ce moment pour récupérer physiquement sans le montrer musicalement.
 </meta>
-    <section=section_6, n_mesure=8, bpm=69, format=4/4, tonalite=La_mineur>
+    <section=developpement, n_mesure=8, bpm=69, format=4/4, tonalite=La_mineur>
         <mesure num=1>
             <piano_1_v1>  |mi5 sol5, (sol4 mi5 sol5, sol4 mi5 sol5), sol4 mi5 sol5, la4 mi5 la5|
             <piano_1_v4>  |({la4, mi4}, {sol4, do#4, fa4}, do#4), ({mi4, la#3}, {re4, la#3, do#4}, sol3), ({do4, sol3}, {la#3, mi3, la3}, mi3), ({sol3, do#3}, {fa3, do#3, mi3}, la#2)|
@@ -255,9 +255,9 @@ Section de développement 5 — 8 mesures. Tonalité La mineur, tempo 69 BPM.
     </section>
 
 <meta>
-Section de développement 6 — 8 mesures. Tonalité La mineur, tempo 69 BPM.
+8 mesures, retour en La mineur, tempo 69 BPM. Réexposition du thème de la tempête avec une force renouvelée; les gammes chromatiques reprennent leur course implacable. Le pianiste doit retrouver une fraîcheur d'attaque malgré la fatigue accumulée.
 </meta>
-    <section=section_7, n_mesure=8, bpm=69, format=4/4, tonalite=La_mineur>
+    <section=recapitulation, n_mesure=8, bpm=69, format=4/4, tonalite=La_mineur>
         <mesure num=1>
             <piano_1_v1>  |({do#5, sol#4}, {si4, re4, do#5}, sol#4), ({si4, re5}, {do#6, sol#5, si5}, re6), ({do#7, sol#6}, {si6, re6, do#6}, sol#5), ({si5, re5}, {do#5, sol#4, si4}, re4)|
             <piano_1_v4>  |mi2 mi3, (si1 si2, {sol#1 sol#2, si1 si2}), (mi1 mi2, _, mi2 mi3), (fa#2 fa#3, mi2 mi3)|
@@ -295,9 +295,9 @@ Section de développement 6 — 8 mesures. Tonalité La mineur, tempo 69 BPM.
     </section>
 
 <meta>
-Section de développement 7 — 8 mesures. Tonalité La mineur, tempo 69 BPM.
+8 mesures, La mineur, intensification, tempo 69 BPM. Deuxième vague de la réexposition avec des gammes encore plus étendues; la main gauche densifie ses sauts d'octaves. Cette section représente le plus grand obstacle technique de la pièce.
 </meta>
-    <section=section_8, n_mesure=8, bpm=69, format=4/4, tonalite=La_mineur>
+    <section=recapitulation, n_mesure=8, bpm=69, format=4/4, tonalite=La_mineur>
         <mesure num=1>
             <piano_1_v1>  |({la4, mi4}, {sol#4, si4, la5}, mi5), ({sol#5, si5}, {la6, mi6, sol#6}, si5), ({sol#6, re6}, {fa#6, si5, sol#5}, re5), ({fa#5, si4}, {sol#4, re4, fa#4}, si3)|
             <piano_1_v4>  |mi2, (si3, mi4), re4, -|
@@ -337,9 +337,9 @@ Section de développement 7 — 8 mesures. Tonalité La mineur, tempo 69 BPM.
     </section>
 
 <meta>
-Section de développement 8 — 8 mesures. Tonalité La mineur, tempo 69 BPM.
+8 mesures, La mineur, progression finale, tempo 69 BPM. Accumulation vers la grande conclusion; les gammes de la main droite montent vers le registre le plus aigu. L'énergie expressive doit être maintenue jusqu'au dernier instant. La dynamique atteint son apogée absolu ici.
 </meta>
-    <section=section_9, n_mesure=8, bpm=69, format=4/4, tonalite=La_mineur>
+    <section=recapitulation, n_mesure=8, bpm=69, format=4/4, tonalite=La_mineur>
         <mesure num=1>
             <piano_1_v1>  |({fa5, re5}, {mi5, sol#4}), _, ({fa5, re5}, {mi5, sol#4}), _|
             <piano_1_v4>  |({fa4, re4}, {mi4, si3}), _, ({fa4, re4}, {mi4, si3}), _|
@@ -376,9 +376,9 @@ Section de développement 8 — 8 mesures. Tonalité La mineur, tempo 69 BPM.
     </section>
 
 <meta>
-Section de développement 9 — 8 mesures. Tonalité La mineur, tempo 69 BPM.
+8 mesures, La mineur, dissolution vers la coda, tempo 69 BPM. Les gammes chromatiques se condensent progressivement; la main gauche commence à poser les jalons de la coda harmonique. La vitesse peut légèrement s'emballer pour intensifier le sentiment de tourbillon final.
 </meta>
-    <section=section_10, n_mesure=8, bpm=69, format=4/4, tonalite=La_mineur>
+    <section=recapitulation, n_mesure=8, bpm=69, format=4/4, tonalite=La_mineur>
         <mesure num=1>
             <piano_1_v1>  |({mi4, si3}, {re4, fa4, mi5}, si4), ({re5, fa5}, {mi6, si5, re6}, fa5), ({re6, la5}, {do6, fa5, re5}, la4), ({do5, fa4}, {re4, la3, do4}, fa3)|
             <piano_1_v4>  |sol#1, (fa3 re4, fa3 re4), fa3 do4, la1 la2|
@@ -417,9 +417,9 @@ Section de développement 9 — 8 mesures. Tonalité La mineur, tempo 69 BPM.
     </section>
 
 <meta>
-Section de développement 10 — 8 mesures. Tonalité La mineur, tempo 69 BPM.
+8 mesures, La mineur, avant-coda, tempo 69 BPM. Ultime déferlement des gammes avant la résolution; chaque mesure est un pas de plus vers la conclusion. La densité accumulée tout au long de l'étude se décharge ici avec un effet de catharsis.
 </meta>
-    <section=section_11, n_mesure=8, bpm=69, format=4/4, tonalite=La_mineur>
+    <section=recapitulation, n_mesure=8, bpm=69, format=4/4, tonalite=La_mineur>
         <mesure num=1>
             <piano_1_v1>  |({do4, fa3}, {si3, si3, do5}, fa4), ({si4, si4}, {do6, fa5, si5}, si5), ({do7, fa#6}, {si6, si5, do6}, fa#5), ({si5, si4}, {do5, fa#4, si4}, si3)|
             <piano_1_v4>  |re2, (la3 fa4, {do#3, re3}), re#3 la3 fa#4, re#2|
@@ -455,9 +455,9 @@ Section de développement 10 — 8 mesures. Tonalité La mineur, tempo 69 BPM.
     </section>
 
 <meta>
-Section conclusive — 8 mesures. Tonalité La mineur, tempo 69 BPM.
+8 mesures conclusives en La mineur, tempo 69 BPM. La coda résout la tempête en puissants accords finaux en La mineur; les gammes se font de plus en plus courtes jusqu'à l'accord final. L'accord de conclusion doit être d'une solidité absolue, pierre d'ancrage après la tourmente.
 </meta>
-    <section=section_12, n_mesure=8, bpm=69, format=4/4, tonalite=La_mineur>
+    <section=coda, n_mesure=8, bpm=69, format=4/4, tonalite=La_mineur>
         <mesure num=1>
             <piano_1_v1>  |({la6, mi6}, {sol#6, do6, sol6}, mi6), ({fa#6, do6}, {fa6, do6, mi6}, la5), ({re#6, do6}, {re6, la5, do#6}, la5), ({do6, mi5}, {si5, mi5, la#5}, do5)|
             <piano_1_v4>  |({la1, mi2}, do3, mi2), ({la1, mi2}, do3, mi2), ({la1, mi2}, do3, mi2), ({la1, mi2}, do3, mi2)|
