@@ -1,0 +1,974 @@
+[BOS]
+<tete>
+TACHE : composition
+STYLE : impressionniste
+FORMAT : piano_solo
+NIVEAU : simple
+Titre : Pour_le_Piano_1
+Date : ?
+Auteur : Debussy
+Tonalite : La_mineur
+Unite : quarter
+Intention : Pièce pour piano solo, modéré, mélancolique, au balancement ternaire. Tonalité : La mineur. 161 mesures.
+</tete>
+
+<meta>
+Section d'ouverture — 8 mesures. Tonalité La mineur, tempo 90 BPM.
+</meta>
+    <section=section_1, n_mesure=8, bpm=90, format=3/4, tonalite=La_mineur>
+        <mesure num=1>
+            <piano_1_v1>  |(do4, mi4, do4), (do4, mi4, do4), (do4, mi4, do4)|
+            <piano_1_v4>  |la3, la3, la3|
+            <piano_1_v5>  |la3, (la3, la3), (la3, mi3)|
+        </mesure>
+        <mesure num=2>
+            <piano_1_v1>  |(la#3, re4, la#3), (la#3, re4, la#3), (la#3 re4, si3 re#4)|
+            <piano_1_v4>  |sol3, sol3, (sol3, sol#3)|
+            <piano_1_v5>  |(sol3, sol3), (sol3, sol3), (sol3, sol#3)|
+        </mesure>
+        <mesure num=3>
+            <piano_1_v1>  |(do4, mi4, do4), (do4, mi4, do4), (do4, mi4, do4)|
+            <piano_1_v4>  |la3, la3, la3|
+            <piano_1_v5>  |la3, (la3, la3), (la3, mi3)|
+        </mesure>
+        <mesure num=4>
+            <piano_1_v1>  |(la#3, re4, la#3), (la3, do#4, la3), (la3, do#4, la3)|
+            <piano_1_v4>  |sol3, fa#3, fa3|
+            <piano_1_v5>  |(sol3, sol3), (fa#3, fa#3), (fa3, fa3)|
+        </mesure>
+        <mesure num=5>
+            <piano_1_v1>  |(sol#3, do4, sol#3), (sol#3, do4, sol#3), (sol#3, do4, sol#3)|
+            <piano_1_v4>  |mi3, mi3, do3|
+            <piano_1_v5>  |mi3, (mi3, mi3), (do3, do3)|
+        </mesure>
+        <mesure num=6>
+            <piano_1_v1>  |(do3, la3, do3), (re3, la3, re3), (mi3, la3, mi3)|
+            <piano_1_v4>  |la2, si2, do3|
+            <piano_1_v5>  |la2, si2, do3|
+            <piano_1_v6>  |la1, -, -|
+        </mesure>
+        <mesure num=7>
+            <piano_1_v1>  |(fa3, la3, fa3), (re3, la3, re3), (mi3, la3, mi3)|
+            <piano_1_v4>  |re3, si2, do3|
+            <piano_1_v5>  |re3, si2, do3|
+            <piano_1_v6>  |la1, -, -|
+        </mesure>
+        <mesure num=8>
+            <piano_1_v1>  |(do3, la3, do3), (re3, la3, re3), (mi3, la3, mi3)|
+            <piano_1_v4>  |la2, si2, do3|
+            <piano_1_v5>  |la2, si2, do3|
+            <piano_1_v6>  |la1, -, -|
+        </mesure>
+    </section>
+
+<meta>
+Section de développement 1 — 8 mesures. Tonalité La mineur, tempo 90 BPM.
+</meta>
+    <section=section_2, n_mesure=8, bpm=90, format=3/4, tonalite=La_mineur>
+        <mesure num=1>
+            <piano_1_v1>  |(fa3, la3, fa3), (re3, la3, re3), (mi3, la3, mi3)|
+            <piano_1_v4>  |re3, mi3, fa3|
+            <piano_1_v5>  |la2, -, -|
+            <piano_1_v6>  |re3, mi3, fa3|
+            <piano_1_v7>  |la1, -, -|
+        </mesure>
+        <mesure num=2>
+            <piano_1_v1>  |(la#3, mi4, la#3), (sol3, do#4, sol3), (la3, re4, la3)|
+            <piano_1_v4>  |sol3, mi3, fa3|
+            <piano_1_v5>  |la2, -, -|
+            <piano_1_v6>  |sol3, mi3, fa3|
+            <piano_1_v7>  |la1, -, -|
+        </mesure>
+        <mesure num=3>
+            <piano_1_v1>  |(la#3, mi4, la#3), (re4, sol4, re4), (do4, fa4, do4)|
+            <piano_1_v4>  |sol3, la#3, la3|
+            <piano_1_v5>  |la2, -, -|
+            <piano_1_v6>  |sol3, la#3, la3|
+            <piano_1_v7>  |la1, -, -|
+        </mesure>
+        <mesure num=4>
+            <piano_1_v1>  |(la#3, mi4, la#3), (sol3, do#4, sol3), (la3, re4, la3)|
+            <piano_1_v4>  |sol3, mi3, fa3|
+            <piano_1_v5>  |la2, -, -|
+            <piano_1_v6>  |sol3, mi3, fa3|
+            <piano_1_v7>  |la1, -, -|
+        </mesure>
+        <mesure num=5>
+            <piano_1_v1>  |(la#3, mi4, la#3), (re4, sol4, re4), (do4, fa4, do4)|
+            <piano_1_v4>  |sol3, la#3, la3|
+            <piano_1_v5>  |la2, -, -|
+            <piano_1_v6>  |sol3, la#3, la3|
+            <piano_1_v7>  |la1, -, -|
+        </mesure>
+        <mesure num=6>
+            <piano_1_v1>  |(fa4, si4, fa4), (sol#4, re5, sol#4), (sol4, do5, sol4)|
+            <piano_1_v4>  |re4, si3 fa4, do4 mi4|
+            <piano_1_v5>  |sol#3, si3, do4|
+            <piano_1_v6>  |la1, -, -|
+        </mesure>
+        <mesure num=7>
+            <piano_1_v1>  |(la#4, mi5, la#4), (do#5, sol5, do#5), (do5, fa5, do5)|
+            <piano_1_v4>  |sol4, la#4, la4|
+            <piano_1_v5>  |do#4 sol4, mi4 la#4, fa4 la4|
+            <piano_1_v6>  |la1, -, -|
+        </mesure>
+        <mesure num=8>
+            <piano_1_v1>  |(fa4, si4, fa4), (sol#4, re5, sol#4), (sol4, do5, sol4)|
+            <piano_1_v4>  |re4, fa4, mi4|
+            <piano_1_v5>  |sol#3, si3, do4|
+            <piano_1_v6>  |la1, -, -|
+        </mesure>
+    </section>
+
+<meta>
+Section de développement 2 — 8 mesures. Tonalité La mineur, tempo 90 BPM.
+</meta>
+    <section=section_3, n_mesure=8, bpm=90, format=3/4, tonalite=La_mineur>
+        <mesure num=1>
+            <piano_1_v1>  |(la#4, mi5, la#4), (do#5, sol5, do#5), (la#4, mi5, la#4)|
+            <piano_1_v4>  |sol4, la4, la4|
+            <piano_1_v5>  |do#4, (mi4 la4, do#4 sol4), mi4 la4|
+            <piano_1_v6>  |la1, -, -|
+        </mesure>
+        <mesure num=2>
+            <piano_1_v1>  |(sol#4, re5, sol#4), (si4, mi5, si4), (la4, re5, la4)|
+            <piano_1_v4>  |fa4, sol4, fa4|
+            <piano_1_v5>  |si3, re4, si3|
+            <piano_1_v6>  |la1, -, -|
+        </mesure>
+        <mesure num=3>
+            <piano_1_v1>  |(fa4, si4, fa4), (sol#4, re5, sol#4), (fa4, si4, fa4)|
+            <piano_1_v4>  |re4, mi4, mi4|
+            <piano_1_v5>  |sol#3, (si3 mi4, sol#3 re4), si3 mi4|
+            <piano_1_v6>  |la1, -, -|
+        </mesure>
+        <mesure num=4>
+            <piano_1_v1>  |(re#4, la4, re#4), (fa#4, do5, fa#4), (re#4, la4, re#4)|
+            <piano_1_v4>  |do4, re4, do4|
+            <piano_1_v5>  |fa#3, la3, fa#3|
+            <piano_1_v6>  |la1, -, -|
+        </mesure>
+        <mesure num=5>
+            <piano_1_v1>  |(re#4, la4, re#4), (fa4, do5, fa4), (re#4, la4, re#4)|
+            <piano_1_v4>  |do4, re4, do4|
+            <piano_1_v5>  |fa3, la3, fa3|
+            <piano_1_v6>  |la1 la2, -, -|
+        </mesure>
+        <mesure num=6>
+            <piano_1_v1>  |(re#4, la4, re#4), (fa#4, do5, fa#4), (re#4, la4, re#4)|
+            <piano_1_v4>  |do4, re4, do4|
+            <piano_1_v5>  |fa#3, la3, fa#3|
+            <piano_1_v6>  |la1 la2, -, -|
+        </mesure>
+        <mesure num=7>
+            <piano_1_v1>  |(re#4, la4, re#4), (fa4, do5, fa4), (re#4, la4, re#4)|
+            <piano_1_v4>  |do4, re4, do4|
+            <piano_1_v5>  |fa3, la3, fa3|
+            <piano_1_v6>  |la1 la2, -, -|
+        </mesure>
+        <mesure num=8>
+            <piano_1_v1>  |_, _, _|
+            <piano_1_v2>  |(la3, si3), (sol3, la3), (fa3, sol3)|
+            <piano_1_v4>  |{fa3, sol3}, {mi3, fa3}, {re3, mi3}|
+        </mesure>
+    </section>
+
+<meta>
+Section de développement 3 — 8 mesures. Tonalité La mineur, tempo 90 BPM.
+</meta>
+    <section=section_4, n_mesure=8, bpm=90, format=3/4, tonalite=La_mineur>
+        <mesure num=1>
+            <piano_1_v1>  |_, _, _|
+            <piano_1_v2>  |(la3, si3), (sol3, la3), (fa3, sol3)|
+            <piano_1_v4>  |{fa3, sol3}, {mi3, fa3}, {re3, mi3}|
+        </mesure>
+        <mesure num=2>
+            <piano_1_v1>  |_, _, _|
+            <piano_1_v2>  |_, (sol3, la3), (fa3, sol3)|
+            <piano_1_v4>  |_, {mi3, fa3}, {re3, mi3}|
+        </mesure>
+        <mesure num=3>
+            <piano_1_v1>  |(do3, la3, do3), (re3, la3, re3), (mi3, la3, mi3)|
+            <piano_1_v4>  |la2, si2, do3|
+            <piano_1_v5>  |la2, si2, do3|
+            <piano_1_v6>  |la1, -, -|
+        </mesure>
+        <mesure num=4>
+            <piano_1_v1>  |(fa3, la3, fa3), (re3, la3, re3), (mi3, la3, mi3)|
+            <piano_1_v4>  |re3, si2, do3|
+            <piano_1_v5>  |re3, si2, do3|
+            <piano_1_v6>  |la1, -, -|
+        </mesure>
+        <mesure num=5>
+            <piano_1_v1>  |(do3, la3, do3), (re3, la3, re3), (mi3, la3, mi3)|
+            <piano_1_v4>  |la2, si2, do3|
+            <piano_1_v5>  |la2, si2, do3|
+            <piano_1_v6>  |la1, -, -|
+        </mesure>
+        <mesure num=6>
+            <piano_1_v1>  |(fa3, si3, fa3), (fa3, do4, sol3), (la3, re4, la3)|
+            <piano_1_v4>  |re3, mi3, fa3|
+            <piano_1_v5>  |la2, -, -|
+            <piano_1_v6>  |re3, mi3, fa3|
+            <piano_1_v7>  |la1, -, -|
+        </mesure>
+        <mesure num=7>
+            <piano_1_v1>  |(la#3, mi4, la#3), (sol3, do#4, sol3), (la3, re4, la3)|
+            <piano_1_v4>  |sol3, mi3, fa3|
+            <piano_1_v5>  |la2, -, -|
+            <piano_1_v6>  |sol3, mi3, fa3|
+            <piano_1_v7>  |la1, -, -|
+        </mesure>
+        <mesure num=8>
+            <piano_1_v1>  |(la#3, mi4, la#3), (re4, sol4, re4), (do4, fa4, do4)|
+            <piano_1_v4>  |sol3, la#3, la3|
+            <piano_1_v5>  |la2, -, -|
+            <piano_1_v6>  |sol3, la#3, la3|
+            <piano_1_v7>  |la1, -, -|
+        </mesure>
+    </section>
+
+<meta>
+Section de développement 4 — 8 mesures. Tonalité La mineur, tempo 90 BPM.
+</meta>
+    <section=section_5, n_mesure=8, bpm=90, format=3/4, tonalite=La_mineur>
+        <mesure num=1>
+            <piano_1_v1>  |(la#3, mi4, la#3), (sol3, do#4, sol3), (la3, re4, la3)|
+            <piano_1_v4>  |sol3, mi3, fa3|
+            <piano_1_v5>  |la2, -, -|
+            <piano_1_v6>  |sol3, mi3, fa3|
+            <piano_1_v7>  |la1, -, -|
+        </mesure>
+        <mesure num=2>
+            <piano_1_v1>  |(la#3, mi4, la#3), (re4, sol4, re4), (do4, fa4, do4)|
+            <piano_1_v4>  |sol3, la#3, la3|
+            <piano_1_v5>  |la2, -, -|
+            <piano_1_v6>  |sol3, la#3, la3|
+            <piano_1_v7>  |la1, -, -|
+        </mesure>
+        <mesure num=3>
+            <piano_1_v1>  |(fa4, si4, fa4), (sol#4, re5, sol#4), (sol4, do5, sol4)|
+            <piano_1_v4>  |re4, si3 fa4, do4 mi4|
+            <piano_1_v5>  |sol#3, si3, do4|
+            <piano_1_v6>  |la1, -, -|
+        </mesure>
+        <mesure num=4>
+            <piano_1_v1>  |(la#4, mi5, la#4), (do#5, sol5, do#5), (do5, fa5, do5)|
+            <piano_1_v4>  |sol4, la#4, la4|
+            <piano_1_v5>  |do#4 sol4, mi4 la#4, fa4 la4|
+            <piano_1_v6>  |la1, -, -|
+        </mesure>
+        <mesure num=5>
+            <piano_1_v1>  |(fa4, si4, fa4), (sol#4, re5, sol#4), (sol4, do5, sol4)|
+            <piano_1_v4>  |re4, fa4, mi4|
+            <piano_1_v5>  |sol#3, si3, do4|
+            <piano_1_v6>  |la1, -, -|
+        </mesure>
+        <mesure num=6>
+            <piano_1_v1>  |(la#4, mi5, la#4), (do#5, sol5, do#5), (do5, mi5, do5)|
+            <piano_1_v4>  |sol4, la#4, la4|
+            <piano_1_v5>  |do#4, mi4, fa4 la4|
+            <piano_1_v6>  |la1, -, -|
+        </mesure>
+        <mesure num=7>
+            <piano_1_v1>  |_, _, _|
+            <piano_1_v2>  |(la4, si4), (sol4, la4), (fa4, sol4)|
+            <piano_1_v4>  |{fa4, sol4}, {mi4, fa4}, {re4, mi4}|
+        </mesure>
+        <mesure num=8>
+            <piano_1_v1>  |_, _, _|
+            <piano_1_v2>  |(la4, si4), (sol4, la4), (fa4, sol4)|
+            <piano_1_v4>  |{fa4, sol4}, {mi4, fa4}, {re4, mi4}|
+        </mesure>
+    </section>
+
+<meta>
+Section de développement 5 — 8 mesures. Tonalité La mineur, tempo 90 BPM.
+</meta>
+    <section=section_6, n_mesure=8, bpm=90, format=3/4, tonalite=La_mineur>
+        <mesure num=1>
+            <piano_1_v1>  |({fa5, sol5}, la5, si5), ({fa5, sol5}, la5, si5), ({fa5, sol5}, la5, si5)|
+            <piano_1_v2>  |(la4, _), (la4, _), (la4, _)|
+            <piano_1_v4>  |do5, do5, do5|
+            <piano_1_v5>  |({fa4, sol4}, la4, si4), ({fa4, sol4}, la4, si4), ({fa4, sol4}, la4, si4)|
+        </mesure>
+        <mesure num=2>
+            <piano_1_v1>  |({fa5, sol5}, la5, si5), ({fa5, sol5}, la5, si5), ({fa5, sol5}, la5, si5)|
+            <piano_1_v2>  |(la4, _), (la4, _), (la4, _)|
+            <piano_1_v4>  |do5, do5, do5|
+            <piano_1_v5>  |({fa4, sol4}, la4, si4), ({fa4, sol4}, la4, si4), ({fa4, sol4}, la4, si4)|
+        </mesure>
+        <mesure num=3>
+            <piano_1_v1>  |do5 mi5 sol5 do6, (do5 mi5 sol5 do6, do5 mi5 sol5 do6), (do5 mi5 sol5 do6, sol4 si4 re#5 sol5)|
+            <piano_1_v4>  |do4 mi4 sol4, (do4 mi4 sol4, do4 mi4 sol4), (do4 mi4 sol4, sol3 si3 re#4)|
+        </mesure>
+        <mesure num=4>
+            <piano_1_v1>  |(la#4 re5 fa#5 la#5, la#4 re5 fa#5 la#5), (la#4 re5 fa#5 la#5, la#4 re5 fa#5 la#5), (la#4 re5 fa#5 la#5, fa4 la4 do#5 fa5)|
+            <piano_1_v4>  |(la#3 re4 fa#4, la#3 re4 fa#4), (la#3 re4 fa#4, la#3 re4 fa#4), (la#3 re4 fa#4, fa3 la3 do#4)|
+        </mesure>
+        <mesure num=5>
+            <piano_1_v1>  |sol#4 do5 mi5 sol#5, (sol#4 do5 mi5 sol#5, sol#4 do5 mi5 sol#5), (sol#4 do5 mi5 sol#5, re#4 sol4 si4 re#5)|
+            <piano_1_v4>  |sol#3 do4 mi4, (sol#3 do4 mi4, sol#3 do4 mi4), (sol#3 do4 mi4, re#3 sol3 si3)|
+        </mesure>
+        <mesure num=6>
+            <piano_1_v1>  |fa#4 la#4 re5 fa#5, fa3 sol3, -, ({sol3, la3, si3}, {do4, re4, mi4}, {fa4, sol4}), ({la4, si4, do5}, {re5, mi5, fa5}, {sol5, la5}), ({si5, do6, re6}, {mi6, fa6, sol6}, {la6, si6})|
+            <piano_1_v4>  |fa#3 la#3 re4, sol1 sol2, -, sol1 sol2|
+        </mesure>
+        <mesure num=7>
+            <piano_1_v1>  |(do7, _), (do5 mi5 sol5 do6, do5 mi5 sol5 do6), (do5 mi5 sol5 do6, sol4 si4 re#5 sol5)|
+            <piano_1_v4>  |(do1 do2, _), (do4 mi4 sol4, do4 mi4 sol4), (do4 mi4 sol4, sol3 si3 re#4)|
+        </mesure>
+        <mesure num=8>
+            <piano_1_v1>  |(la#4 re5 fa#5 la#5, la#4 re5 fa#5 la#5), (la#4 re5 fa#5 la#5, la#4 re5 fa#5 la#5), (la#4 re5 fa#5 la#5, fa4 la4 do#5 fa5)|
+            <piano_1_v4>  |(la#3 re4 fa#4, la#3 re4 fa#4), (la#3 re4 fa#4, la#3 re4 fa#4), (la#3 re4 fa#4, fa3 la3 do#4)|
+        </mesure>
+    </section>
+
+<meta>
+Section de développement 6 — 8 mesures. Tonalité La mineur, tempo 90 BPM.
+</meta>
+    <section=section_7, n_mesure=8, bpm=90, format=3/4, tonalite=La_mineur>
+        <mesure num=1>
+            <piano_1_v1>  |sol#4 do5 mi5 sol#5, (sol#4 do5 mi5 sol#5, sol#4 do5 mi5 sol#5), (sol#4 do5 mi5 sol#5, re#4 sol4 si4 re#5)|
+            <piano_1_v4>  |sol#3 do4 mi4, (sol#3 do4 mi4, sol#3 do4 mi4), (sol#3 do4 mi4, re#3 sol3 si3)|
+        </mesure>
+        <mesure num=2>
+            <piano_1_v1>  |fa#4 la#4 re5 fa#5, fa3 sol3, -, ({sol3, la3, si3}, {do4, re4, mi4, fa#4}, {sol4, la#4}), ({si4, do5}, {re5, mi5, fa#5, sol5, la5}, {si5, do6}), ({re6, mi6}, {fa#6, sol6, la6, si6}, {do7, re7}), _|
+            <piano_1_v4>  |{_, fa#3 la#3 re4}, sol1 sol2, -, sol1 sol2, -, -, _|
+        </mesure>
+        <mesure num=3>
+            <piano_1_v1>  |(mi7, _), (do5 re#5 sol5 do6, do5 re#5 sol5 do6), (do5 re#5 sol5 do6, sol4 si4 re#5 sol5)|
+            <piano_1_v4>  |(do1 do2, _), (mi4 sol#4 do5, mi4 sol#4 do5), (mi4 sol#4 do5, re#4 sol4)|
+            <piano_1_v5>  |_, do4, -|
+        </mesure>
+        <mesure num=4>
+            <piano_1_v1>  |(re5 fa#5 la#5 re6, re5 fa#5 la#5 re6), (re5 fa#5 la#5 re6, re5 fa#5 la#5 re6), (re5 fa#5 la#5 re6, re#5 sol5 si5 re#6)|
+            <piano_1_v4>  |(re4 fa#4 la#4, re4 fa#4 la#4), (re4 fa#4 la#4, re4 fa#4 la#4), (re4 fa#4 la#4, re#4 sol4 si4)|
+            <piano_1_v5>  |do4, do4, -|
+        </mesure>
+        <mesure num=5>
+            <piano_1_v1>  |mi5 sol#5 do6 mi6, (mi5 sol#5 do6 mi6, mi5 sol#5 do6 mi6), (mi5 sol#5 do6 mi6, si4 re#5 sol5 si5)|
+            <piano_1_v4>  |mi4 sol#4 do5, (mi4 sol#4 do5, mi4 sol#4 do5), (mi4 sol#4 do5, re#4 sol4)|
+            <piano_1_v5>  |do4, do4, -|
+        </mesure>
+        <mesure num=6>
+            <piano_1_v1>  |(re5 fa#5 la#5 re6, re5 fa#5 la#5 re6), (re5 fa#5 la#5 re6, re5 fa#5 la#5 re6), (re5 fa#5 la#5 re6, re#5 sol5 la#5 re#6)|
+            <piano_1_v4>  |(re4 fa#4 la#4, re4 fa#4 la#4), (re4 fa#4 la#4, re4 fa#4 la#4), (re4 fa#4 la#4, re#4 sol4 si4)|
+            <piano_1_v5>  |do4, do4, -|
+        </mesure>
+        <mesure num=7>
+            <piano_1_v1>  |mi5 sol#5 do6 mi6, (mi5 sol#5 do6 mi6, mi5 sol#5 do6 mi6), (fa5 la5 do#6 fa6, fa5 la5 do#6 fa6)|
+            <piano_1_v4>  |mi4 sol#4 do5, (mi4 sol#4 do5, mi4 sol#4 do5), (fa4 la4 do#5, fa4 la4 do#5)|
+            <piano_1_v5>  |do4, -, si3|
+        </mesure>
+        <mesure num=8>
+            <piano_1_v1>  |fa#5 la#5 re6 fa#6, (fa#5 la#5 re6 fa#6, fa#5 la#5 re6 fa#6), (sol5 la#5 re#6 sol6, sol5 la#5 re#6 sol6)|
+            <piano_1_v4>  |fa#4 la#4 re5, (fa#4 la#4 re5, fa#4 la#4 re5), (sol4 si4 re#5, sol4 si4 re#5)|
+            <piano_1_v5>  |la#3, -, la3|
+        </mesure>
+    </section>
+
+<meta>
+Section de développement 7 — 8 mesures. Tonalité La mineur, tempo 90 BPM.
+</meta>
+    <section=section_8, n_mesure=8, bpm=90, format=3/4, tonalite=La_mineur>
+        <mesure num=1>
+            <piano_1_v1>  |({sol#5 do6 sol#6, fa#6}, mi6, re6), ({mi5, re5}, do5, la#4)|
+            <piano_1_v4>  |_, ({do6, la#5}, sol#5, fa#5)|
+            <piano_1_v5>  |(fa#4 do5 mi5, _), _, _|
+            <piano_1_v6>  |sol#3|
+        </mesure>
+        <mesure num=2>
+            <piano_1_v1>  |_, _, _|
+            <piano_1_v2>  |_, ({do4, la#3}, sol#3, fa#3)|
+            <piano_1_v4>  |({sol#4, fa#4}, mi4, re4), ({mi3, re3}, do3, la#2)|
+        </mesure>
+        <mesure num=3>
+            <piano_1_v1>  |(la#2, sol#2, la#2), ({sol#2, la#2}, sol#2, la#2), ({sol#2, la#2}, sol#2, la#2)|
+            <piano_1_v4>  |sol#2|
+            <piano_1_v5>  |_, _, _|
+        </mesure>
+        <mesure num=4>
+            <piano_1_v1>  |({sol#2, la#2}, sol#2, la#2), ({sol#2, la#2}, sol#2, la#2), ({sol#2, la#2}, sol#2, la#2)|
+            <piano_1_v4>  |_, _, _|
+        </mesure>
+        <mesure num=5>
+            <piano_1_v1>  |({sol#2, la#2}, sol#2, la#2), ({sol#2, la#2}, sol#2, la#2), ({sol#2, la#2}, sol#2, la#2)|
+            <piano_1_v4>  |re2, (re2, re2), (re2, la#1)|
+        </mesure>
+        <mesure num=6>
+            <piano_1_v1>  |({sol#2, la#2}, sol#2, la#2), ({sol#2, la#2}, sol#2, la#2), ({sol#2, la#2}, sol#2, la#2)|
+            <piano_1_v4>  |(do#2, do#2), (do#2, do#2), (do#2, re2)|
+        </mesure>
+        <mesure num=7>
+            <piano_1_v1>  |({sol#2, la#2}, sol#2, la#2), ({sol#2, la#2}, sol#2, la#2), ({sol#2, la#2}, sol#2, la#2)|
+            <piano_1_v4>  |re#2, (re#2, re#2), (re#2, si1)|
+        </mesure>
+        <mesure num=8>
+            <piano_1_v1>  |({sol#2, la#2}, sol#2, la#2), ({sol#2, la#2}, sol#2, la#2), ({la2, si2}, la2, si2)|
+            <piano_1_v4>  |(re2, re2), (re2, re2), (re2, re#2)|
+        </mesure>
+    </section>
+
+<meta>
+Section de développement 8 — 8 mesures. Tonalité La mineur, tempo 90 BPM.
+</meta>
+    <section=section_9, n_mesure=8, bpm=90, format=3/4, tonalite=La_mineur>
+        <mesure num=1>
+            <piano_1_v1>  |({la#2, do3}, la#2, do3), ({la#2, do3}, la#2, do3), ({si2, do#3}, si2, do#3)|
+            <piano_1_v4>  |mi2, (mi2, mi2), (fa2, do#2)|
+        </mesure>
+        <mesure num=2>
+            <piano_1_v1>  |({do3, re3}, do3, re3), ({do3, re3}, do3, re3), ({do#3, re#3}, do#3, re#3)|
+            <piano_1_v4>  |fa#2, (fa#2, fa#2), (sol2, re#2)|
+        </mesure>
+        <mesure num=3>
+            <piano_1_v1>  |({re3, mi3}, re3, mi3), ({re#3, fa3}, re#3, fa3), ({mi3, fa#3}, mi3, fa#3)|
+            <piano_1_v4>  |(sol#2, sol#3), (la3, la2), (la#2, la#3)|
+        </mesure>
+        <mesure num=4>
+            <piano_1_v1>  |({fa3, sol3}, fa3, sol3), ({fa#3, sol#3}, fa#3, sol#3), ({sol3, la3}, sol3, la3)|
+            <piano_1_v4>  |(si3, si2), (do3, do4), (do#4, do#3)|
+        </mesure>
+        <mesure num=5>
+            <piano_1_v1>  |({sol#3, la#3}, sol#3, la#3), ({la3, si3}, la3, si3), ({la#3, do4}, la#3, do4)|
+            <piano_1_v4>  |(re3, re4), (re#4, re#3), (mi3, mi4)|
+        </mesure>
+        <mesure num=6>
+            <piano_1_v1>  |({si3, do#4}, si3, do#4), ({do4, re4}, do4, re4), ({do#4, re#4}, do#4, re#4)|
+            <piano_1_v4>  |(fa4, fa3), (fa#3, fa#4), (sol4, sol3)|
+        </mesure>
+        <mesure num=7>
+            <piano_1_v1>  |({re4, mi4}, re4, mi4), ({re4, mi4}, re4, mi4), sol#5|
+            <piano_1_v4>  |sol#3 sol#4, -, ({re5, mi5}, re5, mi5)|
+            <piano_1_v5>  |_, _, sol#4|
+        </mesure>
+        <mesure num=8>
+            <piano_1_v1>  |sol#5, sol#5 sol#6, -|
+            <piano_1_v4>  |({re5, mi5}, re5, mi5), ({re5, mi5}, re5, mi5), ({re5, mi5}, re5, mi5)|
+            <piano_1_v5>  |sol#4, -, -|
+        </mesure>
+    </section>
+
+<meta>
+Section de développement 9 — 8 mesures. Tonalité La mineur, tempo 90 BPM.
+</meta>
+    <section=section_10, n_mesure=8, bpm=90, format=3/4, tonalite=La_mineur>
+        <mesure num=1>
+            <piano_1_v1>  |sol#5 sol#6, _, _|
+            <piano_1_v4>  |({re5, mi5}, re5, mi5), ({re5, mi5}, re5, mi5), ({re5, mi5}, re5, mi5)|
+            <piano_1_v5>  |sol#4, -, -|
+        </mesure>
+        <mesure num=2>
+            <piano_1_v1>  |_, _, _|
+            <piano_1_v4>  |({re5, mi5}, re5, mi5), ({re5, mi5}, re5, mi5), ({re5, mi5}, re5, mi5)|
+            <piano_1_v5>  |sol#4, -, -|
+        </mesure>
+        <mesure num=3>
+            <piano_1_v1>  |sol#5, la#5, do6|
+            <piano_1_v4>  |({re5, mi5}, re5, mi5), ({re5, mi5}, re5, mi5), ({re5, mi5}, re5, mi5)|
+            <piano_1_v5>  |sol#4, -, -|
+        </mesure>
+        <mesure num=4>
+            <piano_1_v1>  |sol#6, -, _|
+            <piano_1_v2>  |re6, la#5, do6|
+            <piano_1_v4>  |({re5, mi5}, re5, mi5), ({re5, mi5}, re5, mi5), ({re5, mi5}, re5, mi5)|
+            <piano_1_v5>  |sol#4, -, -|
+            <piano_1_v6>  |sol#5, -, -|
+        </mesure>
+        <mesure num=5>
+            <piano_1_v1>  |sol#5, la#5, do6|
+            <piano_1_v4>  |({re5, mi5}, re5, mi5), ({re5, mi5}, re5, mi5), ({re5, mi5}, re5, mi5)|
+            <piano_1_v5>  |sol#4, -, -|
+        </mesure>
+        <mesure num=6>
+            <piano_1_v1>  |sol#6, -, _|
+            <piano_1_v2>  |re6, la#5, do6|
+            <piano_1_v4>  |({re5, mi5}, re5, mi5), ({re5, mi5}, re5, mi5), ({re5, mi5}, re5, mi5)|
+            <piano_1_v5>  |sol#4, -, -|
+            <piano_1_v6>  |sol#5, -, -|
+        </mesure>
+        <mesure num=7>
+            <piano_1_v1>  |_, (do7 mi7, {do7 mi7, fa#6 la#6}), la#6 re7|
+            <piano_1_v4>  |({re5, mi5}, re5, mi5), ({re5, mi5}, re5, mi5), ({re5, mi5}, re5, mi5)|
+            <piano_1_v5>  |sol#4, -, -|
+        </mesure>
+        <mesure num=8>
+            <piano_1_v1>  |(do6 mi6, {do6 mi6, fa#5 la#5}), la#5 re6, _|
+            <piano_1_v4>  |({re5, mi5}, re5, mi5), ({re5, mi5}, re5, mi5), ({re5, mi5}, re5, mi5)|
+            <piano_1_v5>  |sol#4, -, -|
+            <piano_1_v6>  |sol#5, -, -|
+        </mesure>
+    </section>
+
+<meta>
+Section de développement 10 — 8 mesures. Tonalité La mineur, tempo 90 BPM.
+</meta>
+    <section=section_11, n_mesure=8, bpm=90, format=3/4, tonalite=La_mineur>
+        <mesure num=1>
+            <piano_1_v1>  |_, (do7 mi7, {do7 mi7, fa#6 la#6}), la#6 re7|
+            <piano_1_v4>  |({re5, mi5}, re5, mi5), ({re5, mi5}, re5, mi5), ({re5, mi5}, re5, mi5)|
+            <piano_1_v5>  |sol#4, -, -|
+        </mesure>
+        <mesure num=2>
+            <piano_1_v1>  |(do6 mi6, {do6 mi6, fa#5 la#5}), la#5 re6, _|
+            <piano_1_v4>  |({re5, mi5}, re5, mi5), ({re5, mi5}, re5, mi5), ({re5, mi5}, re5, mi5)|
+            <piano_1_v5>  |sol#4, -, -|
+            <piano_1_v6>  |sol#5, -, -|
+        </mesure>
+        <mesure num=3>
+            <piano_1_v1>  |sol#5, la#5, do6|
+            <piano_1_v4>  |({re5, mi5}, re5, mi5), ({re5, mi5}, re5, mi5), ({re5, mi5}, re5, mi5)|
+            <piano_1_v5>  |sol#4, -, -|
+        </mesure>
+        <mesure num=4>
+            <piano_1_v1>  |sol#6, -, -|
+            <piano_1_v2>  |re6, la#5, do6|
+            <piano_1_v3>  |fa#5, -, -|
+            <piano_1_v4>  |({re5, mi5}, re5, mi5), ({re5, mi5}, re5, mi5), ({re5, mi5}, re5, mi5)|
+            <piano_1_v5>  |sol#4, -, -|
+        </mesure>
+        <mesure num=5>
+            <piano_1_v1>  |sol#5, la#5, do6|
+            <piano_1_v4>  |({re5, mi5}, re5, mi5), ({re5, mi5}, re5, mi5), ({re5, mi5}, re5, mi5)|
+            <piano_1_v5>  |sol#4, -, -|
+        </mesure>
+        <mesure num=6>
+            <piano_1_v1>  |sol#6, -, -|
+            <piano_1_v2>  |re6, la#5, do6|
+            <piano_1_v3>  |fa#5, -, -|
+            <piano_1_v4>  |({re5, mi5}, re5, mi5), ({re5, mi5}, re5, mi5), ({re5, mi5}, re5, mi5)|
+            <piano_1_v5>  |sol#4, -, -|
+            <piano_1_v6>  |sol#5, -, -|
+        </mesure>
+        <mesure num=7>
+            <piano_1_v1>  |sol#5, (re7 fa#7, {la#6, do7 mi7}), (sol#6, {la#6 re7, fa#6})|
+            <piano_1_v4>  |({re5, mi5}, re5, mi5), ({re5, mi5}, re5, mi5), ({re5, mi5}, re5, mi5)|
+            <piano_1_v5>  |sol#4, -, -|
+        </mesure>
+        <mesure num=8>
+            <piano_1_v1>  |_, (re6 fa#6, {la#5, do6 mi6}), (sol#5, {la#5 re6, fa#5})|
+            <piano_1_v4>  |({re5, mi5}, re5, mi5), ({re5, mi5}, re5, mi5), ({re5, mi5}, re5, mi5)|
+            <piano_1_v5>  |sol#4, -, -|
+            <piano_1_v6>  |sol#5, -, -|
+        </mesure>
+    </section>
+
+<meta>
+Section de développement 11 — 8 mesures. Tonalité La mineur, tempo 90 BPM.
+</meta>
+    <section=section_12, n_mesure=8, bpm=90, format=3/4, tonalite=La_mineur>
+        <mesure num=1>
+            <piano_1_v1>  |_, (re7 fa#7, {la#6, do7 mi7}), (sol#6, {la#6 re7, fa#6})|
+            <piano_1_v4>  |({re5, mi5}, re5, mi5), ({re5, mi5}, re5, mi5), ({re5, mi5}, re5, mi5)|
+            <piano_1_v5>  |sol#4, -, -|
+        </mesure>
+        <mesure num=2>
+            <piano_1_v1>  |_, (re6 fa#6, {la#5, do6 mi6}), (sol#5, {la#5 re6, fa#5})|
+            <piano_1_v4>  |({re5, mi5}, re5, mi5), ({re5, mi5}, re5, mi5), ({re5, mi5}, re5, mi5)|
+            <piano_1_v5>  |sol#4, -, -|
+            <piano_1_v6>  |sol#5, -, -|
+        </mesure>
+        <mesure num=3>
+            <piano_1_v1>  |({sol#4, fa#4}, sol#4, fa#4), ({fa#4, mi4}, fa#4, mi4), ({mi4, re4}, mi4, re4)|
+            <piano_1_v2>  |sol#4, -, -|
+            <piano_1_v4>  |_, la#4, do5|
+        </mesure>
+        <mesure num=4>
+            <piano_1_v1>  |({re4, do4}, re4, do4), ({do4, la#3}, do4, la#3), ({la#3, sol#3}, la#3, sol#3)|
+            <piano_1_v4>  |re5, la#4, do5|
+        </mesure>
+        <mesure num=5>
+            <piano_1_v1>  |({sol#3, fa#3}, sol#3, fa#3), ({fa#3, mi3}, fa#3, mi3), ({mi3, re3}, mi3, re3)|
+            <piano_1_v4>  |sol#4, la#4, do5|
+        </mesure>
+        <mesure num=6>
+            <piano_1_v1>  |({re3, do3}, re3, do3), ({do3, la#2}, do3, la#2), ({la#2, sol#2}, la#2, sol#2)|
+            <piano_1_v4>  |re5, la#4, do5|
+        </mesure>
+        <mesure num=7>
+            <piano_1_v1>  |({sol#2, fa#2}, sol#2, fa#2), ({fa#2, mi2}, fa#2, mi2), ({mi2, re2}, mi2, re2)|
+            <piano_1_v4>  |sol#4, la#4, do5|
+        </mesure>
+        <mesure num=8>
+            <piano_1_v1>  |_, _, _|
+            <piano_1_v2>  |({re2, do2}, re2, do2)|
+            <piano_1_v4>  |_, ({do2, la#1}, do2, la#1), ({do2, la#1}, do2, la#1)|
+        </mesure>
+    </section>
+
+<meta>
+Section de développement 12 — 8 mesures. Tonalité La mineur, tempo 90 BPM.
+</meta>
+    <section=section_13, n_mesure=8, bpm=90, format=3/4, tonalite=La_mineur>
+        <mesure num=1>
+            <piano_1_v1>  |(do3, la3, do3), (re3, la3, re3), (mi3, la3, mi3)|
+            <piano_1_v4>  |la2, si2, do3|
+            <piano_1_v5>  |la2, si2, do3|
+            <piano_1_v6>  |la1, -, -|
+        </mesure>
+        <mesure num=2>
+            <piano_1_v1>  |(fa3, la3, fa3), (re3, la3, re3), (mi3, la3, mi3)|
+            <piano_1_v4>  |re3, si2, do3|
+            <piano_1_v5>  |re3, si2, do3|
+            <piano_1_v6>  |la1, -, -|
+        </mesure>
+        <mesure num=3>
+            <piano_1_v1>  |(do3, la3, do3), (re3, la3, re3), (mi3, la3, mi3)|
+            <piano_1_v4>  |la2, si2, do3|
+            <piano_1_v5>  |la2, si2, do3|
+            <piano_1_v6>  |la1, -, -|
+        </mesure>
+        <mesure num=4>
+            <piano_1_v1>  |(fa3, la3, fa3), (re3, la3, re3), (mi3, la3, mi3)|
+            <piano_1_v4>  |re3, mi3, fa3|
+            <piano_1_v5>  |la2, -, -|
+            <piano_1_v6>  |re3, mi3, fa3|
+            <piano_1_v7>  |la1, -, -|
+        </mesure>
+        <mesure num=5>
+            <piano_1_v1>  |(la#3, mi4, la#3), (sol3, do#4, sol3), (la3, re4, la3)|
+            <piano_1_v4>  |sol3, mi3, fa3|
+            <piano_1_v5>  |la2, -, -|
+            <piano_1_v6>  |sol3, mi3, fa3|
+            <piano_1_v7>  |la1, -, -|
+        </mesure>
+        <mesure num=6>
+            <piano_1_v1>  |(la#3, mi4, la#3), (re4, sol4, re4), (do4, fa4, do4)|
+            <piano_1_v4>  |sol3, la#3, la3|
+            <piano_1_v5>  |la2, -, -|
+            <piano_1_v6>  |sol3, la#3, la3|
+            <piano_1_v7>  |la1, -, -|
+        </mesure>
+        <mesure num=7>
+            <piano_1_v1>  |(la#3, mi4, la#3), (sol3, do#4, sol3), (la3, re4, la3)|
+            <piano_1_v4>  |sol3, mi3, fa3|
+            <piano_1_v5>  |la2, -, -|
+            <piano_1_v6>  |sol3, mi3, fa3|
+            <piano_1_v7>  |la1, -, -|
+        </mesure>
+        <mesure num=8>
+            <piano_1_v1>  |(la#3, mi4, la#3), (re4, sol4, re4), (do4, fa4, do4)|
+            <piano_1_v4>  |sol3, la#3, la3|
+            <piano_1_v5>  |la2, -, -|
+            <piano_1_v6>  |sol3, la#3, la3|
+            <piano_1_v7>  |la1, -, -|
+        </mesure>
+    </section>
+
+<meta>
+Section de développement 13 — 8 mesures. Tonalité La mineur, tempo 90 BPM.
+</meta>
+    <section=section_14, n_mesure=8, bpm=90, format=3/4, tonalite=La_mineur>
+        <mesure num=1>
+            <piano_1_v1>  |(fa4, si4, fa4), (sol#4, re5, sol#4), (sol4, do5, sol4)|
+            <piano_1_v4>  |re4, si3 fa4, do4 mi4|
+            <piano_1_v5>  |sol#3, si3, do4|
+            <piano_1_v6>  |la1, -, -|
+        </mesure>
+        <mesure num=2>
+            <piano_1_v1>  |(la#4, mi5, la#4), (do#5, sol5, do#5), (do5, fa5, do5)|
+            <piano_1_v4>  |sol4, la#4, la4|
+            <piano_1_v5>  |do#4 sol4, mi4 la#4, fa4 la4|
+            <piano_1_v6>  |la1, -, -|
+        </mesure>
+        <mesure num=3>
+            <piano_1_v1>  |(fa4, si4, fa4), (sol#4, re5, sol#4), (sol4, do5, sol4)|
+            <piano_1_v4>  |re4, fa4, mi4|
+            <piano_1_v5>  |sol#3, si3, do4|
+            <piano_1_v6>  |la1, -, -|
+        </mesure>
+        <mesure num=4>
+            <piano_1_v1>  |(la#4, mi5, la#4), (do#5, sol5, do#5), (la#4, mi5, la#4)|
+            <piano_1_v4>  |sol4, la4, la4|
+            <piano_1_v5>  |do#4, (mi4 la4, do#4 sol4), mi4 la4|
+            <piano_1_v6>  |la1, -, -|
+        </mesure>
+        <mesure num=5>
+            <piano_1_v1>  |(sol#4, re5, sol#4), (si4, mi5, si4), (la4, re5, la4)|
+            <piano_1_v4>  |fa4, sol4, fa4|
+            <piano_1_v5>  |si3, re4, si3|
+            <piano_1_v6>  |la1, -, -|
+        </mesure>
+        <mesure num=6>
+            <piano_1_v1>  |(fa4, si4, fa4), (sol#4, re5, sol#4), (fa4, si4, fa4)|
+            <piano_1_v4>  |re4, mi4, mi4|
+            <piano_1_v5>  |sol#3, (si3, sol#3 re4), si3|
+            <piano_1_v6>  |la1, -, -|
+        </mesure>
+        <mesure num=7>
+            <piano_1_v1>  |(re#4, la4, re#4), (fa#4, do5, fa#4), (re#4, la4, re#4)|
+            <piano_1_v4>  |do4, re4, do4|
+            <piano_1_v5>  |fa#3, la3, fa#3|
+            <piano_1_v6>  |la1, -, -|
+        </mesure>
+        <mesure num=8>
+            <piano_1_v1>  |(re#4, la4, re#4), (fa4, do5, fa4), (re#4, la4, re#4)|
+            <piano_1_v4>  |do4, re4, do4|
+            <piano_1_v5>  |fa3, la3, fa3|
+            <piano_1_v6>  |la1 la2, -, -|
+        </mesure>
+    </section>
+
+<meta>
+Section de développement 14 — 8 mesures. Tonalité La mineur, tempo 90 BPM.
+</meta>
+    <section=section_15, n_mesure=8, bpm=90, format=3/4, tonalite=La_mineur>
+        <mesure num=1>
+            <piano_1_v1>  |(re#4, la4, re#4), (fa#4, do5, fa#4), (re#4, la4, re#4)|
+            <piano_1_v4>  |do4, re4, do4|
+            <piano_1_v5>  |fa#3 do4, la3 re4, fa#3 do4|
+            <piano_1_v6>  |la1 la2, -, -|
+        </mesure>
+        <mesure num=2>
+            <piano_1_v1>  |(re#4, la4, re#4), (fa4, do5, fa4), (re#4, la4, re#4)|
+            <piano_1_v4>  |do4, re4, do4|
+            <piano_1_v5>  |fa3, la3, fa3|
+            <piano_1_v6>  |la1 la2, -, -|
+        </mesure>
+        <mesure num=3>
+            <piano_1_v1>  |_, _, _|
+            <piano_1_v2>  |(la3, si3), (sol3, la3), (fa3, sol3)|
+            <piano_1_v4>  |{fa3, sol3}, {mi3, fa3}, {re3, mi3}|
+        </mesure>
+        <mesure num=4>
+            <piano_1_v1>  |_, _, _|
+            <piano_1_v2>  |(la3, si3), (sol3, la3), (fa3, sol3)|
+            <piano_1_v4>  |{fa3, sol3}, {mi3, fa3}, {re3, mi3}|
+        </mesure>
+        <mesure num=5>
+            <piano_1_v1>  |_, _, _|
+            <piano_1_v2>  |_, (sol3, la3), (fa3, sol3)|
+            <piano_1_v4>  |_, {mi3, fa3}, {re3, mi3}|
+        </mesure>
+        <mesure num=6>
+            <piano_1_v1>  |_, ({la2, si2, do3}, {re3, mi3, fa3, la3, si3, do4, re4, mi4}, {fa4, sol4, la4}), ({si4, do5, re5, mi5}, {fa5, sol5, la5, si5, do6, re6, mi6, fa6}, {sol6, la6, si6})|
+            <piano_1_v2>  |(mi3, fa3)|
+            <piano_1_v4>  |_, sol2|
+            <piano_1_v5>  |{do3, re3}, (sol1 sol2, fa1 fa2), (mi1 mi2, re1 re2)|
+        </mesure>
+        <mesure num=7>
+            <piano_1_v1>  |(do7, _), (do5 mi5 sol5 do6, do5 mi5 sol5 do6), (do5 mi5 sol5 do6, sol4 si4 re#5 sol5)|
+            <piano_1_v4>  |(do1 do2, _), (do4 mi4 sol4, do4 mi4 sol4), (do4 mi4 sol4, sol3 si3 re#4)|
+        </mesure>
+        <mesure num=8>
+            <piano_1_v1>  |(la#4 re5 fa#5 la#5, la#4 re5 fa#5 la#5), (la#4 re5 fa#5 la#5, la#4 re5 fa#5 la#5), (la#4 re5 fa#5 la#5, fa4 la4 do#5 fa5)|
+            <piano_1_v4>  |(la#3 re4 fa#4, la#3 re4 fa#4), (la#3 re4 fa#4, la#3 re4 fa#4), (la#3 re4 fa#4, fa3 la3 do#4)|
+        </mesure>
+    </section>
+
+<meta>
+Section de développement 15 — 8 mesures. Tonalité La mineur, tempo 90 BPM.
+</meta>
+    <section=section_16, n_mesure=8, bpm=90, format=3/4, tonalite=La_mineur>
+        <mesure num=1>
+            <piano_1_v1>  |sol#4 do5 mi5 sol#5, (sol#4 do5 mi5 sol#5, sol#4 do5 mi5 sol#5), (sol#4 do5 mi5 sol#5, re#4 sol4 si4 re#5)|
+            <piano_1_v4>  |sol#3 do4 mi4, (sol#3 do4 mi4, sol#3 do4 mi4), (sol#3 do4 mi4, re#3 sol3 si3)|
+        </mesure>
+        <mesure num=2>
+            <piano_1_v1>  |fa#4 la#4 re5 fa#5, fa3 sol3, -, ({sol3, la3, si3}, {do4, re4, mi4}, {fa4, sol4}), ({la4, si4, do5}, {re5, mi5, fa5}, {sol5, la5}), ({si5, do6, re6}, {mi6, fa6, sol6}, {la6, si6})|
+            <piano_1_v4>  |fa#3 la#3 re4, sol1 sol2, -, sol1 sol2|
+        </mesure>
+        <mesure num=3>
+            <piano_1_v1>  |(do7, _), (do5 mi5 sol5 do6, do5 mi5 sol5 do6), (do5 mi5 sol5 do6, sol4 si4 re#5 sol5)|
+            <piano_1_v4>  |(do1 do2, _), (do4 mi4 sol4, do4 mi4 sol4), (do4 mi4 sol4, sol3 si3 re#4)|
+        </mesure>
+        <mesure num=4>
+            <piano_1_v1>  |(la#4 re5 fa#5 la#5, la#4 re5 fa#5 la#5), (la#4 re5 fa#5 la#5, la#4 re5 fa#5 la#5), (la#4 re5 fa#5 la#5, fa4 la4 do#5 fa5)|
+            <piano_1_v4>  |(la#3 re4 fa#4, la#3 re4 fa#4), (la#3 re4 fa#4, la#3 re4 fa#4), (la#3 re4 fa#4, fa3 la3 do#4)|
+        </mesure>
+        <mesure num=5>
+            <piano_1_v1>  |sol#4 do5 mi5 sol#5, (sol#4 do5 mi5 sol#5, sol#4 do5 mi5 sol#5), (sol#4 do5 mi5 sol#5, re#4 sol4 si4 re#5)|
+            <piano_1_v4>  |sol#3 do4 mi4, (sol#3 do4 mi4, sol#3 do4 mi4), (sol#3 do4 mi4, re#3 sol3 si3)|
+        </mesure>
+        <mesure num=6>
+            <piano_1_v1>  |fa#4 la#4 re5 fa#5, fa3 sol3, -, ({sol3, la3, si3}, {do4, re4, mi4, fa#4}, {sol4, la#4}), ({si4, do5}, {re5, mi5, fa#5, sol5, la5}, {si5, do6}), ({re6, mi6}, {fa#6, sol6, la6, si6}, {do7, re7}), _|
+            <piano_1_v4>  |{_, fa#3 la#3 re4}, sol1 sol2, -, (sol1 sol2, fa1 fa2), fa1 fa2, -, _|
+        </mesure>
+        <mesure num=7>
+            <piano_1_v1>  |(mi7, _), ({_, la5}, do6 mi6, la5), ({_, la5 do6 mi6}, _, mi5 sol#5 si5)|
+            <piano_1_v4>  |(do1 do2, _), (la4 do5 mi5, la4 do5 mi5), (la4 do5 mi5, mi4 sol#4 si4)|
+        </mesure>
+        <mesure num=8>
+            <piano_1_v1>  |({_, sol5}, la#5 re6, sol5), ({_, sol5 la#5 re6}, _, sol5 la#5 re6), ({_, sol5 la#5 re6}, _, sol#5 si5 re#6)|
+            <piano_1_v4>  |(sol4 la#4 re5, sol4 la#4 re5), (sol4 la#4 re5, sol4 la#4 re5), (sol4 la#4 re5, sol#4 si4 re#5)|
+        </mesure>
+    </section>
+
+<meta>
+Section de développement 16 — 8 mesures. Tonalité La mineur, tempo 90 BPM.
+</meta>
+    <section=section_17, n_mesure=8, bpm=90, format=3/4, tonalite=La_mineur>
+        <mesure num=1>
+            <piano_1_v1>  |({_, la5}, do6 mi6, la5), ({_, la5 do6 mi6}, _, la5 do6 mi6), ({_, la5 do6 mi6}, _, mi5 sol#5 si5)|
+            <piano_1_v4>  |la4 do5 mi5, (la4 do5 mi5, la4 do5 mi5), (la4 do5 mi5, mi4 sol#4 si4)|
+        </mesure>
+        <mesure num=2>
+            <piano_1_v1>  |({_, sol5}, la#5 re6, sol5), ({_, fa#5}, la5 do#6, fa#5), ({_, fa5}, la5 do#6, fa5)|
+            <piano_1_v4>  |(sol4 la#4 re5, sol4 la#4 re5), (fa#4 la4 do#5, fa#4 la4 do#5), (fa4 la4 do#5, fa4 la4 do#5)|
+        </mesure>
+        <mesure num=3>
+            <piano_1_v1>  |({_, mi5}, sol#5 do6, mi5), ({_, mi5 sol#5 do6}, _, mi5 sol#5 do6), ({_, do5 mi5 sol#5}, _, do5 mi5 sol#5)|
+            <piano_1_v4>  |mi4 sol#4 do5, (mi4 sol#4 do5, mi4 sol#4 do5), (do4 mi4 sol#4, do4 mi4 sol#4)|
+        </mesure>
+        <mesure num=4>
+            <piano_1_v1>  |({_, sol4}, la#4 re5, sol4), ({_, fa#4}, la4 do#5, fa#4), ({_, fa4}, la4 do#5, fa4)|
+            <piano_1_v4>  |(sol3 la#3 re4, sol3 la#3 re4), (fa#3 la3 do#4, fa#3 la3 do#4), (fa3 la3 do#4, fa3 la3 do#4)|
+        </mesure>
+        <mesure num=5>
+            <piano_1_v1>  |({_, mi4}, sol#4 do5, mi4), ({_, mi4 sol#4 do5}, _, mi4 sol#4 do5), ({_, do4 mi4 sol#4}, _, do4 mi4 sol#4)|
+            <piano_1_v4>  |mi3 sol#3 do4, (mi3 sol#3 do4, mi3 sol#3 do4), (do3 mi3 sol#3, do3 mi3 sol#3)|
+        </mesure>
+        <mesure num=6>
+            <piano_1_v1>  |({sol#3, la#3}, sol#3, la#3), ({sol#3, la#3}, sol#3, la#3), ({sol#3, la#3}, sol#3, la#3)|
+            <piano_1_v4>  |_, (do3 do4, do3 do4), (do3 do4, do3 do4)|
+            <piano_1_v5>  |sol#1 sol#2, -, -|
+        </mesure>
+        <mesure num=7>
+            <piano_1_v1>  |sol#4, -, -|
+            <piano_1_v2>  |({sol#3, la#3}, sol#3, la#3), ({sol#3, la#3}, sol#3, la#3), ({sol#3, la#3}, sol#3, la#3)|
+            <piano_1_v4>  |(re3 re4, re3 re4), re3 re4, re3 re4|
+        </mesure>
+        <mesure num=8>
+            <piano_1_v1>  |({sol#3, la#3}, sol#3, la#3), ({sol#3, la#3}, sol#3, la#3), ({sol#3, la#3}, sol#3, la#3)|
+            <piano_1_v4>  |_, (do3 do4, do3 do4), (do3 do4, do3 do4)|
+            <piano_1_v5>  |fa#1 fa#2, -, -|
+        </mesure>
+    </section>
+
+<meta>
+Section de développement 17 — 8 mesures. Tonalité La mineur, tempo 90 BPM.
+</meta>
+    <section=section_18, n_mesure=8, bpm=90, format=3/4, tonalite=La_mineur>
+        <mesure num=1>
+            <piano_1_v1>  |la#4, sol#4, -|
+            <piano_1_v2>  |({sol#3, la#3}, sol#3, la#3), ({sol#3, la#3}, sol#3, la#3), ({sol#3, la#3}, sol#3, la#3)|
+            <piano_1_v4>  |(re3 re4, re3 re4), re3 re4, re3 re4|
+        </mesure>
+        <mesure num=2>
+            <piano_1_v1>  |({sol#3, la#3}, sol#3, la#3), ({sol#3, la#3}, sol#3, la#3), ({sol#3, la#3}, sol#3, la#3)|
+            <piano_1_v4>  |_, (do3 do4, do3 do4), (do3 do4, do3 do4)|
+            <piano_1_v5>  |fa1 fa2, -, -|
+        </mesure>
+        <mesure num=3>
+            <piano_1_v1>  |la#4, sol#4, -|
+            <piano_1_v2>  |({sol#3, la#3}, sol#3, la#3), ({sol#3, la#3}, sol#3, la#3), ({sol#3, la#3}, sol#3, la#3)|
+            <piano_1_v4>  |(re3 re4, re3 re4), re3 re4, re3 re4|
+        </mesure>
+        <mesure num=4>
+            <piano_1_v1>  |sol#5, -, sol#6|
+            <piano_1_v2>  |({sol#4, la#4}, sol#4, la#4), ({sol#4, la#4}, sol#4, la#4), ({sol#5, la#5}, sol#5, la#5)|
+            <piano_1_v4>  |do4, re4, do5|
+        </mesure>
+        <mesure num=5>
+            <piano_1_v1>  |sol#6, sol#7, -|
+            <piano_1_v2>  |({sol#5, la#5}, sol#5, la#5), ({sol#6, la#6}, sol#6, la#6), ({sol#6, la#6}, sol#6, la#6)|
+            <piano_1_v4>  |re5, do6, re6|
+        </mesure>
+        <mesure num=6>
+            <piano_1_v1>  |({do7 mi7, la6}, mi6, do7 mi7), ({si6 re7, re6 sol6}, si6 re7, re6 sol6), ({la6 do7, fa6}, do6, la6 do7)|
+            <piano_1_v4>  |mi1 mi2, fa1 fa2, sol1 sol2|
+        </mesure>
+        <mesure num=7>
+            <piano_1_v1>  |({sol6 si6, si5 mi6}, sol6 si6, si5 mi6), ({fa6 la6, re6}, la5, fa6 la6), ({mi6 sol6, sol5 do6}, mi6 sol6, sol5 do6)|
+            <piano_1_v4>  |la1 la2, si1 si2, do2 do3|
+        </mesure>
+        <mesure num=8>
+            <piano_1_v1>  |({re6 fa6, si5}, fa5, re6 fa6), ({do6 mi6, mi5 la5}, do6 mi6, mi5 la5), ({si5 re6, sol5}, re5, si5 re6)|
+            <piano_1_v4>  |re2 re3, mi2 mi3, fa2 fa3|
+        </mesure>
+    </section>
+
+<meta>
+Section de développement 18 — 8 mesures. Tonalité La mineur, tempo 90 BPM.
+</meta>
+    <section=section_19, n_mesure=8, bpm=90, format=3/4, tonalite=La_mineur>
+        <mesure num=1>
+            <piano_1_v1>  |({la5 do6, do5 fa5}, la5 do6, do5 fa5), ({sol5 si5, mi5}, si4, sol5 si5), ({fa5 la5, la4 re5}, fa5 la5, la4 re5)|
+            <piano_1_v4>  |sol2 sol3, la2 la3, si2 si3|
+        </mesure>
+        <mesure num=2>
+            <piano_1_v1>  |({mi5 sol5, do5}, sol4, mi5 sol5), ({re5 fa5, fa4 si4}, re5 fa5, fa4 si4), ({do5 mi5, la4}, mi4, mi5)|
+            <piano_1_v4>  |do3 do4, re3, mi3|
+        </mesure>
+        <mesure num=3>
+            <piano_1_v1>  |({si4 re5, re4 sol4}, si4 re5, re4 sol4), ({la4 do5, fa4}, do4, la4 do5), ({sol4 si4, si3 mi4}, sol4 si4, si3 mi4)|
+            <piano_1_v4>  |fa3, sol3, la3|
+        </mesure>
+        <mesure num=4>
+            <piano_1_v1>  |la3 si3 re4 fa4 la4, -, -, ({la4, mi5}, re5, do5), ({si4, do5, re5}, {do5, si4, la4}, {sol4, fa4}), (mi4, fa4), (sol4, la4)|
+            <piano_1_v4>  |re2 la2 fa3, -, -, re2 la2 fa3|
+        </mesure>
+        <mesure num=5>
+            <piano_1_v1>  |si3, -, -, ({si3, do4, re4}, {mi4, fa4}), (mi5, {fa5, sol5, la5}, {si5, la5}), {sol5, fa5, mi5}, ({fa4, mi4, re4}, do4)|
+            <piano_1_v4>  |_, _, _, (sol4, {la4, si4}), {do5, re5}, ({re5, do5, si4}, {la4, sol4})|
+            <piano_1_v5>  |_, _, _, _, _, _, _|
+        </mesure>
+        <mesure num=6>
+            <piano_1_v1>  |si3, -, -, ({si3, do#4, re#4}, {fa4, sol4}), (sol5, {la5, si5, do#6}, {re#6, do#6}), {si5, la5, sol5}, ({sol4, fa4, re#4}, do#4)|
+            <piano_1_v4>  |_, _, _, (la4, {si4, do#5}), {re#5, fa5}, ({fa5, re#5, do#5}, {si4, la4})|
+            <piano_1_v5>  |_, _, _, _, _, _, _|
+        </mesure>
+        <mesure num=7>
+            <piano_1_v1>  |si3, -, -, ({si3, do4, re4}, {mi4, fa4}), (mi5, {fa5, sol5, la5}, {si5, la5}), {sol5, fa5, mi5}, ({fa4, mi4, re4}, do4)|
+            <piano_1_v4>  |_, _, _, (sol4, {la4, si4}), {do5, re5}, ({re5, do5, si4}, {la4, sol4})|
+            <piano_1_v5>  |_, _, _, _, _, _, _|
+        </mesure>
+        <mesure num=8>
+            <piano_1_v1>  |si3, -, -, ({si3, do#4, re#4}, {fa4, sol4}), (sol5, {la5, si5, do#6}, {re#6, do#6}), {si5, la5, sol5}, ({sol4, fa4, re#4}, do#4)|
+            <piano_1_v4>  |_, _, _, (la4, {si4, do#5}), {re#5, fa5}, ({fa5, re#5, do#5}, {si4, la4})|
+            <piano_1_v5>  |_, _, _, _, _, _, _|
+        </mesure>
+    </section>
+
+<meta>
+Section de développement 19 — 8 mesures. Tonalité La mineur, tempo 90 BPM.
+</meta>
+    <section=section_20, n_mesure=8, bpm=90, format=3/4, tonalite=La_mineur>
+        <mesure num=1>
+            <piano_1_v1>  |si3, -, -, ({si3, do#4, re#4}, {fa4, sol4}), (sol5, {la5, si5, do#6}, {re#6, do#6}), {si5, la5, sol5}, ({sol4, fa4, re#4}, {do#4, si3, do#4}, {re#4, fa4}), (sol4, {sol5, la5}), {si5, do#6, re#6}|
+            <piano_1_v4>  |_, _, _, (la4, {si4, do#5}), {re#5, fa5}, ({fa5, re#5, do#5}, {si4, la4}), ({la4, si4}, {do#5, re#5, fa5})|
+            <piano_1_v5>  |_, _, _, _, _, _, (_, _), _, {_, _}|
+        </mesure>
+        <mesure num=2>
+            <piano_1_v1>  |sol6, (la6, si6), (do#7, re#7)|
+            <piano_1_v4>  |fa6|
+            <piano_1_v5>  |_, _, _|
+        </mesure>
+        <mesure num=3>
+            <piano_1_v1>  |mi7, -, -|
+            <piano_1_v4>  |_, _, _|
+        </mesure>
+        <mesure num=4>
+            <piano_1_v1>  |(_, la4 do5 mi5 la5)|
+            <piano_1_v4>  |({fa1, fa2}, la3 do4 mi4)|
+        </mesure>
+        <mesure num=5>
+            <piano_1_v1>  |(_, mi4 sol#4 do5 mi5)|
+            <piano_1_v4>  |({sol#1, sol#2}, fa#3 sol#3 do4)|
+        </mesure>
+        <mesure num=6>
+            <piano_1_v1>  |(_, sol4 si4 re#5 sol5)|
+            <piano_1_v4>  |({sol1, sol2}, fa3 si3 re#4)|
+        </mesure>
+        <mesure num=7>
+            <piano_1_v1>  |(_, sol4 la#4 re5 sol5)|
+            <piano_1_v4>  |({do2, do3}, mi3 la#3 re4)|
+        </mesure>
+        <mesure num=8>
+            <piano_1_v1>  |(_, _, mi4 sol4 si4 mi5)|
+            <piano_1_v4>  |({mi1, mi2}, si2, mi3 si3 re4)|
+        </mesure>
+    </section>
+
+<meta>
+Section conclusive — 1 mesures. Tonalité La mineur, tempo 90 BPM.
+</meta>
+    <section=section_21, n_mesure=1, bpm=90, format=3/4, tonalite=La_mineur>
+        <mesure num=1>
+            <piano_1_v1>  |_, _, la4 do5 mi5 la5|
+            <piano_1_v4>  |({la0, la1}, mi2, la2), ({mi3, la3}, do4, mi4), la3 do4 mi4|
+        </mesure>
+    </section>
+
+[EOS]
