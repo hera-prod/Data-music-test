@@ -6,7 +6,7 @@ FORMAT : piano_solo
 NIVEAU : avance
 Titre : Fugue en Si majeur, BWV 892, Le Clavier bien tempéré Livre II n°23
 Date : 1742
-Auteur : Johann Sebastian Bach
+Auteur : Bach
 Tonalite : Si_majeur
 Unite : quarter
 Intention : Double fugue en stile antico d'une majesté sereine, fondée sur un sujet solennel en valeurs longues parcourant une octave ascendante en Si majeur, enrichie d'un contre-sujet expressif qui l'accompagne presque sans interruption. Fugue à quatre voix en mesure alla breve, 104 mesures à 72 BPM, organisée en exposition, contre-exposition, épisodes modulants, divertissement, strettes et coda.
