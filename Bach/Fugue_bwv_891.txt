@@ -6,7 +6,7 @@ FORMAT : piano_solo
 NIVEAU : avance
 Titre : Fugue en sib mineur, BWV 891, Clavier bien tempéré II n°22
 Date : 1742
-Auteur : Johann Sebastian Bach
+Auteur : Bach
 Tonalite : Sib_mineur
 Unite : quarter
 Intention : Double fugue à quatre voix d'une gravité chromatique saisissante, construite sur un sujet solennel et angulaire dont l'inversion produit un contre-thème tout aussi expressif, et dont les strettes en accumulation progressive représentent le sommet contrapuntique de tout le Clavier bien tempéré. Forme double fugue à quatre voix en sib mineur, mesure à 3/2, 101 mesures, tempo modéré autour de 90 pulsations par minute, avec exposition, contre-exposition par inversion, sept strettes dont la dernière présente le sujet et l'inversion simultanément doublés en tierces et sixtes.
