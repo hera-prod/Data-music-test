@@ -1,21 +1,23 @@
 [BOS]
 <tete>
 TACHE : composition
-STYLE : classique
+STYLE : romantique
 FORMAT : piano_solo
-NIVEAU : intermediaire
+NIVEAU : avance
 Titre : Islamey
-Date : ?
+Date : 1869
 Auteur : Balakirev
 Tonalite : Reb_majeur
 Unite : quarter
-Intention : Pièce pour piano solo, modéré, lumineux, au cadre binaire régulier. Tonalité : Reb majeur. 343 mesures.
+Intention : Fantaisie orientale d'une fougue exaltée, évoquant les danses tribales du Caucase avec une énergie percussive et une sensualité mélodique envoûtante. Forme ternaire ABA en Reb majeur, 343 mesures en 12/16, enchaînant Allegro agitato, Tranquillo andantino expressif et Allegro vivo presto furioso.
 </tete>
 
 <meta>
-Section d'ouverture — 8 mesures. Tonalité Reb majeur, tempo 90 BPM.
+8 mesures. Allegro agitato, 12/16, Reb majeur.
+Balakirev ouvre sur le motif de danse caucasienne dans sa forme la plus dépouillée : la mélodie est confiée seule à la main gauche, nue et percussive, ce qui crée un effet de mise en scène hypnotique avant l'entrée des textures polyphoniques. Le rythme ternaire en 12/16 produit une pulsation de gigue orientale irrésistible, ancrant immédiatement l'auditeur dans un univers étranger à la tradition harmonique occidentale. Jouer avec une articulation très nette, tempo strict, comme un tambourin frappé sur une place de village.
+<section=exposition, n_mesure=8, bpm=100, format=12/16, tonalite=Reb_majeur>
 </meta>
-    <section=section_1, n_mesure=8, bpm=90, format=12/16, tonalite=Reb_majeur>
+    <section=exposition, n_mesure=8, bpm=100, format=12/16, tonalite=Reb_majeur>
         <mesure num=1>
             <piano_1_v1>  |_, _, _, _, _, _, _, _, _, _, _, _|
             <piano_1_v4>  |sib3, sib3, sib3, sib3, la3, sib3, solb3, solb3, la3, sib3, reb4, sib3|
@@ -48,12 +50,16 @@ Section d'ouverture — 8 mesures. Tonalité Reb majeur, tempo 90 BPM.
             <piano_1_v1>  |_, _, _, _, _, _, _, _, _, _, _, _|
             <piano_1_v4>  |lab3, lab3, lab3, reb4, reb4, do4, sib3, lab3, sib3, fa3, -, -|
         </mesure>
+
     </section>
 
+
 <meta>
-Section de développement 1 — 8 mesures. Tonalité Reb majeur, tempo 90 BPM.
+24 mesures. Allegro agitato, 12/16, Reb majeur.
+Les motifs a et b entrent en dialogue serré : la main droite prend la mélodie dans des textures d'octaves et d'accords, tandis que la main gauche tisse un contrepoint hétérophonique. Le compositeur exploite la quinte élevée de la gamme orientale pour produire une dissonance piquante qui se résout à chaque cadence sur le degré IV de Solb majeur, puis retourne à Reb, créant une oscillation tonal-modale caractéristique du folklore caucasien. Conserver une énergie constante, sans céder à l'accélération ; soigner l'équilibre entre les deux mains pour que le contrechant reste audible.
+<section=theme_1_a, n_mesure=24, bpm=100, format=12/16, tonalite=Reb_majeur>
 </meta>
-    <section=section_2, n_mesure=8, bpm=90, format=12/16, tonalite=Reb_majeur>
+    <section=theme_1_a, n_mesure=24, bpm=100, format=12/16, tonalite=Reb_majeur>
         <mesure num=1>
             <piano_1_v1>  |_, sib4, sib4, sib4, _, sib4, _, solb4, _, sib4, reb5, do5|
             <piano_1_v2>  |_, solb4, solb4, solb4, fa4, solb4, re4, mib4, fa4, solb4, -, lab4|
@@ -102,67 +108,57 @@ Section de développement 1 — 8 mesures. Tonalité Reb majeur, tempo 90 BPM.
             <piano_1_v2>  |mi4, fa4, sol4, lab4, la4, -, sib4, -, -, reb4, -, -|
             <piano_1_v4>  |reb3 lab3 reb4, _, _, reb4 mib4 solb4, -, -, reb4 fa4, _, _, sib2 sol3, -, -|
         </mesure>
-    </section>
 
-<meta>
-Section de développement 2 — 8 mesures. Tonalité Reb majeur, tempo 90 BPM.
-</meta>
-    <section=section_3, n_mesure=8, bpm=90, format=12/16, tonalite=Reb_majeur>
-        <mesure num=1>
+        <mesure num=9>
             <piano_1_v1>  |fa4, _, fa4, fa4, _, fa4, fa4, _, fa4, fa4, _, fa4|
             <piano_1_v2>  |do4, -, do4, sib3, -, do4, reb4, -, mib4, do4, -, reb4|
             <piano_1_v4>  |_, do4, -, -, sib3, -, -, reb4, -, -, do4, -|
             <piano_1_v5>  |fa2 fa3, fa3, _, _, fa3, _, _, fa3, _, _, fa3, _|
         </mesure>
-        <mesure num=2>
+        <mesure num=10>
             <piano_1_v1>  |mib4, _, mib4, mib4, _, mib4, mib4, _, mib4, mib4, _, mib4|
             <piano_1_v2>  |sib3, -, lab3, reb4, -, do4, sib3, -, do4, reb4, -, sib3|
             <piano_1_v4>  |_, sib3, -, -, reb4, -, -, sib3, -, -, reb4, -|
             <piano_1_v5>  |_, mib3, _, _, mib3, _, _, mib3, _, _, mib3, _|
         </mesure>
-        <mesure num=3>
+        <mesure num=11>
             <piano_1_v1>  |fa4, _, fa4, fa4, _, fa4, fa4, _, fa4, fa4, _, fa4|
             <piano_1_v2>  |do4, -, do4, sib3, -, do4, reb4, -, mib4, do4, -, reb4|
             <piano_1_v4>  |_, do4, -, -, sib3, -, -, reb4, -, -, do4, -|
             <piano_1_v5>  |_, fa3, _, _, fa3, _, _, fa3, _, _, fa3, _|
         </mesure>
-        <mesure num=4>
+        <mesure num=12>
             <piano_1_v1>  |mib4, _, mib4, mib4, _, mib4, mib4, _, mib4, mib4, _, mib4|
             <piano_1_v2>  |sib3, -, lab3, reb4, -, do4, sib3, -, do4, reb4, -, sib3|
             <piano_1_v4>  |_, sib3, -, -, reb4, -, -, sib3, -, -, reb4, -|
             <piano_1_v5>  |_, mib3, _, _, mib3, _, _, mib3, _, _, mib3, _|
         </mesure>
-        <mesure num=5>
+        <mesure num=13>
             <piano_1_v1>  |_, _, _, _, fa4, -, _, fa4, _, _, fa4, -|
             <piano_1_v2>  |_, do4, fa4 do5, -, sib3 sib4, do4 do5, -, reb4 reb5, mib4 mib5, -, do4 do5, reb4 reb5|
             <piano_1_v4>  |do4, -, -, sib3, -, -, reb4, -, -, do4, -, -|
             <piano_1_v5>  |fa3, _, _, fa3, _, _, fa3, _, _, fa3, -, _|
         </mesure>
-        <mesure num=6>
+        <mesure num=14>
             <piano_1_v1>  |_, mib4, -, _, mib4, -, _, mib4, _, _, mib4, -|
             <piano_1_v2>  |_, sib3 sib4, lab3 lab4, -, reb4 reb5, do4 do5, -, sib3 sib4, do4 do5, -, reb4 reb5, sib3 sib4|
             <piano_1_v4>  |sib3, -, -, reb4, -, -, sib3, -, -, reb4, -, -|
             <piano_1_v5>  |mib3, _, _, mib3, _, _, mib3, _, _, mib3, -, _|
         </mesure>
-        <mesure num=7>
+        <mesure num=15>
             <piano_1_v1>  |_, _, _, _, fa4, -, _, fa4, _, _, fa4, -|
             <piano_1_v2>  |_, do4, fa4 do5, -, sib3 sib4, do4 do5, -, reb4 reb5, mib4 mib5, -, do4 do5, reb4 reb5|
             <piano_1_v4>  |do4, -, -, sib3, -, -, reb4, -, -, do4, -, -|
             <piano_1_v5>  |fa3, -, fa2 fa3, fa3, -, fa2 fa3, fa3, -, fa2 fa3, fa3, -, fa2 fa3|
         </mesure>
-        <mesure num=8>
+        <mesure num=16>
             <piano_1_v1>  |_, mib4, -, _, mib4, -, _, mib4, _, _, _, _|
             <piano_1_v2>  |_, sib3 sib4, lab3 lab4, -, reb4 reb5, do4 do5, -, sib3 sib4, do4 do5, -, reb4, mib4 solb4 reb5|
             <piano_1_v4>  |sib3, -, -, reb4, -, -, sib3, -, -, reb4, -, -|
             <piano_1_v5>  |mib3, -, mib2 mib3, mib3, -, mib2 mib3, mib3, -, mib2 mib3, mib3 la3, -, -|
         </mesure>
-    </section>
 
-<meta>
-Section de développement 3 — 8 mesures. Tonalité Reb majeur, tempo 90 BPM.
-</meta>
-    <section=section_4, n_mesure=8, bpm=90, format=12/16, tonalite=Reb_majeur>
-        <mesure num=1>
+        <mesure num=17>
             <piano_1_v1>  |sib4, sib4, sib4, sib4, _, sib4, _, solb4, _, sib4, reb5, do5|
             <piano_1_v2>  |solb4, solb4, solb4, solb4, fa4, solb4, re4, mib4, fa4, solb4, -, -|
             <piano_1_v3>  |_, _, _, _, re4, -, si3, -, -, -, -, -|
@@ -170,13 +166,13 @@ Section de développement 3 — 8 mesures. Tonalité Reb majeur, tempo 90 BPM.
             <piano_1_v5>  |_, _, _, _, _, _, lab3, solb3, fa3, mib3, -, lab3|
             <piano_1_v6>  |_, _, _, reb2 lab2, -, -, -, -, -, -, -, -|
         </mesure>
-        <mesure num=2>
+        <mesure num=18>
             <piano_1_v1>  |lab4, lab4, lab4, lab4, _, solb4, _, sib4, lab4, _, _, _|
             <piano_1_v2>  |fa4, fa4, fa4, fa4, reb4, mib4, fa4, solb4, fa4, reb4, -, -|
             <piano_1_v4>  |reb4, lab3, fa3, lab2, fa3, lab3, reb4, reb3, lab3, fa4, -, -|
             <piano_1_v5>  |_, _, _, reb2 lab2, -, -, -, -, -, -, -, -|
         </mesure>
-        <mesure num=3>
+        <mesure num=19>
             <piano_1_v1>  |la5, la5, la5, la5, _, la5, _, solb5, _, la5, reb6, do6|
             <piano_1_v2>  |solb5, solb5, solb5, solb5, fa5, solb5, re5, mib5, fa5, solb5, -, -|
             <piano_1_v3>  |_, _, _, _, re5, -, si4, -, -, -, -, -|
@@ -184,41 +180,45 @@ Section de développement 3 — 8 mesures. Tonalité Reb majeur, tempo 90 BPM.
             <piano_1_v5>  |_, _, _, _, _, _, lab4, solb4, fa4, mib4, -, -|
             <piano_1_v6>  |_, _, _, reb3 lab3, -, -, -, -, -, -, -, -|
         </mesure>
-        <mesure num=4>
+        <mesure num=20>
             <piano_1_v1>  |lab5, lab5, lab5, lab5, _, solb5, _, la5, lab5, _, _, _|
             <piano_1_v2>  |mi5, mi5, mi5, mi5, reb5, mib5, mi5, solb5, mi5, reb5, -, -|
             <piano_1_v4>  |reb5, lab4, mi4, lab3, mi4, lab4, reb5, reb4, lab4, mi5, -, -|
             <piano_1_v5>  |_, _, _, reb3 lab3, -, -, -, -, -, -, -, -|
         </mesure>
-        <mesure num=5>
+        <mesure num=21>
             <piano_1_v1>  |_, solb4, _, sib4, _, reb5, _, mib5, reb5, do5, -, sib4|
             <piano_1_v2>  |re4, mib4, fa4, solb4, la4, sib4, si4, do5, sib4, lab4, sol4, solb4|
             <piano_1_v4>  |lab3 si3, solb3 sib3, fa3 lab3, mib3 solb3, -, -, sol3, lab3, la3, sib3, si3, si3|
             <piano_1_v5>  |_, _, _, _, _, reb2 reb3, reb2 reb3, -, -, -, -, -|
         </mesure>
-        <mesure num=6>
+        <mesure num=22>
             <piano_1_v1>  |sib4, lab4, _, reb5, -, do5, sib4, lab4, sib4, fa4, -, -|
             <piano_1_v2>  |mi4, fa4, sol4, lab4, la4, -, reb4, -, -, re4, -, -|
             <piano_1_v4>  |reb4, -, -, mib4, -, -, fa4, -, -, lab3 si3, -, -|
             <piano_1_v5>  |reb4, sib3, reb3, mib4, solb3, reb3, fa4, fa3, reb3, reb3, -, -|
         </mesure>
-        <mesure num=7>
+        <mesure num=23>
             <piano_1_v1>  |_, solb5, _, la5, _, reb6, _, mib6, reb6, do6, -, la5|
             <piano_1_v2>  |re5, mib5, fa5, solb5, lab5, la5, si5, do6, la5, lab5, sol5, solb5|
             <piano_1_v4>  |lab4 si4, solb4 la4, fa4 lab4, mib4 solb4, -, -, sol4, lab4, la4, sib4, si4, do5|
         </mesure>
-        <mesure num=8>
+        <mesure num=24>
             <piano_1_v1>  |la5, lab5, _, reb6, -, si5, la5, lab5, la5, mi5, -, -|
             <piano_1_v2>  |mib5, mi5, solb5, mi5 sol5, lab5, -, mi5, -, -, reb5, -, -|
             <piano_1_v4>  |reb5, -, -, re5, -, -, reb5, -, -, mi4 reb5, -, -|
             <piano_1_v5>  |reb5, lab4, reb4, mi5, lab4, mi4, reb5, mi4, la3, la3, -, -|
         </mesure>
+
     </section>
 
+
 <meta>
-Section de développement 4 — 8 mesures. Tonalité Reb majeur, tempo 90 BPM.
+24 mesures. Allegro agitato, 12/16, Reb majeur.
+Le motif c fait son entrée avec une écriture de hocket entre les deux mains, brisant la mélodie en fragments alternés qui créent l'illusion d'une ligne continue. La texture devient plus contrapuntique ; la main gauche propose un véritable contrepoint indépendant. La modulation fugace vers Ré majeur puis Sol dièse majeur confère un coloris exotique, comme si la danse glissait vers d'autres contrées. Articuler très précisément chaque échange de voix, en maintenant la pulsation rythmique unificatrice.
+<section=theme_1_b, n_mesure=24, bpm=100, format=12/16, tonalite=Reb_majeur>
 </meta>
-    <section=section_5, n_mesure=8, bpm=90, format=12/16, tonalite=Reb_majeur>
+    <section=theme_1_b, n_mesure=24, bpm=100, format=12/16, tonalite=Reb_majeur>
         <mesure num=1>
             <piano_1_v1>  |_, la3 re4, solb4 la4, -, reb4 fa4, re4 solb4, _, _, _, solb4, la4, lab4|
             <piano_1_v2>  |_, _, _, _, _, _, _, _, _, re4, -, mi4|
@@ -262,100 +262,94 @@ Section de développement 4 — 8 mesures. Tonalité Reb majeur, tempo 90 BPM.
             <piano_1_v4>  |do5, -, -, lab5, -, -, do6, -, -, -, -, -|
             <piano_1_v5>  |lab3 mib4 si4, _, _, lab4 mib5 lab5, _, _, lab5, _, _, mib6 solb6, -, -|
         </mesure>
-    </section>
 
-<meta>
-Section de développement 5 — 8 mesures. Tonalité Reb majeur, tempo 90 BPM.
-</meta>
-    <section=section_6, n_mesure=8, bpm=90, format=12/16, tonalite=Reb_majeur>
-        <mesure num=1>
+        <mesure num=9>
             <piano_1_v1>  |_, la5 re6, reb6 mi6, -, re6 solb6, mi6 lab6, -, solb6 la6, mi6 lab6, re6 solb6, reb6 mi6, si5 re6|
             <piano_1_v4>  |la5, -, -, re6, -, -, solb6, -, -, -, -, -|
             <piano_1_v5>  |solb4 re5 la5, _, _, re5 la5 mib6, _, _, mib6, _, _, _, _, _|
         </mesure>
-        <mesure num=2>
+        <mesure num=10>
             <piano_1_v1>  |si5 re6, sib5 reb6, si5 re6, si5 re6, do6 mib6, reb6 mi6, reb6 mi6, re6 fa6, mib6 solb6, mib6 solb6, mi6 sol6, fa6 lab6|
             <piano_1_v4>  |mi5 sol5, _, fa5 lab5, solb5 la5, _, sol5 si5, lab5 si5, _, la5 do6, sib5 reb6, _, si5 re6|
         </mesure>
-        <mesure num=3>
+        <mesure num=11>
             <piano_1_v1>  |fa6 lab6, solb6 la6, sol6 sib6, sol6 sib6, lab6 si6, la6 do7, sib6 reb7, si6 re7, do7 mib7, re7 mi7, -, _|
             <piano_1_v4>  |do6 mib6, _, reb6 mi6, re6 fa6, _, mib6 solb6, mi6 sol6, fa6 lab6, solb6 la6, sol6 sib6, -, _|
         </mesure>
-        <mesure num=4>
+        <mesure num=12>
             <piano_1_v1>  |_, _, _, _, _, _, _, _, _, _, _, _|
             <piano_1_v4>  |_, _, _, _, _, _, _, _, _, _, _, _|
         </mesure>
-        <mesure num=5>
+        <mesure num=13>
             <piano_1_v1>  |do4, -, do4, sib3, -, do4, reb4, -, mib4, do4, -, reb4|
             <piano_1_v4>  |solb2, lab2, lab3, lab3, lab2, solb2, solb2, lab2, lab3, lab3, lab2, solb2|
         </mesure>
-        <mesure num=6>
+        <mesure num=14>
             <piano_1_v1>  |sib3, -, lab3, reb4, -, do4, sib3, -, do4, reb4, -, reb4|
             <piano_1_v2>  |_, _, _, _, _, _, lab3, -, -, sol3, -, -|
             <piano_1_v4>  |fa2, lab2, lab3, lab3, lab2, fa2, fa2, lab2, lab3, lab3, lab2, mi2|
         </mesure>
-        <mesure num=7>
+        <mesure num=15>
             <piano_1_v1>  |do4, -, do4, sib3, -, do4, reb4, -, mib4, do4, -, reb4|
             <piano_1_v2>  |solb3, -, -, -, -, -, solb3, -, -, solb3, -, -|
             <piano_1_v4>  |mib2, lab2, lab3, lab3, lab2, mib2, mib2, lab2, lab3, lab3, lab2, mib2|
         </mesure>
-        <mesure num=8>
+        <mesure num=16>
             <piano_1_v1>  |sib3, -, lab3, reb4, -, do4, sib3, -, do4, reb4, -, mib4|
             <piano_1_v2>  |fa3, -, -, -, -, -, fa3, -, -, fa3, -, -|
             <piano_1_v4>  |reb2, lab2, lab3, lab3, la3, la2, reb2, sib2, sib3, sib3, sib2, reb2|
         </mesure>
-    </section>
 
-<meta>
-Section de développement 6 — 8 mesures. Tonalité Reb majeur, tempo 90 BPM.
-</meta>
-    <section=section_7, n_mesure=8, bpm=90, format=12/16, tonalite=Reb_majeur>
-        <mesure num=1>
+        <mesure num=17>
             <piano_1_v1>  |fa4, -, fa4, mib4, -, fa4, solb4, -, lab4, fa4, -, solb4|
             <piano_1_v2>  |si3, -, -, -, -, -, lab3, -, -, -, -, -|
             <piano_1_v4>  |reb2, lab2, reb4, reb4, reb3, si2, si2, reb3, si3, si3, reb3, si2|
         </mesure>
-        <mesure num=2>
+        <mesure num=18>
             <piano_1_v1>  |mib4, -, reb4, solb4, -, fa4, mib4, -, fa4, solb4, -, solb4|
             <piano_1_v2>  |solb3, -, -, -, -, -, solb3, -, -, mib4, -, -|
             <piano_1_v4>  |sib2, reb3, sib3, sib3, re3, sib2, sib2, mib3, sib3, sib3, mib3, sib2|
         </mesure>
-        <mesure num=3>
+        <mesure num=19>
             <piano_1_v1>  |sol4, -, sol4, fa4, -, sol4, lab4, -, sib4, sol4, -, lab4|
             <piano_1_v2>  |reb4, -, -, -, -, -, reb4, -, -, -, -, -|
             <piano_1_v4>  |sib2, mi3, sib3, sib3, mi3, sib2, sib2, mi3, sib3, sib3, mi3, sib2|
         </mesure>
-        <mesure num=4>
+        <mesure num=20>
             <piano_1_v1>  |fa4, -, mi4, lab4, -, sol4, fa4, -, mi4 sol4, fa4 lab4, -, sol4 sib4|
             <piano_1_v2>  |reb4, -, -, -, -, -, reb4, -, -, reb4, -, -|
             <piano_1_v4>  |sib2, fa3, sib3, sib3, fa3, sib2, sib2, fa3, sib3, sib3, mi3, sib2 mib3|
         </mesure>
-        <mesure num=5>
+        <mesure num=21>
             <piano_1_v1>  |_, do4 mib4 solb4 do5, -, do4 mib4 solb4 do5, -, do4 mib4 solb4 do5, -, mib4 solb4 mib5, -, do4 mib4 solb4 do5, -, do4 mib4 solb4 do5|
             <piano_1_v4>  |lab2, -, reb4, -, sib3, -, reb4, -, reb4, -, reb4, -|
             <piano_1_v5>  |reb2 lab2, -, -, -, -, -, -, -, -, -, -, -|
         </mesure>
-        <mesure num=6>
+        <mesure num=22>
             <piano_1_v1>  |_, sib3 reb4 fa4 sib4, -, reb4 fa4 lab4 reb5, -, reb4 fa4 lab4 reb5, -, sib3 mi4 sol4 sib4, -, reb4 mi4 sol4 reb5, -, sib3 mi4 sol4 sib4|
             <piano_1_v4>  |lab2, -, lab3, -, do4, -, la3, -, do4, -, do4, -|
             <piano_1_v5>  |reb2 lab2, -, -, -, -, -, -, -, -, -, -, -|
         </mesure>
-        <mesure num=7>
+        <mesure num=23>
             <piano_1_v1>  |_, do4 mib4 solb4 do5, -, do4 mib4 solb4 do5, -, do4 mib4 solb4 do5, -, mib4 solb4 mib5, -, do4 mib4 solb4 do5, -, do4 mib4 solb4 do5|
             <piano_1_v4>  |lab2, -, reb4, -, sib3, -, reb4, -, reb4, -, reb4, -|
             <piano_1_v5>  |reb2 lab2, -, -, -, -, -, -, -, -, -, -, -|
         </mesure>
-        <mesure num=8>
+        <mesure num=24>
             <piano_1_v1>  |_, sib3 reb4 fa4 sib4, -, reb4 fa4 lab4 reb5, -, reb4 fa4 lab4 reb5, -, sib3 mi4 sol4 sib4, -, reb4 fa4 reb5, -, sib3 solb4 sib4|
             <piano_1_v4>  |lab2, -, lab3, -, do4, -, la3, -, do4, -, do4, -|
             <piano_1_v5>  |reb2 lab2, -, -, -, -, -, -, -, -, -, -, -|
         </mesure>
+
     </section>
 
+
 <meta>
-Section de développement 7 — 8 mesures. Tonalité Reb majeur, tempo 90 BPM.
+32 mesures. Allegro agitato, 12/16, Reb majeur.
+Le perpetuum mobile s'installe : une fragmentation du motif b produit une course ininterrompue de doubles-croches, créant un effet de trépidation virtuose. L'harmonie se recentre sur Reb majeur après une exploration chromatique ; les tierces enchaînées dans la main droite alliées aux arpèges de la main gauche donnent une plénitude sonore orchestrale. Cette section exige le maximum de régularité digitale et un contrôle absolu du poignet pour éviter la fatigue ; le climax s'obtient par densification de la texture, non par précipitation.
+<section=theme_1_c, n_mesure=32, bpm=100, format=12/16, tonalite=Reb_majeur>
 </meta>
-    <section=section_8, n_mesure=8, bpm=90, format=12/16, tonalite=Reb_majeur>
+    <section=theme_1_c, n_mesure=32, bpm=100, format=12/16, tonalite=Reb_majeur>
         <mesure num=1>
             <piano_1_v1>  |_, fa4 lab4 si4 fa5, -, fa4 lab4 si4 fa5, -, fa4 lab4 si4 fa5, -, lab4 si4 lab5, -, fa4 lab4 si4 fa5, -, fa4 lab4 si4 fa5|
             <piano_1_v4>  |si3, -, solb4, -, mib4, -, solb4, -, solb4, -, solb4, -|
@@ -398,165 +392,154 @@ Section de développement 7 — 8 mesures. Tonalité Reb majeur, tempo 90 BPM.
             <piano_1_v4>  |fa4, -, -, fa6 lab6, -, -, fa5 lab5, -, -, -, -, -|
             <piano_1_v5>  |lab3 reb4 fa4, _, _, _, _, _, _, _, _, reb5 fa5, -, -|
         </mesure>
-    </section>
 
-<meta>
-Section de développement 8 — 8 mesures. Tonalité Reb majeur, tempo 90 BPM.
-</meta>
-    <section=section_9, n_mesure=8, bpm=90, format=12/16, tonalite=Reb_majeur>
-        <mesure num=1>
+        <mesure num=9>
             <piano_1_v1>  |_, solb4 sib4 mib5 solb5, lab4 lab5, lab4 lab5, la4 mib5 solb5 la5, sib4 sib5, mib5 solb5 mib6, re5 re6, reb5 reb6, do5 do6, si4 si5, sib4 sib5|
             <piano_1_v4>  |solb3 sib3 mib4, _, _, solb3 sib3 mib4, _, _, lab3 do4 solb4, _, _, lab3 do4 solb4, _, _|
             <piano_1_v5>  |_, reb3, -, -, reb2, -, -, reb3, -, -, reb2, -|
         </mesure>
-        <mesure num=2>
+        <mesure num=10>
             <piano_1_v1>  |la4 fa5 la5, lab4 lab5, reb5 reb6, reb5 reb6, do5 solb5 do6, si4 si5, sib4 sib5, lab4 lab5, sib4 sib5, fa4 lab4 re5 fa5, -, -|
             <piano_1_v4>  |lab3 reb4 fa4, _, _, la3 mib4 solb4, _, _, sib3 reb4 fa4, _, _, lab3 si3 re4, -, -|
             <piano_1_v5>  |_, reb3, -, -, reb2, -, -, reb3, -, reb3, -, -|
         </mesure>
-        <mesure num=3>
+        <mesure num=11>
             <piano_1_v1>  |_, solb5 sib5 mib6 solb6, lab5 lab6, lab5 lab6, la5 mib6 solb6 la6, sib5 sib6, mib6 solb6 mib7, re6 re7, reb6 reb7, do6 do7, si5 si6, sib5 sib6|
             <piano_1_v4>  |solb3 sib3 mib4, _, _, solb3 sib3 mib4, _, _, lab3 do4 solb4, _, _, lab3 do4 solb4, _, _|
             <piano_1_v5>  |_, reb3, -, -, reb2, -, -, reb3, -, -, reb2, -|
         </mesure>
-        <mesure num=4>
+        <mesure num=12>
             <piano_1_v1>  |la5 fa6 la6, lab5 lab6, reb6 reb7, reb6 reb7, do6 solb6 do7, si5 si6, sib5 sib6, lab5 lab6, sib5 sib6, fa5 lab5 re6 fa6, -, -|
             <piano_1_v4>  |lab3 reb4 fa4, _, _, la3 mib4 solb4, _, _, sib3 reb4 fa4, _, _, si3 re4 lab4 si4, -, -|
             <piano_1_v5>  |_, reb3, -, -, reb2, -, -, reb3, -, -, -, -|
         </mesure>
-        <mesure num=5>
+        <mesure num=13>
             <piano_1_v1>  |_, solb3, _, sib3, _, reb4, _, mib4, reb4, do4, -, sib3|
             <piano_1_v2>  |re3, mib3, fa3, solb3, la3, sib3, si3, do4, sib3, la3, sol3, solb3|
             <piano_1_v4>  |reb2, lab2, reb2, lab2, reb2, lab2, reb2, lab2, reb3, lab3, reb3, lab2|
         </mesure>
-        <mesure num=6>
+        <mesure num=14>
             <piano_1_v1>  |_, lab3, _, do4, _, mib4, _, fa4, mib4, reb4, -, do4|
             <piano_1_v2>  |mi3, fa3, sol3, lab3, si3, do4, do4, reb4, do4, sib3, la3, lab3|
             <piano_1_v4>  |reb2, lab2, reb2, lab2, reb2, lab2, reb2, lab2, reb3, lab3, reb3, lab2|
         </mesure>
-        <mesure num=7>
+        <mesure num=15>
             <piano_1_v1>  |_, sib3, _, reb4, _, fa4, _, solb4, fa4, mib4, -, reb4|
             <piano_1_v2>  |fa3, solb3, la3, sib3, do4, reb4, re4, mib4, reb4, do4, si3, sib3|
             <piano_1_v4>  |reb2, lab2, reb2, lab2, reb2, lab2, reb2, lab2, reb3, lab3, reb3, lab2|
         </mesure>
-        <mesure num=8>
+        <mesure num=16>
             <piano_1_v1>  |_, lab4, solb4, fa4, -, mib4, _, sib4, lab4, solb4, -, fa4|
             <piano_1_v2>  |mi4, fa4, mib4, reb4, si3, do4, fa4, solb4, fa4, mib4, re4, reb4|
             <piano_1_v4>  |reb2, lab2, reb2, lab2, reb2, lab2, reb2, lab2, reb3, lab3, reb3, lab2|
         </mesure>
-    </section>
 
-<meta>
-Section de développement 9 — 8 mesures. Tonalité Reb majeur, tempo 90 BPM.
-</meta>
-    <section=section_10, n_mesure=8, bpm=90, format=12/16, tonalite=Reb_majeur>
-        <mesure num=1>
+        <mesure num=17>
             <piano_1_v1>  |_, solb4, _, sib4, _, reb5, _, mib5, reb5, do5, -, sib4|
             <piano_1_v2>  |re4, mib4, fa4, solb4, la4, sib4, si4, do5, sib4, la4, sol4, solb4|
             <piano_1_v4>  |reb2, -, solb3, -, mib3, -, reb2, -, lab3, -, do4, -|
             <piano_1_v5>  |reb2, reb3, solb3, solb2, mib3, mib2, reb2, reb3, lab3, lab2, do4, do3|
         </mesure>
-        <mesure num=2>
+        <mesure num=18>
             <piano_1_v1>  |_, lab4, _, do5, _, mib5, _, fa5, mib5, reb5, -, do5|
             <piano_1_v2>  |mi4, fa4, sol4, lab4, si4, do5, do5, reb5, do5, sib4, la4, lab4|
             <piano_1_v4>  |reb2, -, lab3, -, fa3, -, reb2, -, sib3, -, reb4, -|
             <piano_1_v5>  |reb2, reb3, lab3, lab2, fa3, fa2, reb2, reb3, sib3, sib2, reb4, reb3|
         </mesure>
-        <mesure num=3>
+        <mesure num=19>
             <piano_1_v1>  |_, sib4, _, reb5, _, fa5, _, solb5, fa5, mib5, -, reb5|
             <piano_1_v2>  |fa4, solb4, la4, sib4, do5, reb5, re5, mib5, reb5, do5, si4, sib4|
             <piano_1_v4>  |reb2, -, sib3, -, solb3, -, reb2, -, mib4, -, solb4, -|
             <piano_1_v5>  |reb2, reb3, sib3, sib2, solb3, solb2, reb2, reb3, mib4, mib3, solb4, solb3|
         </mesure>
-        <mesure num=4>
+        <mesure num=20>
             <piano_1_v1>  |_, lab5, solb5, fa5, -, mib5, _, sib5, lab5, solb5, -, fa5|
             <piano_1_v2>  |mi5, fa5, mib5, reb5, si4, do5, fa5, solb5, fa5, mib5, re5, reb5|
             <piano_1_v4>  |reb2, -, sib3, -, do4, -, reb2, -, do4, -, reb4, -|
             <piano_1_v5>  |reb2, reb3, sib3, sib2, do4, do3, reb2, reb3, do4, do3, reb4, reb3|
         </mesure>
-        <mesure num=5>
+        <mesure num=21>
             <piano_1_v1>  |_, solb5, _, solb5 re6 solb6, fa5 reb6 fa6, solb5 re6 solb6, reb5 sib5 reb6, re5 si5 re6, fa5 fa6, solb5 re6 solb6, la5 solb6 la6, lab5 mi6 lab6|
             <piano_1_v2>  |solb4, re5, solb5, -, -, -, -, -, -, -, -, -|
             <piano_1_v3>  |solb4, -, -, -, -, -, -, -, -, -, -, -|
             <piano_1_v4>  |re3 solb3 la3 re4, -, -, reb2 reb3, -, -, lab3 re4 solb4, -, -, reb2 reb3, -, -|
         </mesure>
-        <mesure num=6>
+        <mesure num=22>
             <piano_1_v1>  |_, mi5, _, mi5 reb6 mi6, reb5 la5 reb6, re5 si5 re6, mi5 reb6 mi6, solb5 solb6, mi5 mi6, reb5 la5 reb6, -, -|
             <piano_1_v2>  |mi4, reb5, mi5, -, -, -, -, -, -, -, -, -|
             <piano_1_v3>  |mi4, -, -, -, -, -, -, -, -, -, -, -|
             <piano_1_v4>  |la3 reb4 mi4, -, -, reb2 reb3, -, -, lab3 reb4 mi4 lab4, -, -, la3 reb4 mi4 sol4, -, -|
         </mesure>
-        <mesure num=7>
+        <mesure num=23>
             <piano_1_v1>  |_, solb4, _, la4, _, re5, _, mib5, reb5, do5, -, sib4|
             <piano_1_v2>  |reb4, re4, mi4, solb4, lab4, la4, si4, do5, sib4, lab4, sol4, solb4|
             <piano_1_v4>  |sol3 sib3, solb3 la3, mi3 sol3, re3 solb3, -, -, sol3, lab3, la3, sib3, si3, do4|
             <piano_1_v5>  |_, _, _, _, _, reb2 reb3, reb2 reb3, -, -, -, -, -|
         </mesure>
-        <mesure num=8>
+        <mesure num=24>
             <piano_1_v1>  |si4, lab4, _, reb5, -, do5, sib4, lab4, sib4, fa4, -, -|
             <piano_1_v2>  |mi4, fa4, sol4, lab4, la4, -, reb4, -, -, re4, -, -|
             <piano_1_v4>  |reb4, -, -, mib4, -, -, fa4, -, -, si3, -, -|
             <piano_1_v5>  |reb4, lab3, reb3, mib4, solb3, reb3, fa4, fa3, reb3, reb3 lab3 si3, -, -|
         </mesure>
-    </section>
 
-<meta>
-Section de développement 10 — 8 mesures. Tonalité Reb majeur, tempo 90 BPM.
-</meta>
-    <section=section_11, n_mesure=8, bpm=90, format=12/16, tonalite=Reb_majeur>
-        <mesure num=1>
+        <mesure num=25>
             <piano_1_v1>  |_, solb6, _, solb6 re7 solb7, fa6 reb7 fa7, solb6 re7 solb7, reb6 sib6 reb7, re6 si6 re7, fa6 fa7, solb6 re7 solb7, la6 solb7 la7, lab6 mi7 lab7|
             <piano_1_v2>  |solb5, re6, solb6, -, -, -, -, -, -, -, -, -|
             <piano_1_v3>  |solb5, -, -, -, -, -, -, -, -, -, -, -|
             <piano_1_v4>  |solb3 la3 re4 solb4, -, -, reb2 reb3, -, -, lab3 re4 solb4 lab4, -, -, reb2 reb3, -, -|
         </mesure>
-        <mesure num=2>
+        <mesure num=26>
             <piano_1_v1>  |_, mi6, _, mi6 reb7 mi7, reb6 la6 reb7, re6 si6 re7, mi6 reb7 mi7, solb6 solb7, mi6 mi7, reb6 la6 reb7, -, -|
             <piano_1_v2>  |mi5, reb6, mi6, -, -, -, -, -, -, -, -, -|
             <piano_1_v3>  |mi5, -, -, -, -, -, -, -, -, -, -, -|
             <piano_1_v4>  |la3 reb4 mi4 la4, -, -, reb2 reb3, -, -, lab3 reb4 mi4 lab4, -, -, la3 reb4 mi4 sol4, -, -|
         </mesure>
-        <mesure num=3>
+        <mesure num=27>
             <piano_1_v1>  |_, solb5, _, la5, _, re6, _, mib6, reb6, do6, -, sib5|
             <piano_1_v2>  |reb5, re5, mi5, solb5, lab5, la5, si5, do6, sib5, lab5, sol5, solb5|
             <piano_1_v4>  |sol4 sib4, solb4 la4, mi4 sol4, re4 solb4, -, -, sol4, lab4, la4, sib4, si4, do5|
             <piano_1_v5>  |_, _, _, _, _, reb3 reb4, reb3 reb4, -, -, -, -, -|
         </mesure>
-        <mesure num=4>
+        <mesure num=28>
             <piano_1_v1>  |sib5, lab5, _, reb6, -, do6, sib5, lab5, sib5, fa5, -, -|
             <piano_1_v2>  |mi5, fa5, sol5, lab5, la5, -, reb5, -, -, reb5, -, -|
             <piano_1_v4>  |reb5, -, -, mib5, -, -, fa5, -, -, la4, -, -|
             <piano_1_v5>  |reb5, lab4, reb4, mib5, solb4, reb4, fa5, fa4, reb4, reb4, -, -|
         </mesure>
-        <mesure num=5>
+        <mesure num=29>
             <piano_1_v1>  |sib6, lab6, sib6, fa6, -, -, sib4, lab4, sib4, fa4, -, -|
             <piano_1_v2>  |reb6, -, -, reb6, -, -, reb4, -, -, reb4, -, -|
             <piano_1_v4>  |solb5 sib5, -, -, reb5 lab5, -, -, sib3 fa4, -, -, sol3 sib3, -, -|
         </mesure>
-        <mesure num=6>
+        <mesure num=30>
             <piano_1_v1>  |_, _, _, _, _, _, reb5 lab5 reb6, -, -, -, -, -|
             <piano_1_v2>  |_, _, _, _, _, _, fa3 lab3 reb4 fa4, -, -, -, -, -|
             <piano_1_v4>  |fa3, mib3, fa3, reb3, -, -, reb3, -, -, -, -, -|
             <piano_1_v5>  |fa1 fa2, mib1 mib2, fa1 fa2, reb1 reb2, -, -, reb1 reb2, -, -, -, -, -|
         </mesure>
-        <mesure num=7>
+        <mesure num=31>
             <piano_1_v1>  |reb5 lab5 reb6, -, -, -, -, -, -, -, -, -, -, -|
             <piano_1_v2>  |fa3 lab3 reb4 fa4, -, -, -, -, -, -, -, -, -, -, -|
             <piano_1_v4>  |reb3, -, -, -, -, -, -, -, -, -, -, -|
             <piano_1_v5>  |reb1 reb2, -, -, -, -, -, -, -, -, -, -, -|
         </mesure>
-        <mesure num=8>
+        <mesure num=32>
             <piano_1_v1>  |reb4, -, -, -, -, -, -, -, -, -, -, -|
             <piano_1_v2>  |_, _, _, _, _, _, si3, -, -, -, -, -|
             <piano_1_v4>  |reb3, -, -, -, -, -, -, -, -, -, -, -|
             <piano_1_v5>  |_, _, _, _, _, _, lab1 lab2, -, -, -, -, -|
         </mesure>
+
     </section>
 
+
 <meta>
-Section de développement 11 — 8 mesures. Tonalité Reb majeur, tempo 90 BPM.
+64 mesures. Tranquillo andantino espressivo, 12/16, Sib mineur.
+Le second thème, d'origine arménienne, apporte un contraste radical : le tempo se détend, la mélodie devient cantabile et ornementée, d'une sensualité toute orientale. La tonalité de Sib mineur colore le discours d'une nostalgie mélancolique, opposée à la frénésie de la section A. Les longues phrases lyriques, appuyées par un accompagnement arpégé doux, évoquent un chant d'une nuit étoilée du Caucase. Jouer avec le plus grand legato possible, en soignant la conduite du chant à la main droite et en gardant la main gauche très fluide et discrète.
+<section=theme_2, n_mesure=64, bpm=66, format=12/16, tonalite=Sib_mineur>
 </meta>
-    <section=section_12, n_mesure=8, bpm=90, format=12/16, tonalite=Reb_majeur>
+    <section=theme_2, n_mesure=64, bpm=66, format=12/16, tonalite=Sib_mineur>
         <mesure num=1>
             <piano_1_v1>  |reb4, -, -, -, -, -, re4, -, -, -, -, -|
             <piano_1_v2>  |sib3, -, -, -, -, -, la3, -, -, -, -, -|
@@ -603,259 +586,229 @@ Section de développement 11 — 8 mesures. Tonalité Reb majeur, tempo 90 BPM.
             <piano_1_v2>  |sib3 sib4, -, -, -, -, -, si3 si4, -, -, -, -, -|
             <piano_1_v4>  |re2 solb3, -, -, -, -, -, re2 solb3, -, -, -, -, -|
         </mesure>
-    </section>
 
-<meta>
-Section de développement 12 — 8 mesures. Tonalité Reb majeur, tempo 90 BPM.
-</meta>
-    <section=section_13, n_mesure=8, bpm=90, format=12/16, tonalite=Reb_majeur>
-        <mesure num=1>
+        <mesure num=9>
             <piano_1_v1>  |_, _, _, _, solb4, -, solb4, -, -, -, mi4, -|
             <piano_1_v2>  |_, _, _, _, _, _, sib3 sib4, -, -, -, -, -|
             <piano_1_v4>  |re1, -, _, _, _, _, re2 solb3, -, -, -, -, -|
         </mesure>
-        <mesure num=2>
+        <mesure num=10>
             <piano_1_v1>  |mi4, -, -, -, reb4, -, re4, -, -, reb4, si3, -|
             <piano_1_v2>  |sib3 sib4, -, -, -, -, -, si3 si4, -, -, -, -, -|
             <piano_1_v4>  |re2 solb3, -, -, -, -, -, re2 solb3, -, -, -, -, -|
         </mesure>
-        <mesure num=3>
+        <mesure num=11>
             <piano_1_v1>  |si3 si4, -, _, _, la3, -, si3, -, -, -, -, -|
             <piano_1_v4>  |re2 solb3, -, _, _, la2, -, si2, -, -, -, -, -|
         </mesure>
-        <mesure num=4>
+        <mesure num=12>
             <piano_1_v1>  |_, _, _, _, _, _, _, _, _, _, _, _|
             <piano_1_v2>  |_, _, _, _, la3, -, reb4, -, -, re4, mi4, -|
             <piano_1_v4>  |la2, -, _, _, reb4 sol4 la4, -, sol4 la4, -, -, -, sol4 la4, -|
             <piano_1_v5>  |re2, -, -, -, -, -, -, -, -, -, -, -|
         </mesure>
-        <mesure num=5>
+        <mesure num=13>
             <piano_1_v1>  |_, _, _, _, _, _, _, _, _, _, re4 sol4 la4, -|
             <piano_1_v2>  |reb4, -, -, -, la3, -, si3, -, -, -, -, -|
             <piano_1_v4>  |sol4 la4, -, -, -, reb4 sol4 la4, -, _, _, _, _, re2 la2, -|
         </mesure>
-        <mesure num=6>
+        <mesure num=14>
             <piano_1_v1>  |re4 sol4 la4, -, -, -, _, _, _, _, _, _, _, _|
             <piano_1_v2>  |si3, -, -, -, la3, -, reb4, -, -, re4, mi4, -|
             <piano_1_v4>  |re1 re2, -, _, _, reb4 sol4 la4, -, sol4 la4, -, -, -, sol4 la4, -|
         </mesure>
-        <mesure num=7>
+        <mesure num=15>
             <piano_1_v1>  |_, _, _, _, _, _, _, _, _, _, re4 sol4 la4, -|
             <piano_1_v2>  |{reb4, re4, reb4}, si3, -, la3, -, si3, -, -, -, -, -|
             <piano_1_v4>  |sol4 la4, -, -, -, reb4 sol4 la4, -, _, _, _, _, re2 la2, -|
         </mesure>
-        <mesure num=8>
+        <mesure num=16>
             <piano_1_v1>  |re4 sol4 la4, -, -, -, la3, -, reb4, -, -, re4, mi4, -|
             <piano_1_v2>  |si3, -, -, -, la3, -, -, -, -, -, -, -|
             <piano_1_v4>  |re1 re2, -, _, _, re4 sol4 la4, -, _, _, _, _, _, _|
         </mesure>
-    </section>
 
-<meta>
-Section de développement 13 — 8 mesures. Tonalité Reb majeur, tempo 90 BPM.
-</meta>
-    <section=section_14, n_mesure=8, bpm=90, format=12/16, tonalite=Reb_majeur>
-        <mesure num=1>
+        <mesure num=17>
             <piano_1_v1>  |reb4, -, si3, -, la3, -, si3, -, -, -, -, -|
             <piano_1_v4>  |_, _, _, _, mi3, -, solb3, -, -, -, -, -|
             <piano_1_v5>  |_, _, _, _, reb3, -, si2 re3, -, -, -, -, -|
         </mesure>
-        <mesure num=2>
+        <mesure num=18>
             <piano_1_v1>  |si3, -, -, -, solb4 si4, -, mi4 lab4 re5, -, -, -, -, -|
             <piano_1_v4>  |solb3, -, -, -, si3 re4, -, si3 re4, -, -, -, -, -|
             <piano_1_v5>  |si2 re3, -, -, -, -, -, -, -, -, -, -, -|
         </mesure>
-        <mesure num=3>
+        <mesure num=19>
             <piano_1_v1>  |mi4 lab4 re5, -, -, -, mi4 sol4 mi5, -, mi4 sol4 mi5, -, -, -, la2 sol3 la3 reb4 sol4 la4 fa5, -|
             <piano_1_v4>  |si3 re4, -, -, -, sib3 re4, -, sib3 re4, -, -, -, la2 sol3 la3, -|
         </mesure>
-        <mesure num=4>
+        <mesure num=20>
             <piano_1_v1>  |_, _, _, _, _, _, la5, -, -, -, -, -|
             <piano_1_v2>  |_, _, _, _, solb5 solb6, -, mi5 mi6, -, -, solb5 solb6, re5 re6, -|
             <piano_1_v4>  |_, _, solb4, -, solb4, -, solb4, -, solb4, -, solb4, -|
             <piano_1_v5>  |re2 la2, -, (solb4, re4), la3, solb3, -, la3, -, solb3, -, la3, -|
         </mesure>
-        <mesure num=5>
+        <mesure num=21>
             <piano_1_v1>  |la5, -, -, -, _, _, {re5, solb5, re6, la5, re6, re6}|
             <piano_1_v2>  |re5 re6, -, -, -, la5 la6, -, la5 la6, -, -, -, si5 si6, -|
             <piano_1_v4>  |_, _, solb4, -, solb4, -, solb4, -, solb4, -, solb4, -|
             <piano_1_v5>  |re2 la2, -, (solb4, re4), la3, solb3, -, la3 re4, -, solb3, -, la3 re4, -|
         </mesure>
-        <mesure num=6>
+        <mesure num=22>
             <piano_1_v1>  |{la5, re6, si6, re6}, la5, -, -, -, -, -|
             <piano_1_v2>  |{la5, la5, si6, la5 la6}, sol5 sol6, solb5 solb6, -, mi5 mi6, -, solb5 solb6, -, re5 re6, -|
             <piano_1_v4>  |_, _, solb4, -, solb4, -, solb4, -, solb4, -, solb4, -|
             <piano_1_v5>  |re2 la2, -, (solb4, re4), la3, solb3, -, la3 re4, -, solb3, -, la3 re4, -|
         </mesure>
-        <mesure num=7>
+        <mesure num=23>
             <piano_1_v1>  |_, _, _, _, _, _, sib5, -, -, -, -, -|
             <piano_1_v2>  |_, _, _, _, solb5 solb6, -, solb5 solb6, -, -, -, mi5 mi6, -|
             <piano_1_v4>  |_, _, solb4, -, solb4, -, solb4, -, solb4, -, solb4, -|
             <piano_1_v5>  |re2, -, (solb4, re4), sib3, solb3, -, sib3 re4, -, solb3, -, sib3 re4, -|
         </mesure>
-        <mesure num=8>
+        <mesure num=24>
             <piano_1_v1>  |sib5, -, _, _, _, _, solb5, -, -, -, -, -|
             <piano_1_v2>  |mi5 mi6, -, -, -, reb5 reb6, -, re5 re6, -, -, reb5 reb6, si4 si5, -|
             <piano_1_v4>  |solb4, -, solb4, -, solb4, -, solb4, -, solb4, -, solb4, -|
             <piano_1_v5>  |sib3 re4, -, (solb4, re4), sib3, solb3, -, si3 re4, -, solb3, -, si3 re4, -|
         </mesure>
-    </section>
 
-<meta>
-Section de développement 14 — 8 mesures. Tonalité Reb majeur, tempo 90 BPM.
-</meta>
-    <section=section_15, n_mesure=8, bpm=90, format=12/16, tonalite=Reb_majeur>
-        <mesure num=1>
+        <mesure num=25>
             <piano_1_v1>  |_, _, _, _, _, _, sib5, -, -, -, -, -|
             <piano_1_v2>  |_, _, _, _, solb5 solb6, -, solb5 solb6, -, -, -, mi5 mi6, -|
             <piano_1_v4>  |_, _, solb4, -, solb4, -, solb4, -, solb4, -, solb4, -|
             <piano_1_v5>  |re2, -, (solb4, re4), sib3, solb3, -, sib3 re4, -, solb3, -, sib3 re4, -|
         </mesure>
-        <mesure num=2>
+        <mesure num=26>
             <piano_1_v1>  |sib5, -, _, _, _, _, solb5, -, -, -, -, -|
             <piano_1_v2>  |mi5 mi6, -, -, -, reb5 reb6, -, {re5, solb5, mi6, re5 re6}, reb5 reb6, si4 si5, -|
             <piano_1_v4>  |solb4, -, solb4, -, solb4, -, solb4, -, solb4, -, solb4, -|
             <piano_1_v5>  |sib3 re4, -, (solb4, re4), sib3, solb3, -, si3 re4, -, solb3, -, si3 re4, -|
         </mesure>
-        <mesure num=3>
+        <mesure num=27>
             <piano_1_v1>  |_, _, _, _, la4 solb5 la5, -, si4 solb5 si5, -, -, -, -, -|
             <piano_1_v4>  |_, _, solb4, -, solb4, -, solb4, -, solb4, -, solb4, -|
             <piano_1_v5>  |re2 re3, -, (solb4, re4), la3, solb3, -, lab3 re4, -, solb3, -, lab3 re4, -|
         </mesure>
-        <mesure num=4>
+        <mesure num=28>
             <piano_1_v1>  |reb5 solb5 reb6, -, _, _, sib4 reb5, -, sib4 reb5, -, -, -, lab4 reb5, -|
             <piano_1_v2>  |_, _, _, _, reb4, -, fa4, -, -, solb4, lab4, -|
             <piano_1_v4>  |reb2 reb3, -, _, _, reb3 sib3, -, reb3 sib3, -, -, -, reb3 si3, -|
         </mesure>
-        <mesure num=5>
+        <mesure num=29>
             <piano_1_v1>  |lab4 reb5, -, -, -, si4 reb5, -, si4 reb5, -, -, -, lab4 si4 reb5, -|
             <piano_1_v2>  |fa4, -, -, -, reb4, -, mib4, -, -, -, -, -|
             <piano_1_v4>  |reb3 si3, -, -, -, reb3 lab3 si3, -, reb3 lab3 si3, -, -, -, fa2 reb3, -|
         </mesure>
-        <mesure num=6>
+        <mesure num=30>
             <piano_1_v1>  |_, _, _, _, sib4 reb5, -, sib4 reb5, -, -, -, lab4 reb5, -|
             <piano_1_v2>  |mib4, -, -, -, reb4, -, fa4, -, -, solb4, lab4, -|
             <piano_1_v4>  |solb2 reb3, -, -, -, reb3 sib3, -, reb3 sib3, -, -, -, reb3 si3, -|
         </mesure>
-        <mesure num=7>
+        <mesure num=31>
             <piano_1_v1>  |_, _, _, _, fa4 si4 reb5, -, _, _, _, _, solb4 si4 reb5, -|
             <piano_1_v2>  |{fa4, solb4, fa4}, mib4, -, reb4, -, mib4, -, -, -, -, -|
             <piano_1_v4>  |_, _, _, _, reb3 lab3 si3, -, _, _, _, _, reb3 solb3 si3, -|
         </mesure>
-        <mesure num=8>
+        <mesure num=32>
             <piano_1_v1>  |solb4 si4 reb5, -, -, -, lab4 si4 reb5, -, _, _, _, _, _, _|
             <piano_1_v2>  |mib4, -, -, -, reb4, -, fa4, -, -, solb4, lab4, -|
             <piano_1_v4>  |reb3 solb3 si3, -, -, -, reb3 fa3 si3, -, _, _, _, _, _, _|
         </mesure>
-    </section>
 
-<meta>
-Section de développement 15 — 8 mesures. Tonalité Reb majeur, tempo 90 BPM.
-</meta>
-    <section=section_16, n_mesure=8, bpm=90, format=12/16, tonalite=Reb_majeur>
-        <mesure num=1>
+        <mesure num=33>
             <piano_1_v1>  |fa4, -, mib4, -, reb4, -, mib4, -, -, -, -, -|
             <piano_1_v2>  |_, _, _, _, lab3, -, si3, -, -, -, -, -|
             <piano_1_v4>  |_, _, _, _, fa3, -, solb3, -, -, -, -, -|
             <piano_1_v5>  |_, _, _, _, reb3, -, si2, -, -, -, -, -|
         </mesure>
-        <mesure num=2>
+        <mesure num=34>
             <piano_1_v1>  |mib4, -, -, -, mib4, -, solb3 sib3 solb4, -, -, -, _, _|
             <piano_1_v2>  |si3, -, -, -, lab3 si3, -, -, -, -, -, -, -|
             <piano_1_v4>  |solb3, -, -, -, mib3, -, mib2 sib2 mib3, -, -, -, solb3 solb4, -|
             <piano_1_v5>  |si2, -, -, -, lab2, -, -, -, -, -, -, -|
         </mesure>
-        <mesure num=3>
+        <mesure num=35>
             <piano_1_v1>  |_, _, _, _, _, _, _, _, _, _, si3 solb4 si4, -|
             <piano_1_v4>  |solb3 solb4, -, -, -, solb3 solb4, -, solb3 solb4, -, -, -, mib3 la3, -|
         </mesure>
-        <mesure num=4>
+        <mesure num=36>
             <piano_1_v1>  |_, _, _, _, sol5, -, solb5, -, sol5, -, mi5, -|
             <piano_1_v2>  |_, _, _, _, sol4 si4, -, sol4 si4, -, -, -, mi4 si4, -|
             <piano_1_v4>  |mi2, -, -, -, mi3 si3 mi4, -, mi3 si3 mi4, -, -, -, sol4, -|
             <piano_1_v5>  |_, _, _, _, _, _, _, _, _, _, mi3 si3, -|
         </mesure>
-        <mesure num=5>
+        <mesure num=37>
             <piano_1_v1>  |mi5, -, -, -, si5, -, si5, -, -, -, reb6, -|
             <piano_1_v2>  |mi4 si4, -, -, -, sol4 mi5, -, sol4 mi5, -, -, -, _, _|
             <piano_1_v4>  |solb4, -, sol4, -, mi4, -, mi4, -, -, -, _, _|
             <piano_1_v5>  |mi3 si3, -, -, -, mi3 si3, -, mi3 si3, -, -, -, si2, -|
         </mesure>
-        <mesure num=6>
+        <mesure num=38>
             <piano_1_v1>  |{si5, reb6, si5}, la5, sol5, -, solb5, -, sol5, -, mi5, -|
             <piano_1_v2>  |_, _, _, _, _, _, _, _, _, _, si4, -|
             <piano_1_v4>  |_, _, _, _, si3, -, si4, -, -, la4, sol4, -|
             <piano_1_v5>  |mi2, -, -, -, mi3 si3, -, mi3 si3, -, _, _, _, _|
         </mesure>
-        <mesure num=7>
+        <mesure num=39>
             <piano_1_v1>  |mi5, -, -, -, sol5, -, sol5, -, -, -, solb5, -|
             <piano_1_v2>  |si4, -, -, -, sol4 si4, -, sol4 si4, -, -, -, sol4 si4, -|
             <piano_1_v4>  |solb4, -, sol4, -, mi4, -, mi4, -, -, -, re4, -|
             <piano_1_v5>  |_, _, _, _, mi3 si3, -, mi3 si3, -, -, -, mi3 si3, -|
         </mesure>
-        <mesure num=8>
+        <mesure num=40>
             <piano_1_v1>  |solb5, -, -, -, re5, -, mi5, -, -, re5, reb5, -|
             <piano_1_v2>  |sol4 si4, -, -, -, -, -, sol4 la4, -, -, -, -, -|
             <piano_1_v4>  |re4, -, -, -, si3, -, reb4, -, -, si3, la3, -|
             <piano_1_v5>  |{la2, la2}, la3, -, -, -, -, -|
         </mesure>
-    </section>
 
-<meta>
-Section de développement 16 — 8 mesures. Tonalité Reb majeur, tempo 90 BPM.
-</meta>
-    <section=section_17, n_mesure=8, bpm=90, format=12/16, tonalite=Reb_majeur>
-        <mesure num=1>
+        <mesure num=41>
             <piano_1_v1>  |_, _, _, _, sol5, -, sol5, -, -, -, solb5, -|
             <piano_1_v2>  |_, _, _, _, sol4 si4, -, sol4 si4, -, -, -, sol4 si4, -|
             <piano_1_v4>  |_, _, _, _, mi4, -, mi4, -, -, -, re4, -|
             <piano_1_v5>  |mi2, -, mi3 si3, -, -, -, mi3 si3, -, -, -, mi3 si3, -|
         </mesure>
-        <mesure num=2>
+        <mesure num=42>
             <piano_1_v1>  |solb5, -, -, -, re5, -, mi5, -, -, re5, reb5, -|
             <piano_1_v2>  |sol4 si4, -, -, -, -, -, sol4, -, -, -, -, -|
             <piano_1_v4>  |re4, -, -, -, si3, -, reb4, -, -, si3, la3, -|
             <piano_1_v5>  |{la2, la2}, la3, -, -, -, -, -|
         </mesure>
-        <mesure num=3>
+        <mesure num=43>
             <piano_1_v1>  |_, _, _, _, sol4 la4, -, sol4 si4, -, -, -, -, -|
             <piano_1_v4>  |la2, -, -, -, reb4 mi4, -, re4 mi4, -, -, -, mi2, -|
         </mesure>
-        <mesure num=4>
+        <mesure num=44>
             <piano_1_v1>  |_, _, _, _, _, _, _, _, _, _, _, _|
             <piano_1_v4>  |la1 la2, -, _, _, sol4 la4, -, sol4 la4, -, -, -, sol4 la4, -|
             <piano_1_v5>  |_, _, _, _, la3, -, reb4, -, -, re4, mi4, -|
         </mesure>
-        <mesure num=5>
+        <mesure num=45>
             <piano_1_v1>  |_, _, (_, _), la5, (_, _), la6, (la6, _), _, (la5, {_, _, _, _}), ({_, _}, {_, _}, {_, _}), ({_, la4}, {_, _}), (_, {_, _}, _), (_, _, _)|
             <piano_1_v2>  |_, _, la4, reb5, (sol5, la5), reb6, (sol6, sol6), re6, (si5, sol5), re5, (si4, sol4), re4, si3|
             <piano_1_v4>  |(_, sol4 la4), reb4 sol4 la4, -, re4 sol4 la4, -, -, -, mi2, -, _|
             <piano_1_v5>  |reb4, -, -, -, la3, -, si3, -, -, -, -, -|
         </mesure>
-        <mesure num=6>
+        <mesure num=46>
             <piano_1_v1>  |_, _, _, _, _, _, _, _, _, _, _, _|
             <piano_1_v4>  |la1 la2, -, _, _, sol4 la4, -, sol4 la4, -, -, -, sol4 la4, -|
             <piano_1_v5>  |_, _, _, _, la3, -, reb4, -, -, re4, mi4, -|
         </mesure>
-        <mesure num=7>
+        <mesure num=47>
             <piano_1_v1>  |_, _, (_, _), la5, (_, _), la6, (la6, _), _, (la5, {_, _, _, _}), ({_, _}, {_, _}, {_, _}), ({_, la4}, {_, _}), (_, {_, _}, _), (_, _, _)|
             <piano_1_v2>  |_, _, la4, reb5, (sol5, la5), reb6, (sol6, sol6), re6, (si5, sol5), re5, (si4, sol4), re4, si3|
             <piano_1_v4>  |(_, sol4 la4), reb4 sol4 la4, -, re4 sol4 la4, -, -, -, mi2, -, _|
             <piano_1_v5>  |reb4, -, -, -, la3, -, si3, -, -, -, -, -|
         </mesure>
-        <mesure num=8>
+        <mesure num=48>
             <piano_1_v1>  |la3, -, _, _, sol4 la4, -, reb5, -, -, re5, mi5, -|
             <piano_1_v2>  |_, _, _, _, _, _, sol4 la4, -, -, -, sol4 la4, -|
             <piano_1_v4>  |la1 la2, -, _, _, la2 mi3 la3, -, reb4, -, -, re4, mi4, -|
             <piano_1_v5>  |_, _, _, _, _, _, la3, -, -, -, la3, -|
         </mesure>
-    </section>
 
-<meta>
-Section de développement 17 — 8 mesures. Tonalité Reb majeur, tempo 90 BPM.
-</meta>
-    <section=section_18, n_mesure=8, bpm=90, format=12/16, tonalite=Reb_majeur>
-        <mesure num=1>
+        <mesure num=49>
             <piano_1_v1>  |_, _, (_, _), la5, (_, _), la6, (si6, _), _, (si5, {_, _, _, _}), ({_, _}, {_, _}, {_, _}), ({_, si4}, {_, _}), (_, {_, _}, _), (_, _, _)|
             <piano_1_v2>  |_, _, la4, reb5, (sol5, la5), reb6, (sol6, sol6), re6, (si5, sol5), re5, (si4, sol4), re4, si3|
             <piano_1_v3>  |reb5, -, -, -, -, -, -, -, -, -, -, -|
@@ -863,100 +816,99 @@ Section de développement 17 — 8 mesures. Tonalité Reb majeur, tempo 90 BPM.
             <piano_1_v5>  |(_, {solb4, re5}), si3 si4, -, la3 reb4 sol4 la4, -, sol3 re4 sol4 si4, -, _, _, _, _, _|
             <piano_1_v6>  |la3, -, -, -, -, -, -, -, -, -, -, -|
         </mesure>
-        <mesure num=2>
+        <mesure num=50>
             <piano_1_v1>  |_, _, (_, _), si4, (_, _), si5, _, _, (_, _), re5, (_, _), re6|
             <piano_1_v2>  |_, _, (si3, re4), sol4, (si4, re5), sol5, (re4, solb4), si4, (re5, solb5), si5|
             <piano_1_v4>  |(sol2, re3), sol3, (si2, solb3), si3|
             <piano_1_v5>  |sol2, -, -, -, -, -, si2, -, -, -, -, -|
         </mesure>
-        <mesure num=3>
+        <mesure num=51>
             <piano_1_v1>  |_, _, (_, _), mi5, (_, _), mi6, _, _, (_, _), fa5, (_, _), fa6|
             <piano_1_v2>  |_, _, (mi4, lab4), re5, (mi5, lab5), re6, (fa4, la4), reb5, (fa5, la5), reb6|
             <piano_1_v4>  |(sib2, lab3), re4, (la2, sol3), reb4|
             <piano_1_v5>  |sib2, -, -, -, -, -, la2, -, -, -, -, -|
         </mesure>
-        <mesure num=4>
+        <mesure num=52>
             <piano_1_v1>  |_, _, _, _, solb5, -, mi6, -, _, solb6, re6, -|
             <piano_1_v2>  |_, _, (solb4, la4), solb5, (solb5, la5), solb6, (re6, la5), mi5, (mi5, la5), solb5, (re6, solb5 la5), re5|
             <piano_1_v4>  |_, _, _, _, solb3 la3 solb4, -, mi3 la3 mi4, -, _, solb3 solb4, re3 re4, -|
             <piano_1_v5>  |re2 re3, -, -, -, -, -, -, -, -, -, -, -|
         </mesure>
-        <mesure num=5>
+        <mesure num=53>
             <piano_1_v1>  |_, _, (_, _), la5, (_, _), solb6, solb6, -, -, -, re7, -|
             <piano_1_v2>  |_, _, (la4, re5), solb5, (la5, re6), re6, (re6, re6), la5, (la5, re6), solb6, (re7, re6), si5|
             <piano_1_v4>  |_, _, _, _, la3 re4 solb4 la4, -, la3 re4 solb4 la4, -, -, -, si3 re4 solb4 si4, -|
             <piano_1_v5>  |re1 re2, -, -, -, _, _, _, _, re2 re3, -, -, -|
         </mesure>
-        <mesure num=6>
+        <mesure num=54>
             <piano_1_v1>  |la6, -, sol6, -, solb6, -, mi6, -, solb6, -, re6, -|
             <piano_1_v2>  |(la6, re6), la5, (sol6, re6), sol5, (solb6, re6), solb5, (mi6, re6), mi5, (solb6, la5), solb5, (re6, re6), si5|
             <piano_1_v4>  |la3 re4 solb4 la4, -, sol3 sol4, -, solb3 solb4, -, mi3 la3 mi4, -, solb3 solb4, -, re3 la3 re4, -|
             <piano_1_v5>  |re2 re3, -, -, -, -, -, -, -, -, -, -, -|
         </mesure>
-        <mesure num=7>
+        <mesure num=55>
             <piano_1_v1>  |_, _, _, _, _, _, _, _, _, _, _, _|
             <piano_1_v2>  |_, _, (solb4, la4), solb5, (solb5, la5), solb6, (solb6, la5), solb5, (solb5, la5), solb6, (solb6, sib6), solb7|
             <piano_1_v4>  |_, _, _, _, solb3 la3 solb4, -, solb3 la3 solb4, -, -, -, mi3 solb3 sib3 mi4, -|
             <piano_1_v5>  |re2 re3, -, -, -, _, _, _, _, re2 re3, -, -, -|
         </mesure>
-        <mesure num=8>
+        <mesure num=56>
             <piano_1_v1>  |(solb7, sib6), solb6, (solb6, solb5), solb6, (solb5, reb6), solb6, (solb5, reb6), solb6, (solb5, reb6), solb6, (solb5, reb6), solb6|
             <piano_1_v4>  |mi3 solb3 sib3 mi4, -, -, -, reb3 solb3 reb4, -, re3 solb3 re4, -, reb3 solb3 reb4, -, si2 solb3 si3, -|
             <piano_1_v5>  |re2 re3, -, re2 re3, -, _, _, _, _, _, _, _, _|
         </mesure>
-    </section>
 
-<meta>
-Section de développement 18 — 8 mesures. Tonalité Reb majeur, tempo 90 BPM.
-</meta>
-    <section=section_19, n_mesure=8, bpm=90, format=12/16, tonalite=Reb_majeur>
-        <mesure num=1>
+        <mesure num=57>
             <piano_1_v1>  |_, _, (solb4, la4), solb5, (solb5, la5), solb6, (solb6, la5), solb5, (solb5, la5), solb6, (solb6, sib6), solb7|
             <piano_1_v4>  |_, _, _, _, solb3 la3 solb4, -, solb3 la3 solb4, -, -, -, mi3 solb3 sib3 mi4, -|
             <piano_1_v5>  |re1 re2, -, -, -, _, _, _, _, re2 re3, -, -, -|
         </mesure>
-        <mesure num=2>
+        <mesure num=58>
             <piano_1_v1>  |_, _, _, _, reb6, -, re6, -, reb6, -, si5, -|
             <piano_1_v2>  |(solb7, sib6), solb6, (solb6, la5), solb6, (reb6, solb6), reb7, (re6, solb6), re7, (reb6, solb6), reb7, (si5, solb6), si6|
             <piano_1_v4>  |mi3 solb3 sib3 mi4, -, -, -, reb3 solb3 reb4, -, re3 solb3 re4, -, reb3 solb3 reb4, -, si2 solb3 si3, -|
             <piano_1_v5>  |re2 re3, -, re2 re3, -, _, _, _, _, _, _, _, _|
         </mesure>
-        <mesure num=3>
+        <mesure num=59>
             <piano_1_v1>  |_, _, solb5 re6 solb6, -, lab5 solb6 lab6, -, {si6, la5 solb6 la6}, lab5 lab6, -, solb5 solb6, -|
             <piano_1_v4>  |(la2, sib2), reb3, (re3, mi3), fa3, (solb3, sol3), lab3, (la3, sib3), reb4, (re4, mi4), fa4, solb4, -|
             <piano_1_v5>  |re2, -, -, -, -, -, -, -, -, -, -, -|
         </mesure>
-        <mesure num=4>
+        <mesure num=60>
             <piano_1_v1>  |_, _, (solb4, sol4), (sib4, si4), (reb5, re5), (mi5, solb5), (sol5, sib5), (si5, reb6), (re6, mi6), (solb6, sol6), (sib6, si6, reb7), (re7, mi7)|
             <piano_1_v4>  |_, _, mi3 solb3 mi4, -, reb3 reb4, -, re3 solb3 re4, -, reb3 solb3 reb4, -, si2 solb3 si3, -|
             <piano_1_v5>  |re2 re3, -, -, -, -, -, -, -, -, -, -, -|
         </mesure>
-        <mesure num=5>
+        <mesure num=61>
             <piano_1_v1>  |solb7, -, solb5 re6 solb6, -, lab5 solb6 lab6, -, {la6, la5 solb6 la6}, lab5 lab6, -, solb5 solb6, -|
             <piano_1_v4>  |(la2, sib2), reb3, (re3, mi3), fa3, (solb3, sol3), lab3, (la3, sib3), reb4, (re4, mi4), fa4, solb4, -|
             <piano_1_v5>  |re2, -, -, -, -, -, -, -, -, -, -, -|
         </mesure>
-        <mesure num=6>
+        <mesure num=62>
             <piano_1_v1>  |_, _, (solb4, sol4), (sib4, si4), (reb5, re5), (mi5, solb5), (sol5, sib5), (si5, reb6), (re5, mi5, solb5), (sol5, sib5), (si5, reb6, re6), (mi6, solb6)|
             <piano_1_v4>  |_, _, mi3 solb3 mi4, -, reb3 reb4, -, re3 solb3 re4, -, reb3 solb3 reb4, -, si2 solb3 si3, -|
             <piano_1_v5>  |re2 re3, -, -, -, -, -, -, -, -, -, -, -|
         </mesure>
-        <mesure num=7>
+        <mesure num=63>
             <piano_1_v1>  |_, _, sib5 solb6 sib6, -, do6 sib6 do7, -, {mib7, reb6 sib6 reb7}, do6 do7, -, sib5 sib6, -|
             <piano_1_v4>  |(reb3, re3), fa3, (solb3, lab3), la3, (sib3, si3), do4, (reb4, re4), fa4, (solb4, lab4), la4, sib4, -|
             <piano_1_v5>  |solb2, -, -, -, -, -, -, -, -, -, -, -|
         </mesure>
-        <mesure num=8>
+        <mesure num=64>
             <piano_1_v1>  |_, _, (sib4, si4), (re5, mib5), (fa5, solb5), (lab5, la5), (sib5, si5), (do6, reb6), (re6, mib6), (mi6, fa6), (solb6, sol6), (lab6, la6)|
             <piano_1_v4>  |_, _, lab3 sib3 lab4, -, fa3 sib3 fa4, -, solb3 sib3 solb4, -, fa3 sib3 fa4, -, mib3 sib3 mib4, -|
             <piano_1_v5>  |solb2 solb3, -, -, -, -, -, -, -, -, -, -, -|
         </mesure>
+
     </section>
 
+
 <meta>
-Section de développement 19 — 8 mesures. Tonalité Reb majeur, tempo 90 BPM.
+8 mesures. Tranquillo vers Allegro vivo, 12/16, Reb majeur.
+Cette section charnière ramène progressivement la tonalité principale de Reb majeur et prépare l'irruption du retour du thème principal. Le réajustement tonal crée une attente tendue, comme si la danse refoulée cherchait à éclater de nouveau. Soigner la transition dynamique : partir du pianissimo résiduel de la section B et laisser la tension monter par une légère accélération du tempo vers la reprise.
+<section=transition_B_C, n_mesure=8, bpm=80, format=12/16, tonalite=Reb_majeur>
 </meta>
-    <section=section_20, n_mesure=8, bpm=90, format=12/16, tonalite=Reb_majeur>
+    <section=transition_B_C, n_mesure=8, bpm=80, format=12/16, tonalite=Reb_majeur>
         <mesure num=1>
             <piano_1_v1>  |sib5 mib6 sib6, -, _, sib4 solb5 sib5, _, do5 solb5 do6, _, reb5 solb5 reb6, _, do5 solb5 do6, _, sib4 solb5 sib5|
             <piano_1_v4>  |_, _, solb3 reb4 solb4, _, solb3 do4 solb4, _, solb3 sib3 solb4, _, solb3 do4 solb4, _, solb3 reb4 solb4, _|
@@ -999,12 +951,16 @@ Section de développement 19 — 8 mesures. Tonalité Reb majeur, tempo 90 BPM.
             <piano_1_v4>  |{la4, sib4}, _, {do5, reb5}, _, {mi5, fa5}, _, reb6, -, -|
             <piano_1_v5>  |_, _, _, _, _, _, _, _, _, {la5, sib5}|
         </mesure>
+
     </section>
 
+
 <meta>
-Section de développement 20 — 8 mesures. Tonalité Reb majeur, tempo 90 BPM.
+88 mesures. Allegro vivo, 12/16, Reb majeur.
+Le thème principal revient avec une force décuplée : la texture s'est épaissie, les accords sont plus massifs, la polyphonie plus dense. Balakirev transforme la reprise en processus de surenchère virtuose, ajoutant des doubles octaves, des passages chromatiques ascendants et des arpèges brisés à grande vitesse. Le schéma tonal Solb majeur - Reb majeur reste intact mais enrichi de broderies chromatiques. Jouer avec une sonorité de plein orchestre, bras libres, appui du poids du corps dans les fortissimos.
+<section=recapitulation, n_mesure=88, bpm=116, format=12/16, tonalite=Reb_majeur>
 </meta>
-    <section=section_21, n_mesure=8, bpm=90, format=12/16, tonalite=Reb_majeur>
+    <section=recapitulation, n_mesure=88, bpm=116, format=12/16, tonalite=Reb_majeur>
         <mesure num=1>
             <piano_1_v1>  |_, mib5, _, sol5, _, sib5, _, do6, sib5, la5, -, sol5|
             <piano_1_v2>  |si4, do5, re5, mib5, solb5, sol5, lab5, la5, sol5, fa5, mi5, mib5|
@@ -1055,185 +1011,165 @@ Section de développement 20 — 8 mesures. Tonalité Reb majeur, tempo 90 BPM.
             <piano_1_v4>  |solb4, -, -, la6, -, -, solb5 la5, -, -, -, -, -|
             <piano_1_v5>  |la3 re4, _, _, solb6, _, _, _, _, _, re5 solb5, -, -|
         </mesure>
-    </section>
 
-<meta>
-Section de développement 21 — 8 mesures. Tonalité Reb majeur, tempo 90 BPM.
-</meta>
-    <section=section_22, n_mesure=8, bpm=90, format=12/16, tonalite=Reb_majeur>
-        <mesure num=1>
+        <mesure num=9>
             <piano_1_v1>  |solb4, sol4, sib4, si4, reb5, re5, mib5, mi5, re5, reb5, -, si4|
             <piano_1_v2>  |mib4, mi4, solb4, sol4, sib4, si4, do5, reb5, si4, sib4, lab4, sol4|
             <piano_1_v4>  |re3 sol3 si3, -, -, re2 re3, -, -, la3 mi4 sol4, -, -, re2 re3, -, -|
         </mesure>
-        <mesure num=2>
+        <mesure num=10>
             <piano_1_v1>  |si4, la4, _, re5, -, reb5, si4, la4, si4, solb4, -, -|
             <piano_1_v2>  |fa4, solb4, lab4, la4, sib4, -, si4, _, _, re4, -, -|
             <piano_1_v4>  |re3 la3 re4, _, _, re4 mi4 sol4, -, -, re4 solb4, _, _, re3 si3, -, -|
         </mesure>
-        <mesure num=3>
+        <mesure num=11>
             <piano_1_v1>  |solb5, sol5, sib5, si5, reb6, re6, _, re6, _, sol6, _, sib6|
             <piano_1_v2>  |mib5, mi5, solb5, sol5, sib5, si5, la5, sib5, reb6, re6, solb6, sol6|
             <piano_1_v4>  |mi3 sol3 re4 sol4, -, -, si1 si2, -, -, mi3 sol3 re4 sol4, -, -, sib1 sib2, -, -|
         </mesure>
-        <mesure num=4>
+        <mesure num=12>
             <piano_1_v1>  |_, sib6, _, sib6, _, sib6, _, sib6, _, sib6, _, sib6|
             <piano_1_v2>  |reb6, sol6, solb6, sol6, reb6, sol6, solb6, sol6, reb6, sol6, solb6, sol6|
             <piano_1_v4>  |mi3 la3 reb4 sol4, -, -, la1, -, -, -, _, _, _, _, _|
             <piano_1_v5>  |_, _, _, la1, la2, -, reb3, mi3, -, sol3, la3, -|
         </mesure>
-        <mesure num=5>
+        <mesure num=13>
             <piano_1_v1>  |_, sib6, _, sib6, _, sib6, _, sib6, _, sib6, _, sib6|
             <piano_1_v2>  |reb6, sol6, solb6, sol6, reb6, sol6, solb6, sol6, reb6, sol6, solb6, sol6|
             <piano_1_v4>  |_, _, _, _, _, _, _, _, _, _, _, _|
             <piano_1_v5>  |reb4, mi4, -, sol4, reb5, -, mi5, sol5, -, sib5, -, -|
         </mesure>
-        <mesure num=6>
+        <mesure num=14>
             <piano_1_v1>  |_, sib6, _, sib6, _, sib6, _, sib6, _, sib6, _, sib6|
             <piano_1_v2>  |do6, sol6, solb6, sol6, do6, sol6, solb6, sol6, do6, sol6, solb6, sol6|
             <piano_1_v4>  |mi3 sib3 do4 sol4, -, -, do2, -, -, -, _, _, _, _, _|
             <piano_1_v5>  |_, _, _, do2, do3, -, mi3, sol3, -, sib3, do4, -|
         </mesure>
-        <mesure num=7>
+        <mesure num=15>
             <piano_1_v1>  |_, sib6, _, sib6, _, sib6, _, sib6, _, sib6, _, sib6|
             <piano_1_v2>  |do6, sol6, solb6, sol6, do6, sol6, solb6, sol6, do6, sol6, solb6, sol6|
             <piano_1_v4>  |_, _, _, _, _, _, _, _, _, _, _, _|
             <piano_1_v5>  |mi4, sol4, -, sib4, do5, -, mi5, sol5, -, sib5, -, -|
         </mesure>
-        <mesure num=8>
+        <mesure num=16>
             <piano_1_v1>  |_, sib6, _, sib6, _, sib6, _, sib6, _, sib6, _, sib6|
             <piano_1_v2>  |do6, solb6, fa6, solb6, do6, solb6, fa6, solb6, do6, solb6, fa6, solb6|
             <piano_1_v4>  |mib3 lab3 do4 solb4, -, -, lab1, -, -, -, _, _, _, _, _|
             <piano_1_v5>  |_, _, _, lab1, lab2, -, do3, mib3, -, solb3, lab3, -|
         </mesure>
-    </section>
 
-<meta>
-Section de développement 22 — 8 mesures. Tonalité Reb majeur, tempo 90 BPM.
-</meta>
-    <section=section_23, n_mesure=8, bpm=90, format=12/16, tonalite=Reb_majeur>
-        <mesure num=1>
+        <mesure num=17>
             <piano_1_v1>  |_, sib6, _, sib6, _, sib6, _, sib6, _, sib6, _, sib6|
             <piano_1_v2>  |do6, solb6, fa6, solb6, do6, solb6, fa6, solb6, do6, solb6, fa6, solb6|
             <piano_1_v4>  |_, _, _, _, _, _, _, _, _, _, _, _|
             <piano_1_v5>  |do4, mib4, -, solb4, lab4, -, do5, mib5, -, solb5, lab5, -|
         </mesure>
-        <mesure num=2>
+        <mesure num=18>
             <piano_1_v1>  |_, la6, _, solb6, _, mib6, _, do6, _, la5, _, solb5|
             <piano_1_v2>  |fa6, solb6, re6, mib6, si5, do6, lab5, la5, fa5, solb5, re5, mib5|
             <piano_1_v4>  |la5, do6, solb5, la5, mib5, solb5, do5, mib5, la4, do5, solb4, la4|
         </mesure>
-        <mesure num=3>
+        <mesure num=19>
             <piano_1_v1>  |_, mib5, _, do5, _, la4, _, solb4, _, mib4, _, do4|
             <piano_1_v2>  |si4, do5, lab4, la4, fa4, solb4, re4, mib4, si3, do4, lab3, la3|
             <piano_1_v4>  |mib4, solb4, do4, mib4, la3, do4, solb3, la3, mib3, solb3, do3, mib3|
         </mesure>
-        <mesure num=4>
+        <mesure num=20>
             <piano_1_v1>  |_, la3, _, solb3, _, mib3, _, do3, _, la2, _, solb2|
             <piano_1_v2>  |fa3, solb3, re3, mib3, si2, do3, lab2, la2, fa2, solb2, re2, mib2|
             <piano_1_v4>  |la2, do3, solb2, la2, mib2, solb2, do2, mib2, la1, do2, solb1, la1|
         </mesure>
-        <mesure num=5>
+        <mesure num=21>
             <piano_1_v1>  |_, _, _, _, _, _, _, _, _, _, _, _|
             <piano_1_v4>  |_, _, _, lab2, -, -, -, -, -, lab2, -, -|
             <piano_1_v5>  |lab1, sol1, lab1, lab2, lab1, sol1, lab1, sol1, lab1, lab2, lab1, sol1|
         </mesure>
-        <mesure num=6>
+        <mesure num=22>
             <piano_1_v1>  |_, _, _, _, _, _, _, _, _, _, _, _|
             <piano_1_v4>  |lab2, -, -, lab2, -, -, -, -, -, lab2, -, -|
             <piano_1_v5>  |lab1, sol1, lab1, lab2, lab1, sol1, lab1, sol1, lab1, lab2, lab1, sol1|
         </mesure>
-        <mesure num=7>
+        <mesure num=23>
             <piano_1_v1>  |do4, -, do4, sib3, do4, lab3, _, _, mib4, do4, -, fa4|
             <piano_1_v2>  |mib3 solb3, -, -, -, -, -, -, -, -, solb3 la3, -, -|
             <piano_1_v4>  |lab2, -, -, lab2, -, -, -, -, -, lab2, -, -|
             <piano_1_v5>  |lab1, sol1, lab1, lab2, lab1, sol1, lab1, sol1, lab1, lab2, lab1, sol1|
         </mesure>
-        <mesure num=8>
+        <mesure num=24>
             <piano_1_v1>  |mib4, reb4, do4, sib3, do4, lab3, _, _, do4, do4, -, sib3|
             <piano_1_v2>  |solb3 la3, -, -, solb3, -, -, -, -, -, mib3 solb3, -, -|
             <piano_1_v4>  |lab2, -, -, lab2, -, -, -, -, -, lab2, -, -|
             <piano_1_v5>  |lab1, sol1, lab1, lab2, lab1, sol1, lab1, sol1, lab1, lab2, lab1, sol1|
         </mesure>
-    </section>
 
-<meta>
-Section de développement 23 — 8 mesures. Tonalité Reb majeur, tempo 90 BPM.
-</meta>
-    <section=section_24, n_mesure=8, bpm=90, format=12/16, tonalite=Reb_majeur>
-        <mesure num=1>
+        <mesure num=25>
             <piano_1_v1>  |sib3, -, sol3, lab3, sol3, fa3, _, _, do4, do4, -, sib3|
             <piano_1_v2>  |mi3 sol3, -, -, fa3, -, -, -, -, -, mib3 solb3, -, -|
             <piano_1_v4>  |lab2, -, -, lab2, -, -, -, -, -, lab2, -, -|
             <piano_1_v5>  |lab1, sol1, lab1, lab2, lab1, sol1, lab1, sol1, lab1, lab2, lab1, sol1|
         </mesure>
-        <mesure num=2>
+        <mesure num=26>
             <piano_1_v1>  |sib3, -, solb3, lab3, solb3, fa3, fa4, -, fa4, mib4, fa4, reb4|
             <piano_1_v2>  |mi3 sol3, -, -, fa3, -, -, lab3 si3, -, -, -, -, fa3|
             <piano_1_v4>  |lab2, -, -, lab2, -, -, -, -, -, lab2, -, _|
             <piano_1_v5>  |lab1, sol1, lab1, lab2, lab1, sol1, lab1, sol1, lab1, lab2, sol2, lab2|
         </mesure>
-        <mesure num=3>
+        <mesure num=27>
             <piano_1_v1>  |_, _, lab4, lab4, -, sib4, lab4, solb4, fa4, mib4, fa4, reb4|
             <piano_1_v2>  |_, _, _, si3 re4, -, -, -, -, -, si3, -, fa3|
             <piano_1_v4>  |mib3, fa3, reb3, lab2, sol2, lab2, lab1, sol1, lab1, lab2, sol2, lab2|
         </mesure>
-        <mesure num=4>
+        <mesure num=28>
             <piano_1_v1>  |_, _, fa4, fa4, -, mib4, mib4, -, do4, reb4, do4, sib3|
             <piano_1_v2>  |_, _, _, lab3 si3, -, -, la3 do4, -, -, sib3, -, -|
             <piano_1_v4>  |mib3, fa3, reb3, lab2, sol2, lab2, lab1, sol1, lab1, lab2, sol2, lab2|
         </mesure>
-        <mesure num=5>
+        <mesure num=29>
             <piano_1_v1>  |_, _, fa4, fa4, -, mib4, mib4, -, do4, reb4, do4, sib3|
             <piano_1_v2>  |_, _, _, lab3 si3, -, -, la3 do4, -, -, sib3, -, -|
             <piano_1_v4>  |reb3, do3, sib2, lab2, sol2, lab2, lab1, sol1, lab1, lab2, sol2, lab2|
         </mesure>
-        <mesure num=6>
+        <mesure num=30>
             <piano_1_v1>  |re4 solb4 si4 re5, -, re4 re5, reb4 reb5, re4 re5, si3 si4, _, _, solb4 solb5, solb4 solb5, -, lab4 lab5|
             <piano_1_v2>  |_, _, _, solb4, -, -, -, -, -, si4, -, -|
             <piano_1_v4>  |lab1, lab2, lab2, re3 solb3 si3, lab2, lab2, lab1, lab2, re3, solb3 si3 re4, re3, lab2|
         </mesure>
-        <mesure num=7>
+        <mesure num=31>
             <piano_1_v1>  |solb4 solb5, mi4 mi5, re4 re5, reb4 reb5, re4 re5, si3 si4, _, _, re4 re5, re4 re5, -, reb4 reb5|
             <piano_1_v2>  |si4, -, -, solb4, -, -, -, -, -, solb4 si4, -, -|
             <piano_1_v4>  |lab1, lab2, lab2, re3 solb3 si3, lab2, lab2, lab1, lab2, lab2, re3 solb3 si3, lab2, lab2|
         </mesure>
-        <mesure num=8>
+        <mesure num=32>
             <piano_1_v1>  |do4 mib4 solb4 lab4 do5, -, _, _, _, _, lab3 do4 solb4 lab4, -, _, lab4 do5 solb5 lab5, -, _|
             <piano_1_v4>  |_, _, _, mib3 solb3 lab3, -, _, _, _, _, _, _, _|
             <piano_1_v5>  |lab1 lab2, -, do2 do3, sib1 sib2, do2 do3, lab1 lab2, -, -, mib2 mib3, mib2 mib3, -, fa2 fa3|
         </mesure>
-    </section>
 
-<meta>
-Section de développement 24 — 8 mesures. Tonalité Reb majeur, tempo 90 BPM.
-</meta>
-    <section=section_25, n_mesure=8, bpm=90, format=12/16, tonalite=Reb_majeur>
-        <mesure num=1>
+        <mesure num=33>
             <piano_1_v1>  |lab5 do6 solb6 lab6, -, _, lab6 do7 solb7 lab7, -, _, solb4, -, -, _, _, _|
             <piano_1_v2>  |_, _, _, _, _, _, sib3 sib4, do4 do5, lab3 lab4, -, -, -|
             <piano_1_v4>  |mib2 mib3, reb2 reb3, do2 do3, sib1 sib2, do2 do3, lab1 lab2, -, -, -, la2 la3, si2 si3, lab2 lab3|
             <piano_1_v5>  |_, _, _, _, _, _, _, _, _, solb3, -, -|
         </mesure>
-        <mesure num=2>
+        <mesure num=34>
             <piano_1_v1>  |_, _, _, solb5, -, -, _, _, _, si5, -, -|
             <piano_1_v2>  |re5 solb5 si5 re6, -, re5 re6, reb5 reb6, re5 re6, si4 si5, -, -, solb5 solb6, solb5 solb6, -, lab5 lab6|
             <piano_1_v4>  |lab1, lab2, re3, re3 solb3 si3 solb4, -, re3 re4, reb3 reb4, re3 re4, si2 si3, re3 solb3 si3, lab2, lab2|
             <piano_1_v5>  |_, _, _, _, _, _, solb3, -, -, -, -, -|
         </mesure>
-        <mesure num=3>
+        <mesure num=35>
             <piano_1_v1>  |si5, -, -, solb5, -, -, _, _, _, solb5 si5, -, -|
             <piano_1_v2>  |solb5 solb6, mi5 mi6, re5 re6, reb5 reb6, re5 re6, si4 si5, _, _, re5 re6, re5 re6, -, reb5 reb6|
             <piano_1_v4>  |_, _, _, _, _, re3 re4, reb3 reb4, re3 re4, si2 si3, _, _, _|
             <piano_1_v5>  |lab1, lab2, re3, re3 solb3 si3 solb4, -, -, solb3, -, -, re3 solb3 si3, lab2, lab2|
         </mesure>
-        <mesure num=4>
+        <mesure num=36>
             <piano_1_v1>  |do5 mib5 solb5 lab5 do6, -, do4 do5, sib3 sib4, do4 do5, lab3 lab4, lab4 mib5 solb5 lab5, -, _, lab5 do6 solb6 lab6, -, _|
             <piano_1_v2>  |_, _, _, mib4 solb4, -, -, -, -, -, -, -, -|
             <piano_1_v4>  |lab1 lab2, mib2 mib3, fa2 fa3, solb2 solb3, -, do3 do4, mib3 solb3, -, _, _, _, _|
             <piano_1_v5>  |_, _, _, _, _, _, sib2 sib3, do3 do4, lab2 lab3, mib3 mib4, -, fa3 fa4|
         </mesure>
-        <mesure num=5>
+        <mesure num=37>
             <piano_1_v1>  |lab6 do7 solb7 lab7, -, _, lab5 mib6 solb6 lab6, -, _, sib4 sib5, do5 do6, lab4 lab5, _, _, _|
             <piano_1_v2>  |_, _, _, _, _, _, solb5, -, -, -, -, -|
             <piano_1_v3>  |_, _, _, _, _, _, sib3, do4, lab3, -, -, -|
@@ -1241,328 +1177,302 @@ Section de développement 24 — 8 mesures. Tonalité Reb majeur, tempo 90 BPM.
             <piano_1_v5>  |_, _, _, mib3 solb3, -, _, _, _, _, la3, si3, lab3|
             <piano_1_v6>  |mib3 mib4, reb3 reb4, do3 do4, sib2 sib3, do3 do4, lab2 lab3, -, -, -, la1 la2, si1 si2, lab1 lab2|
         </mesure>
-        <mesure num=6>
+        <mesure num=38>
             <piano_1_v1>  |_, do4 mib4 solb4 do5, -, do4 mib4 solb4 do5, -, do4 mib4 solb4 do5, -, mib4 solb4 mib5, -, do4 mib4 solb4 do5, -, do4 mib4 solb4 do5|
             <piano_1_v4>  |lab2, -, reb4, -, sib3, -, reb4, -, reb4, -, reb4, -|
             <piano_1_v5>  |reb2 lab2, -, -, -, -, -, -, -, -, -, -, -|
         </mesure>
-        <mesure num=7>
+        <mesure num=39>
             <piano_1_v1>  |_, sib3 reb4 fa4 sib4, -, reb4 fa4 lab4 reb5, -, reb4 fa4 lab4 reb5, -, sib3 mi4 sol4 sib4, -, reb4 mi4 sol4 reb5, -, sib3 mi4 sol4 sib4|
             <piano_1_v4>  |lab2, -, lab3, -, do4, -, la3, -, do4, -, do4, -|
             <piano_1_v5>  |reb2 lab2, -, -, -, -, -, -, -, -, -, -, -|
         </mesure>
-        <mesure num=8>
+        <mesure num=40>
             <piano_1_v1>  |_, do4 mib4 solb4 do5, -, do4 mib4 solb4 do5, -, do4 mib4 solb4 do5, -, mib4 solb4 mib5, -, do4 mib4 solb4 do5, -, do4 mib4 solb4 do5|
             <piano_1_v4>  |lab2, -, reb4, -, sib3, -, reb4, -, reb4, -, reb4, -|
             <piano_1_v5>  |reb2 lab2, -, -, -, -, -, -, -, -, -, -, -|
         </mesure>
-    </section>
 
-<meta>
-Section de développement 25 — 8 mesures. Tonalité Reb majeur, tempo 90 BPM.
-</meta>
-    <section=section_26, n_mesure=8, bpm=90, format=12/16, tonalite=Reb_majeur>
-        <mesure num=1>
+        <mesure num=41>
             <piano_1_v1>  |_, sib3 reb4 fa4 sib4, -, reb4 fa4 lab4 reb5, -, reb4 fa4 lab4 reb5, -, sib3 mi4 sol4 sib4, -, reb4 fa4 reb5, -, sib3 solb4 sib4|
             <piano_1_v4>  |lab2, -, lab3, -, do4, -, la3, -, do4, -, do4, -|
             <piano_1_v5>  |reb2 lab2, -, -, -, -, -, -, -, -, -, -, -|
         </mesure>
-        <mesure num=2>
+        <mesure num=42>
             <piano_1_v1>  |_, fa4 lab4 si4 fa5, -, fa4 lab4 si4 fa5, -, fa4 lab4 si4 fa5, -, lab4 si4 lab5, -, fa4 lab4 si4 fa5, -, fa4 lab4 si4 fa5|
             <piano_1_v4>  |si3, -, solb4, -, mib4, -, solb4, -, solb4, -, mib4, -|
             <piano_1_v5>  |_, _, _, _, _, _, _, _, _, _, _, _|
             <piano_1_v6>  |reb3 fa3 do4, -, -, -, -, -, -, -, -, -, -, -|
         </mesure>
-        <mesure num=3>
+        <mesure num=43>
             <piano_1_v1>  |_, mib4 solb4 sib4 mib5, -, solb4 sib4 reb5 solb5, -, solb4 sib4 reb5 solb5, -, mib4 solb4 sib4 mib5, -, solb4 sib4 solb5, -, mib4 solb4 sib4 fa5|
             <piano_1_v4>  |sib3, -, reb4, -, fa4, -, re4, -, fa4, -, fa4, -|
             <piano_1_v5>  |_, _, _, _, _, _, _, _, _, _, _, _|
             <piano_1_v6>  |reb3 solb3 sib3, -, -, -, -, -, -, -, -, -, -, -|
         </mesure>
-        <mesure num=4>
+        <mesure num=44>
             <piano_1_v1>  |_, sol4 sib4 reb5 sol5, -, sol4 sib4 reb5 sol5, -, sol4 sib4 reb5 sol5, -, sib4 reb5 sib5, -, sol4 sib4 reb5 sol5, -, sol4 sib4 reb5 sol5|
             <piano_1_v4>  |sib3, -, lab4, -, fa4, -, lab4, -, lab4, -, lab4, -|
             <piano_1_v5>  |_, _, _, _, _, _, _, _, _, _, _, _|
             <piano_1_v6>  |reb3 mi3 sib3, -, -, -, -, -, -, -, -, -, -, -|
         </mesure>
-        <mesure num=5>
+        <mesure num=45>
             <piano_1_v1>  |_, fa4 sib4 reb5 fa5, -, lab4 sib4 reb5 lab5, -, lab4 sib4 reb5 lab5, -, fa4 sib4 reb5 fa5, -, lab4 sib4 reb5 lab5, -, fa4 sib4 reb5 fa5|
             <piano_1_v4>  |sib3, -, mi4, -, sol4, -, mi4, -, sol4, -, sol4, -|
             <piano_1_v5>  |_, _, _, _, _, _, _, _, _, _, _, _|
             <piano_1_v6>  |reb3 fa3 sib3, -, -, -, -, -, -, -, -, -, -, -|
         </mesure>
-        <mesure num=6>
+        <mesure num=46>
             <piano_1_v1>  |_, mib5 sol5 sib5 mib6, -, mib5 sol5 sib5 mib6, -, mib5 sol5 sib5 mib6, -, solb5 sib5 reb6 solb6, -, mib5 sol5 sib5 mib6, -, mib5 sol5 sib5 mib6|
             <piano_1_v4>  |mib4, -, sol4 sib4 mi5, -, sol4 sib4 reb5, -, sol4 sib4 mi5, -, sol4 sib4 mi5, -, sol4 sib4 mi5, -|
             <piano_1_v5>  |_, _, _, _, _, _, _, _, _, _, _, _|
             <piano_1_v6>  |reb3 sol3 sib3 mib4, -, -, -, -, -, -, -, -, -, -, -|
         </mesure>
-        <mesure num=7>
+        <mesure num=47>
             <piano_1_v1>  |_, reb5 solb5 sib5 reb6, -, mi5 sib5 reb6 mi6, -, mi5 sib5 reb6 mi6, -, reb5 solb5 sib5 reb6, -, mi5 sib5 reb6 mi6, -, reb5 solb5 sib5 reb6|
             <piano_1_v4>  |mi4, -, solb4 sib4 do5, -, solb4 sib4 mib5, -, solb4 sib4 do5, -, solb4 sib4 mib5, -, solb4 sib4 mib5, -|
             <piano_1_v5>  |_, _, _, _, _, _, _, _, _, _, _, _|
             <piano_1_v6>  |reb3 solb3 sib3 fa4, -, -, -, -, -, -, -, -, -, -, -|
         </mesure>
-        <mesure num=8>
+        <mesure num=48>
             <piano_1_v1>  |_, mib5 sol5 sib5 mib6, -, mib5 sol5 sib5 mib6, -, mib5 sol5 sib5 mib6, -, solb5 sib5 reb6 solb6, -, mib5 sol5 sib5 mib6, -, mib5 sol5 sib5 mib6|
             <piano_1_v4>  |mib4, -, sol4 sib4 mi5, -, sol4 sib4 reb5, -, sol4 sib4 mi5, -, sol4 sib4 mi5, -, sol4 sib4 mi5, -|
             <piano_1_v5>  |_, _, _, _, _, _, _, _, _, _, _, _|
             <piano_1_v6>  |reb3 sol3 sib3 mib4, -, -, -, -, -, -, -, -, -, -, -|
         </mesure>
-    </section>
 
-<meta>
-Section de développement 26 — 8 mesures. Tonalité Reb majeur, tempo 90 BPM.
-</meta>
-    <section=section_27, n_mesure=8, bpm=90, format=12/16, tonalite=Reb_majeur>
-        <mesure num=1>
+        <mesure num=49>
             <piano_1_v1>  |_, reb5 solb5 sib5 reb6, -, mi5 sib5 reb6 mi6, -, mi5 sib5 reb6 mi6, -, reb5 solb5 sib5 reb6, -, mi5 sib5 reb6 mi6, -, reb5 solb5 sib5 reb6|
             <piano_1_v4>  |mi4, -, solb4 sib4 do5, -, solb4 sib4 mib5, -, solb4 sib4 do5, -, solb4 sib4 mib5, -, solb4 sib4 mib5, -|
             <piano_1_v5>  |_, _, _, _, _, _, _, _, _, _, _, _|
             <piano_1_v6>  |reb3 solb3 sib3 fa4, -, -, -, -, -, -, -, -, -, -, -|
         </mesure>
-        <mesure num=2>
+        <mesure num=50>
             <piano_1_v1>  |_, si5 solb6 la6 si6, _, si5 solb6 la6 si6, _, si5 solb6 la6 si6, _, re6 solb6 la6 re7, _, si5 solb6 la6 si6, _, si5 solb6 la6 si6|
             <piano_1_v4>  |mib4, _, mib5 solb5 do6, _, mib5 solb5 sib5, _, mib5 solb5 do6, _, mib5 solb5 do6, _, mib5 solb5 do6, _|
             <piano_1_v5>  |si2 solb3 la3 mib4, -, -, -, -, -, -, -, -, -, -, -|
         </mesure>
-        <mesure num=3>
+        <mesure num=51>
             <piano_1_v1>  |_, la4 do5, fa5 la5, -, la5 do6 la6, -, fa5 la5 fa6, -, do5 fa5 do6, _, la5, fa5|
             <piano_1_v2>  |_, _, _, _, _, _, _, _, _, _, la4 do5, -|
             <piano_1_v4>  |fa4, -, -, lab5 si5, -, mi5 lab5, -, si4 re5, -, -, -, -|
             <piano_1_v5>  |do3 fa3 la3 solb4, -, _, _, _, _, _, _, _, lab4 si4, -, -|
         </mesure>
-        <mesure num=4>
+        <mesure num=52>
             <piano_1_v1>  |_, si4 solb5 la5 si5, -, si4 solb5 la5 si5, -, si4 solb5 la5 si5, -, re5 solb5 la5 re6, -, si4 solb5 la5 si5, -, si4 solb5 la5 si5|
             <piano_1_v4>  |mib4, -, mib4 solb4 do5, -, mib4 solb4 sib4, -, mib4 solb4 do5, -, mib4 solb4 do5, -, mib4 solb4 do5, -|
             <piano_1_v5>  |_, _, _, _, _, _, _, _, _, _, _, _|
             <piano_1_v6>  |si2 solb3 la3 mib4, -, -, -, -, -, -, -, -, -, -, -|
         </mesure>
-        <mesure num=5>
+        <mesure num=53>
             <piano_1_v1>  |_, la4 do5, fa5 la5, -, la4 do5 la5, -, fa4 la4 fa5, -, do4 fa4 do5, _, la4, solb4|
             <piano_1_v2>  |_, _, _, _, _, _, _, _, _, _, la3 do4, -|
             <piano_1_v4>  |fa4, -, -, lab4 si4, -, mi4 lab4, -, si3 re4, -, -, -, -|
             <piano_1_v5>  |do3 fa3 la3 solb4, -, _, _, _, _, _, _, _, lab3 si3, -, -|
         </mesure>
-        <mesure num=6>
+        <mesure num=54>
             <piano_1_v1>  |_, _, _, _, _, _, _, _, _, _, _, _|
             <piano_1_v2>  |_, si3 solb4 la4 si4, -, si3 solb4 la4 si4, -, si3 solb4 la4 si4, -, re4 solb4 la4 re5, -, si3 solb4 la4 si4, -, si3 solb4 la4 si4|
             <piano_1_v4>  |si2 solb3 la3 mib4, -, mib3 solb3 do4, -, mib3 solb3 sib3, -, mib3 solb3 do4, -, mib3 solb3 do4, -, mib3 solb3 do4, -|
         </mesure>
-        <mesure num=7>
+        <mesure num=55>
             <piano_1_v1>  |_, _, _, _, _, _, _, _, _, _, _, _|
             <piano_1_v2>  |_, la4, -, lab4 la4, -, sol4 la4, -, solb4 la4, -, fa4 la4, -, mi4 solb4 la4|
             <piano_1_v4>  |la3, -, lab3 la3, -, sol3 la3, -, solb3 la3, -, solb3 la3, -, mi3 solb3 la3, -|
         </mesure>
-        <mesure num=8>
+        <mesure num=56>
             <piano_1_v1>  |_, _, _, _, _, _, _, _, _, _, _, _|
             <piano_1_v2>  |_, mib4 solb4 la4, -, mi4 solb4 la4, -, mib4 solb4 la4, -, re4 solb4 la4, -, reb4 solb4 la4, -, do4 solb4 la4|
             <piano_1_v4>  |mib3 solb3 la3, -, mi3 solb3 la3, -, mib3 solb3 la3, -, re3 solb3 la3, -, reb3 solb3 la3, -, do3 solb3 la3, -|
         </mesure>
-    </section>
 
-<meta>
-Section de développement 27 — 8 mesures. Tonalité Reb majeur, tempo 90 BPM.
-</meta>
-    <section=section_28, n_mesure=8, bpm=90, format=12/16, tonalite=Reb_majeur>
-        <mesure num=1>
+        <mesure num=57>
             <piano_1_v1>  |_, _, _, _, _, _, _, _, _, _, _, _|
             <piano_1_v2>  |_, si3 mib4 solb4 la4, -, si3 mib4 solb4 la4, -, si3 mib4 solb4 la4, -, si3 mib4 solb4 la4, -, si3 mib4 solb4 la4, -, si3 mib4 solb4 la4|
             <piano_1_v4>  |si2 mib3 solb3 la3, -, si2 mib3 solb3 la3, -, si2 mib3 solb3 la3, -, si2 mib3 solb3 la3, -, si2 mib3 solb3 la3, -, si2 mib3 solb3 la3, -|
         </mesure>
-        <mesure num=2>
+        <mesure num=58>
             <piano_1_v1>  |_, _, _, do5 mib5 solb5 sib5, -, solb4 sib4, -, mib4 solb4, -, sib4, reb5, do5|
             <piano_1_v2>  |_, _, _, _, _, _, _, _, _, solb4, -, lab4|
             <piano_1_v3>  |_, do4, mib4 solb4 sib4, -, -, -, -, -, -, -, -, -|
             <piano_1_v4>  |_, _, _, _, fa4 la4, -, re4 fa4, -, fa4 la4, -, -, -|
             <piano_1_v5>  |do3 mib3 solb3 sib3, -, -, lab1 lab2, _, _, _, _, _, _, _, _|
         </mesure>
-        <mesure num=3>
+        <mesure num=59>
             <piano_1_v1>  |_, _, _, lab4 reb5 fa5 lab5, -, mib4 solb4, -, solb4 sib4, fa4 lab4, _, _, _|
             <piano_1_v2>  |_, reb4 fa4, lab4 reb5, -, -, -, -, -, -, -, -, -|
             <piano_1_v4>  |_, _, _, _, reb4 fa4, -, fa4 lab4, -, -, -, -, -|
             <piano_1_v5>  |reb3 fa3 lab3, -, -, lab1 lab2, _, _, _, _, _, reb4 fa4, -, -|
         </mesure>
-        <mesure num=4>
+        <mesure num=60>
             <piano_1_v1>  |_, sib5, _, sib5 reb6 solb6 sib6, -, sib4 reb5 sib5, -, solb4 sib4 solb5, -, -, reb5 sib5 reb6, do5 lab5 do6|
             <piano_1_v2>  |sib4, reb5 solb5, sib5, -, -, -, -, -, -, -, -, -|
             <piano_1_v4>  |_, _, _, _, la4 do5, -, fa4 la4, -, la4 do5, sib4 reb5, -, -|
             <piano_1_v5>  |solb4, _, _, _, _, _, _, _, _, _, _, _|
             <piano_1_v6>  |sib3 reb4, solb3, lab2, lab1 lab2, -, -, -, -, -, -, -, -|
         </mesure>
-        <mesure num=5>
+        <mesure num=61>
             <piano_1_v1>  |_, lab5, _, lab5 reb6 fa6 lab6, -, solb4 mib5 solb5, -, sib4 solb5 sib5, lab4 fa5 lab5, _, _, _|
             <piano_1_v2>  |lab4, reb5 fa5, lab5, -, -, -, -, -, -, -, -, -|
             <piano_1_v4>  |_, _, _, _, reb4 fa4, -, fa4 lab4, -, -, -, -, -|
             <piano_1_v5>  |fa4, _, _, _, _, _, _, _, _, reb4 fa4, -, -|
             <piano_1_v6>  |lab3 reb4, fa3, lab2, lab1 lab2, -, -, -, -, -, -, -, -|
         </mesure>
-        <mesure num=6>
+        <mesure num=62>
             <piano_1_v1>  |_, solb4 sib4 mib5 solb5, lab4 lab5, lab4 lab5, la4 mib5 solb5 la5, sib4 sib5, mib5 solb5 mib6, re5 re6, reb5 reb6, do5 do6, si4 si5, sib4 sib5|
             <piano_1_v4>  |solb3 sib3 mib4, _, _, solb3 sib3 mib4, _, _, lab3 do4 solb4, _, _, lab3 do4 solb4, _, _|
             <piano_1_v5>  |_, reb3, -, -, reb2, -, -, reb3, -, -, reb2, -|
         </mesure>
-        <mesure num=7>
+        <mesure num=63>
             <piano_1_v1>  |la4 fa5 la5, lab4 lab5, reb5 reb6, reb5 reb6, do5 solb5 do6, si4 si5, sib4 sib5, lab4 lab5, sib4 sib5, fa4 lab4 re5 fa5, -, -|
             <piano_1_v4>  |lab3 reb4 fa4, _, _, la3 mib4 solb4, _, _, sib3 reb4 fa4, _, _, la3 si3 re4, -, -|
             <piano_1_v5>  |_, reb3, -, -, reb2, -, -, reb3, -, reb3, -, -|
         </mesure>
-        <mesure num=8>
+        <mesure num=64>
             <piano_1_v1>  |_, solb5 sib5 mib6 solb6, lab5 lab6, lab5 lab6, la5 mib6 solb6 la6, sib5 sib6, mib6 sol6 mib7, re6 re7, reb6 reb7, do6 do7, si5 si6, sib5 sib6|
             <piano_1_v4>  |solb3 sib3 mib4, _, _, solb3 sib3 mib4, _, _, sol3 sib3 mi4, _, _, sol3 sib3 mi4, _, _|
             <piano_1_v5>  |_, reb3, -, -, reb2, -, -, reb3, -, -, reb2, -|
         </mesure>
-    </section>
 
-<meta>
-Section de développement 28 — 8 mesures. Tonalité Reb majeur, tempo 90 BPM.
-</meta>
-    <section=section_29, n_mesure=8, bpm=90, format=12/16, tonalite=Reb_majeur>
-        <mesure num=1>
+        <mesure num=65>
             <piano_1_v1>  |la5 mi6 la6, lab5 lab6, reb6 reb7, reb6 reb7, si5 mib6 si6, la5 la6, lab5 mi6 lab6, solb5 solb6, lab5 lab6, mi5 lab5 mi6, -, -|
             <piano_1_v4>  |lab3 si3 mi4, _, _, la3 si3 mib4, _, _, lab3 si3 mi4, _, _, si3 mi4 lab4 si4, -, -|
             <piano_1_v5>  |_, si1, -, -, si2, -, -, mi3, -, -, -, -|
         </mesure>
-        <mesure num=2>
+        <mesure num=66>
             <piano_1_v1>  |_, reb4 mi4, la4 reb5, -, lab4 do5, la4 reb5, -, solb4 la4, -, reb5, mi5, mib5|
             <piano_1_v2>  |_, _, _, _, _, _, _, _, _, la4, -, si4|
             <piano_1_v4>  |la3, -, -, reb6, -, -, fa4 lab4, -, lab4 do5, -, -, -|
             <piano_1_v5>  |si2 mi3, _, _, la5, _, _, _, _, _, _, _, _|
         </mesure>
-        <mesure num=3>
+        <mesure num=67>
             <piano_1_v1>  |_, si3 mi4, lab4 si4, -, mi4 lab4, solb4 la4, -, la4 reb5, lab4 si4, _, _, _|
             <piano_1_v4>  |lab3, -, -, si5, -, -, lab4 si4, -, -, -, -, -|
             <piano_1_v5>  |si2 mi3, _, _, lab5, _, _, _, _, _, mi4 lab4, -, -|
         </mesure>
-        <mesure num=4>
+        <mesure num=68>
             <piano_1_v1>  |_, reb5 mi5, la5 reb6, -, lab5 do6, la5 reb6, -, solb5 la5, -, reb6, mi6, mib6|
             <piano_1_v2>  |_, _, _, _, _, _, _, _, _, la5, -, si5|
             <piano_1_v4>  |la4, -, -, la6 reb7, -, -, fa5 lab5, -, lab5 do6, -, -, -|
             <piano_1_v5>  |si3 mi4, -, _, _, _, _, _, _, _, _, _, _|
         </mesure>
-        <mesure num=5>
+        <mesure num=69>
             <piano_1_v1>  |_, si4 mi5, lab5 si5, -, mi5 lab5, solb5 la5, -, la5 reb6, lab5 si5, -, -, -|
             <piano_1_v4>  |lab4, -, -, lab6 si6, -, -, lab5 si5, -, -, mi5 lab5, -, -|
             <piano_1_v5>  |si3 mi4, _, _, _, _, _, _, _, _, _, _, _|
         </mesure>
-        <mesure num=6>
+        <mesure num=70>
             <piano_1_v1>  |_, la4 reb5 solb5 la5, si4 si5, si4 si5, do5 solb5 la5 do6, reb5 reb6, solb5 la5 solb6, fa5 fa6, mi5 mi6, mib5 mib6, re5 re6, reb5 reb6|
             <piano_1_v4>  |la3 reb4 solb4, _, _, la3 reb4 solb4, _, _, si3 mib4 la4, _, _, si3 mib4 la4, _, _|
             <piano_1_v5>  |_, mi3, -, -, mi2, -, -, mi3, -, -, mi2, -|
         </mesure>
-        <mesure num=7>
+        <mesure num=71>
             <piano_1_v1>  |do5 lab5 do6, si4 si5, mi5 mi6, mi5 mi6, mib5 la5 mib6, re5 re6, reb5 lab5 reb6, si4 si5, reb5 reb6, lab4 si4 fa5 lab5, -, -|
             <piano_1_v4>  |si3 mi4 lab4, _, _, do4 solb4 la4, _, _, reb4 mi4 lab4, _, _, do4 re4 fa4, -, -|
             <piano_1_v5>  |_, mi3, -, -, mi2, -, -, mi3, -, mi3, -, -|
         </mesure>
-        <mesure num=8>
+        <mesure num=72>
             <piano_1_v1>  |_, la5 reb6 solb6 la6, si5 si6, si5 si6, do6 solb6 la6 do7, reb6 reb7, solb6 la6 solb7, fa6 fa7, mi6 mi7, mib6 mib7, re6 re7, reb6 reb7|
             <piano_1_v4>  |reb4 solb4 la4, _, _, reb4 solb4 la4, _, _, si3 mib4 la4, _, _, si3 mib4 la4, _, _|
             <piano_1_v5>  |_, mi3, -, -, mi2, -, -, mi3, -, -, mi2, -|
         </mesure>
-    </section>
 
-<meta>
-Section de développement 29 — 8 mesures. Tonalité Reb majeur, tempo 90 BPM.
-</meta>
-    <section=section_30, n_mesure=8, bpm=90, format=12/16, tonalite=Reb_majeur>
-        <mesure num=1>
+        <mesure num=73>
             <piano_1_v1>  |do6 lab6 do7, si5 si6, mi6 mi7, mi6 mi7, mib6 la6 mib7, re6 re7, reb6 lab6 reb7, si5 si6, reb6 reb7, lab5 si5 fa6 lab6, -, -|
             <piano_1_v4>  |si3 mi4 lab4, _, _, do4 solb4 la4, _, _, reb4 mi4 lab4, _, _, re4 fa4 si4 re5, -, -|
             <piano_1_v5>  |_, mi3, -, -, mi2, -, -, mi3, -, -, -, -|
         </mesure>
-        <mesure num=2>
+        <mesure num=74>
             <piano_1_v1>  |_, solb3, _, la3, _, reb4, _, mib4, reb4, do4, -, sib3|
             <piano_1_v2>  |_, _, _, _, _, _, si3, do4, sib3, lab3, sol3, solb3|
             <piano_1_v3>  |_, reb3, fa3, solb3, lab3, sib3, -, -, -, -, -, -|
             <piano_1_v4>  |lab2, -, -, -, -, -, _, _, _, _, _, _|
             <piano_1_v5>  |reb2, la2, reb2, la2, reb2, la2, reb2, lab2, reb3, lab3, reb3, lab2|
         </mesure>
-        <mesure num=3>
+        <mesure num=75>
             <piano_1_v1>  |_, lab3, _, do4, _, mib4, _, fa4, mib4, reb4, -, do4|
             <piano_1_v2>  |mi3, fa3, sol3, lab3, si3, do4, do4, reb4, do4, sib3, la3, lab3|
             <piano_1_v4>  |reb2, lab2, reb2, lab2, reb2, lab2, reb2, lab2, reb3, lab3, reb3, lab2|
         </mesure>
-        <mesure num=4>
+        <mesure num=76>
             <piano_1_v1>  |_, sib3, _, reb4, _, fa4, _, solb4, fa4, mib4, -, reb4|
             <piano_1_v2>  |fa3, solb3, la3, sib3, do4, reb4, re4, mib4, reb4, do4, si3, sib3|
             <piano_1_v4>  |reb2, lab2, reb2, lab2, reb2, lab2, reb2, lab2, reb3, lab3, reb3, lab2|
         </mesure>
-        <mesure num=5>
+        <mesure num=77>
             <piano_1_v1>  |_, lab4, solb4, fa4, -, mib4, _, sib4, lab4, solb4, -, fa4|
             <piano_1_v2>  |mi4, fa4, mib4, reb4, si3, do4, fa4, solb4, fa4, mib4, re4, reb4|
             <piano_1_v4>  |reb2, lab2, reb3, lab3, reb3, lab2, reb2, lab2, reb3, lab3, reb3, lab2|
         </mesure>
-        <mesure num=6>
+        <mesure num=78>
             <piano_1_v1>  |_, solb4, _, la4, _, re5, _, solb5, mi5, re5, -, reb5|
             <piano_1_v2>  |reb4, re4, fa4, solb4, lab4, la4, reb5, re5, reb5, si4, sib4, la4|
             <piano_1_v4>  |reb2, -, la3, -, solb3, -, reb2, -, re4, -, solb4, -|
             <piano_1_v5>  |reb2, reb3, la3, la2, solb3, solb2, reb2, reb3, re4, re3, solb4, solb3|
         </mesure>
-        <mesure num=7>
+        <mesure num=79>
             <piano_1_v1>  |_, si4, _, re5, _, solb5, _, lab5, solb5, fa5, -, re5|
             <piano_1_v2>  |sol4, lab4, sib4, si4, reb5, re5, mi5, fa5, re5, reb5, do5, si4|
             <piano_1_v4>  |reb2, -, si3, -, lab3, -, reb2, -, reb4, -, fa4, -|
             <piano_1_v5>  |reb2, reb3, si3, si2, lab3, lab2, reb2, reb3, reb4, reb3, fa4, fa3|
         </mesure>
-        <mesure num=8>
+        <mesure num=80>
             <piano_1_v1>  |_, reb5, _, solb5, _, la5, _, solb5, _, si5, _, re6|
             <piano_1_v2>  |lab4, la4, do5, reb5, fa5, solb5, reb5, re5, fa5, solb5, sib5, si5|
             <piano_1_v4>  |solb4, -, -, _, _, _, solb4, -, -, _, _, _|
             <piano_1_v5>  |la3, reb4, solb3, reb2 reb3, -, -, si3, re4, solb3, reb2 reb3, -, -|
         </mesure>
-    </section>
 
-<meta>
-Section de développement 30 — 8 mesures. Tonalité Reb majeur, tempo 90 BPM.
-</meta>
-    <section=section_31, n_mesure=8, bpm=90, format=12/16, tonalite=Reb_majeur>
-        <mesure num=1>
+        <mesure num=81>
             <piano_1_v1>  |_, si5, _, re6, _, solb6, _, mib6 lab6, _, sol6 do7, _, do7 mib7|
             <piano_1_v2>  |sol5, lab5 si5, sib5, si5, reb6, re6, si5, do6, re6, mib6, fa6, sol6|
             <piano_1_v4>  |si4, -, -, _, _, _, do5, -, -, _, _, _|
             <piano_1_v5>  |re4, solb4, lab3, reb2 reb3, -, -, mib4, solb4, lab3, reb2 reb3, -, -|
         </mesure>
-        <mesure num=2>
+        <mesure num=82>
             <piano_1_v1>  |reb4, -, lab4 reb5 lab5, -, -, -, sib4 reb5 sib5, -, -, -, -, -|
             <piano_1_v4>  |reb2 reb3, -, fa3 reb4 fa4, -, -, -, solb3 reb4 solb4, -, -, -, -, -|
         </mesure>
-        <mesure num=3>
+        <mesure num=83>
             <piano_1_v1>  |reb5, -, -, fa4 fa5, -, mib4 mib5, -, reb4 reb5, -, -, -, -|
             <piano_1_v2>  |lab4 lab5, sol4 sol5, -, -, -, -, -, -, -, -, -, -|
             <piano_1_v4>  |_, _, solb4, -, mi4, -, re4, -, -, -, -, -|
             <piano_1_v5>  |fa3 reb4 fa4, -, _, _, _, _, _, _, _, _, _, _|
         </mesure>
-        <mesure num=4>
+        <mesure num=84>
             <piano_1_v1>  |_, _, fa5, -, -, -, mib5, -, -, -, -, -|
             <piano_1_v2>  |_, _, fa4, -, -, -, solb4, -, -, -, -, -|
             <piano_1_v4>  |reb2 reb3, -, reb3 lab3 reb4, -, -, -, reb3 lab3 do4, -, -, -, -, -|
         </mesure>
-        <mesure num=5>
+        <mesure num=85>
             <piano_1_v1>  |mib5, re5, reb5, do5, reb5, do5, sib4, -, -, -, -, -|
             <piano_1_v2>  |solb4, -, -, -, fa4, -, _, _, _, _, _, _|
             <piano_1_v4>  |reb3 la3 do4, -, reb2 reb3, -, reb3 sib3 reb4, -, reb2 reb3, -, -, -, -, -|
         </mesure>
-        <mesure num=6>
+        <mesure num=86>
             <piano_1_v1>  |_, _, lab4, -, -, -, la4, -, -, -, -, -|
             <piano_1_v2>  |_, _, fa4, -, -, -, -, -, -, -, -, -|
             <piano_1_v4>  |reb3 lab3 reb4 fa4, -, _, _, _, _, mib4, -, -, -, -, -|
         </mesure>
-        <mesure num=7>
+        <mesure num=87>
             <piano_1_v1>  |la4, sib4, si4, do5, sib4, do5, reb5, fa5, -, -, -, -|
             <piano_1_v2>  |fa4, -, -, -, fa4, -, _, _, _, _, _, _|
             <piano_1_v4>  |{reb3, mib4}, re4, reb4, do4, reb4, do4, sib3, -, -, -, -, -|
         </mesure>
-        <mesure num=8>
+        <mesure num=88>
             <piano_1_v1>  |sib5, do6, reb6, fa6, sib6, do7, reb7, fa7, -, -, -, -|
             <piano_1_v4>  |sib3, -, lab3 fa4 lab4, -, sib3 fa4 sol4 sib4, -, reb2 reb3, -, -, -, -, -|
         </mesure>
+
     </section>
 
+
 <meta>
-Section de développement 31 — 8 mesures. Tonalité Reb majeur, tempo 90 BPM.
+95 mesures. Presto furioso, 12/16, Reb majeur. Ecart de 1 mesure par rapport à l'édition Henle (344 mesures) ; cette variante correspond à l'édition originale Bessel 1869 avec reprises déroulées différemment.
+La coda déchaîne une strette effrénée sur le matériau du premier thème : les motifs s'enchaînent sans respiration, les textures atteignent leur densité maximale. La pédale de tonique de Reb ancre la progression harmonique pendant que les voix supérieures tourbillonnent dans une trépidation rythmique irrésistible ; l'effet produit est celui d'une danse qui s'emballe jusqu'à l'épuisement collectif. Ne jamais dépasser le tempo fixé : la maîtrise technique doit rester audible, sans précipitation incontrôlée. Les trois derniers accords doivent tomber comme des coups de cymbales.
+<section=coda, n_mesure=95, bpm=132, format=12/16, tonalite=Reb_majeur>
 </meta>
-    <section=section_32, n_mesure=8, bpm=90, format=12/16, tonalite=Reb_majeur>
+    <section=coda, n_mesure=95, bpm=132, format=12/16, tonalite=Reb_majeur>
         <mesure num=1>
             <piano_1_v1>  |_, _, do4 fa4 do5, -, -, fa4 la4 do5 fa5, -, sol4 sol5, -, -, -, -|
             <piano_1_v4>  |_, _, _, _, mi4, -, fa4, -, -, -, -, -|
@@ -1606,80 +1516,70 @@ Section de développement 31 — 8 mesures. Tonalité Reb majeur, tempo 90 BPM.
             <piano_1_v4>  |_, fa2 fa3, -, -, -, -, -, -, -, -, -, -|
             <piano_1_v5>  |_, _, _, _, _, _, _, _, _|
         </mesure>
-    </section>
 
-<meta>
-Section de développement 32 — 8 mesures. Tonalité Reb majeur, tempo 90 BPM.
-</meta>
-    <section=section_33, n_mesure=8, bpm=90, format=12/16, tonalite=Reb_majeur>
-        <mesure num=1>
+        <mesure num=9>
             <piano_1_v1>  |fa6 fa7, -, fa5 lab5 reb6 fa6, -, mib5 mib6, fa5 fa6, reb5 reb6, -, -, -, -, -|
             <piano_1_v4>  |reb1 reb2, -, fa3 lab3 reb4 fa4, -, mib3 mib4, fa3 fa4, reb3 reb4, -, -, -, -, -|
         </mesure>
-        <mesure num=2>
+        <mesure num=10>
             <piano_1_v1>  |reb4, -, lab5 reb6 fa6 lab6, -, -, -, sib5 reb6 fa6 sib6, -, -, -, -, -|
             <piano_1_v4>  |reb2 reb3, -, lab3 reb4 fa4 lab4, -, -, -, sib3 reb4 fa4 sib4, -, -, -, -, -|
         </mesure>
-        <mesure num=3>
+        <mesure num=11>
             <piano_1_v1>  |lab5 reb6 fa6 lab6, sol5 sol6, solb5 solb6, fa5 fa6, mi5 mi6, mib5 mib6, re5 re6, reb5 reb6, -, -, -, -|
             <piano_1_v4>  |lab3 reb4 fa4 lab4, sol3 sol4, solb3 solb4, fa3 fa4, mi3 mi4, mib3 mib4, re3 re4, reb3 reb4, -, -, -, -|
         </mesure>
-        <mesure num=4>
+        <mesure num=12>
             <piano_1_v1>  |_, _, fa5 lab5 fa6, -, -, -, mib5 solb5 mib6, -, -, -, -, -|
             <piano_1_v4>  |reb2 reb3, -, lab3 reb4 fa4 lab4, -, -, -, la3 do4 mib4 solb4, -, -, -, -, -|
         </mesure>
-        <mesure num=5>
+        <mesure num=13>
             <piano_1_v1>  |mib5 solb5 mib6, re5 re6, reb5 reb6, do5 do6, reb5 reb6, do5 do6, si4 si5, sib4 sib5, -, -, -, -|
             <piano_1_v4>  |la3 mib4 solb4, -, reb2 reb3, -, sib3 reb4 fa4, -, reb2 reb3, -, -, -, -, -|
         </mesure>
-        <mesure num=6>
+        <mesure num=14>
             <piano_1_v1>  |_, _, lab4 reb5 fa5 lab5, -, -, -, la4 do5 solb5 la5, -, -, -, -, -|
             <piano_1_v4>  |reb1 reb2, -, fa3 lab3 reb4 fa4, -, -, -, mib3 solb3 do4 mib4, -, -, -, -, -|
         </mesure>
-        <mesure num=7>
+        <mesure num=15>
             <piano_1_v1>  |la4 do5 solb5 la5, sib4 sib5, si4 si5, do5 do6, sib4 fa5 sib5, do5 do6, reb5 reb6, fa5 fa6, -, -, -, -|
             <piano_1_v4>  |mib3 solb3 do4 mib4, re3 re4, reb3 reb4, do3 do4, reb3 fa3 reb4, do3 do4, sib2 sib3, -, -, -, -, -|
         </mesure>
-        <mesure num=8>
+        <mesure num=16>
             <piano_1_v1>  |_, _, lab5 fa6 lab6, -, sib5 mi6 sib6, -, -, -, -, -, -, -|
             <piano_1_v4>  |sib1 sib2, do2 do3, reb2 reb3, fa2 fa3, sol2 sol3, mi2 mi3, mib2 mib3, reb2 reb3, -, -, -, -|
         </mesure>
-    </section>
 
-<meta>
-Section de développement 33 — 8 mesures. Tonalité Reb majeur, tempo 90 BPM.
-</meta>
-    <section=section_34, n_mesure=8, bpm=90, format=12/16, tonalite=Reb_majeur>
-        <mesure num=1>
+        <mesure num=17>
             <piano_1_v1>  |si5 mi6 si6, -, si3 mi4 si4, -, -, mi4 lab4 si4 mi5, -, solb4 solb5, -, -, -, -|
             <piano_1_v4>  |_, _, _, _, mib4, -, mi4, -, -, -, -, -|
             <piano_1_v5>  |si1 si2, -, si2 lab3, -, _, _, _, _, _, _, _, _|
         </mesure>
-        <mesure num=2>
+        <mesure num=18>
             <piano_1_v1>  |mib4 solb4 la4 mib5, -, reb4 solb4 la4 reb5, -, reb5, -, -, -, -, -, -, -|
             <piano_1_v2>  |_, _, _, _, (la4, solb4), reb4|
             <piano_1_v4>  |_, reb4, -, si3, -, -, -, -, -, -, -, -|
             <piano_1_v5>  |_, _, _, _, _, _, (la3, si2), mib2|
             <piano_1_v6>  |_, _, _, _, _, _, _, _, _, _, _, _|
         </mesure>
-        <mesure num=3>
+        <mesure num=19>
             <piano_1_v1>  |_, _, (_, _), si4, mi5 lab5 si5 mi6, -, solb5 solb6, -, -, -, -|
             <piano_1_v2>  |_, _, (si3, mi4), lab4|
         </mesure>
-        <mesure num=4>
+        <mesure num=20>
             <piano_1_v1>  |mib5 solb5 la5 mib6, -, reb5 solb5 la5 reb6, -, reb6, -, -, -, -, -, -, -|
             <piano_1_v2>  |_, _, _, _, (sib5, mi5), reb5, _|
             <piano_1_v4>  |_, reb5, -, si4, -, -, -, -, -, -, -, -|
             <piano_1_v5>  |_, _, _, _, _, sib4, (mi4, reb4), sol3|
             <piano_1_v6>  |_, _, _, _, _, _, _, _, _, _, _, _|
         </mesure>
-        <mesure num=5>
+        <mesure num=21>
             <piano_1_v1>  |_, _, _, lab3, _, _, _, _, _, _, _, _|
             <piano_1_v2>  |_, _, lab2, reb3, -, reb3 fa3 lab3 reb4, -, mib3 mib4, -, -, -, -|
             <piano_1_v4>  |lab1, fa2, -, -, do3, -, reb3, -, -, -, -, -|
             <piano_1_v5>  |lab1, -, -, -, -, -, -, -, -, -, -, -|
         </mesure>
-        <mesure num=6>
+        <mesure num=22>
             <piano_1_v1>  |do3 mib3 solb3 do4, -, sib2 sib3, -, sib3, -, _, _, _, _, _, _|
             <piano_1_v2>  |_, _, _, _, mi3, do3, -, -, -, -, -, -|
             <piano_1_v4>  |_, sib2, -, lab2, -, -, -, -, -, -, -, -|
@@ -1687,126 +1587,116 @@ Section de développement 33 — 8 mesures. Tonalité Reb majeur, tempo 90 BPM.
             <piano_1_v6>  |_, _, _, _, _, _, _, _, _, _, _, _|
             <piano_1_v7>  |_, _, _, _, _, _, _, solb1, -, -, -, -|
         </mesure>
-        <mesure num=7>
+        <mesure num=23>
             <piano_1_v1>  |_, _, _, fa4, -, sib3 re4 fa4 sib4, -, do4 do5, -, -, -, -|
             <piano_1_v2>  |_, _, re3, sib3, -, -, -, -, -, -, -, -|
             <piano_1_v4>  |_, _, _, _, la3, -, sib3, -, -, -, -, -|
             <piano_1_v5>  |fa1, sib2, -, -, _, _, _, _, _, _, _, _|
             <piano_1_v6>  |fa1, -, -, -, -, -, -, -, -, -, -, -|
         </mesure>
-        <mesure num=8>
+        <mesure num=24>
             <piano_1_v1>  |la3 do4 mib4 la4, -, sol3 sol4, -, sol4, -, _, _, _, _, _, _|
             <piano_1_v2>  |_, _, _, _, reb4, mi3, -, -, -, -, -, -|
             <piano_1_v4>  |_, sol3, -, fa3, -, -, -, -, -, -, -, -|
             <piano_1_v5>  |_, _, _, _, _, _, reb3, la1, -, -, -, -|
             <piano_1_v6>  |_, _, _, _, _, _, _, la1, -, -, -, -|
         </mesure>
-    </section>
 
-<meta>
-Section de développement 34 — 8 mesures. Tonalité Reb majeur, tempo 90 BPM.
-</meta>
-    <section=section_35, n_mesure=8, bpm=90, format=12/16, tonalite=Reb_majeur>
-        <mesure num=1>
+        <mesure num=25>
             <piano_1_v1>  |_, _, _, _, _, reb4 fa4 lab4 reb5, -, mib4 mib5, -, -, -, -|
             <piano_1_v2>  |_, _, fa3, reb4, -, -, -, -, -, -, -, -|
             <piano_1_v4>  |_, _, _, _, do4, -, reb4, -, -, -, -, -|
             <piano_1_v5>  |lab1, reb3, -, -, _, _, _, _, _, _, _, _|
             <piano_1_v6>  |lab1, -, -, -, -, -, -, -, -, -, -, -|
         </mesure>
-        <mesure num=2>
+        <mesure num=26>
             <piano_1_v1>  |do4 mib4 solb4 do5, -, sib3 sib4, -, sib4, -, _, _, _, _, _, _|
             <piano_1_v2>  |_, _, _, _, mi4, sib3, -, -, -, -, -, -|
             <piano_1_v4>  |_, sib3, -, lab3, -, -, -, -, -, -, -, -|
             <piano_1_v5>  |_, _, _, _, _, _, solb3, solb2, -, -, -, -|
             <piano_1_v6>  |_, _, _, _, _, _, _, solb2, -, -, -, -|
         </mesure>
-        <mesure num=3>
+        <mesure num=27>
             <piano_1_v1>  |_, _, _, fa5, -, sib4 re5 fa5 sib5, -, do5 do6, -, -, -, -|
             <piano_1_v2>  |_, _, re4, sib4, -, -, -, -, -, -, -, -|
             <piano_1_v4>  |_, _, _, _, la4, -, sib4, -, -, -, -, -|
             <piano_1_v5>  |fa2, sib3, -, -, _, _, _, _, _, _, _, _|
             <piano_1_v6>  |fa2, -, -, -, -, -, -, -, -, -, -, -|
         </mesure>
-        <mesure num=4>
+        <mesure num=28>
             <piano_1_v1>  |la4 do5 mib5 la5, -, sol4 sol5, -, sol5, -, _, _, _, _, _, _|
             <piano_1_v2>  |_, _, _, _, reb5, mi4, -, -, -, -, -, -|
             <piano_1_v4>  |_, sol4, -, fa4, -, -, -, -, -, -, -, -|
             <piano_1_v5>  |_, _, _, _, _, _, mi3 reb4, la2, -, -, -, -|
             <piano_1_v6>  |_, _, _, _, _, _, _, la2, -, -, -, -|
         </mesure>
-        <mesure num=5>
+        <mesure num=29>
             <piano_1_v1>  |_, _, _, lab5, -, reb5 reb6, -, mib5 mib6, -, -, -, -|
             <piano_1_v2>  |_, _, fa4, reb5, -, -, -, -, -, -, -, -|
             <piano_1_v4>  |_, _, _, _, do5, -, reb5, -, -, -, -, -|
             <piano_1_v5>  |fa3, sib3, -, -, _, _, _, _, _, _, _, _|
             <piano_1_v6>  |lab2, -, -, -, -, -, -, -, -, -, -, -|
         </mesure>
-        <mesure num=6>
+        <mesure num=30>
             <piano_1_v1>  |do5 mib5 solb5 do6, -, sib4 sib5, -, re5 fa5 lab5 re6, -, reb5 reb6, -, -, -, -, -|
             <piano_1_v4>  |_, sib3 sib4, -, lab3 lab4, -, reb4 reb5, -, si3 si4, -, -, -, -|
             <piano_1_v5>  |lab2 mib3 solb3 do4, _, _, _, _, _, _, _, _, _, _, _|
         </mesure>
-        <mesure num=7>
+        <mesure num=31>
             <piano_1_v1>  |mi5 sol5 sib5 mi6, -, mib5 mib6, -, fa5 lab5 si5 fa6, -, mib5 mib6, -, -, -, -, -|
             <piano_1_v4>  |_, mib4 mib5, -, reb4 reb5, -, mib4 mib5, -, re4 re5, -, -, -, -|
             <piano_1_v5>  |_, _, _, _, _, _, _, _, _, _, _, _|
         </mesure>
-        <mesure num=8>
+        <mesure num=32>
             <piano_1_v1>  |la5 reb6 mib6 la6, -, lab5 lab6, solb5 solb6, do6 mib6 solb6 do7, -, sib5 sib6, lab5 lab6, -, -, -, -|
             <piano_1_v4>  |_, lab6, -, -, -, sib6, -, -, -, -, -, -|
             <piano_1_v5>  |lab3 mib4 solb4 reb5, _, _, _, lab3 mib4 solb4 do5, _, _, _, _, _, _, _|
         </mesure>
-    </section>
 
-<meta>
-Section de développement 35 — 8 mesures. Tonalité Reb majeur, tempo 90 BPM.
-</meta>
-    <section=section_36, n_mesure=8, bpm=90, format=12/16, tonalite=Reb_majeur>
-        <mesure num=1>
+        <mesure num=33>
             <piano_1_v1>  |reb6 fa6 reb7, -, reb4, reb4, _, _, reb4, reb4, -, -, -, -|
             <piano_1_v2>  |_, _, lab3, lab3, -, -, lab3, lab3, -, -, -, -|
             <piano_1_v4>  |_, _, _, _, solb3, solb3, -, -, -, -, -, -|
             <piano_1_v5>  |reb2 lab2 reb3, -, _, _, reb3, reb3, _, _, _, _, _, _|
         </mesure>
-        <mesure num=2>
+        <mesure num=34>
             <piano_1_v1>  |_, _, reb4, reb4, _, _, reb4, reb4, -, -, -, -|
             <piano_1_v2>  |_, _, si3, si3, -, -, la3, la3, -, -, -, -|
             <piano_1_v4>  |la3, la3, -, -, lab3, lab3, -, -, -, -, -, -|
             <piano_1_v5>  |reb3, reb3, _, _, reb3, reb3, _, _, _, _, _, _|
         </mesure>
-        <mesure num=3>
+        <mesure num=35>
             <piano_1_v1>  |_, si3, si3, _, _, si3, si3, _, _, _, _, _|
             <piano_1_v2>  |_, solb3, mi3, -, -, la3, lab3, -, -, -, -, -|
             <piano_1_v4>  |solb3, -, -, mi3, la3, -, -, lab3, -, -, -, -|
             <piano_1_v5>  |si2, _, _, si2, si2, _, _, si2, -, -, -, -|
         </mesure>
-        <mesure num=4>
+        <mesure num=36>
             <piano_1_v1>  |_, si3, si3, _, _, si3, _, _, _, _, _, _|
             <piano_1_v2>  |_, solb3, lab3, -, -, la3, -, -, -, -, -, -|
             <piano_1_v3>  |_, _, _, _, _, _, _, la4 mib5 la5, -, -, -, -|
             <piano_1_v4>  |solb3, -, -, lab3, la3, -, -, -, -, -, -, -|
             <piano_1_v5>  |si2, _, _, si2, si2, _, solb2 solb3, -, -, -, -, -|
         </mesure>
-        <mesure num=5>
+        <mesure num=37>
             <piano_1_v1>  |reb5 fa5 reb6, -, reb4, reb4, _, _, reb4, reb4, -, -, -, -|
             <piano_1_v2>  |_, _, lab3, lab3, -, -, lab3, lab3, -, -, -, -|
             <piano_1_v4>  |_, _, _, _, solb3, solb3, -, -, -, -, -, -|
             <piano_1_v5>  |reb2 lab2 reb3, -, _, _, reb3, reb3, _, _, _, _, _, _|
         </mesure>
-        <mesure num=6>
+        <mesure num=38>
             <piano_1_v1>  |_, _, reb4, reb4, _, _, reb4, reb4, -, -, -, -|
             <piano_1_v2>  |_, _, si3, si3, -, -, la3, la3, -, -, -, -|
             <piano_1_v4>  |la3, la3, -, -, lab3, lab3, -, -, -, -, -, -|
             <piano_1_v5>  |reb3, reb3, _, _, reb3, reb3, _, _, _, _, _, _|
         </mesure>
-        <mesure num=7>
+        <mesure num=39>
             <piano_1_v1>  |_, la3, la3, _, _, la3, la3, _, _, _, _, _|
             <piano_1_v2>  |_, solb3, mi3, -, -, sol3, solb3, -, -, -, -, -|
             <piano_1_v4>  |solb3, -, -, mi3, sol3, -, -, solb3, -, -, -, -|
             <piano_1_v5>  |reb3, _, _, reb3, reb3, _, _, reb3, -, -, -, -|
         </mesure>
-        <mesure num=8>
+        <mesure num=40>
             <piano_1_v1>  |_, la3, la3, _, _, la3, _, _, _, _, _, _|
             <piano_1_v2>  |_, mi3, solb3, -, -, sol3, -, -, -, -, -, -|
             <piano_1_v3>  |_, _, _, _, _, _, _, la3 la4, -, -, -, -|
@@ -1814,349 +1704,315 @@ Section de développement 35 — 8 mesures. Tonalité Reb majeur, tempo 90 BPM.
             <piano_1_v5>  |reb3, _, _, reb3, reb3, _, reb3, -, -, -, -, -|
             <piano_1_v6>  |_, _, _, _, _, _, reb2 reb3, -, -, -, -, -|
         </mesure>
-    </section>
 
-<meta>
-Section de développement 36 — 8 mesures. Tonalité Reb majeur, tempo 90 BPM.
-</meta>
-    <section=section_37, n_mesure=8, bpm=90, format=12/16, tonalite=Reb_majeur>
-        <mesure num=1>
+        <mesure num=41>
             <piano_1_v1>  |solb4 la4 re5 solb5, -, la4, la4, _, _, la4, la4, -, -, -, -|
             <piano_1_v2>  |_, _, re4, re4, -, -, -, -, -, -, -, -|
             <piano_1_v3>  |_, _, _, _, _, _, re4, re4, -, -, -, -|
             <piano_1_v4>  |reb3 solb3 la3 re4, -, _, _, reb4, reb4, -, -, -, -, -, -|
             <piano_1_v5>  |reb2, -, -, -, solb3, solb3, -, -, -, -, -, -|
         </mesure>
-        <mesure num=2>
+        <mesure num=42>
             <piano_1_v1>  |_, _, la4, la4, _, _, solb4 la4, solb4 la4, -, -, -, -|
             <piano_1_v2>  |_, _, solb4, solb4, -, -, reb4, reb4, -, -, -, -|
             <piano_1_v4>  |mi4, mi4, -, -, re4, re4, -, -, -, -, -, -|
             <piano_1_v5>  |solb3, solb3, _, _, solb3, solb3, _, _, _, _, _, _|
         </mesure>
-        <mesure num=3>
+        <mesure num=43>
             <piano_1_v1>  |si4 re5 sol5 si5, -, re5, re5, _, _, re5, re5, -, -, -, -|
             <piano_1_v2>  |_, _, sol4, sol4, -, -, sol4, sol4, -, -, -, -|
             <piano_1_v4>  |_, _, _, _, solb4, solb4, -, -, -, -, -, -|
             <piano_1_v5>  |reb3 sol3 si3 re4, -, _, _, si3, si3, _, _, _, _, _, _|
         </mesure>
-        <mesure num=4>
+        <mesure num=44>
             <piano_1_v1>  |_, _, re5, re5, _, _, si4 re5, -, -, -, -, -|
             <piano_1_v2>  |_, _, si4, si4, -, -, solb4, -, -, -, -, -|
             <piano_1_v4>  |la4, la4, -, -, sol4, sol4, -, -, -, -, -, -|
             <piano_1_v5>  |si3, si3, _, _, si3, si3, _, _, _, _, _, _|
         </mesure>
-        <mesure num=5>
+        <mesure num=45>
             <piano_1_v1>  |fa3 fa4, -, -, solb3 solb4, sol3 sol4, -, -, lab3 lab4, -, -, -, -|
             <piano_1_v2>  |_, si3 reb4, -, -, -, reb4 fa4, -, -, -, -, -, -|
             <piano_1_v4>  |_, _, lab2 reb3, _, _, _, si4 reb5 fa5, _, _, _, _, _|
         </mesure>
-        <mesure num=6>
+        <mesure num=46>
             <piano_1_v1>  |la3 la4, -, -, do4 si4, do4 do5, -, -, reb4 reb5, -, -, -, -|
             <piano_1_v2>  |_, reb4 solb4, -, -, -, solb4 la4, -, -, -, -, -, -|
             <piano_1_v4>  |_, _, solb3, _, _, _, solb5 la5, _, _, _, _, _|
             <piano_1_v5>  |_, _, reb3, -, -, -, -, -, -, -, -, -|
         </mesure>
-        <mesure num=7>
+        <mesure num=47>
             <piano_1_v1>  |re4 re5, -, -, mi4 mi5, fa4 fa5, -, -, solb4 solb5, -, -, -, -|
             <piano_1_v2>  |_, solb4 la4, -, -, -, la4 do5, -, -, -, -, -, -|
             <piano_1_v4>  |_, _, solb3 la3 do4, _, _, _, sib5 si5 re6, _, _, _, _, _|
             <piano_1_v5>  |_, _, reb3, -, -, -, -, -, -, -, -, -|
         </mesure>
-        <mesure num=8>
+        <mesure num=48>
             <piano_1_v1>  |lab4 lab5, -, -, sib4 sib5, si4 si5, -, -, do5 do6, -, -, -, -|
             <piano_1_v2>  |_, mib5 solb5, -, -, -, mib5 solb5, -, -, -, -, -, -|
             <piano_1_v4>  |_, _, solb3 lab3 do4, _, _, _, mib6 solb6 lab6, _, _, _, _, _|
             <piano_1_v5>  |_, _, reb3, -, -, -, -, -, -, -, -, -|
         </mesure>
-    </section>
 
-<meta>
-Section de développement 37 — 8 mesures. Tonalité Reb majeur, tempo 90 BPM.
-</meta>
-    <section=section_38, n_mesure=8, bpm=90, format=12/16, tonalite=Reb_majeur>
-        <mesure num=1>
+        <mesure num=49>
             <piano_1_v1>  |reb5 fa5 reb6, -, _, lab4 reb5, _, lab4 si4, _, lab4 reb5, -, -, -, -|
             <piano_1_v2>  |_, _, _, reb4, -, si3, -, reb4, -, -, -, -|
             <piano_1_v4>  |reb2 lab2 reb3, -, reb4, -, si3, -, reb4, -, -, -, -, -|
             <piano_1_v5>  |_, _, lab3, -, lab3, -, lab3, -, -, -, -, -|
         </mesure>
-        <mesure num=2>
+        <mesure num=50>
             <piano_1_v1>  |_, solb4 re5, _, solb4 mi5, _, solb4 reb5, _, solb4 re5, -, -, -, -|
             <piano_1_v2>  |_, re4, -, mi4, -, reb4, -, re4, -, -, -, -|
             <piano_1_v4>  |re4, -, mi4, -, reb4, -, re4, -, -, -, -, -|
             <piano_1_v5>  |solb3, -, solb3, -, solb3, -, solb3, -, -, -, -, -|
         </mesure>
-        <mesure num=3>
+        <mesure num=51>
             <piano_1_v1>  |_, mi4 si4, mi4 la4, _, _, mi4 re5, mi4 reb5, _, _, _, _, _|
             <piano_1_v2>  |_, si3, la3, -, -, re4, reb4, -, -, -, -, -|
             <piano_1_v4>  |si3, -, -, la3, re4, -, -, reb4, -, -, -, -|
             <piano_1_v5>  |mi3, -, -, mi3, mi3, -, -, mi3, -, -, -, -|
         </mesure>
-        <mesure num=4>
+        <mesure num=52>
             <piano_1_v1>  |_, mi4 si4, mi4 reb5, _, _, mi4 re5, _, _, _, _, _, _|
             <piano_1_v2>  |_, si3, reb4, -, -, re4, -, lab4 solb5 lab5, -, -, -, -|
             <piano_1_v4>  |si3, -, -, reb4, re4, -, re2 lab2 re3, -, -, -, -, -|
             <piano_1_v5>  |mi3, -, -, mi3, mi3, -, -, -, -, -, -, -|
         </mesure>
-        <mesure num=5>
+        <mesure num=53>
             <piano_1_v1>  |reb5 fa5 reb6, -, _, lab4 reb5, _, lab4 si4, _, lab4 reb5, -, -, -, -|
             <piano_1_v2>  |_, _, _, reb4, -, si3, -, reb4, -, -, -, -|
             <piano_1_v4>  |reb2 lab2 reb3, -, reb4, -, si3, -, reb4, -, -, -, -, -|
             <piano_1_v5>  |_, _, lab3, -, lab3, -, lab3, -, -, -, -, -|
         </mesure>
-        <mesure num=6>
+        <mesure num=54>
             <piano_1_v1>  |_, solb4 re5, _, solb4 mi5, _, solb4 reb5, _, solb4 re5, -, -, -, -|
             <piano_1_v2>  |_, re4, -, mi4, -, reb4, -, re4, -, -, -, -|
             <piano_1_v4>  |re4, -, mi4, -, reb4, -, re4, -, -, -, -, -|
             <piano_1_v5>  |solb3, -, solb3, -, solb3, -, solb3, -, -, -, -, -|
         </mesure>
-        <mesure num=7>
+        <mesure num=55>
             <piano_1_v1>  |_, mi4 si4, mi4 la4, _, _, mi4 do5, mi4 si4, _, _, _, _, _|
             <piano_1_v2>  |_, si3, la3, -, -, do4, si3, -, -, -, -, -|
             <piano_1_v4>  |si3, -, -, la3, do4, -, -, si3, -, -, -, -|
             <piano_1_v5>  |mi3, -, -, mi3, mi3, -, -, mi3, -, -, -, -|
         </mesure>
-        <mesure num=8>
+        <mesure num=56>
             <piano_1_v1>  |_, mi4 la4, mi4 si4, _, _, re4 do5, _, _, _, _, _, _|
             <piano_1_v2>  |_, la3, si3, -, -, do4, -, re4 solb4 reb5 re5, -, -, -, -|
             <piano_1_v4>  |la3, -, -, si3, do4, -, re2 re3, -, -, -, -, -|
             <piano_1_v5>  |mi3, -, -, mi3, re3, -, -, -, -, -, -, -|
         </mesure>
-    </section>
 
-<meta>
-Section de développement 38 — 8 mesures. Tonalité Reb majeur, tempo 90 BPM.
-</meta>
-    <section=section_39, n_mesure=8, bpm=90, format=12/16, tonalite=Reb_majeur>
-        <mesure num=1>
+        <mesure num=57>
             <piano_1_v1>  |si4 re5 sol5 si5, -, re5, re5, _, _, re5, re5, -, -, -, -|
             <piano_1_v2>  |_, _, sol4, sol4, -, -, -, -, -, -, -, -|
             <piano_1_v3>  |_, _, _, _, _, _, sol4, sol4, -, -, -, -|
             <piano_1_v4>  |sol1 re2 sol2, -, _, _, solb4, solb4, -, -, -, -, -, -|
             <piano_1_v5>  |_, _, _, _, si3, si3, -, -, -, -, -, -|
         </mesure>
-        <mesure num=2>
+        <mesure num=58>
             <piano_1_v1>  |_, _, re5, re5, _, _, si4 re5, si4 re5, -, -, -, -|
             <piano_1_v2>  |_, _, si4, si4, -, -, solb4, solb4, -, -, -, -|
             <piano_1_v4>  |la4, la4, -, -, sol4, sol4, -, -, -, -, -, -|
             <piano_1_v5>  |si3, si3, _, _, si3, si3, _, _, _, _, _, _|
         </mesure>
-        <mesure num=3>
+        <mesure num=59>
             <piano_1_v1>  |mi5 sol5 do6 mi6, -, sol5, sol5, _, _, sol5, sol5, -, -, -, -|
             <piano_1_v2>  |_, _, do5, do5, -, -, -, -, -, -, -, -|
             <piano_1_v3>  |_, _, _, _, _, _, reb5, reb5, -, -, -, -|
             <piano_1_v4>  |mi2 sol2 do3 mi3, -, _, _, si4, si4, -, -, -, -, -, -|
             <piano_1_v5>  |_, _, _, _, mi4, mi4, -, -, -, -, -, -|
         </mesure>
-        <mesure num=4>
+        <mesure num=60>
             <piano_1_v1>  |_, _, sol5, sol5, _, _, mi5 sol5, -, -, -, -, -|
             <piano_1_v2>  |_, _, mi5, mi5, -, -, si4, -, -, -, -, -|
             <piano_1_v4>  |re5, re5, -, -, do5, do5, -, -, -, -, -, -|
             <piano_1_v5>  |mi4, mi4, _, _, mi4, mi4, _, _, _, _, _, _|
         </mesure>
-        <mesure num=5>
+        <mesure num=61>
             <piano_1_v1>  |sib3 sib4, -, -, si3 si4, do4 do5, -, -, reb4 reb5, -, -, -, -|
             <piano_1_v2>  |_, mi4 solb4, -, -, -, solb4 sib4, -, -, -, -, -, -|
             <piano_1_v4>  |_, _, solb3, _, _, _, mi5 solb5 sib5, _, _, _, _, _|
             <piano_1_v5>  |_, _, reb3, -, -, -, -, -, -, -, -, -|
         </mesure>
-        <mesure num=6>
+        <mesure num=62>
             <piano_1_v1>  |re4 re5, -, -, mi4 re5, fa4 fa5, -, -, solb4 solb5, -, -, -, -|
             <piano_1_v2>  |_, solb4 si4, -, -, -, si4 re5, -, -, -, -, -, -|
             <piano_1_v4>  |_, _, solb3 si3, _, _, _, si5 re6, _, _, _, _, _|
             <piano_1_v5>  |_, _, reb3, -, -, -, -, -, -, -, -, -|
         </mesure>
-        <mesure num=7>
+        <mesure num=63>
             <piano_1_v1>  |lab4 lab5, -, -, la4 la5, sib4 sib5, -, -, si4 si5, -, -, -, -|
             <piano_1_v2>  |_, re5 mi5, -, -, -, re5 lab5, -, -, -, -, -, -|
             <piano_1_v4>  |_, _, lab3 si3 mi4, _, _, _, re6 mi6, _, _, _, _, _|
             <piano_1_v5>  |_, _, reb3, -, -, -, -, -, -, -, -, -|
         </mesure>
-        <mesure num=8>
+        <mesure num=64>
             <piano_1_v1>  |do5 do6, -, -, reb5 reb6, mib5 mib6, -, -, mi5 mi6, -, -, -, -|
             <piano_1_v2>  |_, solb5 lab5, -, -, -, lab5 do6, -, -, -, -, -, -|
             <piano_1_v4>  |_, _, lab3 mib4, _, _, _, solb6 lab6, _, _, _, _, _|
             <piano_1_v5>  |_, _, reb3, -, -, -, -, -, -, -, -, -|
         </mesure>
-    </section>
 
-<meta>
-Section de développement 39 — 8 mesures. Tonalité Reb majeur, tempo 90 BPM.
-</meta>
-    <section=section_40, n_mesure=8, bpm=90, format=12/16, tonalite=Reb_majeur>
-        <mesure num=1>
+        <mesure num=65>
             <piano_1_v1>  |_, _, fa5 lab5 reb6 fa6, -, mi5 mi6, fa5 fa6, reb5 reb6, -, -, -, -, -|
             <piano_1_v4>  |reb1 reb2, -, lab2 reb3 lab3, -, reb3 lab3 reb4, -, fa3 lab3 reb4 fa4, -, -, -, -, -|
         </mesure>
-        <mesure num=2>
+        <mesure num=66>
             <piano_1_v1>  |_, _, sib5 mi6 sib6, -, -, -, do6 mi6 do7, -, -, -, -, -|
             <piano_1_v4>  |reb2 reb3, mi2 mi3, sol2 sol3, sib2 sib3, reb3 reb4, mi3 mi4, sol3 sol4, -, -, -, -, -|
         </mesure>
-        <mesure num=3>
+        <mesure num=67>
             <piano_1_v1>  |lab5 reb6 fa6 lab6, sol5 sol6, solb5 solb6, fa5 fa6, mi5 mi6, fa5 fa6, mib5 mib6, reb5 reb6, -, -, -, -|
             <piano_1_v4>  |reb1 reb2, -, lab3 reb4 fa4 lab4, -, -, -, fa3 lab3 reb4 fa4, -, -, -, -, -|
         </mesure>
-        <mesure num=4>
+        <mesure num=68>
             <piano_1_v1>  |_, _, fa5 la5 fa6, -, -, -, mib5 mib6, -, -, -, -, -|
             <piano_1_v4>  |reb2 reb3, solb2 solb3, la2 la3, do3 do4, mib3 mib4, solb3 solb4, la3 la4, -, -, -, -, -|
         </mesure>
-        <mesure num=5>
+        <mesure num=69>
             <piano_1_v1>  |mib5 solb5 mib6, re5 re6, reb5 reb6, do5 do6, reb5 reb6, do5 do6, sib4 solb5 sib5, -, -, -, -, -|
             <piano_1_v4>  |reb1 reb2, -, la3 mib4 solb4, -, -, -, sib3 reb4 solb4, -, -, -, -, -|
         </mesure>
-        <mesure num=6>
+        <mesure num=70>
             <piano_1_v1>  |_, _, sib5 mi6 sib6, -, -, -, do6 mi6 do7, -, -, -, -, -|
             <piano_1_v4>  |reb2 reb3, mi2 mi3, sol2 sol3, sib2 sib3, reb3 reb4, mi3 mi4, sol3 sol4, -, -, -, -, -|
         </mesure>
-        <mesure num=7>
+        <mesure num=71>
             <piano_1_v1>  |lab5 reb6 fa6 lab6, sol5 sol6, solb5 solb6, fa5 fa6, mi5 mi6, fa5 fa6, mib5 mib6, reb5 reb6, -, -, -, -|
             <piano_1_v4>  |lab3 reb4 fa4 lab4, -, lab1 lab2, -, mi4, fa4, mib4, reb4, -, -, -, -|
         </mesure>
-        <mesure num=8>
+        <mesure num=72>
             <piano_1_v1>  |sol4 sol5, lab4 lab5, solb4 solb5, fa4 fa5, mi4 mi5, fa4 fa5, mib4 mib5, reb4 reb5, -, -, -, -|
             <piano_1_v4>  |sol3, lab3, solb3, fa3, mi3, fa3, mib3, reb3, -, -, -, -|
         </mesure>
-    </section>
 
-<meta>
-Section de développement 40 — 8 mesures. Tonalité Reb majeur, tempo 90 BPM.
-</meta>
-    <section=section_41, n_mesure=8, bpm=90, format=12/16, tonalite=Reb_majeur>
-        <mesure num=1>
+        <mesure num=73>
             <piano_1_v1>  |sol4, lab4, solb4, fa4, mi4, fa4, mib4, reb4, -, -, -, -|
             <piano_1_v4>  |sol3, lab3, solb3, fa3, mi3, fa3, mib3, reb3, -, -, -, -|
             <piano_1_v5>  |sol2, lab2, solb2, fa2, mi2, fa2, mib2, reb2, -, -, -, -|
         </mesure>
-        <mesure num=2>
+        <mesure num=74>
             <piano_1_v1>  |_, _, fa4, -, -, -, mib4, -, -, -, -, -|
             <piano_1_v2>  |_, _, solb3 sib3, -, -, -, -, -, -, -, -, -|
             <piano_1_v4>  |sib2, si2, do3, reb3, reb3, do3, si2, sib2, -, -, -, -|
             <piano_1_v5>  |reb2, -, -, -, -, -, -, -, -, -, -, -|
         </mesure>
-        <mesure num=3>
+        <mesure num=75>
             <piano_1_v1>  |mib4, re4, reb4, do4, reb4, do4, si3, sib3, -, -, -, -|
             <piano_1_v2>  |solb3, -, -, -, solb3, -, -, -, -, -, -, -|
             <piano_1_v4>  |la2, sib2, si2, do3, sib2, si2, do3, reb3, -, -, -, -|
             <piano_1_v5>  |reb2, -, -, -, reb2, -, -, -, -, -, -, -|
         </mesure>
-        <mesure num=4>
+        <mesure num=76>
             <piano_1_v1>  |_, _, fa4, -, -, -, mib4, -, -, -, -, -|
             <piano_1_v2>  |_, _, solb3 sib3, -, -, -, -, -, -, -, -, -|
             <piano_1_v4>  |sib2, si2, do3, reb3, reb3, do3, si2, sib2, -, -, -, -|
             <piano_1_v5>  |reb2, -, -, -, -, -, -, -, -, -, -, -|
         </mesure>
-        <mesure num=5>
+        <mesure num=77>
             <piano_1_v1>  |mib4, re4, reb4, do4, reb4, si3, sib3, la3, -, -, -, -|
             <piano_1_v2>  |fa3, -, -, -, mi3, -, -, -, -, -, -, -|
             <piano_1_v4>  |la2, sib2, si2, do3, la2, si2, do3, reb3, -, -, -, -|
             <piano_1_v5>  |reb2, -, -, -, reb2, -, -, -, -, -, -, -|
         </mesure>
-        <mesure num=6>
+        <mesure num=78>
             <piano_1_v1>  |_, _, lab3 lab4, -, -, -, solb3 solb4, -, -, -, -, -|
             <piano_1_v2>  |_, _, reb4, -, -, -, -, -, -, -, -, -|
             <piano_1_v4>  |la2, sib2, si2, do3, reb3, do3, si2, sib2, -, -, -, -|
             <piano_1_v5>  |reb2, -, -, -, -, -, -, -, -, -, -, -|
         </mesure>
-        <mesure num=7>
+        <mesure num=79>
             <piano_1_v1>  |solb4, -, _, _, la4, -, _, _, _, _, _, _|
             <piano_1_v2>  |re4, mib4, reb4, do4, fa4, solb4, mi4, mib4, -, -, -, -|
             <piano_1_v4>  |la2, solb3, la2, reb2, la2, mib3, la2, reb2, -, -, -, -|
         </mesure>
-        <mesure num=8>
+        <mesure num=80>
             <piano_1_v1>  |do5, -, _, _, mib5, -, _, _, _, _, _, _|
             <piano_1_v2>  |la4, sib4, lab4, solb4, si4, do5, sib4, lab4, -, -, -, -|
             <piano_1_v4>  |lab2, solb3, lab2, reb2, lab2, mib3, lab2, reb2, -, -, -, -|
         </mesure>
-    </section>
 
-<meta>
-Section de développement 41 — 8 mesures. Tonalité Reb majeur, tempo 90 BPM.
-</meta>
-    <section=section_42, n_mesure=8, bpm=90, format=12/16, tonalite=Reb_majeur>
-        <mesure num=1>
+        <mesure num=81>
             <piano_1_v1>  |solb5, -, _, _, do6, -, _, _, _, _, _, _|
             <piano_1_v2>  |re5, mib5, reb5, do5, la5, sib5, lab5, solb5, -, -, -, -|
             <piano_1_v4>  |lab2, solb3, lab2, reb2, lab2, mib3, lab2, reb2, -, -, -, -|
             <piano_1_v5>  |_, _, _, _, _, _, _, reb2, -, -, -, -|
         </mesure>
-        <mesure num=2>
+        <mesure num=82>
             <piano_1_v1>  |fa6, -, lab6 reb7 fa7, _, fa6 lab6 reb7, _, reb6 fa6 lab6, _, _, _, _, _|
             <piano_1_v2>  |fa5 reb6, -, -, mi6 sol6, -, do6 mi6, -, sol5 sib5, -, -, -, -|
             <piano_1_v4>  |lab2 reb3, -, _, _, _, _, _, _, _, _, _, _|
             <piano_1_v5>  |reb2, -, -, -, -, -, -, -, -, -, -, -|
         </mesure>
-        <mesure num=3>
+        <mesure num=83>
             <piano_1_v1>  |lab5 reb6 fa6, _, fa5 lab5 reb6, _, reb5 fa5 lab5, _, lab4 reb5 fa5, _, _, _, _, _|
             <piano_1_v2>  |_, mi5 sol5, -, do5 mi5, -, sol4 sib4, -, mi4 sol4, -, -, -, -|
             <piano_1_v4>  |_, _, _, _, _, _, _, _, _, _, _, _|
         </mesure>
-        <mesure num=4>
+        <mesure num=84>
             <piano_1_v1>  |fa4 lab4 reb5, _, lab4 reb5 fa5, _, fa4 lab4 reb5, _, reb4 fa4 lab4, _, _, _, _, _|
             <piano_1_v2>  |_, _, _, mi4 sol4, -, do4 mi4, -, -, -, -, -, -|
             <piano_1_v4>  |_, reb3 reb4, -, -, -, -, -, -, -, -, -, -|
             <piano_1_v5>  |_, _, _, _, _, _, _, _, _, _, _, _|
             <piano_1_v6>  |_, _, _, _, _, _, _, sol3 sib3, -, -, -, -|
         </mesure>
-        <mesure num=5>
+        <mesure num=85>
             <piano_1_v1>  |lab3 reb4 fa4, _, fa3 lab3 reb4, _, _, _, _, _, _, _, _, _|
             <piano_1_v4>  |_, _, _, _, reb3 fa3 lab3, -, lab2 reb3 fa3, -, -, -, -, -|
             <piano_1_v5>  |_, _, _, _, _, _, _, _, _, _, _, _|
             <piano_1_v6>  |_, mi3 sol3, -, do3 mi3, -, sol2 sib2, -, mi2 sol2, -, -, -, -|
         </mesure>
-        <mesure num=6>
+        <mesure num=86>
             <piano_1_v1>  |_, _, _, _, _, _, _, _, _, _, _, _|
             <piano_1_v4>  |fa2 lab2 reb3, -, -, -, -, -, -, -, -, -, -, -|
             <piano_1_v5>  |_, _, fa2 reb3 fa3, _, fa2 reb3 fa3, _, fa2 reb3 fa3, _, _, _, _, _|
             <piano_1_v6>  |_, reb1 reb2, -, do2 do3, -, si1 si2, -, sib1 sib2, -, -, -, -|
         </mesure>
-        <mesure num=7>
+        <mesure num=87>
             <piano_1_v1>  |_, _, _, _, _, _, _, _, _, _, _, _|
             <piano_1_v4>  |fa2 reb3 fa3, _, fa2 reb3 fa3, _, fa2 reb3 fa3, _, fa2 reb3 fa3, _, _, _, _, _|
             <piano_1_v5>  |_, la1 la2, -, lab1 lab2, -, la1 la2, -, sib1 sib2, -, -, -, -|
         </mesure>
-        <mesure num=8>
+        <mesure num=88>
             <piano_1_v1>  |_, _, _, _, _, _, _, _, _, _, _, _|
             <piano_1_v4>  |fa2 reb3 fa3, _, fa2 reb3 fa3, _, fa2 reb3 fa3, _, fa2 reb3 fa3, _, _, _, _, _|
             <piano_1_v5>  |_, la1 la2, -, lab1 lab2, -, sol1 sol2, -, solb1 solb2, -, -, -, -|
         </mesure>
-    </section>
 
-<meta>
-Section conclusive — 7 mesures. Tonalité Reb majeur, tempo 90 BPM.
-</meta>
-    <section=section_43, n_mesure=7, bpm=90, format=12/16, tonalite=Reb_majeur>
-        <mesure num=1>
+        <mesure num=89>
             <piano_1_v1>  |_, _, _, _, _, _, _, _, _, _, _, _|
             <piano_1_v4>  |fa2 reb3 fa3, _, fa2 reb3 fa3, _, fa2 reb3 fa3, _, fa2 reb3 fa3, _, _, _, _, _|
             <piano_1_v5>  |_, fa1 fa2, -, mi1 mi2, -, mib1 mib2, -, re1 re2, -, -, -, -|
         </mesure>
-        <mesure num=2>
+        <mesure num=90>
             <piano_1_v1>  |_, _, _, _, fa4 do5 fa5, -, _, _, _, _, _, _|
             <piano_1_v4>  |fa2 reb3 fa3, -, _, _, la2 fa3 la3 mib4, -, _, _, _, _, _, _|
             <piano_1_v5>  |reb1 reb2, -, -, -, -, -, -, -, -, -, -, -|
         </mesure>
-        <mesure num=3>
+        <mesure num=91>
             <piano_1_v1>  |reb5 mi5 la5 reb6, -, _, _, la5 reb6 mi6 la6, -, _, _, _, _, _, _|
             <piano_1_v4>  |la2 mi3 la3 mi4, -, _, _, solb3 reb4 solb4, -, _, _, _, _, _, _|
             <piano_1_v5>  |_, _, _, _, {solb2, solb2}, _, _, _, _, _, _|
         </mesure>
-        <mesure num=4>
+        <mesure num=92>
             <piano_1_v1>  |fa6 lab6 reb7 fa7, -, _, _, _, _, _, _, _, _, _, _|
         </mesure>
-        <mesure num=5>
+        <mesure num=93>
             <piano_1_v1>  |reb6 lab6 reb7, -, _, _, _, _, _, _, _, _, _, _|
             <piano_1_v4>  |fa4 lab4 reb5 fa5, -, _, _, _, _, _, _, _, _, _, _|
             <piano_1_v5>  |_, _, _, _, _, _, _, _, _, _, _, _|
         </mesure>
-        <mesure num=6>
+        <mesure num=94>
             <piano_1_v1>  |{lab5, la5, do6, reb5 reb6}, _, _, _, _, _, _, _, _|
             <piano_1_v4>  |_, _, reb3, -, -, -, -, -, -, -, -, -|
             <piano_1_v5>  |{lab3, la3, do4, reb3 reb4}, reb1 reb2, -, _, _, _, _, _, _, _, _|
         </mesure>
-        <mesure num=7>
+        <mesure num=95>
             <piano_1_v1>  |_, _, _, _, _, _, _, _, _, _, _, _|
             <piano_1_v4>  |_, _, _, _, _, _, _, _, _, _, _, _|
         </mesure>
+
     </section>
 
 [EOS]
