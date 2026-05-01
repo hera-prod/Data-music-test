@@ -6,7 +6,7 @@ FORMAT : piano_solo
 NIVEAU : avance
 Titre : Fugue en Sol majeur, BWV 884, Clavier bien tempéré II n°15
 Date : 1742
-Auteur : Johann Sebastian Bach
+Auteur : Bach
 Tonalite : Sol_majeur
 Unite : quarter
 Intention : Fugue à trois voix au caractère instrumental noble et lumineux, portée par un sujet ample aux élans mélodiques expressifs et un contresujet souple qui autorise de subtiles permutations. Forme en Sol majeur à mesure ternaire 3/8, 71 mesures, tempo allant environ 84 BPM, déployant une exposition complète, deux épisodes contrastés, une longue section modulante à pédale de dominante, une montée virtuose de la basse et une récapitulation apaisante en guise de conclusion.
