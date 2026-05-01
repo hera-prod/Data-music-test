@@ -4,16 +4,19 @@ TACHE : composition
 STYLE : romantique
 FORMAT : piano_solo
 NIVEAU : avance
-Titre : Étude op. 10 n° 12 en Do mineur "Révolutionnaire"
+Titre : Étude op.10 n°12 en Do mineur «Révolutionnaire»
 Date : 1831
 Auteur : Frédéric Chopin
 Tonalite : Do_mineur
 Unite : quarter
-Intention : Étude d'une passion fougueuse et d'une énergie déchirante, composée lors de la prise de Varsovie par les Russes en 1831, où la main gauche déverse des torrents de gammes chromatiques tumultueux pendant que la main droite proclame un chant héroïque en octaves et accords. Forme ternaire (A-B-A) avec coda, en Do mineur, 79 mesures, mesure à 4/4, tempo Allegro con fuoco à la noire égale 160.
+Intention : Passion fougueuse et énergie déchirante, composée lors de la prise de Varsovie en 1831, cette étude déverse à la main gauche des torrents de gammes chromatiques tumultueux pendant que la main droite proclame un chant héroïque en octaves et accords. Forme ternaire ABA avec coda, en do mineur, 79 mesures, mesure à 4/4, Allegro con fuoco à la noire égale 160.
 </tete>
 
 <meta>
-79 mesures, Allegro con fuoco, 4/4, Do mineur. La main gauche exécute des cascades de doubles croches chromatiques sans interruption, figurant la tourmente révolutionnaire, pendant que la main droite énonce un thème héroïque en octaves et accords avec rythme pointé (comme un appel de clairon martial). La mesure est en 2/2 de fait (alla breve), ce qui donne un sentiment de vitesse encore plus impétueuse. Les accents de la main gauche tombent sur la troisième double croche (non la première), détail expressif crucial. Pour l'interprétation, maintenir l'impulsion de vague ininterrompue à la main gauche avec poids de bras, jouer la mélodie de la main droite avec détermination héroïque.
+8 mesures. BPM 160. Signature 4/4. Tonalité Do_mineur.
+79 mesures, Allegro con fuoco, 4/4, Do mineur.
+La main gauche exécute des cascades de doubles croches chromatiques sans interruption, figurant la tourmente révolutionnaire, pendant que la main droite énonce un thème héroïque en octaves et accords avec rythme pointé (comme un appel de clairon martial). La mesure est en 2/2 de fait (alla breve), ce qui donne un sentiment de vitesse encore plus impétueuse. Les accents de la main gauche tombent sur la troisième double croche (non la première), détail expressif crucial.
+Pour l'interprétation, maintenir l'impulsion de vague ininterrompue à la main gauche avec poids de bras, jouer la mélodie de la main droite avec détermination héroïque.
 </meta>
     <section=theme_1, n_mesure=8, bpm=160, format=4/4, tonalite=Do_mineur>
         <mesure num=1>
@@ -53,7 +56,10 @@ Intention : Étude d'une passion fougueuse et d'une énergie déchirante, compos
     </section>
 
 <meta>
-Continuation du thème A : le motif principal revient en sotto voce (mesure 19), contrastant avec l'exposition en forte. Les vagues de la main gauche se poursuivent sans relâche. Le sforzando à la mesure 23 relance la passion. La main droite énonce son motif héroïque dans une réponse dynamique (piano puis forte).
+8 mesures. BPM 160. Signature 4/4. Tonalité Do_mineur.
+Continuation du thème A : le motif principal revient en sotto voce (mesure 19), contrastant avec l'exposition en forte.
+Les vagues de la main gauche se poursuivent sans relâche. Le sforzando à la mesure 23 relance la passion.
+La main droite énonce son motif héroïque dans une réponse dynamique (piano puis forte).
 </meta>
     <section=theme_1, n_mesure=8, bpm=160, format=4/4, tonalite=Do_mineur>
         <mesure num=1>
@@ -92,7 +98,10 @@ Continuation du thème A : le motif principal revient en sotto voce (mesure 19),
     </section>
 
 <meta>
-Fin du thème A et approche du développement : les progressions s'intensifient, le motif de la main droite prend une dimension plus ample (mesures 15-18). La main gauche escalade et dégringole en vagues de plus en plus puissantes. La modulation vers Sib bémol mineur (mesure 28) s'annonce par des harmonies de passage. Jouer avec toute l'ardeur de la jeunesse révolutionnaire.
+8 mesures. BPM 160. Signature 4/4. Tonalité Do_mineur.
+Fin du thème A et approche du développement : les progressions s'intensifient, le motif de la main droite prend une dimension plus ample (mesures 15-18).
+La main gauche escalade et dégringole en vagues de plus en plus puissantes. La modulation vers Sib bémol mineur (mesure 28) s'annonce par des harmonies de passage.
+Jouer avec toute l'ardeur de la jeunesse révolutionnaire.
 </meta>
     <section=theme_1, n_mesure=8, bpm=160, format=4/4, tonalite=Do_mineur>
         <mesure num=1>
@@ -130,7 +139,10 @@ Fin du thème A et approche du développement : les progressions s'intensifient,
     </section>
 
 <meta>
-Section B (développement) : modulation vers Sib mineur puis Sol# mineur (enharmonie) par modulation directe. La main gauche dessine un pont chromatique entre ces tonalités éloignées. Les vagues ascendantes et descendantes se succèdent à une vitesse vertigineuse. L'énergie monte en une progression inexorable vers le fortissimo.
+8 mesures. BPM 160. Signature 4/4. Tonalité Sib_mineur.
+Section B (développement) : modulation vers Sib mineur puis Sol# mineur (enharmonie) par modulation directe.
+La main gauche dessine un pont chromatique entre ces tonalités éloignées. Les vagues ascendantes et descendantes se succèdent à une vitesse vertigineuse.
+L'énergie monte en une progression inexorable vers le fortissimo.
 </meta>
     <section=developpement, n_mesure=8, bpm=160, format=4/4, tonalite=Sib_mineur>
         <mesure num=1>
@@ -169,7 +181,10 @@ Section B (développement) : modulation vers Sib mineur puis Sol# mineur (enharm
     </section>
 
 <meta>
-Continuation du développement : trois progressions consécutives (mesures 33-35) montent en intensité inexorable. Le ff entre en mesure 41 pour la première fois, comme une explosion de supernova expressive. La main gauche atteint son paroxysme en vitesse et en force. La main droite proclame des octaves héroïques dans le registre aigu. Jouer les octaves de la main droite avec la liberté du bras et de l'épaule.
+8 mesures. BPM 160. Signature 4/4. Tonalité Do_mineur.
+Continuation du développement : trois progressions consécutives (mesures 33-35) montent en intensité inexorable.
+Le ff entre en mesure 41 pour la première fois, comme une explosion de supernova expressive. La main gauche atteint son paroxysme en vitesse et en force. La main droite proclame des octaves héroïques dans le registre aigu.
+Jouer les octaves de la main droite avec la liberté du bras et de l'épaule.
 </meta>
     <section=developpement, n_mesure=8, bpm=160, format=4/4, tonalite=Do_mineur>
         <mesure num=1>
@@ -207,7 +222,10 @@ Continuation du développement : trois progressions consécutives (mesures 33-35
     </section>
 
 <meta>
-Sommet du développement (mesures 37-44) : l'intensité maximale est atteinte, avec ff ed appassionato aux mesures 41-44. Les vagues de la main gauche atteignent leur hauteur maximale. La comparaison minimale entre les mesures 37-38 et 39-40 (un seul demi-ton de différence dans une note de la main gauche) produit un effet colossal. C'est le point de non-retour émotionnel de toute l'étude.
+8 mesures. BPM 160. Signature 4/4. Tonalité Do_mineur.
+Sommet du développement (mesures 37-44) : l'intensité maximale est atteinte, avec ff ed appassionato aux mesures 41-44.
+Les vagues de la main gauche atteignent leur hauteur maximale. La comparaison minimale entre les mesures 37-38 et 39-40 (un seul demi-ton de différence dans une note de la main gauche) produit un effet colossal.
+C'est le point de non-retour émotionnel de toute l'étude.
 </meta>
     <section=developpement, n_mesure=8, bpm=160, format=4/4, tonalite=Do_mineur>
         <mesure num=1>
@@ -248,7 +266,10 @@ Sommet du développement (mesures 37-44) : l'intensité maximale est atteinte, a
     </section>
 
 <meta>
-Transition vers la réexposition : les vagues du développement se résolvent vers la dominante Sol. La main droite reprend ses arpèges avec embellissement de triolets (mesure 49, variation rhythmique à peine perceptible vu la vitesse). La réexposition approche ; jouer avec une tension crescendo qui précède la résolution.
+8 mesures. BPM 160. Signature 4/4. Tonalité Do_mineur.
+Transition vers la réexposition : les vagues du développement se résolvent vers la dominante Sol.
+La main droite reprend ses arpèges avec embellissement de triolets (mesure 49, variation rhythmique à peine perceptible vu la vitesse). La réexposition approche ;
+jouer avec une tension crescendo qui précède la résolution.
 </meta>
     <section=transition, n_mesure=8, bpm=160, format=4/4, tonalite=Do_mineur>
         <mesure num=1>
@@ -291,7 +312,10 @@ Transition vers la réexposition : les vagues du développement se résolvent ve
     </section>
 
 <meta>
-Réexposition (retour de A) : le thème héroïque revient dans une lumière différente, comme le retour d'un cavalier après la bataille. La main droite reprend ses octaves et accords avec une nouvelle maturité expressive. La phrasing change subtilement entre les mesures 7-8 et 47-48 (même notes, articulation différente), signe de l'évolution intérieure du discours.
+8 mesures. BPM 160. Signature 4/4. Tonalité Do_mineur.
+Réexposition (retour de A) : le thème héroïque revient dans une lumière différente, comme le retour d'un cavalier après la bataille.
+La main droite reprend ses octaves et accords avec une nouvelle maturité expressive.
+La phrasing change subtilement entre les mesures 7-8 et 47-48 (même notes, articulation différente), signe de l'évolution intérieure du discours.
 </meta>
     <section=recapitulation, n_mesure=8, bpm=160, format=4/4, tonalite=Do_mineur>
         <mesure num=1>
@@ -330,7 +354,10 @@ Réexposition (retour de A) : le thème héroïque revient dans une lumière dif
     </section>
 
 <meta>
-Continuation de la réexposition et approche de la coda : la main gauche continue son tourbillon incessant jusqu'aux dernières mesures. L'arpège montant de la main gauche (mesures 55-56) s'élance comme une fusée vers le registre aigu avant la coda. Les dernières vagues chromatiques se précipitent vers la conclusion.
+8 mesures. BPM 160. Signature 4/4. Tonalité Do_mineur.
+Continuation de la réexposition et approche de la coda : la main gauche continue son tourbillon incessant jusqu'aux dernières mesures.
+L'arpège montant de la main gauche (mesures 55-56) s'élance comme une fusée vers le registre aigu avant la coda.
+Les dernières vagues chromatiques se précipitent vers la conclusion.
 </meta>
     <section=recapitulation, n_mesure=8, bpm=160, format=4/4, tonalite=Do_mineur>
         <mesure num=1>
@@ -373,7 +400,10 @@ Continuation de la réexposition et approche de la coda : la main gauche continu
     </section>
 
 <meta>
-Coda de 7 mesures : la main gauche exécute un trémolo d'intervalle de quarte (doigts 2 et 5, mesures 78 et 80) dans un fff final. Les quatre derniers accords tombent en deux paires, la deuxième moitié plus courte, en trois forte (fff). Le Do mineur final résonne comme une affirmation défiant l'adversité. Jouer les notes finales avec toute la puissance du bras et de l'épaule.
+7 mesures. BPM 160. Signature 4/4. Tonalité Do_mineur.
+Coda de 7 mesures : la main gauche exécute un trémolo d'intervalle de quarte (doigts 2 et 5, mesures 78 et 80) dans un fff final.
+Les quatre derniers accords tombent en deux paires, la deuxième moitié plus courte, en trois forte (fff). Le Do mineur final résonne comme une affirmation défiant l'adversité.
+Jouer les notes finales avec toute la puissance du bras et de l'épaule.
 </meta>
     <section=coda, n_mesure=7, bpm=160, format=4/4, tonalite=Do_mineur>
         <mesure num=1>
