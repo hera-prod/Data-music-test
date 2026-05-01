@@ -3,19 +3,21 @@
 TACHE : composition
 STYLE : classique
 FORMAT : piano_solo
-NIVEAU : simple
+NIVEAU : intermediaire
 Titre : Piano_Sonatas_11-3
-Date : ?
+Date : 1783
 Auteur : Mozart
-Tonalite : La_majeur
+Tonalite : La_mineur
 Unite : quarter
-Intention : Pièce pour piano solo, modéré, lumineux, au cadre binaire régulier. Tonalité : La majeur. 137 mesures.
+Intention : Rondo vif et caracteristique, imitant la musique de janissaires ottomans avec ses figures percussives et son energie debridee. Forme rondo ABACABA en 2/4, 137 mesures, bpm 120, alternant La mineur et La majeur selon le schema Alla Turca.
 </tete>
 
 <meta>
-Section d'ouverture — 8 mesures. Tonalité La majeur, tempo 90 BPM.
+16 mesures. Alla Turca. 2/4. La mineur.
+Le theme principal en La mineur etablit l'identite sonore de la piece : le mode mineur donne la couleur exotique et militaire qui evoque les orchestres ottomans alors tres en vogue en Europe. Les ornements brefs et les notes repetes simulent les percussions des janissaires, creant un effet de parade et de marche. A l'oreille, la pulsation reguliere et les articulations courtes produisent un caractere joyeux et percussif malgre le mode mineur. Jouer staccato, avec une pulsation affirmee, les ornements legers et rapides, sans alourdir le tempo.
+<section=section_A_1, n_mesure=16, bpm=120, format=2/4, tonalite=La_mineur>
 </meta>
-    <section=section_1, n_mesure=8, bpm=90, format=2/4, tonalite=La_majeur>
+    <section=section_A_1, n_mesure=16, bpm=120, format=2/4, tonalite=La_mineur>
         <mesure num=1>
             <piano_1_v1>  |({si4, la4}, sol#4, la4)|
             <piano_1_v4>  |_, _|
@@ -48,52 +50,51 @@ Section d'ouverture — 8 mesures. Tonalité La majeur, tempo 90 BPM.
             <piano_1_v1>  |({sol5, la5, si5}, fa#5 la5), (mi5 sol5, re#5 fa#5)|
             <piano_1_v4>  |(mi3, si3 mi4), (si2, si3)|
         </mesure>
-    </section>
 
-<meta>
-Section de développement 1 — 8 mesures. Tonalité La majeur, tempo 90 BPM.
-</meta>
-    <section=section_2, n_mesure=8, bpm=90, format=2/4, tonalite=La_majeur>
-        <mesure num=1>
+        <mesure num=9>
             <piano_1_v1>  |mi5, -|
             <piano_1_v4>  |mi3, -|
         </mesure>
-        <mesure num=2>
+        <mesure num=10>
             <piano_1_v1>  |(do5 mi5, re5 fa5)|
             <piano_1_v4>  |_, _|
         </mesure>
-        <mesure num=3>
+        <mesure num=11>
             <piano_1_v1>  |(mi5 sol5, mi5 sol5), ({la5, sol5}, fa5, mi5)|
             <piano_1_v4>  |(do3, do4), (mi3, mi4)|
         </mesure>
-        <mesure num=4>
+        <mesure num=12>
             <piano_1_v1>  |re5, (do5 mi5, re5 fa5)|
             <piano_1_v2>  |(si4, sol4)|
             <piano_1_v4>  |sol3, _|
         </mesure>
-        <mesure num=5>
+        <mesure num=13>
             <piano_1_v1>  |(mi5 sol5, mi5 sol5), ({la5, sol5}, fa5, mi5)|
             <piano_1_v4>  |(do3, do4), (mi3, mi4)|
         </mesure>
-        <mesure num=6>
+        <mesure num=14>
             <piano_1_v1>  |si4 re5, (la4 do5, si4 re5)|
             <piano_1_v4>  |sol3, _|
         </mesure>
-        <mesure num=7>
+        <mesure num=15>
             <piano_1_v1>  |(do5 mi5, do5 mi5), ({fa5, mi5}, re5, do5)|
             <piano_1_v4>  |(la2, la3), (do3, do4)|
         </mesure>
-        <mesure num=8>
+        <mesure num=16>
             <piano_1_v1>  |si4, (la4 do5, si4 re5)|
             <piano_1_v2>  |(sol#4, mi4)|
             <piano_1_v4>  |mi3, _|
         </mesure>
+
     </section>
 
+
 <meta>
-Section de développement 2 — 8 mesures. Tonalité La majeur, tempo 90 BPM.
+16 mesures. Alla Turca. 2/4. La majeur.
+Le basculement vers La majeur apporte une luminosite contrastante tout en preservant le meme materiau rythmique : c'est le propre du rondo que de varier la couleur harmonique sans changer le caractere. La tonique majeure illumine les memes formules rythmiques, leur donnant une teinte plus brillante et festive. A l'oreille, on ressent un allegement et une ouverture vers la celebration, le ton festif prenant le dessus. Conserver le meme toucher leger, la dynamique vers le forte naturellement, l'articulation identique au A.
+<section=section_B_1, n_mesure=16, bpm=120, format=2/4, tonalite=La_majeur>
 </meta>
-    <section=section_3, n_mesure=8, bpm=90, format=2/4, tonalite=La_majeur>
+    <section=section_B_1, n_mesure=16, bpm=120, format=2/4, tonalite=La_majeur>
         <mesure num=1>
             <piano_1_v1>  |(do5 mi5, do5 mi5), ({fa5, mi5}, re5, do5)|
             <piano_1_v4>  |(la2, la3), (do3, do4)|
@@ -126,51 +127,50 @@ Section de développement 2 — 8 mesures. Tonalité La majeur, tempo 90 BPM.
             <piano_1_v1>  |(la5, mi5), (fa5, re5)|
             <piano_1_v4>  |(do3, mi3 la3), (re3, fa3 si3)|
         </mesure>
-    </section>
 
-<meta>
-Section de développement 3 — 8 mesures. Tonalité La majeur, tempo 90 BPM.
-</meta>
-    <section=section_4, n_mesure=8, bpm=90, format=2/4, tonalite=La_majeur>
-        <mesure num=1>
+        <mesure num=9>
             <piano_1_v1>  |do5, (si4, {la4, si4})|
             <piano_1_v2>  |_, ({do5, si4, do5}, {si4, do5, si4})|
             <piano_1_v4>  |(mi3 la3, mi3 la3), (mi3 sol#3, mi3 sol#3)|
         </mesure>
-        <mesure num=2>
+        <mesure num=10>
             <piano_1_v1>  |la4, -|
             <piano_1_v4>  |la2 la3, -|
         </mesure>
-        <mesure num=3>
+        <mesure num=11>
             <piano_1_v1>  |(la4 la5, si4 si5)|
             <piano_1_v4>  |_, _|
         </mesure>
-        <mesure num=4>
+        <mesure num=12>
             <piano_1_v1>  |do#5 do#6, (la4 la5, si4 si5)|
             <piano_1_v4>  |({la2, do#3, mi3, la3}, la3), (la3, la3)|
         </mesure>
-        <mesure num=5>
+        <mesure num=13>
             <piano_1_v1>  |(do#5 do#6, si4 si5), (la4 la5, sol#4 sol#5)|
             <piano_1_v4>  |({la2, do#3, mi3, la3}, la3), (la3, la3)|
         </mesure>
-        <mesure num=6>
+        <mesure num=14>
             <piano_1_v1>  |(fa#4 fa#5, sol#4 sol#5), (la4 la5, si4 si5)|
             <piano_1_v4>  |({re2, fa#2, la2, re3}, re3), ({re#2, fa#2, la2, re#3}, re#3)|
         </mesure>
-        <mesure num=7>
+        <mesure num=15>
             <piano_1_v1>  |(sol#4 sol#5, mi4 mi5), (la4 la5, si4 si5)|
             <piano_1_v4>  |({mi2, sol#2, si2, mi3}, mi3), (mi3, mi3)|
         </mesure>
-        <mesure num=8>
+        <mesure num=16>
             <piano_1_v1>  |do#5 do#6, (la4 la5, si4 si5)|
             <piano_1_v4>  |({la2, do#3, mi3, la3}, la3), (la3, la3)|
         </mesure>
+
     </section>
 
+
 <meta>
-Section de développement 4 — 8 mesures. Tonalité La majeur, tempo 90 BPM.
+16 mesures. Alla Turca. 2/4. La mineur.
+Le retour du theme A en La mineur confirme la structure de rondo et ancre l'identite de la piece : chaque rappel du refrain renforce la memoire de l'auditeur et cree une cohesion formelle. La repetition n'est pas redondante mais constitutive du genre, elle apporte a chaque fois une satisfaction de reconnaissance. A l'oreille, ce retour est attendu et rassurant, comme un signal familier dans un parcours musical. Meme execution que le premier A : staccato, pulsation precise, ornements nets.
+<section=section_A_2, n_mesure=16, bpm=120, format=2/4, tonalite=La_mineur>
 </meta>
-    <section=section_5, n_mesure=8, bpm=90, format=2/4, tonalite=La_majeur>
+    <section=section_A_2, n_mesure=16, bpm=120, format=2/4, tonalite=La_mineur>
         <mesure num=1>
             <piano_1_v1>  |(do#5 do#6, si4 si5), (la4 la5, sol#4 sol#5)|
             <piano_1_v4>  |({la2, do#3, mi3, la3}, la3), (la3, la3)|
@@ -203,50 +203,49 @@ Section de développement 4 — 8 mesures. Tonalité La majeur, tempo 90 BPM.
             <piano_1_v1>  |({do#6, do6}, do#6, do6), ({do#6, re6}, do#6, si5)|
             <piano_1_v4>  |(fa3, sol#3 do#4), (sol#3 do#4, sol#3 do#4)|
         </mesure>
-    </section>
 
-<meta>
-Section de développement 5 — 8 mesures. Tonalité La majeur, tempo 90 BPM.
-</meta>
-    <section=section_6, n_mesure=8, bpm=90, format=2/4, tonalite=La_majeur>
-        <mesure num=1>
+        <mesure num=9>
             <piano_1_v1>  |({la5, si5}, la5, sol#5), ({fa#5, la5}, sol#5, fa#5)|
             <piano_1_v4>  |(fa#3, la3 do#4), (la3 do#4, la3 do#4)|
         </mesure>
-        <mesure num=2>
+        <mesure num=10>
             <piano_1_v1>  |({mi5, fa#5}, sol#5, mi5), ({do#5, re#5}, mi5, do#5)|
             <piano_1_v4>  |(sol#3, do#4 mi4), (do#4 mi4, do#4 mi4)|
         </mesure>
-        <mesure num=3>
+        <mesure num=11>
             <piano_1_v1>  |({re#5, mi5}, fa#5, re#5), ({do5, do#5}, re#5, do5)|
             <piano_1_v4>  |(sol#3, re#4 fa#4), (re#4 fa#4, re#4 fa#4)|
         </mesure>
-        <mesure num=4>
+        <mesure num=12>
             <piano_1_v1>  |do#5, -|
             <piano_1_v4>  |do#4 mi4, -|
         </mesure>
-        <mesure num=5>
+        <mesure num=13>
             <piano_1_v1>  |({mi5, re5}, do#5, si4)|
             <piano_1_v4>  |_, _|
         </mesure>
-        <mesure num=6>
+        <mesure num=14>
             <piano_1_v1>  |({la4, si4}, do#5, re5), ({mi5, fa#5}, sol#5, la5)|
             <piano_1_v4>  |(la3, do#4 mi4), (do#4 mi4, do#4 mi4)|
         </mesure>
-        <mesure num=7>
+        <mesure num=15>
             <piano_1_v1>  |({la5, sol#5}, fa#5, mi5), ({mi5, re5}, do#5, si4)|
             <piano_1_v4>  |(si3, re4 mi4), (sol#3, re4 mi4)|
         </mesure>
-        <mesure num=8>
+        <mesure num=16>
             <piano_1_v1>  |({la4, si4}, do#5, re5), ({mi5, fa#5}, sol#5, la5)|
             <piano_1_v4>  |(la3, do#4 mi4), (do#4 mi4, do#4 mi4)|
         </mesure>
+
     </section>
 
+
 <meta>
-Section de développement 6 — 8 mesures. Tonalité La majeur, tempo 90 BPM.
+32 mesures. Alla Turca. 2/4. La majeur.
+La section C, plus etendue, en La majeur, constitue le developpement central du rondo : Mozart y deploie un materiau plus richement harmonise, avec des basses en Alberti et une melodie plus elaborate. L'extension a 32 mesures cree un moment de respiration et d'epanouissement avant le retour de l'alternance ABAB. A l'oreille, la section C apporte plus de profondeur et de fluidite, la musique devient plus chantante et expressives. Soigner la ligne melodique a la main droite, la basse en Alberti reguliere, dynamique plus nuancee.
+<section=section_C, n_mesure=32, bpm=120, format=2/4, tonalite=La_majeur>
 </meta>
-    <section=section_7, n_mesure=8, bpm=90, format=2/4, tonalite=La_majeur>
+    <section=section_C, n_mesure=32, bpm=120, format=2/4, tonalite=La_majeur>
         <mesure num=1>
             <piano_1_v1>  |(la#5, si5), ({mi5, re5}, do#5, si4)|
             <piano_1_v4>  |(mi3, sol#3 re4), (sol#3 re4, sol#3 re4)|
@@ -279,126 +278,115 @@ Section de développement 6 — 8 mesures. Tonalité La majeur, tempo 90 BPM.
             <piano_1_v1>  |({fa#5, fa5}, fa#5, sol#5), ({la5, sol#5}, la5, si5)|
             <piano_1_v4>  |(fa#3, la3 do#4), (la3 do#4, la3 do#4)|
         </mesure>
-    </section>
 
-<meta>
-Section de développement 7 — 8 mesures. Tonalité La majeur, tempo 90 BPM.
-</meta>
-    <section=section_8, n_mesure=8, bpm=90, format=2/4, tonalite=La_majeur>
-        <mesure num=1>
+        <mesure num=9>
             <piano_1_v1>  |({do#6, do6}, do#6, do6), ({do#6, do6}, do#6, la#5)|
             <piano_1_v4>  |(do#3, sol#3 do#4), (sol3 do#4, fa#3 do#4)|
         </mesure>
-        <mesure num=2>
+        <mesure num=10>
             <piano_1_v1>  |({re6, do#6}, re6, do#6), ({re6, do#6}, re6, do#6)|
             <piano_1_v4>  |(si2, fa#3 si3), (fa#3 si3, fa#3 si3)|
         </mesure>
-        <mesure num=3>
+        <mesure num=11>
             <piano_1_v1>  |({re6, do#6}, si5, la5), ({sol#5, la5}, si5, sol#5)|
             <piano_1_v4>  |(si2, sol#3 si3), (sol#3 si3, sol#3 si3)|
         </mesure>
-        <mesure num=4>
+        <mesure num=12>
             <piano_1_v1>  |({la5, si5}, do#6, fa#5), ({fa5, fa#5}, sol#5, fa5)|
             <piano_1_v4>  |(do#3, fa#3 la3), (do#3, sol#3 si3)|
         </mesure>
-        <mesure num=5>
+        <mesure num=13>
             <piano_1_v1>  |fa#5, -|
             <piano_1_v4>  |fa#3 la3, -|
         </mesure>
-        <mesure num=6>
+        <mesure num=14>
             <piano_1_v1>  |(la4 la5, si4 si5)|
             <piano_1_v4>  |_, _|
         </mesure>
-        <mesure num=7>
+        <mesure num=15>
             <piano_1_v1>  |do#5 do#6, (la4 la5, si4 si5)|
             <piano_1_v4>  |({la2, do#3, mi3, la3}, la3), (la3, la3)|
         </mesure>
-        <mesure num=8>
+        <mesure num=16>
             <piano_1_v1>  |(do#5 do#6, si4 si5), (la4 la5, sol#4 sol#5)|
             <piano_1_v4>  |({la2, do#3, mi3, la3}, la3), (la3, la3)|
         </mesure>
-    </section>
 
-<meta>
-Section de développement 8 — 8 mesures. Tonalité La majeur, tempo 90 BPM.
-</meta>
-    <section=section_9, n_mesure=8, bpm=90, format=2/4, tonalite=La_majeur>
-        <mesure num=1>
+        <mesure num=17>
             <piano_1_v1>  |(fa#4 fa#5, sol#4 sol#5), (la4 la5, si4 si5)|
             <piano_1_v4>  |({re2, fa#2, la2, re3}, re3), ({re#2, fa#2, la2, re#3}, re#3)|
         </mesure>
-        <mesure num=2>
+        <mesure num=18>
             <piano_1_v1>  |(sol#4 sol#5, mi4 mi5), (la4 la5, si4 si5)|
             <piano_1_v4>  |({mi2, sol#2, si2, mi3}, mi3), (mi3, mi3)|
         </mesure>
-        <mesure num=3>
+        <mesure num=19>
             <piano_1_v1>  |do#5 do#6, (la4 la5, si4 si5)|
             <piano_1_v4>  |({la2, do#3, mi3, la3}, la3), (la3, la3)|
         </mesure>
-        <mesure num=4>
+        <mesure num=20>
             <piano_1_v1>  |(do#5 do#6, si4 si5), (la4 la5, sol#4 sol#5)|
             <piano_1_v4>  |({la2, do#3, mi3, la3}, la3), (la3, la3)|
         </mesure>
-        <mesure num=5>
+        <mesure num=21>
             <piano_1_v1>  |(fa#4 fa#5, si4 si5), (sol#4 sol#5, mi4 mi5)|
             <piano_1_v4>  |({re2, fa#2, la2, re3}, re3), ({mi2, sol#2, si2, mi3}, mi3)|
         </mesure>
-        <mesure num=6>
+        <mesure num=22>
             <piano_1_v1>  |la4 la5, -|
             <piano_1_v4>  |la2, -|
         </mesure>
-        <mesure num=7>
+        <mesure num=23>
             <piano_1_v1>  |({si4, la4}, sol#4, la4)|
             <piano_1_v4>  |_, _|
         </mesure>
-        <mesure num=8>
+        <mesure num=24>
             <piano_1_v1>  |(do5, _), ({re5, do5}, si4, do5)|
             <piano_1_v4>  |(la3, do4 mi4), (do4 mi4, do4 mi4)|
         </mesure>
-    </section>
 
-<meta>
-Section de développement 9 — 8 mesures. Tonalité La majeur, tempo 90 BPM.
-</meta>
-    <section=section_10, n_mesure=8, bpm=90, format=2/4, tonalite=La_majeur>
-        <mesure num=1>
+        <mesure num=25>
             <piano_1_v1>  |(mi5, _), ({fa5, mi5}, re#5, mi5)|
             <piano_1_v4>  |(la3, do4 mi4), (do4 mi4, do4 mi4)|
         </mesure>
-        <mesure num=2>
+        <mesure num=26>
             <piano_1_v1>  |({si5, la5}, sol#5, la5), ({si5, la5}, sol#5, la5)|
             <piano_1_v4>  |(la3, do4 mi4), (la3, do4 mi4)|
         </mesure>
-        <mesure num=3>
+        <mesure num=27>
             <piano_1_v1>  |do6, (la5, do6)|
             <piano_1_v4>  |(la3, do4 mi4), (do4 mi4, do4 mi4)|
         </mesure>
-        <mesure num=4>
+        <mesure num=28>
             <piano_1_v1>  |({sol5, la5, si5}, fa#5 la5), (mi5 sol5, fa#5 la5)|
             <piano_1_v4>  |(mi3, si3 mi4), (si3 mi4, si3 mi4)|
         </mesure>
-        <mesure num=5>
+        <mesure num=29>
             <piano_1_v1>  |({sol5, la5, si5}, fa#5 la5), (mi5 sol5, fa#5 la5)|
             <piano_1_v4>  |(mi3, si3 mi4), (si3 mi4, si3 mi4)|
         </mesure>
-        <mesure num=6>
+        <mesure num=30>
             <piano_1_v1>  |({sol5, la5, si5}, fa#5 la5), (mi5 sol5, re#5 fa#5)|
             <piano_1_v4>  |(mi3, si3 mi4), (si2, si3)|
         </mesure>
-        <mesure num=7>
+        <mesure num=31>
             <piano_1_v1>  |mi5, -|
             <piano_1_v4>  |mi3, -|
         </mesure>
-        <mesure num=8>
+        <mesure num=32>
             <piano_1_v1>  |(do5 mi5, re5 fa5)|
             <piano_1_v4>  |_, _|
         </mesure>
+
     </section>
 
+
 <meta>
-Section de développement 10 — 8 mesures. Tonalité La majeur, tempo 90 BPM.
+16 mesures. Alla Turca. 2/4. La mineur.
+Troisieme apparition du refrain A en La mineur : le rondo atteint ici sa structure symetrique et cloture le cycle central ABACAB. La repetition multiple du theme cree un effet d'accumulation et prepare l'auditeur a la conclusion. A l'oreille, on perçoit l'imminence de la fin, le caractere devient plus pressant. Meme execution que les precedents A, en gardant la vigueur du caractere percussif.
+<section=section_A_3, n_mesure=16, bpm=120, format=2/4, tonalite=La_mineur>
 </meta>
-    <section=section_11, n_mesure=8, bpm=90, format=2/4, tonalite=La_majeur>
+    <section=section_A_3, n_mesure=16, bpm=120, format=2/4, tonalite=La_mineur>
         <mesure num=1>
             <piano_1_v1>  |(mi5 sol5, mi5 sol5), ({la5, sol5}, fa5, mi5)|
             <piano_1_v4>  |(do3, do4), (mi3, mi4)|
@@ -433,51 +421,50 @@ Section de développement 10 — 8 mesures. Tonalité La majeur, tempo 90 BPM.
             <piano_1_v1>  |sol#4 si4, ({si4, la4}, sol#4, la4)|
             <piano_1_v4>  |mi3, _|
         </mesure>
-    </section>
 
-<meta>
-Section de développement 11 — 8 mesures. Tonalité La majeur, tempo 90 BPM.
-</meta>
-    <section=section_12, n_mesure=8, bpm=90, format=2/4, tonalite=La_majeur>
-        <mesure num=1>
+        <mesure num=9>
             <piano_1_v1>  |(do5, _), ({re5, do5}, si4, do5)|
             <piano_1_v4>  |(la3, do4 mi4), (do4 mi4, do4 mi4)|
         </mesure>
-        <mesure num=2>
+        <mesure num=10>
             <piano_1_v1>  |(mi5, _), ({fa5, mi5}, re#5, mi5)|
             <piano_1_v4>  |(la3, do4 mi4), (do4 mi4, do4 mi4)|
         </mesure>
-        <mesure num=3>
+        <mesure num=11>
             <piano_1_v1>  |({si5, la5}, sol#5, la5), ({si5, la5}, sol#5, la5)|
             <piano_1_v4>  |(la3, do4 mi4), (la3, do4 mi4)|
         </mesure>
-        <mesure num=4>
+        <mesure num=12>
             <piano_1_v1>  |do6, (la5, si5)|
             <piano_1_v4>  |(fa3, la3 re#4), (la3 re#4, la3 re#4)|
         </mesure>
-        <mesure num=5>
+        <mesure num=13>
             <piano_1_v1>  |(do6, si5), (la5, sol#5)|
             <piano_1_v4>  |(mi3, la3 mi4), (re3, fa3 si3)|
         </mesure>
-        <mesure num=6>
+        <mesure num=14>
             <piano_1_v1>  |(la5, mi5), (fa5, re5)|
             <piano_1_v4>  |(do3, mi3 la3), (re3, fa3 si3)|
         </mesure>
-        <mesure num=7>
+        <mesure num=15>
             <piano_1_v1>  |do5, (si4, {la4, si4})|
             <piano_1_v2>  |_, ({do5, si4, do5}, {si4, do5, si4})|
             <piano_1_v4>  |(mi3 la3, mi3 la3), (mi3 sol#3, mi3 sol#3)|
         </mesure>
-        <mesure num=8>
+        <mesure num=16>
             <piano_1_v1>  |la4, -|
             <piano_1_v4>  |la2 la3, -|
         </mesure>
+
     </section>
 
+
 <meta>
-Section de développement 12 — 8 mesures. Tonalité La majeur, tempo 90 BPM.
+16 mesures. Alla Turca. 2/4. La majeur.
+Deuxieme occurrence de la section B en La majeur qui, dans le schema ABACABA, cloture la grande architecture symetrique avant la coda. Cette repetition confirme la predilection de Mozart pour les structures en arche, miroir entre debut et fin. A l'oreille, on ressent le mouvement vers la conclusion, la musique s'achemine vers sa resolution finale. Maintenir l'energie et la brillance, peut-etre un peu plus de dynamique pour anticiper la coda.
+<section=section_B_2, n_mesure=16, bpm=120, format=2/4, tonalite=La_majeur>
 </meta>
-    <section=section_13, n_mesure=8, bpm=90, format=2/4, tonalite=La_majeur>
+    <section=section_B_2, n_mesure=16, bpm=120, format=2/4, tonalite=La_majeur>
         <mesure num=1>
             <piano_1_v1>  |({la4, la5}, si4, si5)|
             <piano_1_v4>  |_, _|
@@ -510,56 +497,55 @@ Section de développement 12 — 8 mesures. Tonalité La majeur, tempo 90 BPM.
             <piano_1_v1>  |({fa#4, fa#5}, si4, si5), ({sol#4, sol#5}, mi4, mi5)|
             <piano_1_v4>  |({re2, fa#2, la2, re3}, re3), ({mi2, sol#2, si2, mi3}, mi3)|
         </mesure>
-    </section>
 
-<meta>
-Section de développement 13 — 8 mesures. Tonalité La majeur, tempo 90 BPM.
-</meta>
-    <section=section_14, n_mesure=8, bpm=90, format=2/4, tonalite=La_majeur>
-        <mesure num=1>
+        <mesure num=9>
             <piano_1_v1>  |la4 la5, -|
             <piano_1_v4>  |la2, -|
         </mesure>
-        <mesure num=2>
+        <mesure num=10>
             <piano_1_v1>  |la4 la5, do#5|
             <piano_1_v2>  |_, (do#6, do#6)|
             <piano_1_v4>  |({la2, do#3, mi3, la3}, la3), (la3, la3)|
         </mesure>
-        <mesure num=3>
+        <mesure num=11>
             <piano_1_v1>  |do#6, -|
             <piano_1_v2>  |do#5 mi5 la5, _|
             <piano_1_v3>  |do#5 mi5 la5 do#6, do#6|
             <piano_1_v4>  |({la2, do#3, mi3, la3}, la3), (la3, la3)|
         </mesure>
-        <mesure num=4>
+        <mesure num=12>
             <piano_1_v1>  |do#6, -|
             <piano_1_v2>  |do#5 mi5 la5, _|
             <piano_1_v3>  |do#5 mi5 la5 do#6, do#6|
             <piano_1_v4>  |({la2, do#3, mi3, la3}, la3), (la3, la3)|
         </mesure>
-        <mesure num=5>
+        <mesure num=13>
             <piano_1_v1>  |({re6, do#6}, si5, do#6), ({re6, do#6}, si5, do#6)|
             <piano_1_v4>  |({la2, do#3, mi3, la3}, la3), (la3, la3)|
         </mesure>
-        <mesure num=6>
+        <mesure num=14>
             <piano_1_v1>  |fa#5 la5 re6, -|
             <piano_1_v4>  |({re2, fa#2, la2, re3}, re3), (re3, re3)|
         </mesure>
-        <mesure num=7>
+        <mesure num=15>
             <piano_1_v1>  |({re6, mi5 la5 do#6}, {re6, mi5 la5 do#6}), ({re6, mi5 la5 do#6}, {re6, mi5 la5 do#6})|
             <piano_1_v4>  |({la2, do#3, mi3, la3}, la3), (la3, la3)|
         </mesure>
-        <mesure num=8>
+        <mesure num=16>
             <piano_1_v1>  |si5, mi6|
             <piano_1_v2>  |mi5 sol#5, -|
             <piano_1_v4>  |({mi2, sol#2, si2, mi3}, mi3), (mi3, mi3)|
         </mesure>
+
     </section>
 
+
 <meta>
-Section de développement 14 — 8 mesures. Tonalité La majeur, tempo 90 BPM.
+25 mesures. Alla Turca. 2/4. La majeur.
+La coda en La majeur conclut la piece sur une affirmation de la tonique majeure, effacant definitivement l'ambivalence mineur/majeur au profit de la celebration. Mozart allonge la conclusion pour permettre a l'energie accumulee de se liberer en une derniere gesticulation brillante. A l'oreille, la coda produit un sentiment d'epanouissement total, la marche se transforme en triomphe. Crescendo progressif vers le forte final, les figures repetees jouees avec conviction, accelerando leger si souhaite par l'interpretee.
+<section=coda, n_mesure=25, bpm=120, format=2/4, tonalite=La_majeur>
 </meta>
-    <section=section_15, n_mesure=8, bpm=90, format=2/4, tonalite=La_majeur>
+    <section=coda, n_mesure=25, bpm=120, format=2/4, tonalite=La_majeur>
         <mesure num=1>
             <piano_1_v1>  |do#6, -|
             <piano_1_v2>  |do#5 mi5 la5, _|
@@ -596,97 +582,83 @@ Section de développement 14 — 8 mesures. Tonalité La majeur, tempo 90 BPM.
             <piano_1_v1>  |{mi5, la5, do#6}|
             <piano_1_v4>  |({la3, mi4}, do#4, mi4), ({la3, mi4}, do#4, mi4)|
         </mesure>
-    </section>
 
-<meta>
-Section de développement 15 — 8 mesures. Tonalité La majeur, tempo 90 BPM.
-</meta>
-    <section=section_16, n_mesure=8, bpm=90, format=2/4, tonalite=La_majeur>
-        <mesure num=1>
+        <mesure num=9>
             <piano_1_v1>  |{mi5, la5, do#6}|
             <piano_1_v4>  |({la3, mi4}, do#4, mi4), ({la3, mi4}, do#4, mi4)|
         </mesure>
-        <mesure num=2>
+        <mesure num=10>
             <piano_1_v1>  |({re6, do#6}, si5, do#6), ({re6, do#6}, si5, do#6)|
             <piano_1_v4>  |({la3, mi4}, do#4, mi4), ({la3, mi4}, do#4, mi4)|
         </mesure>
-        <mesure num=3>
+        <mesure num=11>
             <piano_1_v1>  |re6, -|
             <piano_1_v4>  |({la3, fa#4}, re4, fa#4), ({la3, fa#4}, re4, fa#4)|
         </mesure>
-        <mesure num=4>
+        <mesure num=12>
             <piano_1_v1>  |({re6, do#6}, {re6, do#6}), ({re6, do#6}, {re6, do#6})|
             <piano_1_v4>  |({la3, mi4}, do#4, mi4), ({la3, mi4}, do#4, mi4)|
         </mesure>
-        <mesure num=5>
+        <mesure num=13>
             <piano_1_v1>  |si5, mi6|
             <piano_1_v2>  |mi5 sol#5, -|
             <piano_1_v4>  |({mi3, mi4}, si3, mi4), ({mi3, mi4}, si3, mi4)|
         </mesure>
-        <mesure num=6>
+        <mesure num=14>
             <piano_1_v1>  |do#6, -|
             <piano_1_v2>  |do#5 mi5 la5, _|
             <piano_1_v3>  |do#5 mi5 la5 do#6, do#6|
             <piano_1_v4>  |({la2, do#3, mi3, la3}, la3), (la3, la3)|
         </mesure>
-        <mesure num=7>
+        <mesure num=15>
             <piano_1_v1>  |do#6, -|
             <piano_1_v2>  |do#5 mi5 la5, _|
             <piano_1_v3>  |do#5 mi5 la5 do#6, do#6|
             <piano_1_v4>  |({la2, do#3, mi3, la3}, la3), (la3, la3)|
         </mesure>
-        <mesure num=8>
+        <mesure num=16>
             <piano_1_v1>  |({re6, do#6}, si5, do#6), ({re6, do#6}, si5, do#6)|
             <piano_1_v4>  |({la2, do#3, mi3, la3}, la3), (la3, la3)|
         </mesure>
-    </section>
 
-<meta>
-Section de développement 16 — 8 mesures. Tonalité La majeur, tempo 90 BPM.
-</meta>
-    <section=section_17, n_mesure=8, bpm=90, format=2/4, tonalite=La_majeur>
-        <mesure num=1>
+        <mesure num=17>
             <piano_1_v1>  |fa#5 la5 re6, -|
             <piano_1_v4>  |({re2, fa#2, la2, re3}, re3), (re3, re3)|
         </mesure>
-        <mesure num=2>
+        <mesure num=18>
             <piano_1_v1>  |{re6, mi5 la5 do#6}|
             <piano_1_v4>  |({la2, do#3, mi3, la3}, la3), (la3, la3)|
         </mesure>
-        <mesure num=3>
+        <mesure num=19>
             <piano_1_v1>  |({do#6, mi5 sol#5 si5}, {do#6, mi5 sol#5 si5}), ({do#6, mi5 sol#5 si5}, {do#6, mi5 sol#5 si5})|
             <piano_1_v4>  |({mi2, sol#2, si2, mi3}, mi3), (mi3, mi3)|
         </mesure>
-        <mesure num=4>
+        <mesure num=20>
             <piano_1_v1>  |la4 do#5 mi5 la5, do#5 do#6|
             <piano_1_v4>  |({la2, do#3, mi3, la3}, la3), (la3, la3)|
         </mesure>
-        <mesure num=5>
+        <mesure num=21>
             <piano_1_v1>  |la4 la5, mi5 mi6|
             <piano_1_v4>  |({la2, do#3, mi3, la3}, la3), (la3, la3)|
         </mesure>
-        <mesure num=6>
+        <mesure num=22>
             <piano_1_v1>  |la4 la5, do#5 do#6|
             <piano_1_v4>  |({la2, do#3, mi3, la3}, la3), (la3, la3)|
         </mesure>
-        <mesure num=7>
+        <mesure num=23>
             <piano_1_v1>  |(la4 la5, do#5 do#6), (la4 la5, mi5 mi6)|
             <piano_1_v4>  |({la2, do#3, mi3, la3}, la3), ({la2, do#3, mi3, la3}, la3)|
         </mesure>
-        <mesure num=8>
+        <mesure num=24>
             <piano_1_v1>  |la4 la5, la4 do#5 mi5 la5|
             <piano_1_v4>  |la2, la2 do#3 mi3 la3|
         </mesure>
-    </section>
 
-<meta>
-Section conclusive — 1 mesures. Tonalité La majeur, tempo 90 BPM.
-</meta>
-    <section=section_18, n_mesure=1, bpm=90, format=2/4, tonalite=La_majeur>
-        <mesure num=1>
+        <mesure num=25>
             <piano_1_v1>  |la4 do#5 mi5 la5, _|
             <piano_1_v4>  |la2 do#3 mi3 la3, _|
         </mesure>
+
     </section>
 
 [EOS]
