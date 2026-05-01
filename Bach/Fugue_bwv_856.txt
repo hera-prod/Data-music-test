@@ -6,7 +6,7 @@ FORMAT : piano_solo
 NIVEAU : avance
 Titre : Fugue en Fa majeur, BWV 856
 Date : 1722
-Auteur : Johann Sebastian Bach
+Auteur : Bach
 Tonalite : Fa_majeur
 Unite : quarter
 Intention : Fugue à trois voix d'un caractère vif et lumineux, portée par l'élan dansant du 3/8, où la sérénité de Fa majeur se teinte de gravité à mesure que la polyphonie se resserre. Fugue tonale en Fa majeur sur 73 mesures en 3/8, tempo vif autour de 96 bpm, construite en trois grandes parties : exposition avec contre-exposition (mm. 1-30), section modulante avec trois strettes en ré mineur et sol mineur (mm. 31-56), et retour récapitulatoire avec stretto final et coda (mm. 57-73).
