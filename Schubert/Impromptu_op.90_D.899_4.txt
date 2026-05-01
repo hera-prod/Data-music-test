@@ -3,19 +3,19 @@
 TACHE : composition
 STYLE : romantique
 FORMAT : piano_solo
-NIVEAU : simple
+NIVEAU : avance
 Titre : Impromptu_op.90_D.899_4
-Date : ?
+Date : 1827
 Auteur : Schubert
 Tonalite : Lab_majeur
 Unite : quarter
-Intention : Pièce pour piano solo, modéré, lumineux, au balancement ternaire. Tonalité : Lab majeur. 277 mesures.
+Intention : Cavalcade brillante en Lab majeur, ce quatrieme Impromptu deploie une arabesque ininterrompue de doubles croches qui evoque un elan irresistible, lumineux et energique, caracteristique du romantisme viennois. Forme ternaire (A-B-A') en Lab majeur, 2/4, Allegretto (environ 120 BPM), 277 mesures avec section B en Fa mineur et coda elargie.
 </tete>
 
 <meta>
-Section d'ouverture — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Allegretto, environ 120 BPM. Signature 2/4. Tonalite Lab majeur. La section A etablit la figure caracteristique de doubles croches qui constituent le moteur perpetuel de cette piece, Lab majeur apportant une brillance chaude et une lumiere specifique aux tonalites bemolisees. Ce mouvement ininterrompu de doubles croches cree une impression de flot irresistible et energique. Gerer le poignet avec souplesse pour assurer la regularite des doubles croches sur toute la section.
 </meta>
-    <section=section_1, n_mesure=8, bpm=90, format=3/4, tonalite=Lab_majeur>
+    <section=section_A_1, n_mesure=8, bpm=120, format=2/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |({si5, mib6}, si5, lab5), ({lab5, si5}, lab5, mib5), ({mib5, lab5}, mib5, si4)|
             <piano_1_v3>  |lab2, lab3 si3 mib4, -|
@@ -51,9 +51,9 @@ Section d'ouverture — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 1 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Allegretto, environ 120 BPM. Signature 2/4. Tonalite Lab majeur. La section A etablit la figure caracteristique de doubles croches qui constituent le moteur perpetuel de cette piece, Lab majeur apportant une brillance chaude et une lumiere specifique aux tonalites bemolisees. Ce mouvement ininterrompu de doubles croches cree une impression de flot irresistible et energique. Gerer le poignet avec souplesse pour assurer la regularite des doubles croches sur toute la section.
 </meta>
-    <section=section_2, n_mesure=8, bpm=90, format=3/4, tonalite=Lab_majeur>
+    <section=section_A_2, n_mesure=8, bpm=120, format=2/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |({si5, mib6}, si5, lab5), ({lab5, si5}, lab5, mib5), ({mib5, lab5}, mib5, si4)|
             <piano_1_v3>  |lab2, lab3 si3 mib4, -|
@@ -89,9 +89,9 @@ Section de développement 1 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 2 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Allegretto, environ 120 BPM. Signature 2/4. Tonalite Lab majeur. La section A etablit la figure caracteristique de doubles croches qui constituent le moteur perpetuel de cette piece, Lab majeur apportant une brillance chaude et une lumiere specifique aux tonalites bemolisees. Ce mouvement ininterrompu de doubles croches cree une impression de flot irresistible et energique. Gerer le poignet avec souplesse pour assurer la regularite des doubles croches sur toute la section.
 </meta>
-    <section=section_3, n_mesure=8, bpm=90, format=3/4, tonalite=Lab_majeur>
+    <section=section_A_3, n_mesure=8, bpm=120, format=2/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |si4 mib5, sib4 reb5 lab5, sib4 reb5 lab5|
             <piano_1_v3>  |si3 mib4, solb3 mi4, solb3 mi4|
@@ -127,9 +127,9 @@ Section de développement 2 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 3 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Allegretto, environ 120 BPM. Signature 2/4. Tonalite Lab majeur. La section A etablit la figure caracteristique de doubles croches qui constituent le moteur perpetuel de cette piece, Lab majeur apportant une brillance chaude et une lumiere specifique aux tonalites bemolisees. Ce mouvement ininterrompu de doubles croches cree une impression de flot irresistible et energique. Gerer le poignet avec souplesse pour assurer la regularite des doubles croches sur toute la section.
 </meta>
-    <section=section_4, n_mesure=8, bpm=90, format=3/4, tonalite=Lab_majeur>
+    <section=section_A_4, n_mesure=8, bpm=120, format=2/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |re5 solb5, sib4 reb5 sol5, sib4 reb5 sol5|
             <piano_1_v3>  |si3 re4, solb3 mi4, solb3 mi4|
@@ -165,9 +165,9 @@ Section de développement 3 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 4 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Allegretto, environ 120 BPM. Signature 2/4. Tonalite Lab majeur. La section A etablit la figure caracteristique de doubles croches qui constituent le moteur perpetuel de cette piece, Lab majeur apportant une brillance chaude et une lumiere specifique aux tonalites bemolisees. Ce mouvement ininterrompu de doubles croches cree une impression de flot irresistible et energique. Gerer le poignet avec souplesse pour assurer la regularite des doubles croches sur toute la section.
 </meta>
-    <section=section_5, n_mesure=8, bpm=90, format=3/4, tonalite=Lab_majeur>
+    <section=section_A_5, n_mesure=8, bpm=120, format=2/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |({do6, mib6}, do6, lab5), ({lab5, do6}, lab5, mib5), ({mib5, lab5}, mib5, do5)|
             <piano_1_v3>  |lab2, mib3 lab3 do4, -|
@@ -203,9 +203,9 @@ Section de développement 4 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 5 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Allegretto, environ 120 BPM. Signature 2/4. Tonalite Lab majeur. La section A etablit la figure caracteristique de doubles croches qui constituent le moteur perpetuel de cette piece, Lab majeur apportant une brillance chaude et une lumiere specifique aux tonalites bemolisees. Ce mouvement ininterrompu de doubles croches cree une impression de flot irresistible et energique. Gerer le poignet avec souplesse pour assurer la regularite des doubles croches sur toute la section.
 </meta>
-    <section=section_6, n_mesure=8, bpm=90, format=3/4, tonalite=Lab_majeur>
+    <section=section_A_6, n_mesure=8, bpm=120, format=2/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |({mib5, sol5}, mib5, sib4), ({sib4, mib5}, sib4, sol4), (sib4, _)|
             <piano_1_v3>  |mib2, mib3 sib3 reb4, -|
@@ -244,9 +244,9 @@ Section de développement 5 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 6 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Allegretto, environ 120 BPM. Signature 2/4. Tonalite Lab majeur. La section A etablit la figure caracteristique de doubles croches qui constituent le moteur perpetuel de cette piece, Lab majeur apportant une brillance chaude et une lumiere specifique aux tonalites bemolisees. Ce mouvement ininterrompu de doubles croches cree une impression de flot irresistible et energique. Gerer le poignet avec souplesse pour assurer la regularite des doubles croches sur toute la section.
 </meta>
-    <section=section_7, n_mesure=8, bpm=90, format=3/4, tonalite=Lab_majeur>
+    <section=section_A_7, n_mesure=8, bpm=120, format=2/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |({mib5, sol5}, mib5, sib4), ({sib4, mib5}, sib4, sol4), (sib4, _)|
             <piano_1_v3>  |sib3, mib4, reb4|
@@ -290,9 +290,9 @@ Section de développement 6 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 7 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Allegretto, environ 120 BPM. Signature 2/4. Tonalite Lab majeur. La section A etablit la figure caracteristique de doubles croches qui constituent le moteur perpetuel de cette piece, Lab majeur apportant une brillance chaude et une lumiere specifique aux tonalites bemolisees. Ce mouvement ininterrompu de doubles croches cree une impression de flot irresistible et energique. Gerer le poignet avec souplesse pour assurer la regularite des doubles croches sur toute la section.
 </meta>
-    <section=section_8, n_mesure=8, bpm=90, format=3/4, tonalite=Lab_majeur>
+    <section=section_A_8, n_mesure=8, bpm=120, format=2/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |({fa5, la5}, fa5, do5), ({do5, fa5}, do5, la4), (do5, _)|
             <piano_1_v3>  |do4, fa4, mib4|
@@ -336,9 +336,9 @@ Section de développement 7 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 8 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Allegretto, environ 120 BPM. Signature 2/4. Tonalite Lab majeur. La section A etablit la figure caracteristique de doubles croches qui constituent le moteur perpetuel de cette piece, Lab majeur apportant une brillance chaude et une lumiere specifique aux tonalites bemolisees. Ce mouvement ininterrompu de doubles croches cree une impression de flot irresistible et energique. Gerer le poignet avec souplesse pour assurer la regularite des doubles croches sur toute la section.
 </meta>
-    <section=section_9, n_mesure=8, bpm=90, format=3/4, tonalite=Lab_majeur>
+    <section=section_A_9, n_mesure=8, bpm=120, format=2/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |({lab5, reb6}, lab5, fa5), ({fa5, lab5}, fa5, reb5), ({reb5, fa5}, reb5, lab4)|
             <piano_1_v3>  |_, _, _|
@@ -381,9 +381,9 @@ Section de développement 8 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 9 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Allegretto, environ 120 BPM. Signature 2/4. Tonalite Fa mineur. La section B en Fa mineur, relatif de Lab majeur, obscurcit le flux lumineux par un changement de mode, la melodie prenant un caractere plus passionnel et dramatique tout en conservant le mouvement perpetuel. Le mode mineur transforme le flot radieux en quelque chose de plus urgent et interieur. Appuyer legerement les temps forts en Fa mineur pour souligner le changement de caractere.
 </meta>
-    <section=section_10, n_mesure=8, bpm=90, format=3/4, tonalite=Lab_majeur>
+    <section=section_B_10, n_mesure=8, bpm=120, format=2/4, tonalite=Fa_mineur>
         <mesure num=1>
             <piano_1_v1>  |fa4, reb5, sib4|
             <piano_1_v2>  |(fa4, {reb4, lab3}), (reb5, {fa4, reb4}), (sib4, {fa4, reb4})|
@@ -431,9 +431,9 @@ Section de développement 9 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 10 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Allegretto, environ 120 BPM. Signature 2/4. Tonalite Fa mineur. La section B en Fa mineur, relatif de Lab majeur, obscurcit le flux lumineux par un changement de mode, la melodie prenant un caractere plus passionnel et dramatique tout en conservant le mouvement perpetuel. Le mode mineur transforme le flot radieux en quelque chose de plus urgent et interieur. Appuyer legerement les temps forts en Fa mineur pour souligner le changement de caractere.
 </meta>
-    <section=section_11, n_mesure=8, bpm=90, format=3/4, tonalite=Lab_majeur>
+    <section=section_B_11, n_mesure=8, bpm=120, format=2/4, tonalite=Fa_mineur>
         <mesure num=1>
             <piano_1_v1>  |({reb5, fa5}, reb5, lab4), ({lab4, reb5}, lab4, fa4), (lab4, _)|
             <piano_1_v2>  |_, _, _|
@@ -474,9 +474,9 @@ Section de développement 10 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 11 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Allegretto, environ 120 BPM. Signature 2/4. Tonalite Fa mineur. La section B en Fa mineur, relatif de Lab majeur, obscurcit le flux lumineux par un changement de mode, la melodie prenant un caractere plus passionnel et dramatique tout en conservant le mouvement perpetuel. Le mode mineur transforme le flot radieux en quelque chose de plus urgent et interieur. Appuyer legerement les temps forts en Fa mineur pour souligner le changement de caractere.
 </meta>
-    <section=section_12, n_mesure=8, bpm=90, format=3/4, tonalite=Lab_majeur>
+    <section=section_B_12, n_mesure=8, bpm=120, format=2/4, tonalite=Fa_mineur>
         <mesure num=1>
             <piano_1_v1>  |({reb5, fa5}, reb5, lab4), ({lab4, reb5}, lab4, fa4), (lab4, _)|
             <piano_1_v3>  |fa3, reb4, do4|
@@ -520,9 +520,9 @@ Section de développement 11 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 12 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Allegretto, environ 120 BPM. Signature 2/4. Tonalite Fa mineur. La section B en Fa mineur, relatif de Lab majeur, obscurcit le flux lumineux par un changement de mode, la melodie prenant un caractere plus passionnel et dramatique tout en conservant le mouvement perpetuel. Le mode mineur transforme le flot radieux en quelque chose de plus urgent et interieur. Appuyer legerement les temps forts en Fa mineur pour souligner le changement de caractere.
 </meta>
-    <section=section_13, n_mesure=8, bpm=90, format=3/4, tonalite=Lab_majeur>
+    <section=section_B_13, n_mesure=8, bpm=120, format=2/4, tonalite=Fa_mineur>
         <mesure num=1>
             <piano_1_v1>  |({mib6, lab6}, mib6, do6), ({do6, mib6}, do6, lab5), (do6, _)|
             <piano_1_v3>  |do4, mib4, do4|
@@ -563,9 +563,9 @@ Section de développement 12 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 13 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Allegretto, environ 120 BPM. Signature 2/4. Tonalite Fa mineur. La section B en Fa mineur, relatif de Lab majeur, obscurcit le flux lumineux par un changement de mode, la melodie prenant un caractere plus passionnel et dramatique tout en conservant le mouvement perpetuel. Le mode mineur transforme le flot radieux en quelque chose de plus urgent et interieur. Appuyer legerement les temps forts en Fa mineur pour souligner le changement de caractere.
 </meta>
-    <section=section_14, n_mesure=8, bpm=90, format=3/4, tonalite=Lab_majeur>
+    <section=section_B_14, n_mesure=8, bpm=120, format=2/4, tonalite=Fa_mineur>
         <mesure num=1>
             <piano_1_v1>  |lab4, -, -|
             <piano_1_v2>  |({mib4, solb4}, mib4, lab3), ({mib4, solb4}, mib4, lab3), ({mib4, solb4}, mib4, lab3)|
@@ -611,9 +611,9 @@ Section de développement 13 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 14 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Allegretto, environ 120 BPM. Signature 2/4. Tonalite Fa mineur. La section B en Fa mineur, relatif de Lab majeur, obscurcit le flux lumineux par un changement de mode, la melodie prenant un caractere plus passionnel et dramatique tout en conservant le mouvement perpetuel. Le mode mineur transforme le flot radieux en quelque chose de plus urgent et interieur. Appuyer legerement les temps forts en Fa mineur pour souligner le changement de caractere.
 </meta>
-    <section=section_15, n_mesure=8, bpm=90, format=3/4, tonalite=Lab_majeur>
+    <section=section_B_15, n_mesure=8, bpm=120, format=2/4, tonalite=Fa_mineur>
         <mesure num=1>
             <piano_1_v1>  |reb5, -, -|
             <piano_1_v2>  |(_, reb4 lab4), (reb4 lab4, reb4 lab4), (reb4 lab4, reb4 lab4)|
@@ -665,9 +665,9 @@ Section de développement 14 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 15 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Allegretto, environ 120 BPM. Signature 2/4. Tonalite Fa mineur. La section B en Fa mineur, relatif de Lab majeur, obscurcit le flux lumineux par un changement de mode, la melodie prenant un caractere plus passionnel et dramatique tout en conservant le mouvement perpetuel. Le mode mineur transforme le flot radieux en quelque chose de plus urgent et interieur. Appuyer legerement les temps forts en Fa mineur pour souligner le changement de caractere.
 </meta>
-    <section=section_16, n_mesure=8, bpm=90, format=3/4, tonalite=Lab_majeur>
+    <section=section_B_16, n_mesure=8, bpm=120, format=2/4, tonalite=Fa_mineur>
         <mesure num=1>
             <piano_1_v1>  |lab4, -, -|
             <piano_1_v2>  |(_, si3 mib4), (si3 mib4, si3 mib4), (si3 mib4, si3 mib4)|
@@ -719,9 +719,9 @@ Section de développement 15 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 16 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Allegretto, environ 120 BPM. Signature 2/4. Tonalite Fa mineur. La section B en Fa mineur, relatif de Lab majeur, obscurcit le flux lumineux par un changement de mode, la melodie prenant un caractere plus passionnel et dramatique tout en conservant le mouvement perpetuel. Le mode mineur transforme le flot radieux en quelque chose de plus urgent et interieur. Appuyer legerement les temps forts en Fa mineur pour souligner le changement de caractere.
 </meta>
-    <section=section_17, n_mesure=8, bpm=90, format=3/4, tonalite=Lab_majeur>
+    <section=section_B_17, n_mesure=8, bpm=120, format=2/4, tonalite=Fa_mineur>
         <mesure num=1>
             <piano_1_v1>  |mib6, mi6, -|
             <piano_1_v2>  |(_, mib5 sol5), (_, mi5 sol5), (mi5 sol5, mi5 sol5)|
@@ -765,9 +765,9 @@ Section de développement 16 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 17 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Allegretto, environ 120 BPM. Signature 2/4. Tonalite Lab majeur. Le retour de la section A en Lab majeur restaure la lumiere et la brillance initiales, ce retour du materiau principal etant ressenti comme une resolution naturelle et satisfaisante. La reprise de Lab majeur produit un effet de soulagement et de retour a l'equilibre. Retrouver l'energie et la luminosite du debut, les doubles croches parfaitement egales.
 </meta>
-    <section=section_18, n_mesure=8, bpm=90, format=3/4, tonalite=Lab_majeur>
+    <section=section_A_prime_18, n_mesure=8, bpm=120, format=2/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |mib6, mi6, -|
             <piano_1_v2>  |(_, mib5 sol5), (_, mi5 sol5), (mi5 sol5, mi5 sol5)|
@@ -811,9 +811,9 @@ Section de développement 17 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 18 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Allegretto, environ 120 BPM. Signature 2/4. Tonalite Lab majeur. Le retour de la section A en Lab majeur restaure la lumiere et la brillance initiales, ce retour du materiau principal etant ressenti comme une resolution naturelle et satisfaisante. La reprise de Lab majeur produit un effet de soulagement et de retour a l'equilibre. Retrouver l'energie et la luminosite du debut, les doubles croches parfaitement egales.
 </meta>
-    <section=section_19, n_mesure=8, bpm=90, format=3/4, tonalite=Lab_majeur>
+    <section=section_A_prime_19, n_mesure=8, bpm=120, format=2/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |lab4, -, -|
             <piano_1_v2>  |(_, lab3 fa4), (lab3 fa4, lab3 fa4), (lab3 fa4, lab3 fa4)|
@@ -863,9 +863,9 @@ Section de développement 18 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 19 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Allegretto, environ 120 BPM. Signature 2/4. Tonalite Lab majeur. Le retour de la section A en Lab majeur restaure la lumiere et la brillance initiales, ce retour du materiau principal etant ressenti comme une resolution naturelle et satisfaisante. La reprise de Lab majeur produit un effet de soulagement et de retour a l'equilibre. Retrouver l'energie et la luminosite du debut, les doubles croches parfaitement egales.
 </meta>
-    <section=section_20, n_mesure=8, bpm=90, format=3/4, tonalite=Lab_majeur>
+    <section=section_A_prime_20, n_mesure=8, bpm=120, format=2/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |fa5, solb5, -|
             <piano_1_v2>  |(_, fa4 re5), (_, solb4 re5), (solb4 re5, solb4 re5)|
@@ -915,9 +915,9 @@ Section de développement 19 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 20 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Allegretto, environ 120 BPM. Signature 2/4. Tonalite Lab majeur. Le retour de la section A en Lab majeur restaure la lumiere et la brillance initiales, ce retour du materiau principal etant ressenti comme une resolution naturelle et satisfaisante. La reprise de Lab majeur produit un effet de soulagement et de retour a l'equilibre. Retrouver l'energie et la luminosite du debut, les doubles croches parfaitement egales.
 </meta>
-    <section=section_21, n_mesure=8, bpm=90, format=3/4, tonalite=Lab_majeur>
+    <section=section_A_prime_21, n_mesure=8, bpm=120, format=2/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |lab4, -, -|
             <piano_1_v2>  |(_, reb4 mi4), (reb4 mi4, reb4 mi4), (reb4 mi4, reb4 mi4)|
@@ -961,9 +961,9 @@ Section de développement 20 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 21 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Allegretto, environ 120 BPM. Signature 2/4. Tonalite Lab majeur. Le retour de la section A en Lab majeur restaure la lumiere et la brillance initiales, ce retour du materiau principal etant ressenti comme une resolution naturelle et satisfaisante. La reprise de Lab majeur produit un effet de soulagement et de retour a l'equilibre. Retrouver l'energie et la luminosite du debut, les doubles croches parfaitement egales.
 </meta>
-    <section=section_22, n_mesure=8, bpm=90, format=3/4, tonalite=Lab_majeur>
+    <section=section_A_prime_22, n_mesure=8, bpm=120, format=2/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |({reb6, mi6}, reb6, sib5), ({reb6, mi6}, reb6, sib5), ({reb6, mi6}, reb6, sib5)|
             <piano_1_v3>  |mib3 sol3 sib3 reb4, -, -|
@@ -999,9 +999,9 @@ Section de développement 21 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 22 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Allegretto, environ 120 BPM. Signature 2/4. Tonalite Lab majeur. Le retour de la section A en Lab majeur restaure la lumiere et la brillance initiales, ce retour du materiau principal etant ressenti comme une resolution naturelle et satisfaisante. La reprise de Lab majeur produit un effet de soulagement et de retour a l'equilibre. Retrouver l'energie et la luminosite du debut, les doubles croches parfaitement egales.
 </meta>
-    <section=section_23, n_mesure=8, bpm=90, format=3/4, tonalite=Lab_majeur>
+    <section=section_A_prime_23, n_mesure=8, bpm=120, format=2/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |lab4 si4, sol4 sib4 mi5, sol4 sib4 mi5|
             <piano_1_v3>  |lab3 si3 mib4, mib3 sib3 mi4, mib3 sib3 mi4|
@@ -1037,9 +1037,9 @@ Section de développement 22 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 23 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Allegretto, environ 120 BPM. Signature 2/4. Tonalite Lab majeur. Le retour de la section A en Lab majeur restaure la lumiere et la brillance initiales, ce retour du materiau principal etant ressenti comme une resolution naturelle et satisfaisante. La reprise de Lab majeur produit un effet de soulagement et de retour a l'equilibre. Retrouver l'energie et la luminosite du debut, les doubles croches parfaitement egales.
 </meta>
-    <section=section_24, n_mesure=8, bpm=90, format=3/4, tonalite=Lab_majeur>
+    <section=section_A_prime_24, n_mesure=8, bpm=120, format=2/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |({mib6, solb6}, mib6, si5), ({si5, mib6}, si5, solb5), ({solb5, si5}, solb5, mib5)|
             <piano_1_v3>  |si2, solb3 si3 mib4, -|
@@ -1075,9 +1075,9 @@ Section de développement 23 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 24 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Allegretto, environ 120 BPM. Signature 2/4. Tonalite Lab majeur. Le retour de la section A en Lab majeur restaure la lumiere et la brillance initiales, ce retour du materiau principal etant ressenti comme une resolution naturelle et satisfaisante. La reprise de Lab majeur produit un effet de soulagement et de retour a l'equilibre. Retrouver l'energie et la luminosite du debut, les doubles croches parfaitement egales.
 </meta>
-    <section=section_25, n_mesure=8, bpm=90, format=3/4, tonalite=Lab_majeur>
+    <section=section_A_prime_25, n_mesure=8, bpm=120, format=2/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |({re6, solb6}, re6, si5), ({si5, re6}, si5, solb5), ({solb5, si5}, solb5, re5)|
             <piano_1_v3>  |si2, solb3 si3 re4, -|
@@ -1113,9 +1113,9 @@ Section de développement 24 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 25 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Allegretto, environ 120 BPM. Signature 2/4. Tonalite Lab majeur. Le retour de la section A en Lab majeur restaure la lumiere et la brillance initiales, ce retour du materiau principal etant ressenti comme une resolution naturelle et satisfaisante. La reprise de Lab majeur produit un effet de soulagement et de retour a l'equilibre. Retrouver l'energie et la luminosite du debut, les doubles croches parfaitement egales.
 </meta>
-    <section=section_26, n_mesure=8, bpm=90, format=3/4, tonalite=Lab_majeur>
+    <section=section_A_prime_26, n_mesure=8, bpm=120, format=2/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |mib4 lab4 si4, mib4 lab4 si4, mib4 lab4 si4|
             <piano_1_v3>  |mib3 lab3 si3, mib3 lab3 si3, mib3 lab3 si3|
@@ -1151,9 +1151,9 @@ Section de développement 25 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 26 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Allegretto, environ 120 BPM. Signature 2/4. Tonalite Lab majeur. La coda prolonge le mouvement perpetuel vers une conclusion brillante, concentrant l'energie dans une elaboration du motif principal avant le geste final affirmatif en Lab majeur. Ces derniers blocs constituent un feu d'artifice conclusif tres caracteristique du style virtuose schubertien. Construire l'energie vers la note finale, forte et bien articulee, pour conclure avec conviction.
 </meta>
-    <section=section_27, n_mesure=8, bpm=90, format=3/4, tonalite=Lab_majeur>
+    <section=coda_27, n_mesure=8, bpm=120, format=2/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |({mib6, lab6}, mib6, do6), ({do6, mib6}, do6, lab5), ({lab5, do6}, lab5, mib5)|
             <piano_1_v3>  |lab2, mib3 lab3 do4, -|
@@ -1189,9 +1189,9 @@ Section de développement 26 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 27 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Allegretto, environ 120 BPM. Signature 2/4. Tonalite Lab majeur. La coda prolonge le mouvement perpetuel vers une conclusion brillante, concentrant l'energie dans une elaboration du motif principal avant le geste final affirmatif en Lab majeur. Ces derniers blocs constituent un feu d'artifice conclusif tres caracteristique du style virtuose schubertien. Construire l'energie vers la note finale, forte et bien articulee, pour conclure avec conviction.
 </meta>
-    <section=section_28, n_mesure=8, bpm=90, format=3/4, tonalite=Lab_majeur>
+    <section=coda_28, n_mesure=8, bpm=120, format=2/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |({mib6, sol6}, mib6, sib5), ({sib5, mib6}, sib5, sol5), (sib5, _)|
             <piano_1_v3>  |mib2, mib3 sib3 reb4, -|
@@ -1233,9 +1233,9 @@ Section de développement 27 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 28 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Allegretto, environ 120 BPM. Signature 2/4. Tonalite Lab majeur. La coda prolonge le mouvement perpetuel vers une conclusion brillante, concentrant l'energie dans une elaboration du motif principal avant le geste final affirmatif en Lab majeur. Ces derniers blocs constituent un feu d'artifice conclusif tres caracteristique du style virtuose schubertien. Construire l'energie vers la note finale, forte et bien articulee, pour conclure avec conviction.
 </meta>
-    <section=section_29, n_mesure=8, bpm=90, format=3/4, tonalite=Lab_majeur>
+    <section=coda_29, n_mesure=8, bpm=120, format=2/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |({mib6, sol6}, mib6, sib5), ({sib5, mib6}, sib5, sol5), (sib5, _)|
             <piano_1_v3>  |sib3, mib4, reb4|
@@ -1279,9 +1279,9 @@ Section de développement 28 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 29 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Allegretto, environ 120 BPM. Signature 2/4. Tonalite Lab majeur. La coda prolonge le mouvement perpetuel vers une conclusion brillante, concentrant l'energie dans une elaboration du motif principal avant le geste final affirmatif en Lab majeur. Ces derniers blocs constituent un feu d'artifice conclusif tres caracteristique du style virtuose schubertien. Construire l'energie vers la note finale, forte et bien articulee, pour conclure avec conviction.
 </meta>
-    <section=section_30, n_mesure=8, bpm=90, format=3/4, tonalite=Lab_majeur>
+    <section=coda_30, n_mesure=8, bpm=120, format=2/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |({lab5, do6}, lab5, mib5), ({mib5, lab5}, mib5, do5), (mib5, _)|
             <piano_1_v3>  |mib4, lab4, solb4|
@@ -1323,9 +1323,9 @@ Section de développement 29 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 30 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Allegretto, environ 120 BPM. Signature 2/4. Tonalite Lab majeur. La coda prolonge le mouvement perpetuel vers une conclusion brillante, concentrant l'energie dans une elaboration du motif principal avant le geste final affirmatif en Lab majeur. Ces derniers blocs constituent un feu d'artifice conclusif tres caracteristique du style virtuose schubertien. Construire l'energie vers la note finale, forte et bien articulee, pour conclure avec conviction.
 </meta>
-    <section=section_31, n_mesure=8, bpm=90, format=3/4, tonalite=Lab_majeur>
+    <section=coda_31, n_mesure=8, bpm=120, format=2/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |({sib3, reb4}, sib3, sol3), ({reb4, mi4}, reb4, sib3), ({sib3, reb4}, sib3, sol3)|
             <piano_1_v3>  |sol2 sib2 reb3 mi3, sol2 sib2 reb3 mi3, -|
@@ -1369,9 +1369,9 @@ Section de développement 30 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 31 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Allegretto, environ 120 BPM. Signature 2/4. Tonalite Lab majeur. La coda prolonge le mouvement perpetuel vers une conclusion brillante, concentrant l'energie dans une elaboration du motif principal avant le geste final affirmatif en Lab majeur. Ces derniers blocs constituent un feu d'artifice conclusif tres caracteristique du style virtuose schubertien. Construire l'energie vers la note finale, forte et bien articulee, pour conclure avec conviction.
 </meta>
-    <section=section_32, n_mesure=8, bpm=90, format=3/4, tonalite=Lab_majeur>
+    <section=coda_32, n_mesure=8, bpm=120, format=2/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |fa4, fa5, reb5|
             <piano_1_v2>  |(fa4, {reb4, lab3}), (fa5, {lab4, fa4}), (reb5, {fa4, reb4})|
@@ -1413,9 +1413,9 @@ Section de développement 31 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 32 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Allegretto, environ 120 BPM. Signature 2/4. Tonalite Lab majeur. La coda prolonge le mouvement perpetuel vers une conclusion brillante, concentrant l'energie dans une elaboration du motif principal avant le geste final affirmatif en Lab majeur. Ces derniers blocs constituent un feu d'artifice conclusif tres caracteristique du style virtuose schubertien. Construire l'energie vers la note finale, forte et bien articulee, pour conclure avec conviction.
 </meta>
-    <section=section_33, n_mesure=8, bpm=90, format=3/4, tonalite=Lab_majeur>
+    <section=coda_33, n_mesure=8, bpm=120, format=2/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |({reb6, fa6}, reb6, lab5), ({lab5, reb6}, lab5, fa5), (lab5, _)|
             <piano_1_v3>  |reb3, fa3 lab3 reb4, -|
@@ -1456,9 +1456,9 @@ Section de développement 32 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 33 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Allegretto, environ 120 BPM. Signature 2/4. Tonalite Lab majeur. La coda prolonge le mouvement perpetuel vers une conclusion brillante, concentrant l'energie dans une elaboration du motif principal avant le geste final affirmatif en Lab majeur. Ces derniers blocs constituent un feu d'artifice conclusif tres caracteristique du style virtuose schubertien. Construire l'energie vers la note finale, forte et bien articulee, pour conclure avec conviction.
 </meta>
-    <section=section_34, n_mesure=8, bpm=90, format=3/4, tonalite=Lab_majeur>
+    <section=coda_34, n_mesure=8, bpm=120, format=2/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |({reb6, fa6}, reb6, lab5), ({lab5, reb6}, lab5, fa5), (lab5, _)|
             <piano_1_v3>  |fa3, reb4, do4|
@@ -1501,9 +1501,9 @@ Section de développement 33 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section conclusive — 5 mesures. Tonalité Lab majeur, tempo 90 BPM.
+5 mesures. Tempo Allegretto, environ 120 BPM. Signature 2/4. Tonalite Lab majeur. La coda prolonge le mouvement perpetuel vers une conclusion brillante, concentrant l'energie dans une elaboration du motif principal avant le geste final affirmatif en Lab majeur. Ces derniers blocs constituent un feu d'artifice conclusif tres caracteristique du style virtuose schubertien. Construire l'energie vers la note finale, forte et bien articulee, pour conclure avec conviction.
 </meta>
-    <section=section_35, n_mesure=5, bpm=90, format=3/4, tonalite=Lab_majeur>
+    <section=coda_35, n_mesure=5, bpm=120, format=2/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |({mib5, lab5}, mib5, do5), ({do5, mib5}, do5, lab4), ({lab4, do5}, lab4, mib4)|
             <piano_1_v3>  |(mib4, _), (do4, _), (lab3, _)|
