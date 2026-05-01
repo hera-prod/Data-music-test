@@ -3,19 +3,19 @@
 TACHE : composition
 STYLE : romantique
 FORMAT : piano_solo
-NIVEAU : simple
+NIVEAU : intermediaire
 Titre : Piano_Sonatas_664-1
-Date : ?
+Date : 1819
 Auteur : Schubert
 Tonalite : La_majeur
 Unite : quarter
-Intention : Pièce pour piano solo, modéré, lumineux, au cadre binaire régulier. Tonalité : La majeur. 136 mesures.
+Intention : Premier mouvement jeune et insouciant, cette sonate en La majeur temoigne du Schubert de 1819 : une ecriture fluide et chantante, empreinte d'optimisme viennois et d'une grace melodique naturelle. Forme sonate en La majeur, 4/4, Allegro moderato (environ 96 BPM), 136 mesures avec exposition (La majeur, Mi majeur), developpement modulant et recapitulation.
 </tete>
 
 <meta>
-Section d'ouverture — 8 mesures. Tonalité La majeur, tempo 85 BPM.
+8 mesures. Tempo Allegro moderato, environ 96 BPM. Signature 4/4. Tonalite La majeur vers Mi majeur. L'exposition presente les themes en La majeur, avec le second theme en Mi majeur, tonalite dominante qui etablit le cadre tonal classique de la forme sonate, Schubert y exprimant une jeunesse insouciante et une melodiosite naturelle. La clarte de cette exposition temoigne du Schubert de 1819, encore dans une tradition classique mais deja romantique dans son expression. Jouer l'exposition avec fluidite et chant, le premier theme articule, le second theme (Mi majeur) plus lyrique.
 </meta>
-    <section=section_1, n_mesure=8, bpm=85, format=4/4, tonalite=La_majeur>
+    <section=exposition_1, n_mesure=8, bpm=96, format=4/4, tonalite=La_majeur>
         <mesure num=1>
             <piano_1_v1>  |(do#5, re5)|
             <piano_1_v2>  |_, _, _, _|
@@ -67,9 +67,9 @@ Section d'ouverture — 8 mesures. Tonalité La majeur, tempo 85 BPM.
     </section>
 
 <meta>
-Section de développement 1 — 8 mesures. Tonalité La majeur, tempo 85 BPM.
+8 mesures. Tempo Allegro moderato, environ 96 BPM. Signature 4/4. Tonalite La majeur vers Mi majeur. L'exposition presente les themes en La majeur, avec le second theme en Mi majeur, tonalite dominante qui etablit le cadre tonal classique de la forme sonate, Schubert y exprimant une jeunesse insouciante et une melodiosite naturelle. La clarte de cette exposition temoigne du Schubert de 1819, encore dans une tradition classique mais deja romantique dans son expression. Jouer l'exposition avec fluidite et chant, le premier theme articule, le second theme (Mi majeur) plus lyrique.
 </meta>
-    <section=section_2, n_mesure=8, bpm=85, format=4/4, tonalite=La_majeur>
+    <section=exposition_2, n_mesure=8, bpm=96, format=4/4, tonalite=La_majeur>
         <mesure num=1>
             <piano_1_v1>  |la4, -, _, (la3 la4, si3 si4)|
             <piano_1_v2>  |do#4, -, _, _|
@@ -121,9 +121,9 @@ Section de développement 1 — 8 mesures. Tonalité La majeur, tempo 85 BPM.
     </section>
 
 <meta>
-Section de développement 2 — 8 mesures. Tonalité La majeur, tempo 85 BPM.
+8 mesures. Tempo Allegro moderato, environ 96 BPM. Signature 4/4. Tonalite La majeur vers Mi majeur. L'exposition presente les themes en La majeur, avec le second theme en Mi majeur, tonalite dominante qui etablit le cadre tonal classique de la forme sonate, Schubert y exprimant une jeunesse insouciante et une melodiosite naturelle. La clarte de cette exposition temoigne du Schubert de 1819, encore dans une tradition classique mais deja romantique dans son expression. Jouer l'exposition avec fluidite et chant, le premier theme articule, le second theme (Mi majeur) plus lyrique.
 </meta>
-    <section=section_3, n_mesure=8, bpm=85, format=4/4, tonalite=La_majeur>
+    <section=exposition_3, n_mesure=8, bpm=96, format=4/4, tonalite=La_majeur>
         <mesure num=1>
             <piano_1_v1>  |do#5, -, _, (do#5, re5)|
             <piano_1_v2>  |do#4 mi4, -, _, _|
@@ -169,9 +169,9 @@ Section de développement 2 — 8 mesures. Tonalité La majeur, tempo 85 BPM.
     </section>
 
 <meta>
-Section de développement 3 — 8 mesures. Tonalité La majeur, tempo 85 BPM.
+8 mesures. Tempo Allegro moderato, environ 96 BPM. Signature 4/4. Tonalite La majeur vers Mi majeur. L'exposition presente les themes en La majeur, avec le second theme en Mi majeur, tonalite dominante qui etablit le cadre tonal classique de la forme sonate, Schubert y exprimant une jeunesse insouciante et une melodiosite naturelle. La clarte de cette exposition temoigne du Schubert de 1819, encore dans une tradition classique mais deja romantique dans son expression. Jouer l'exposition avec fluidite et chant, le premier theme articule, le second theme (Mi majeur) plus lyrique.
 </meta>
-    <section=section_4, n_mesure=8, bpm=85, format=4/4, tonalite=La_majeur>
+    <section=exposition_4, n_mesure=8, bpm=96, format=4/4, tonalite=La_majeur>
         <mesure num=1>
             <piano_1_v1>  |(la5, {si5, la5}), (do6, {si5, la5}), sol#5, (si5, _)|
             <piano_1_v4>  |(fa4, {la4, fa4}), (re#5, {la4, fa4}), (mi4, {sol#4, mi4}), (si4, {sol#4, mi4})|
@@ -207,9 +207,9 @@ Section de développement 3 — 8 mesures. Tonalité La majeur, tempo 85 BPM.
     </section>
 
 <meta>
-Section de développement 4 — 8 mesures. Tonalité La majeur, tempo 85 BPM.
+8 mesures. Tempo Allegro moderato, environ 96 BPM. Signature 4/4. Tonalite La majeur vers Mi majeur. L'exposition presente les themes en La majeur, avec le second theme en Mi majeur, tonalite dominante qui etablit le cadre tonal classique de la forme sonate, Schubert y exprimant une jeunesse insouciante et une melodiosite naturelle. La clarte de cette exposition temoigne du Schubert de 1819, encore dans une tradition classique mais deja romantique dans son expression. Jouer l'exposition avec fluidite et chant, le premier theme articule, le second theme (Mi majeur) plus lyrique.
 </meta>
-    <section=section_5, n_mesure=8, bpm=85, format=4/4, tonalite=La_majeur>
+    <section=exposition_5, n_mesure=8, bpm=96, format=4/4, tonalite=La_majeur>
         <mesure num=1>
             <piano_1_v1>  |si4 si5, -, -, (la5, {si4, re#5})|
             <piano_1_v4>  |si3 mi4 sol#4, -, si3 fa#4 la4, -|
@@ -251,9 +251,9 @@ Section de développement 4 — 8 mesures. Tonalité La majeur, tempo 85 BPM.
     </section>
 
 <meta>
-Section de développement 5 — 8 mesures. Tonalité La majeur, tempo 85 BPM.
+8 mesures. Tempo Allegro moderato, environ 96 BPM. Signature 4/4. Tonalite modulante. Le developpement explore le materiau thematique a travers plusieurs tonalites, Schubert gardant ici un caractere encore classique mais introduisant ses modulations caracteristiques qui traversent des tonalites inattendues. Ce developpement relativement concis maintient la tension sans alourdir l'oeuvre. Maintenir la ligne narrative a travers les modulations, chaque tonalite nouvelle etant bien articulee.
 </meta>
-    <section=section_6, n_mesure=8, bpm=85, format=4/4, tonalite=La_majeur>
+    <section=developpement_6, n_mesure=8, bpm=96, format=4/4, tonalite=La_majeur>
         <mesure num=1>
             <piano_1_v1>  |si4 si5, (la5, {si4, re#5}), (mi5, {sol#5, si5}), (mi5, {sol#5, la5})|
             <piano_1_v4>  |mi4 sol#4, fa#4 la4, (sol#4, _), _|
@@ -303,9 +303,9 @@ Section de développement 5 — 8 mesures. Tonalité La majeur, tempo 85 BPM.
     </section>
 
 <meta>
-Section de développement 6 — 8 mesures. Tonalité La majeur, tempo 85 BPM.
+8 mesures. Tempo Allegro moderato, environ 96 BPM. Signature 4/4. Tonalite modulante. Le developpement explore le materiau thematique a travers plusieurs tonalites, Schubert gardant ici un caractere encore classique mais introduisant ses modulations caracteristiques qui traversent des tonalites inattendues. Ce developpement relativement concis maintient la tension sans alourdir l'oeuvre. Maintenir la ligne narrative a travers les modulations, chaque tonalite nouvelle etant bien articulee.
 </meta>
-    <section=section_7, n_mesure=8, bpm=85, format=4/4, tonalite=La_majeur>
+    <section=developpement_7, n_mesure=8, bpm=96, format=4/4, tonalite=La_majeur>
         <mesure num=1>
             <piano_1_v1>  |(sol#4, la4)|
             <piano_1_v2>  |_, _, _, _|
@@ -357,9 +357,9 @@ Section de développement 6 — 8 mesures. Tonalité La majeur, tempo 85 BPM.
     </section>
 
 <meta>
-Section de développement 7 — 8 mesures. Tonalité La majeur, tempo 85 BPM.
+8 mesures. Tempo Allegro moderato, environ 96 BPM. Signature 4/4. Tonalite modulante. Le developpement explore le materiau thematique a travers plusieurs tonalites, Schubert gardant ici un caractere encore classique mais introduisant ses modulations caracteristiques qui traversent des tonalites inattendues. Ce developpement relativement concis maintient la tension sans alourdir l'oeuvre. Maintenir la ligne narrative a travers les modulations, chaque tonalite nouvelle etant bien articulee.
 </meta>
-    <section=section_8, n_mesure=8, bpm=85, format=4/4, tonalite=La_majeur>
+    <section=developpement_8, n_mesure=8, bpm=96, format=4/4, tonalite=La_majeur>
         <mesure num=1>
             <piano_1_v1>  |(sol#4, la4), (sol#4, sol4), (sol#4, la4), (sol#4, sol4)|
             <piano_1_v2>  |sol#3 mi4, -, sol#3 mi4, do#4 mi4|
@@ -402,9 +402,9 @@ Section de développement 7 — 8 mesures. Tonalité La majeur, tempo 85 BPM.
     </section>
 
 <meta>
-Section de développement 8 — 8 mesures. Tonalité La majeur, tempo 85 BPM.
+8 mesures. Tempo Allegro moderato, environ 96 BPM. Signature 4/4. Tonalite modulante. Le developpement explore le materiau thematique a travers plusieurs tonalites, Schubert gardant ici un caractere encore classique mais introduisant ses modulations caracteristiques qui traversent des tonalites inattendues. Ce developpement relativement concis maintient la tension sans alourdir l'oeuvre. Maintenir la ligne narrative a travers les modulations, chaque tonalite nouvelle etant bien articulee.
 </meta>
-    <section=section_9, n_mesure=8, bpm=85, format=4/4, tonalite=La_majeur>
+    <section=developpement_9, n_mesure=8, bpm=96, format=4/4, tonalite=La_majeur>
         <mesure num=1>
             <piano_1_v1>  |do6 fa6 la6 do7, -, -, -|
             <piano_1_v4>  |(fa1 fa2, {fa#1 sol2, la1 la2}), (si1 si2, {do2 do3, re2 re3}), (mi2 mi3, {fa2 fa3, sol2 sol3}), (fa2 fa3, fa2 fa3)|
@@ -452,9 +452,9 @@ Section de développement 8 — 8 mesures. Tonalité La majeur, tempo 85 BPM.
     </section>
 
 <meta>
-Section de développement 9 — 8 mesures. Tonalité La majeur, tempo 85 BPM.
+8 mesures. Tempo Allegro moderato, environ 96 BPM. Signature 4/4. Tonalite La majeur. La recapitulation reunite les deux themes sous La majeur, apportant la resolution de la tension tonale etablie dans l'exposition et confirmant le caractere lumineux et affirmatif de cette sonate de jeunesse. Ce retour du materiau en tonalite principale produit la satisfaction attendue de la forme sonate classique. Jouer la recapitulation avec confiance et naturel, la resolution tonale en La majeur bien soulignee.
 </meta>
-    <section=section_10, n_mesure=8, bpm=85, format=4/4, tonalite=La_majeur>
+    <section=recapitulation_10, n_mesure=8, bpm=96, format=4/4, tonalite=La_majeur>
         <mesure num=1>
             <piano_1_v1>  |(la4, _), _, _, _|
             <piano_1_v2>  |(do#4, _), _, _, _|
@@ -506,9 +506,9 @@ Section de développement 9 — 8 mesures. Tonalité La majeur, tempo 85 BPM.
     </section>
 
 <meta>
-Section de développement 10 — 8 mesures. Tonalité La majeur, tempo 85 BPM.
+8 mesures. Tempo Allegro moderato, environ 96 BPM. Signature 4/4. Tonalite La majeur. La recapitulation reunite les deux themes sous La majeur, apportant la resolution de la tension tonale etablie dans l'exposition et confirmant le caractere lumineux et affirmatif de cette sonate de jeunesse. Ce retour du materiau en tonalite principale produit la satisfaction attendue de la forme sonate classique. Jouer la recapitulation avec confiance et naturel, la resolution tonale en La majeur bien soulignee.
 </meta>
-    <section=section_11, n_mesure=8, bpm=85, format=4/4, tonalite=La_majeur>
+    <section=recapitulation_11, n_mesure=8, bpm=96, format=4/4, tonalite=La_majeur>
         <mesure num=1>
             <piano_1_v1>  |(do#5, re5), (do#5, do5), (do#5, re5), (do#5, re5)|
             <piano_1_v2>  |do#4 la4, -, do#4 la4, -|
@@ -560,9 +560,9 @@ Section de développement 10 — 8 mesures. Tonalité La majeur, tempo 85 BPM.
     </section>
 
 <meta>
-Section de développement 11 — 8 mesures. Tonalité La majeur, tempo 85 BPM.
+8 mesures. Tempo Allegro moderato, environ 96 BPM. Signature 4/4. Tonalite La majeur. La recapitulation reunite les deux themes sous La majeur, apportant la resolution de la tension tonale etablie dans l'exposition et confirmant le caractere lumineux et affirmatif de cette sonate de jeunesse. Ce retour du materiau en tonalite principale produit la satisfaction attendue de la forme sonate classique. Jouer la recapitulation avec confiance et naturel, la resolution tonale en La majeur bien soulignee.
 </meta>
-    <section=section_12, n_mesure=8, bpm=85, format=4/4, tonalite=La_majeur>
+    <section=recapitulation_12, n_mesure=8, bpm=96, format=4/4, tonalite=La_majeur>
         <mesure num=1>
             <piano_1_v1>  |la4 la5, -, _, _|
             <piano_1_v2>  |_, _, _, _|
@@ -619,9 +619,9 @@ Section de développement 11 — 8 mesures. Tonalité La majeur, tempo 85 BPM.
     </section>
 
 <meta>
-Section de développement 12 — 8 mesures. Tonalité La majeur, tempo 85 BPM.
+8 mesures. Tempo Allegro moderato, environ 96 BPM. Signature 4/4. Tonalite La majeur. La recapitulation reunite les deux themes sous La majeur, apportant la resolution de la tension tonale etablie dans l'exposition et confirmant le caractere lumineux et affirmatif de cette sonate de jeunesse. Ce retour du materiau en tonalite principale produit la satisfaction attendue de la forme sonate classique. Jouer la recapitulation avec confiance et naturel, la resolution tonale en La majeur bien soulignee.
 </meta>
-    <section=section_13, n_mesure=8, bpm=85, format=4/4, tonalite=La_majeur>
+    <section=recapitulation_13, n_mesure=8, bpm=96, format=4/4, tonalite=La_majeur>
         <mesure num=1>
             <piano_1_v1>  |do#5, -, _, (do#5 do#6, re5 re6)|
             <piano_1_v2>  |do#4 mi4, -, _, _|
@@ -662,9 +662,9 @@ Section de développement 12 — 8 mesures. Tonalité La majeur, tempo 85 BPM.
     </section>
 
 <meta>
-Section de développement 13 — 8 mesures. Tonalité La majeur, tempo 85 BPM.
+8 mesures. Tempo Allegro moderato, environ 96 BPM. Signature 4/4. Tonalite La majeur. La recapitulation reunite les deux themes sous La majeur, apportant la resolution de la tension tonale etablie dans l'exposition et confirmant le caractere lumineux et affirmatif de cette sonate de jeunesse. Ce retour du materiau en tonalite principale produit la satisfaction attendue de la forme sonate classique. Jouer la recapitulation avec confiance et naturel, la resolution tonale en La majeur bien soulignee.
 </meta>
-    <section=section_14, n_mesure=8, bpm=85, format=4/4, tonalite=La_majeur>
+    <section=recapitulation_14, n_mesure=8, bpm=96, format=4/4, tonalite=La_majeur>
         <mesure num=1>
             <piano_1_v1>  |(re5, {mi5, re5}), (fa#5, {mi5, re5}), do#5, (mi5, _)|
             <piano_1_v4>  |(si3, {mi4, si3}), (sol#4, {mi4, si3}), (la3, {do#4, la3}), (mi4, {do#4, la3})|
@@ -707,9 +707,9 @@ Section de développement 13 — 8 mesures. Tonalité La majeur, tempo 85 BPM.
     </section>
 
 <meta>
-Section de développement 14 — 8 mesures. Tonalité La majeur, tempo 85 BPM.
+8 mesures. Tempo Allegro moderato, environ 96 BPM. Signature 4/4. Tonalite La majeur. La recapitulation reunite les deux themes sous La majeur, apportant la resolution de la tension tonale etablie dans l'exposition et confirmant le caractere lumineux et affirmatif de cette sonate de jeunesse. Ce retour du materiau en tonalite principale produit la satisfaction attendue de la forme sonate classique. Jouer la recapitulation avec confiance et naturel, la resolution tonale en La majeur bien soulignee.
 </meta>
-    <section=section_15, n_mesure=8, bpm=85, format=4/4, tonalite=La_majeur>
+    <section=recapitulation_15, n_mesure=8, bpm=96, format=4/4, tonalite=La_majeur>
         <mesure num=1>
             <piano_1_v1>  |mi5 mi6, -, -, (re6, {mi5, sol#5})|
             <piano_1_v4>  |la4 do#5, -, si4 re5, -|
@@ -753,9 +753,9 @@ Section de développement 14 — 8 mesures. Tonalité La majeur, tempo 85 BPM.
     </section>
 
 <meta>
-Section de développement 15 — 8 mesures. Tonalité La majeur, tempo 85 BPM.
+8 mesures. Tempo Allegro moderato, environ 96 BPM. Signature 4/4. Tonalite La majeur. La recapitulation reunite les deux themes sous La majeur, apportant la resolution de la tension tonale etablie dans l'exposition et confirmant le caractere lumineux et affirmatif de cette sonate de jeunesse. Ce retour du materiau en tonalite principale produit la satisfaction attendue de la forme sonate classique. Jouer la recapitulation avec confiance et naturel, la resolution tonale en La majeur bien soulignee.
 </meta>
-    <section=section_16, n_mesure=8, bpm=85, format=4/4, tonalite=La_majeur>
+    <section=recapitulation_16, n_mesure=8, bpm=96, format=4/4, tonalite=La_majeur>
         <mesure num=1>
             <piano_1_v1>  |mi4 mi5, (re5, {mi4, sol#4}), (la4, {do#5, mi5}), (la5, {do#6, re6})|
             <piano_1_v4>  |la3 do#4, si3 re4, (la3 do#4, _), _|
@@ -805,9 +805,9 @@ Section de développement 15 — 8 mesures. Tonalité La majeur, tempo 85 BPM.
     </section>
 
 <meta>
-Section conclusive — 8 mesures. Tonalité La majeur, tempo 85 BPM.
+8 mesures. Tempo Allegro moderato, environ 96 BPM. Signature 4/4. Tonalite La majeur. La recapitulation reunite les deux themes sous La majeur, apportant la resolution de la tension tonale etablie dans l'exposition et confirmant le caractere lumineux et affirmatif de cette sonate de jeunesse. Ce retour du materiau en tonalite principale produit la satisfaction attendue de la forme sonate classique. Jouer la recapitulation avec confiance et naturel, la resolution tonale en La majeur bien soulignee.
 </meta>
-    <section=section_17, n_mesure=8, bpm=85, format=4/4, tonalite=La_majeur>
+    <section=recapitulation_17, n_mesure=8, bpm=96, format=4/4, tonalite=La_majeur>
         <mesure num=1>
             <piano_1_v1>  |_, _, _, _|
             <piano_1_v2>  |_, _, _, _|
