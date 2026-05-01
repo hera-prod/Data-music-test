@@ -6,10 +6,10 @@ FORMAT : piano_solo
 NIVEAU : avance
 Titre : Fugue en do majeur, BWV 870, Clavier bien tempéré II n°1
 Date : 1742
-Auteur : Johann Sebastian Bach
+Auteur : Bach
 Tonalite : Do_majeur
 Unite : quarter
-Intention : Fugue à trois voix d'un caractère enjoué et lumineux, dont le sujet rythmique et assertif crée une énergie dansante portée jusqu'à une coda d'une vigueur sonore remarquable selon les mots de Tovey. Forme fugue à trois voix en do majeur, mesure à 2/4, 83 mesures, tempo modéré vif aux alentours de 90 pulsations par minute, avec contre-sujet présent tout au long de l'oeuvre.
+Intention : Fugue à trois voix d'un caractère enjoué et lumineux, dont le sujet rythmique et assertif crée une énergie dansante portée jusqu'à une coda d'une vigueur sonore remarquable. Forme fugue à trois voix en do majeur, mesure à 2/4, 83 mesures, tempo modéré vif aux alentours de 90 pulsations par minute, avec contre-sujet présent tout au long de l'oeuvre.
 </tete>
 
 <meta>
