@@ -6,7 +6,7 @@ FORMAT : piano_solo
 NIVEAU : avance
 Titre : Fugue en Sol dièse mineur, BWV 863, Clavier bien tempéré I n°18
 Date : 1722
-Auteur : Johann Sebastian Bach
+Auteur : Bach
 Tonalite : Sol#_mineur
 Unite : quarter
 Intention : Fugue d'un caractère grave et intensément expressif, portée par une écriture polyphonique à quatre voix d'une rigueur contrapuntique sombre et poignante. Forme fuguée en Sol dièse mineur, 4/4, 41 mesures, avec exposition, contre-exposition, cinq épisodes modulants et une coda conclusive, tempo modéré à 90 BPM.
