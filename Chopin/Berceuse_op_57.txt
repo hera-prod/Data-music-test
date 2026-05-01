@@ -9,11 +9,14 @@ Date : 1844
 Auteur : Frédéric Chopin
 Tonalite : Reb_majeur
 Unite : quarter
-Intention : Rêve et silence intérieur, la Berceuse est un chef-d'oeuvre de la variation continue sur basse obstinée: un balancement invariant entre tonique et dominante septième à la main gauche soutient 14 variations mélodiques et ornementales d'une fantaisie toujours plus raffinée à la main droite. Forme de variations sur basse ostinato en Ré bémol majeur, 70 mesures en 6/8, Andante (90 BPM), composée à Nohant en 1843 et publiée en 1844 sous le titre initial «Variantes».
+Intention : Rêve et silence intérieur, la Berceuse est un chef-d'oeuvre de la variation continue sur basse obstinée, un balancement invariant entre tonique et dominante septième à la main gauche soutenant quatorze variations mélodiques et ornementales d'une fantaisie toujours plus raffinée à la main droite. Forme de variations sur basse ostinato en ré bémol majeur, 70 mesures en 6/8, Andante (90 BPM), composée à Nohant en 1843 et publiée en 1844 sous le titre initial «Variantes».
 </tete>
 
 <meta>
-8 mesures, Ré bémol majeur, établissement de l'ostinato, tempo 90 BPM. La main gauche installe dès la première mesure l'ostinato harmonique fondamental, alternant tonique et dominante septième en un balancement de 6/8 qui ne cessera plus jusqu'à la fin. La main droite expose le thème principal dans sa forme la plus simple et la plus vocale. La main gauche doit être douce comme une berceuse, sans accents, parfaitement régulière.
+8 mesures. BPM 90. Signature 6/8. Tonalité Reb_majeur.
+8 mesures, Ré bémol majeur, établissement de l'ostinato, tempo 90 BPM.
+La main gauche installe dès la première mesure l'ostinato harmonique fondamental, alternant tonique et dominante septième en un balancement de 6/8 qui ne cessera plus jusqu'à la fin. La main droite expose le thème principal dans sa forme la plus simple et la plus vocale.
+La main gauche doit être douce comme une berceuse, sans accents, parfaitement régulière.
 </meta>
     <section=introduction, n_mesure=8, bpm=90, format=6/8, tonalite=Reb_majeur>
         <mesure num=1>
@@ -54,7 +57,10 @@ Intention : Rêve et silence intérieur, la Berceuse est un chef-d'oeuvre de la 
     </section>
 
 <meta>
-8 mesures, Ré bémol majeur, variation 1, tempo 90 BPM. Première variation: la mélodie s'orne de quelques notes de passage supplémentaires tout en restant reconnaissable sur l'ostinato immuable. L'art de la berceuse est dans l'équilibre entre la variété de la droite et la stabilité de la gauche. Permettre à la mélodie de respirer librement malgré le cadre fixe.
+8 mesures. BPM 90. Signature 6/8. Tonalité Reb_majeur.
+8 mesures, Ré bémol majeur, variation 1, tempo 90 BPM.
+Première variation: la mélodie s'orne de quelques notes de passage supplémentaires tout en restant reconnaissable sur l'ostinato immuable. L'art de la berceuse est dans l'équilibre entre la variété de la droite et la stabilité de la gauche.
+Permettre à la mélodie de respirer librement malgré le cadre fixe.
 </meta>
     <section=theme_1, n_mesure=8, bpm=90, format=6/8, tonalite=Reb_majeur>
         <mesure num=1>
@@ -98,7 +104,10 @@ Intention : Rêve et silence intérieur, la Berceuse est un chef-d'oeuvre de la 
     </section>
 
 <meta>
-8 mesures, Ré bémol majeur, variations 2-3, tempo 90 BPM. Deuxième et troisième variations avec enrichissement progressif des fioritures ornementales; les traits de la main droite commencent à s'accélérer. La beauté de ces variations réside dans leur capacité à surprendre sans jamais troubler le calme. L'ostinato de la gauche reste identique depuis la première note.
+8 mesures. BPM 90. Signature 6/8. Tonalité Reb_majeur.
+8 mesures, Ré bémol majeur, variations 2-3, tempo 90 BPM.
+Deuxième et troisième variations avec enrichissement progressif des fioritures ornementales; les traits de la main droite commencent à s'accélérer. La beauté de ces variations réside dans leur capacité à surprendre sans jamais troubler le calme.
+L'ostinato de la gauche reste identique depuis la première note.
 </meta>
     <section=theme_1, n_mesure=8, bpm=90, format=6/8, tonalite=Reb_majeur>
         <mesure num=1>
@@ -137,7 +146,10 @@ Intention : Rêve et silence intérieur, la Berceuse est un chef-d'oeuvre de la 
     </section>
 
 <meta>
-8 mesures, Ré bémol majeur, variations 4-5, complexification ornementale, tempo 90 BPM. Les variations atteignent une complexité pianistique accrue avec des ornements en doubles croches. La mélodie originale est maintenant enchâssée dans un filigrane ornemental. La transparence est la clé: toutes les notes doivent être audibles malgré la densité.
+8 mesures. BPM 90. Signature 6/8. Tonalité Reb_majeur.
+8 mesures, Ré bémol majeur, variations 4-5, complexification ornementale, tempo 90 BPM.
+Les variations atteignent une complexité pianistique accrue avec des ornements en doubles croches. La mélodie originale est maintenant enchâssée dans un filigrane ornemental.
+La transparence est la clé: toutes les notes doivent être audibles malgré la densité.
 </meta>
     <section=developpement, n_mesure=8, bpm=90, format=6/8, tonalite=Reb_majeur>
         <mesure num=1>
@@ -175,7 +187,10 @@ Intention : Rêve et silence intérieur, la Berceuse est un chef-d'oeuvre de la 
     </section>
 
 <meta>
-8 mesures, Ré bémol majeur, variations 6-7, virtuosité florale, tempo 90 BPM. Sommet de la complexité ornementale avec des trilles, des gammes et des arpèges imbriqués; la neuvième variation (comptée depuis le début) représente le climax ornemental de toute la pièce. Jouer avec une légèreté aérienne; les ornements ne doivent jamais peser sur la mélodie sous-jacente.
+8 mesures. BPM 90. Signature 6/8. Tonalité Reb_majeur.
+8 mesures, Ré bémol majeur, variations 6-7, virtuosité florale, tempo 90 BPM.
+Sommet de la complexité ornementale avec des trilles, des gammes et des arpèges imbriqués; la neuvième variation (comptée depuis le début) représente le climax ornemental de toute la pièce. Jouer avec une légèreté aérienne;
+les ornements ne doivent jamais peser sur la mélodie sous-jacente.
 </meta>
     <section=developpement, n_mesure=8, bpm=90, format=6/8, tonalite=Reb_majeur>
         <mesure num=1>
@@ -217,7 +232,10 @@ Intention : Rêve et silence intérieur, la Berceuse est un chef-d'oeuvre de la 
     </section>
 
 <meta>
-8 mesures, Ré bémol majeur, variations 8-9, point culminant, tempo 90 BPM. Après le climax ornemental, les variations commencent leur voyage de retour vers la simplicité. Ce mouvement de retrait est aussi expressif que la montée précédente: le calme qui revient progressivement suggère l'endormissement de l'enfant.
+8 mesures. BPM 90. Signature 6/8. Tonalité Reb_majeur.
+8 mesures, Ré bémol majeur, variations 8-9, point culminant, tempo 90 BPM.
+Après le climax ornemental, les variations commencent leur voyage de retour vers la simplicité.
+Ce mouvement de retrait est aussi expressif que la montée précédente: le calme qui revient progressivement suggère l'endormissement de l'enfant.
 </meta>
     <section=developpement, n_mesure=8, bpm=90, format=6/8, tonalite=Reb_majeur>
         <mesure num=1>
@@ -258,7 +276,10 @@ Intention : Rêve et silence intérieur, la Berceuse est un chef-d'oeuvre de la 
     </section>
 
 <meta>
-8 mesures, Ré bémol majeur, variations 10-11, simplification, tempo 90 BPM. La texture s'éclaircit progressivement; les ornements se font plus rares. La mélodie originale commence à réapparaître dans sa forme épurée. La main gauche maintient son rôle de bercement sans jamais faiblir.
+8 mesures. BPM 90. Signature 6/8. Tonalité Reb_majeur.
+8 mesures, Ré bémol majeur, variations 10-11, simplification, tempo 90 BPM.
+La texture s'éclaircit progressivement; les ornements se font plus rares. La mélodie originale commence à réapparaître dans sa forme épurée.
+La main gauche maintient son rôle de bercement sans jamais faiblir.
 </meta>
     <section=recapitulation, n_mesure=8, bpm=90, format=6/8, tonalite=Reb_majeur>
         <mesure num=1>
@@ -299,7 +320,10 @@ Intention : Rêve et silence intérieur, la Berceuse est un chef-d'oeuvre de la 
     </section>
 
 <meta>
-8 mesures, Ré bémol majeur, variations 12-13, retour au calme, tempo 90 BPM. Retour quasi total à la simplicité du début; le rêve s'apaise. Les dernières variations sont les plus intimes et les plus poétiques de la pièce. Diminuer progressivement la dynamique vers le pianissimo.
+8 mesures. BPM 90. Signature 6/8. Tonalité Reb_majeur.
+8 mesures, Ré bémol majeur, variations 12-13, retour au calme, tempo 90 BPM.
+Retour quasi total à la simplicité du début; le rêve s'apaise. Les dernières variations sont les plus intimes et les plus poétiques de la pièce.
+Diminuer progressivement la dynamique vers le pianissimo.
 </meta>
     <section=recapitulation, n_mesure=8, bpm=90, format=6/8, tonalite=Reb_majeur>
         <mesure num=1>
@@ -339,7 +363,10 @@ Intention : Rêve et silence intérieur, la Berceuse est un chef-d'oeuvre de la 
     </section>
 
 <meta>
-6 mesures conclusives, Ré bémol majeur, tempo 90 BPM. La coda dissout l'ostinato en quelques notes isolées; l'alternance tonique-dominante se ralentit et s'éteint. Le dernier accord en Ré bémol majeur doit être aussi doux qu'un souffle, comme si la musique s'évaporait dans le silence du sommeil.
+6 mesures. BPM 90. Signature 6/8. Tonalité Reb_majeur.
+6 mesures conclusives, Ré bémol majeur, tempo 90 BPM.
+La coda dissout l'ostinato en quelques notes isolées; l'alternance tonique-dominante se ralentit et s'éteint.
+Le dernier accord en Ré bémol majeur doit être aussi doux qu'un souffle, comme si la musique s'évaporait dans le silence du sommeil.
 </meta>
     <section=coda, n_mesure=6, bpm=90, format=6/8, tonalite=Reb_majeur>
         <mesure num=1>
