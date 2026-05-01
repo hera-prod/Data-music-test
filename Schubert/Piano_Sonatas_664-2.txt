@@ -3,19 +3,19 @@
 TACHE : composition
 STYLE : romantique
 FORMAT : piano_solo
-NIVEAU : simple
+NIVEAU : intermediaire
 Titre : Piano_Sonatas_664-2
-Date : ?
+Date : 1819
 Auteur : Schubert
 Tonalite : Re_majeur
 Unite : quarter
-Intention : Pièce pour piano solo, modéré, lumineux, au balancement ternaire. Tonalité : Re majeur. 75 mesures.
+Intention : Mouvement lent d'une tendresse apaisee, cet Andante en Re majeur distille une poesie douce et presque chanson populaire, avec une ligne melodique simple qui se grave immediatement dans la memoire. Forme ternaire en Re majeur, 3/4, Andante (environ 54 BPM), 75 mesures, section B en Si mineur.
 </tete>
 
 <meta>
-Section d'ouverture — 8 mesures. Tonalité Re majeur, tempo 85 BPM.
+8 mesures. Tempo Andante, environ 54 BPM. Signature 3/4. Tonalite Re majeur. La section A en Re majeur etablit une melodie simple et touchante d'une grande qualite chantante, Schubert creant une page d'une tendresse naturelle qui rappelle ses Lieder par l'intimite de son expression. Re majeur apporte une chaleur specifique, legerement distante de La majeur, donnant a ce mouvement lent une couleur particuliere. Chanter la melodie avec une ligne parfaitement legato, le toucher doux et profond.
 </meta>
-    <section=section_1, n_mesure=8, bpm=85, format=3/4, tonalite=Re_majeur>
+    <section=section_A_1, n_mesure=8, bpm=54, format=3/4, tonalite=Re_majeur>
         <mesure num=1>
             <piano_1_v1>  |re4 fa#4 si4, (re4 fa#4 la4, re4 fa#4 la4), (re4 fa#4 la4, re4 fa#4 la4)|
             <piano_1_v3>  |re3 fa#3 si3, (re3 fa#3 la3, re3 fa#3 la3), (re3 fa#3 la3, re3 fa#3 la3)|
@@ -52,9 +52,9 @@ Section d'ouverture — 8 mesures. Tonalité Re majeur, tempo 85 BPM.
     </section>
 
 <meta>
-Section de développement 1 — 8 mesures. Tonalité Re majeur, tempo 85 BPM.
+8 mesures. Tempo Andante, environ 54 BPM. Signature 3/4. Tonalite Re majeur. La section A en Re majeur etablit une melodie simple et touchante d'une grande qualite chantante, Schubert creant une page d'une tendresse naturelle qui rappelle ses Lieder par l'intimite de son expression. Re majeur apporte une chaleur specifique, legerement distante de La majeur, donnant a ce mouvement lent une couleur particuliere. Chanter la melodie avec une ligne parfaitement legato, le toucher doux et profond.
 </meta>
-    <section=section_2, n_mesure=8, bpm=85, format=3/4, tonalite=Re_majeur>
+    <section=section_A_2, n_mesure=8, bpm=54, format=3/4, tonalite=Re_majeur>
         <mesure num=1>
             <piano_1_v1>  |re4 fa#4, re4, (re4 fa#4, re4 fa#4 si4)|
             <piano_1_v3>  |re3 fa#3, re3, (re3 fa#3, re3 fa#3 si3)|
@@ -90,9 +90,9 @@ Section de développement 1 — 8 mesures. Tonalité Re majeur, tempo 85 BPM.
     </section>
 
 <meta>
-Section de développement 2 — 8 mesures. Tonalité Re majeur, tempo 85 BPM.
+8 mesures. Tempo Andante, environ 54 BPM. Signature 3/4. Tonalite Re majeur. La section A en Re majeur etablit une melodie simple et touchante d'une grande qualite chantante, Schubert creant une page d'une tendresse naturelle qui rappelle ses Lieder par l'intimite de son expression. Re majeur apporte une chaleur specifique, legerement distante de La majeur, donnant a ce mouvement lent une couleur particuliere. Chanter la melodie avec une ligne parfaitement legato, le toucher doux et profond.
 </meta>
-    <section=section_3, n_mesure=8, bpm=85, format=3/4, tonalite=Re_majeur>
+    <section=section_A_3, n_mesure=8, bpm=54, format=3/4, tonalite=Re_majeur>
         <mesure num=1>
             <piano_1_v1>  |do#6, -, -|
             <piano_1_v3>  |({sol#3, si3}, fa4, si3), ({sol#3, si3}, fa4, si3), ({sol#3, si3}, fa4, si3)|
@@ -128,9 +128,9 @@ Section de développement 2 — 8 mesures. Tonalité Re majeur, tempo 85 BPM.
     </section>
 
 <meta>
-Section de développement 3 — 8 mesures. Tonalité Re majeur, tempo 85 BPM.
+8 mesures. Tempo Andante, environ 54 BPM. Signature 3/4. Tonalite Re majeur. La section A en Re majeur etablit une melodie simple et touchante d'une grande qualite chantante, Schubert creant une page d'une tendresse naturelle qui rappelle ses Lieder par l'intimite de son expression. Re majeur apporte une chaleur specifique, legerement distante de La majeur, donnant a ce mouvement lent une couleur particuliere. Chanter la melodie avec une ligne parfaitement legato, le toucher doux et profond.
 </meta>
-    <section=section_4, n_mesure=8, bpm=85, format=3/4, tonalite=Re_majeur>
+    <section=section_A_4, n_mesure=8, bpm=54, format=3/4, tonalite=Re_majeur>
         <mesure num=1>
             <piano_1_v1>  |do#5, fa#4, (la4, sol#4)|
             <piano_1_v3>  |({do#3, la3}, do#4, la3), ({do#3, la3}, do#4, la3), ({do#3, si3}, do#4, si3)|
@@ -171,9 +171,9 @@ Section de développement 3 — 8 mesures. Tonalité Re majeur, tempo 85 BPM.
     </section>
 
 <meta>
-Section de développement 4 — 8 mesures. Tonalité Re majeur, tempo 85 BPM.
+8 mesures. Tempo Andante, environ 54 BPM. Signature 3/4. Tonalite Si mineur. La section B en Si mineur apporte une ombre momentanee dans le discours, Schubert utilisant le relatif mineur pour approfondir l'expression emotionnelle sans rompre la coherence du mouvement lent. Ce passage en mineur enrichit la palette expressive et rend le retour au majeur encore plus doux. Signaler subtilement l'entree en Si mineur, une legere intensification du toucher suffit.
 </meta>
-    <section=section_5, n_mesure=8, bpm=85, format=3/4, tonalite=Re_majeur>
+    <section=section_B_5, n_mesure=8, bpm=54, format=3/4, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |sol4 si4 mi5, (sol4 si4 re5, {sol4 si4 re5, sol4 si4 re5}), (sol4 si4 re5, {sol4 si4 re5, sol4 si4 re5})|
             <piano_1_v3>  |(sol2, {re3, sol3}), (si3, {sol3, re3}), (si3, {sol3, re3})|
@@ -212,9 +212,9 @@ Section de développement 4 — 8 mesures. Tonalité Re majeur, tempo 85 BPM.
     </section>
 
 <meta>
-Section de développement 5 — 8 mesures. Tonalité Re majeur, tempo 85 BPM.
+8 mesures. Tempo Andante, environ 54 BPM. Signature 3/4. Tonalite Si mineur. La section B en Si mineur apporte une ombre momentanee dans le discours, Schubert utilisant le relatif mineur pour approfondir l'expression emotionnelle sans rompre la coherence du mouvement lent. Ce passage en mineur enrichit la palette expressive et rend le retour au majeur encore plus doux. Signaler subtilement l'entree en Si mineur, une legere intensification du toucher suffit.
 </meta>
-    <section=section_6, n_mesure=8, bpm=85, format=3/4, tonalite=Re_majeur>
+    <section=section_B_6, n_mesure=8, bpm=54, format=3/4, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |si4 mi5 la5, (si4 mi5 sol5, {si4 mi5 sol5, si4 mi5 sol5}), (si4 mi5 sol5, {si4 mi5 sol5, si4 mi5 sol5})|
             <piano_1_v3>  |(mi2, {mi3, sol3}), (si3, {sol3, mi3}), (si3, {sol3, mi3})|
@@ -251,9 +251,9 @@ Section de développement 5 — 8 mesures. Tonalité Re majeur, tempo 85 BPM.
     </section>
 
 <meta>
-Section de développement 6 — 8 mesures. Tonalité Re majeur, tempo 85 BPM.
+8 mesures. Tempo Andante, environ 54 BPM. Signature 3/4. Tonalite Si mineur. La section B en Si mineur apporte une ombre momentanee dans le discours, Schubert utilisant le relatif mineur pour approfondir l'expression emotionnelle sans rompre la coherence du mouvement lent. Ce passage en mineur enrichit la palette expressive et rend le retour au majeur encore plus doux. Signaler subtilement l'entree en Si mineur, une legere intensification du toucher suffit.
 </meta>
-    <section=section_7, n_mesure=8, bpm=85, format=3/4, tonalite=Re_majeur>
+    <section=section_B_7, n_mesure=8, bpm=54, format=3/4, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |la3 do#4 mi4 sol4, sol3 la3 do#4 mi4, -|
             <piano_1_v3>  |la2, (la2, {la1, la1}), (la1, {la1, la1})|
@@ -289,9 +289,9 @@ Section de développement 6 — 8 mesures. Tonalité Re majeur, tempo 85 BPM.
     </section>
 
 <meta>
-Section de développement 7 — 8 mesures. Tonalité Re majeur, tempo 85 BPM.
+8 mesures. Tempo Andante, environ 54 BPM. Signature 3/4. Tonalite Re majeur. Le retour de la section A en Re majeur apporte la resolution apaisee attendue, Schubert concluant ce mouvement lent avec la meme tendresse qu'il avait etablie au debut, comme une confidence partagee et acceptee. Ce retour confirme le caractere intime et arrondi de la forme ternaire. Retrouver la tendresse initiale, peut-etre encore plus interieure pour la conclusion.
 </meta>
-    <section=section_8, n_mesure=8, bpm=85, format=3/4, tonalite=Re_majeur>
+    <section=section_A_prime_8, n_mesure=8, bpm=54, format=3/4, tonalite=Re_majeur>
         <mesure num=1>
             <piano_1_v1>  |sol4 la4 fa#5, (sol4 la4 mi5, sol4 si4 mi5), (sol4 la4 mi5, sol4 do#5 la5)|
             <piano_1_v3>  |la3 re4, (la3 do#4, la3 si3), (la3 do#4, la3)|
@@ -327,9 +327,9 @@ Section de développement 7 — 8 mesures. Tonalité Re majeur, tempo 85 BPM.
     </section>
 
 <meta>
-Section de développement 8 — 8 mesures. Tonalité Re majeur, tempo 85 BPM.
+8 mesures. Tempo Andante, environ 54 BPM. Signature 3/4. Tonalite Re majeur. Le retour de la section A en Re majeur apporte la resolution apaisee attendue, Schubert concluant ce mouvement lent avec la meme tendresse qu'il avait etablie au debut, comme une confidence partagee et acceptee. Ce retour confirme le caractere intime et arrondi de la forme ternaire. Retrouver la tendresse initiale, peut-etre encore plus interieure pour la conclusion.
 </meta>
-    <section=section_9, n_mesure=8, bpm=85, format=3/4, tonalite=Re_majeur>
+    <section=section_A_prime_9, n_mesure=8, bpm=54, format=3/4, tonalite=Re_majeur>
         <mesure num=1>
             <piano_1_v1>  |la#4, (la4, sol4), (fa4, mi4)|
             <piano_1_v3>  |({sol2, la#2}, sol3, sol2), ({la2 do#3, sol3}, la#2 re3, sol3), ({la2 re3, la3}, sol2 re3, la#3)|
@@ -368,9 +368,9 @@ Section de développement 8 — 8 mesures. Tonalité Re majeur, tempo 85 BPM.
     </section>
 
 <meta>
-Section conclusive — 3 mesures. Tonalité Re majeur, tempo 85 BPM.
+3 mesures. Tempo Andante, environ 54 BPM. Signature 3/4. Tonalite Re majeur. Le retour de la section A en Re majeur apporte la resolution apaisee attendue, Schubert concluant ce mouvement lent avec la meme tendresse qu'il avait etablie au debut, comme une confidence partagee et acceptee. Ce retour confirme le caractere intime et arrondi de la forme ternaire. Retrouver la tendresse initiale, peut-etre encore plus interieure pour la conclusion.
 </meta>
-    <section=section_10, n_mesure=3, bpm=85, format=3/4, tonalite=Re_majeur>
+    <section=section_A_prime_10, n_mesure=3, bpm=54, format=3/4, tonalite=Re_majeur>
         <mesure num=1>
             <piano_1_v1>  |la#3 re4 la#4, (la3 do#4 la4, la3 mi4 la4), (la3 re4 la4, la3 do#4 la4)|
             <piano_1_v3>  |mi3, do#3, (re3, mi3)|
