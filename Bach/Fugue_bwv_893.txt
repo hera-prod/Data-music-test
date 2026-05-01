@@ -6,7 +6,7 @@ FORMAT : piano_solo
 NIVEAU : avance
 Titre : Fugue en Si mineur, BWV 893, Le Clavier bien tempéré Livre II n°24
 Date : 1742
-Auteur : Johann Sebastian Bach
+Auteur : Bach
 Tonalite : Si_mineur
 Unite : quarter
 Intention : Fugue légère et bondissante au rythme de passepied, dont le sujet aux «sauts d'octave» caractéristiques porte un élan irrésistible, animée d'un contre-sujet en doubles croches descendantes aux intervalles de septième qui confère une couleur mélancolique à ce tourbillon ternaire. Fugue à trois voix en mesure 3/8, 101 mesures à 96 BPM, organisée en exposition, six épisodes modulants, deux strettes et une coda conclusive en Si mineur.
