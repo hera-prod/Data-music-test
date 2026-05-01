@@ -3,10 +3,10 @@
 TACHE : composition
 STYLE : baroque
 FORMAT : piano_solo
-NIVEAU : intermediaire
+NIVEAU : avance
 Titre : Fugue en Do majeur, BWV 846
 Date : 1722
-Auteur : Johann Sebastian Bach
+Auteur : Bach
 Tonalite : Do_majeur
 Unite : quarter
 Intention : Fugue lumineuse et architecturale à quatre voix, d'une clarté contrapuntique exemplaire, où le sujet de quatorze notes circule sans relâche entre les registres pour tisser un discours d'une rigueur sereine. Forme fuguée à quatre voix en Do majeur, 27 mesures, signature 4/4, tempo modéré autour de 66 BPM, organisée en exposition, développement modulant, section de strettes et récapitulation sur pédale de tonique.
