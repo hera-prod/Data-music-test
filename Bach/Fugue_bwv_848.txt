@@ -3,10 +3,10 @@
 TACHE : composition
 STYLE : baroque
 FORMAT : piano_solo
-NIVEAU : intermediaire
+NIVEAU : avance
 Titre : Fugue en Do diese majeur BWV 848, Clavier bien tempere Livre I n3
 Date : 1722
-Auteur : Johann Sebastian Bach
+Auteur : Bach
 Tonalite : Do#_majeur
 Unite : quarter
 Intention : Fugue au caractere lumineux et exuberant, portee par un sujet joyeux en sixtes brisees descendantes qui confere legerete et allant a l'ensemble. Fugue a trois voix en Do diese majeur, 55 mesures en 4/4, tempo modere autour de 72 BPM, structuree en exposition, deux divertissements modulants et une recapitulation suivie d'une courte coda.
