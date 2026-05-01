@@ -6,7 +6,7 @@ FORMAT : piano_solo
 NIVEAU : avance
 Titre : Prélude en Sib majeur, BWV 866, Clavier bien tempéré I, n°21
 Date : 1722
-Auteur : Johann Sebastian Bach
+Auteur : Bach
 Tonalite : Sib_majeur
 Unite : quarter
 Intention : Prélude d'un caractère improvisé et virtuose, alternant un style toccata aux accords brisés en doubles croches et un style fantaisie aux grandes harmonies plaquées et aux fusées scalaires, qui met en valeur l'étendue sonore et la liberté expressive du clavecin. Prélude en Sib majeur, 20 mesures en 4/4, structuré en deux périodes de dix mesures : la première d'allure violonistique se conclut en Fa majeur, la seconde de caractère improvisatoire affirme le retour à la tonique par un arpège final.
