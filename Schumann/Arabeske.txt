@@ -3,19 +3,19 @@
 TACHE : composition
 STYLE : romantique
 FORMAT : piano_solo
-NIVEAU : simple
+NIVEAU : intermediaire
 Titre : Arabeske
-Date : ?
+Date : 1839
 Auteur : Schumann
-Tonalite : Sol_majeur
+Tonalite : Do_majeur
 Unite : quarter
-Intention : Pièce pour piano solo, animé, lumineux, au cadre binaire régulier. Tonalité : Sol majeur. 231 mesures.
+Intention : Arabeske légère et gracieuse, caractère aérien et délicat, sourire voilé de mélancolie romantique. Forme rondo en Do majeur, 2/4, Leicht und zart, bpm 88, 231 mesures.
 </tete>
 
 <meta>
-Section d'ouverture — 8 mesures. Tonalité Sol majeur, tempo 126 BPM.
+8 mesures. 2/4, 88 bpm. Do majeur. Thème A, première phrase : cellule mélodique principale en croches, texture aérienne, cantabile léger à la main droite sur accompagnement arpégé. Schumann pose l'identité du rondo dans cette ouverture limpide. L'auditeur retient immédiatement la voix chantante, simple et expressive. Jouer avec légèreté, poignet souple, sans lourdeur dans l'accompagnement.
 </meta>
-    <section=section_1, n_mesure=8, bpm=126, format=2/4, tonalite=Sol_majeur>
+    <section=theme_A_1_a, n_mesure=8, bpm=88, format=2/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |{sol4, si4, la4}, sol4|
             <piano_1_v2>  |(_, fa4)|
@@ -75,9 +75,9 @@ Section d'ouverture — 8 mesures. Tonalité Sol majeur, tempo 126 BPM.
     </section>
 
 <meta>
-Section de développement 1 — 8 mesures. Tonalité Sol majeur, tempo 126 BPM.
+8 mesures. 2/4, 88 bpm. Do majeur. Thème A, deuxième phrase : prolongement du cantabile, légère ornementation, cadence conclusive. La répétition confirme la tonique et grave le thème dans la mémoire. Maintenir la fluidité, soigner la ligne mélodique et la conduite des voix.
 </meta>
-    <section=section_2, n_mesure=8, bpm=126, format=2/4, tonalite=Sol_majeur>
+    <section=theme_A_1_b, n_mesure=8, bpm=88, format=2/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |(sol5, _, sol4), ({si4, la4}, sol4)|
             <piano_1_v2>  |fa4, fa4|
@@ -142,9 +142,9 @@ Section de développement 1 — 8 mesures. Tonalité Sol majeur, tempo 126 BPM.
     </section>
 
 <meta>
-Section de développement 2 — 8 mesures. Tonalité Sol majeur, tempo 126 BPM.
+8 mesures. 2/4, 88 bpm. Do majeur. Thème A, troisième phrase : extension du discours, intensification expressive légère avant retour. La phrase s'épanouit avant la conclusion. Légère inflexion dynamique, crescendo discret.
 </meta>
-    <section=section_3, n_mesure=8, bpm=126, format=2/4, tonalite=Sol_majeur>
+    <section=theme_A_1_c, n_mesure=8, bpm=88, format=2/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |(sol4, _, si4)|
             <piano_1_v2>  |(do4, _)|
@@ -203,9 +203,9 @@ Section de développement 2 — 8 mesures. Tonalité Sol majeur, tempo 126 BPM.
     </section>
 
 <meta>
-Section de développement 3 — 8 mesures. Tonalité Sol majeur, tempo 126 BPM.
+8 mesures. 2/4, 88 bpm. Do majeur. Thème A, quatrième phrase et clôture du bloc : cadence finale affirmée en Do majeur, conclusion du thème principal. Nette, chaleureuse, sans brutalité.
 </meta>
-    <section=section_4, n_mesure=8, bpm=126, format=2/4, tonalite=Sol_majeur>
+    <section=theme_A_1_d, n_mesure=8, bpm=88, format=2/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |(si4, si4), (la4, la4)|
             <piano_1_v2>  |re4, re4|
@@ -265,9 +265,9 @@ Section de développement 3 — 8 mesures. Tonalité Sol majeur, tempo 126 BPM.
     </section>
 
 <meta>
-Section de développement 4 — 8 mesures. Tonalité Sol majeur, tempo 126 BPM.
+8 mesures. 2/4, 88 bpm. La mineur. Premier épisode, première phrase : couleur mélancolique, tournant vers le relatif mineur. Le contraste modal apporte une ombre délicate après la clarté de l'ouverture. Légèrement plus intérieur, voix chantante au premier plan.
 </meta>
-    <section=section_5, n_mesure=8, bpm=126, format=2/4, tonalite=Sol_majeur>
+    <section=theme_B_1_a, n_mesure=8, bpm=88, format=2/4, tonalite=La_mineur>
         <mesure num=1>
             <piano_1_v1>  |(fa5, fa5), (fa#5, fa#5)|
             <piano_1_v2>  |fa4, fa#4|
@@ -332,9 +332,9 @@ Section de développement 4 — 8 mesures. Tonalité Sol majeur, tempo 126 BPM.
     </section>
 
 <meta>
-Section de développement 5 — 8 mesures. Tonalité Sol majeur, tempo 126 BPM.
+8 mesures. 2/4, 88 bpm. La mineur. Premier épisode, deuxième phrase : développement de la cellule mineure, interrogation harmonique. La phrase s'ouvre sur une harmonie suspensive avant résolution. Rubato discret bienvenu.
 </meta>
-    <section=section_6, n_mesure=8, bpm=126, format=2/4, tonalite=Sol_majeur>
+    <section=theme_B_1_b, n_mesure=8, bpm=88, format=2/4, tonalite=La_mineur>
         <mesure num=1>
             <piano_1_v1>  |(re4, re4), (sol4, sol4)|
             <piano_1_v2>  |do4, si3|
@@ -387,9 +387,9 @@ Section de développement 5 — 8 mesures. Tonalité Sol majeur, tempo 126 BPM.
     </section>
 
 <meta>
-Section de développement 6 — 8 mesures. Tonalité Sol majeur, tempo 126 BPM.
+8 mesures. 2/4, 88 bpm. La mineur. Premier épisode, troisième phrase : approfondissement du caractère plaintif, ligne descendante expressive. Jouer avec tendresse, sans sentimentalisme excessif.
 </meta>
-    <section=section_7, n_mesure=8, bpm=126, format=2/4, tonalite=Sol_majeur>
+    <section=theme_B_1_c, n_mesure=8, bpm=88, format=2/4, tonalite=La_mineur>
         <mesure num=1>
             <piano_1_v1>  |(la4, si4), (sol4, la4)|
             <piano_1_v2>  |mi4, mi4|
@@ -441,9 +441,9 @@ Section de développement 6 — 8 mesures. Tonalité Sol majeur, tempo 126 BPM.
     </section>
 
 <meta>
-Section de développement 7 — 8 mesures. Tonalité Sol majeur, tempo 126 BPM.
+8 mesures. 2/4, 88 bpm. La mineur. Premier épisode, clôture : retour à la cadence, préparation du retour au thème A. La conclusion du bloc mineur ouvre la voie à la lumière retrouvée. Calme, résolu.
 </meta>
-    <section=section_8, n_mesure=8, bpm=126, format=2/4, tonalite=Sol_majeur>
+    <section=theme_B_1_d, n_mesure=8, bpm=88, format=2/4, tonalite=La_mineur>
         <mesure num=1>
             <piano_1_v1>  |(mi4, fa#4), (sol4, mi4)|
             <piano_1_v2>  |_, _|
@@ -495,9 +495,9 @@ Section de développement 7 — 8 mesures. Tonalité Sol majeur, tempo 126 BPM.
     </section>
 
 <meta>
-Section de développement 8 — 8 mesures. Tonalité Sol majeur, tempo 126 BPM.
+8 mesures. 2/4, 88 bpm. Do majeur. Retour thème A, première phrase : réapparition de la cellule principale, fraîcheur retrouvée après l'épisode mineur. Le retour produit un effet de lumière. Jouer avec la même légèreté initiale, comme une évidence.
 </meta>
-    <section=section_9, n_mesure=8, bpm=126, format=2/4, tonalite=Sol_majeur>
+    <section=theme_A_2_a, n_mesure=8, bpm=88, format=2/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |(la4, si4), (sol4, la4)|
             <piano_1_v2>  |mi4, mi4|
@@ -555,9 +555,9 @@ Section de développement 8 — 8 mesures. Tonalité Sol majeur, tempo 126 BPM.
     </section>
 
 <meta>
-Section de développement 9 — 8 mesures. Tonalité Sol majeur, tempo 126 BPM.
+8 mesures. 2/4, 88 bpm. Do majeur. Retour thème A, deuxième phrase : confirmation du retour tonal, prolongement cantabile. Ligne mélodique soignée, accompagnement discret.
 </meta>
-    <section=section_10, n_mesure=8, bpm=126, format=2/4, tonalite=Sol_majeur>
+    <section=theme_A_2_b, n_mesure=8, bpm=88, format=2/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |(re5, mi5), (re5, mi5)|
             <piano_1_v2>  |sol4, fa4|
@@ -613,9 +613,9 @@ Section de développement 9 — 8 mesures. Tonalité Sol majeur, tempo 126 BPM.
     </section>
 
 <meta>
-Section de développement 10 — 8 mesures. Tonalité Sol majeur, tempo 126 BPM.
+8 mesures. 2/4, 88 bpm. Do majeur. Retour thème A, troisième phrase : intensification avant clôture du bloc. Courbe dynamique naturelle.
 </meta>
-    <section=section_11, n_mesure=8, bpm=126, format=2/4, tonalite=Sol_majeur>
+    <section=theme_A_2_c, n_mesure=8, bpm=88, format=2/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |(la#4, do5), (la#4, re5)|
             <piano_1_v2>  |mi4, fa4|
@@ -673,9 +673,9 @@ Section de développement 10 — 8 mesures. Tonalité Sol majeur, tempo 126 BPM.
     </section>
 
 <meta>
-Section de développement 11 — 8 mesures. Tonalité Sol majeur, tempo 126 BPM.
+8 mesures. 2/4, 88 bpm. Do majeur. Retour thème A, clôture : cadence conclusive affirmée. Fin du bloc symétrique, préparation de l'épisode central.
 </meta>
-    <section=section_12, n_mesure=8, bpm=126, format=2/4, tonalite=Sol_majeur>
+    <section=theme_A_2_d, n_mesure=8, bpm=88, format=2/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |(la4, si4), (sol4, la4)|
             <piano_1_v2>  |mi4, mi4|
@@ -747,9 +747,9 @@ Section de développement 11 — 8 mesures. Tonalité Sol majeur, tempo 126 BPM.
     </section>
 
 <meta>
-Section de développement 12 — 8 mesures. Tonalité Sol majeur, tempo 126 BPM.
+8 mesures. 2/4, 88 bpm. Mi mineur (Minore). Épisode central, première phrase : caractère sombre et passionné, texture plus dense, élan dramatique. Schumann plonge dans le Minore pour un contraste intense. Énergie accrue, son plus appuyé.
 </meta>
-    <section=section_13, n_mesure=8, bpm=126, format=2/4, tonalite=Sol_majeur>
+    <section=theme_C_a, n_mesure=8, bpm=88, format=2/4, tonalite=Mi_mineur>
         <mesure num=1>
             <piano_1_v1>  |(la4, sol#4), ({sol4, fa4}, mi4)|
             <piano_1_v2>  |si3, -|
@@ -825,9 +825,9 @@ Section de développement 12 — 8 mesures. Tonalité Sol majeur, tempo 126 BPM.
     </section>
 
 <meta>
-Section de développement 13 — 8 mesures. Tonalité Sol majeur, tempo 126 BPM.
+8 mesures. 2/4, 88 bpm. Mi mineur. Épisode central, deuxième phrase : développement dramatique, tensions harmoniques. Maintenir l'intensité, soin particulier aux voix internes.
 </meta>
-    <section=section_14, n_mesure=8, bpm=126, format=2/4, tonalite=Sol_majeur>
+    <section=theme_C_b, n_mesure=8, bpm=88, format=2/4, tonalite=Mi_mineur>
         <mesure num=1>
             <piano_1_v1>  |(sol#5, fa5), (fa5, do#5)|
             <piano_1_v2>  |fa4, -|
@@ -894,9 +894,9 @@ Section de développement 13 — 8 mesures. Tonalité Sol majeur, tempo 126 BPM.
     </section>
 
 <meta>
-Section de développement 14 — 8 mesures. Tonalité Sol majeur, tempo 126 BPM.
+8 mesures. 2/4, 88 bpm. Sol majeur. Épisode central, troisième phrase : inflexion vers Sol majeur, détente relative, lumière tamisée. Transition vers la résolution. Nuance plus douce, legato.
 </meta>
-    <section=section_15, n_mesure=8, bpm=126, format=2/4, tonalite=Sol_majeur>
+    <section=theme_C_c, n_mesure=8, bpm=88, format=2/4, tonalite=Sol_majeur>
         <mesure num=1>
             <piano_1_v1>  |(fa5, fa5), (fa#5, fa#5)|
             <piano_1_v2>  |fa4, fa#4|
@@ -961,9 +961,9 @@ Section de développement 14 — 8 mesures. Tonalité Sol majeur, tempo 126 BPM.
     </section>
 
 <meta>
-Section de développement 15 — 8 mesures. Tonalité Sol majeur, tempo 126 BPM.
+8 mesures. 2/4, 88 bpm. Sol majeur. Épisode central, quatrième phrase : stabilisation en Sol majeur, préparation du retour. Calme expressif, harmonie claire.
 </meta>
-    <section=section_16, n_mesure=8, bpm=126, format=2/4, tonalite=Sol_majeur>
+    <section=theme_C_d, n_mesure=8, bpm=88, format=2/4, tonalite=Sol_majeur>
         <mesure num=1>
             <piano_1_v1>  |(re4, re4), (sol4, sol4)|
             <piano_1_v2>  |do4, si3|
@@ -1026,9 +1026,9 @@ Section de développement 15 — 8 mesures. Tonalité Sol majeur, tempo 126 BPM.
     </section>
 
 <meta>
-Section de développement 16 — 8 mesures. Tonalité Sol majeur, tempo 126 BPM.
+8 mesures. 2/4, 88 bpm. Sol majeur. Épisode central, clôture : cadence conclusive, fin du Minore, retour imminent du thème A. Résolution apaisée.
 </meta>
-    <section=section_17, n_mesure=8, bpm=126, format=2/4, tonalite=Sol_majeur>
+    <section=theme_C_e, n_mesure=8, bpm=88, format=2/4, tonalite=Sol_majeur>
         <mesure num=1>
             <piano_1_v1>  |(mi5, sol4), ({si4, la4}, sol4)|
             <piano_1_v2>  |mi4, mi4|
@@ -1088,9 +1088,9 @@ Section de développement 16 — 8 mesures. Tonalité Sol majeur, tempo 126 BPM.
     </section>
 
 <meta>
-Section de développement 17 — 8 mesures. Tonalité Sol majeur, tempo 126 BPM.
+8 mesures. 2/4, 88 bpm. Do majeur. Dernier retour thème A, première phrase : retour définitif après l'épisode dramatique, sérénité retrouvée. Le retour de la lumière principale est encore plus précieux après l'obscurité. Jouer avec gratitude et légèreté.
 </meta>
-    <section=section_18, n_mesure=8, bpm=126, format=2/4, tonalite=Sol_majeur>
+    <section=theme_A_3_a, n_mesure=8, bpm=88, format=2/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |(re5, re5), (mi5, mi5)|
             <piano_1_v2>  |fa4, mi4|
@@ -1155,9 +1155,9 @@ Section de développement 17 — 8 mesures. Tonalité Sol majeur, tempo 126 BPM.
     </section>
 
 <meta>
-Section de développement 18 — 8 mesures. Tonalité Sol majeur, tempo 126 BPM.
+8 mesures. 2/4, 88 bpm. Do majeur. Dernier retour thème A, deuxième phrase : prolongement lyrique, beauté sereine. Cantabile pur.
 </meta>
-    <section=section_19, n_mesure=8, bpm=126, format=2/4, tonalite=Sol_majeur>
+    <section=theme_A_3_b, n_mesure=8, bpm=88, format=2/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |(la4, la4), (fa4, fa4)|
             <piano_1_v2>  |do4, do4|
@@ -1231,9 +1231,9 @@ Section de développement 18 — 8 mesures. Tonalité Sol majeur, tempo 126 BPM.
     </section>
 
 <meta>
-Section de développement 19 — 8 mesures. Tonalité Sol majeur, tempo 126 BPM.
+8 mesures. 2/4, 88 bpm. Do majeur. Dernier retour thème A, troisième phrase : montée expressive vers la conclusion. Ligne mélodique chantante.
 </meta>
-    <section=section_20, n_mesure=8, bpm=126, format=2/4, tonalite=Sol_majeur>
+    <section=theme_A_3_c, n_mesure=8, bpm=88, format=2/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |re4 si4, la4|
             <piano_1_v2>  |_, (do4, mi4)|
@@ -1306,9 +1306,9 @@ Section de développement 19 — 8 mesures. Tonalité Sol majeur, tempo 126 BPM.
     </section>
 
 <meta>
-Section de développement 20 — 8 mesures. Tonalité Sol majeur, tempo 126 BPM.
+8 mesures. 2/4, 88 bpm. Do majeur. Dernier retour thème A, clôture : cadence finale du thème, ouverture sur la coda. Élégance conclusive.
 </meta>
-    <section=section_21, n_mesure=8, bpm=126, format=2/4, tonalite=Sol_majeur>
+    <section=theme_A_3_d, n_mesure=8, bpm=88, format=2/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |la3 sol4, re4 fa4|
             <piano_1_v2>  |re4, -|
@@ -1372,9 +1372,9 @@ Section de développement 20 — 8 mesures. Tonalité Sol majeur, tempo 126 BPM.
     </section>
 
 <meta>
-Section de développement 21 — 8 mesures. Tonalité Sol majeur, tempo 126 BPM.
+8 mesures. 2/4, 88 bpm. Do majeur. Coda, première section : amorce du dénouement, texture allégée, caractère rêveur. Schumann laisse la pièce se dissoudre progressivement dans le silence. Jouer comme un adieu délicat.
 </meta>
-    <section=section_22, n_mesure=8, bpm=126, format=2/4, tonalite=Sol_majeur>
+    <section=coda_a, n_mesure=8, bpm=88, format=2/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |la5, _|
             <piano_1_v2>  |_, (si4, mi5)|
@@ -1449,9 +1449,9 @@ Section de développement 21 — 8 mesures. Tonalité Sol majeur, tempo 126 BPM.
     </section>
 
 <meta>
-Section de développement 22 — 8 mesures. Tonalité Sol majeur, tempo 126 BPM.
+8 mesures. 2/4, 88 bpm. Do majeur. Coda, deuxième section : fragmentation mélodique, murmures de la tonique. La voix se fait plus ténue. Diminuendo graduel.
 </meta>
-    <section=section_23, n_mesure=8, bpm=126, format=2/4, tonalite=Sol_majeur>
+    <section=coda_b, n_mesure=8, bpm=88, format=2/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |(re5, re5), (mi5, mi5)|
             <piano_1_v2>  |fa4, sol4|
@@ -1522,9 +1522,9 @@ Section de développement 22 — 8 mesures. Tonalité Sol majeur, tempo 126 BPM.
     </section>
 
 <meta>
-Section de développement 23 — 8 mesures. Tonalité Sol majeur, tempo 126 BPM.
+8 mesures. 2/4, 88 bpm. Do majeur. Coda, troisième section : nouvelles inflexions harmoniques, divagation poétique avant la conclusion. Rubato possible.
 </meta>
-    <section=section_24, n_mesure=8, bpm=126, format=2/4, tonalite=Sol_majeur>
+    <section=coda_c, n_mesure=8, bpm=88, format=2/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |(re4, re4), _|
             <piano_1_v2>  |do4, (sol4, sol4)|
@@ -1588,9 +1588,9 @@ Section de développement 23 — 8 mesures. Tonalité Sol majeur, tempo 126 BPM.
     </section>
 
 <meta>
-Section de développement 24 — 8 mesures. Tonalité Sol majeur, tempo 126 BPM.
+8 mesures. 2/4, 88 bpm. Do majeur. Coda, quatrième section : retour à l'essentiel, simplification du discours. Jouer avec una corda.
 </meta>
-    <section=section_25, n_mesure=8, bpm=126, format=2/4, tonalite=Sol_majeur>
+    <section=coda_d, n_mesure=8, bpm=88, format=2/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |(mi5, sol4), ({si4, la4}, sol4)|
             <piano_1_v2>  |mi4, mi4|
@@ -1650,9 +1650,9 @@ Section de développement 24 — 8 mesures. Tonalité Sol majeur, tempo 126 BPM.
     </section>
 
 <meta>
-Section de développement 25 — 8 mesures. Tonalité Sol majeur, tempo 126 BPM.
+8 mesures. 2/4, 88 bpm. Do majeur. Coda, cinquième section : pédale de tonique, dissolution harmonique. Son très doux, présence intérieure.
 </meta>
-    <section=section_26, n_mesure=8, bpm=126, format=2/4, tonalite=Sol_majeur>
+    <section=coda_e, n_mesure=8, bpm=88, format=2/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |(do5, do5), (do#5, do#5)|
             <piano_1_v2>  |mi4, mi4|
@@ -1712,9 +1712,9 @@ Section de développement 25 — 8 mesures. Tonalité Sol majeur, tempo 126 BPM.
     </section>
 
 <meta>
-Section de développement 26 — 8 mesures. Tonalité Sol majeur, tempo 126 BPM.
+8 mesures. 2/4, 88 bpm. Do majeur. Coda, sixième section : dissolution quasi complète, derniers fragments du thème A. Pianissimo, presque intangible.
 </meta>
-    <section=section_27, n_mesure=8, bpm=126, format=2/4, tonalite=Sol_majeur>
+    <section=coda_f, n_mesure=8, bpm=88, format=2/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |(la4, la4), (fa4, fa4)|
             <piano_1_v2>  |do4, do4|
@@ -1775,9 +1775,9 @@ Section de développement 26 — 8 mesures. Tonalité Sol majeur, tempo 126 BPM.
     </section>
 
 <meta>
-Section de développement 27 — 8 mesures. Tonalité Sol majeur, tempo 126 BPM.
+8 mesures. 2/4, 88 bpm. Do majeur. Coda, septième section : dernières mesures avant la conclusion. Retenue absolue.
 </meta>
-    <section=section_28, n_mesure=8, bpm=126, format=2/4, tonalite=Sol_majeur>
+    <section=coda_g, n_mesure=8, bpm=88, format=2/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |re5, -, fa5|
             <piano_1_v2>  |_, (la4, do5), fa4, (la4, do5)|
@@ -1853,9 +1853,9 @@ Section de développement 27 — 8 mesures. Tonalité Sol majeur, tempo 126 BPM.
     </section>
 
 <meta>
-Section conclusive — 7 mesures. Tonalité Sol majeur, tempo 126 BPM.
+7 mesures. 2/4, 88 bpm. Do majeur. Coda finale : conclusion intime, accord final en Do majeur, murmure ultime. La pièce s'éteint comme une bougie. Dernier souffle, silence habité.
 </meta>
-    <section=section_29, n_mesure=7, bpm=126, format=2/4, tonalite=Sol_majeur>
+    <section=coda_h, n_mesure=7, bpm=88, format=2/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |re5, -, si4|
             <piano_1_v2>  |_, (fa4, la4), (re4, fa4)|
