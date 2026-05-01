@@ -6,7 +6,7 @@ FORMAT : piano_solo
 NIVEAU : avance
 Titre : Prélude en Ré majeur, BWV 874 (Clavier bien tempéré, Livre II, n°5)
 Date : 1742
-Auteur : Johann Sebastian Bach
+Auteur : Bach
 Tonalite : Re_majeur
 Unite : quarter
 Intention : Prélude d'un caractère festif et rayonnant, superposant deux signatures rythmiques distinctes en un dialogue entre quasi-triolets fluides et mesure ordinaire plus appuyée, à la manière d'un appel de trompettes. Tonalité Ré majeur, mesure 12/8, 55 mesures, tempo vif d'environ 120 BPM ; la forme suit un plan ternaire proche de la sonate, avec une exposition, un développement chromatique et une récapitulation.
