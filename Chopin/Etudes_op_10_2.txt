@@ -4,16 +4,19 @@ TACHE : composition
 STYLE : romantique
 FORMAT : piano_solo
 NIVEAU : avance
-Titre : Étude op. 10 n° 2 en La mineur
+Titre : Étude op.10 n°2 en La mineur
 Date : 1830
 Auteur : Frédéric Chopin
 Tonalite : La_mineur
 Unite : quarter
-Intention : Étude d'une âpreté sombre et d'une virtuosité acérée, portée par une gamme chromatique ininterrompue aux troisième, quatrième et cinquième doigts de la main droite, tandis que les deux premiers doigts entretissent des intervalles chromatiques en dessous. Forme ternaire (A-B-A) avec coda, en La mineur, 49 mesures, mesure à 4/4, tempo Allegro à la noire égale 144.
+Intention : Âpreté sombre et virtuosité acérée, cette étude impose une gamme chromatique ininterrompue aux troisième, quatrième et cinquième doigts de la main droite, tandis que les deux premiers doigts entretissent des intervalles chromatiques en dessous. Forme ternaire ABA avec coda, en la mineur, 49 mesures, mesure à 4/4, Allegro à la noire égale 144.
 </tete>
 
 <meta>
-49 mesures, Allegro, 4/4, La mineur. Étude centrée sur la vélocité chromatique des doigts faibles de la main droite : les troisième, quatrième et cinquième doigts exécutent une gamme chromatique continue montante depuis La, tandis que le pouce et l'index maintiennent des intervalles en dessous, créant un contrepoint d'une densité étrange. La main gauche ponctue avec des accords syncopés et des octaves. Pour l'interprétation, cultiver une légèreté de toucher extrême aux doigts faibles pour obtenir la fluidité de la ligne chromatique, sans rigidité ni précipitation.
+8 mesures. BPM 144. Signature 4/4. Tonalité La_mineur.
+49 mesures, Allegro, 4/4, La mineur.
+Étude centrée sur la vélocité chromatique des doigts faibles de la main droite : les troisième, quatrième et cinquième doigts exécutent une gamme chromatique continue montante depuis La, tandis que le pouce et l'index maintiennent des intervalles en dessous, créant un contrepoint d'une densité étrange. La main gauche ponctue avec des accords syncopés et des octaves.
+Pour l'interprétation, cultiver une légèreté de toucher extrême aux doigts faibles pour obtenir la fluidité de la ligne chromatique, sans rigidité ni précipitation.
 </meta>
     <section=theme_1, n_mesure=8, bpm=144, format=4/4, tonalite=La_mineur>
         <mesure num=1>
@@ -59,7 +62,10 @@ Intention : Étude d'une âpreté sombre et d'une virtuosité acérée, portée 
     </section>
 
 <meta>
-Continuation de la section A : la gamme chromatique reprend en La à la main droite, les arcs mélodiques dessinant leurs contours caractéristiques avec des sommets sur les temps faibles. La ligne chromatique ascendante puis descendante à partir de Ré définit la physionomie de chaque phrase. Les motifs en trilles écrits (mesures 4 et 12) ajoutent une ornementation expressive.
+8 mesures. BPM 144. Signature 4/4. Tonalité La_mineur.
+Continuation de la section A : la gamme chromatique reprend en La à la main droite, les arcs mélodiques dessinant leurs contours caractéristiques avec des sommets sur les temps faibles.
+La ligne chromatique ascendante puis descendante à partir de Ré définit la physionomie de chaque phrase.
+Les motifs en trilles écrits (mesures 4 et 12) ajoutent une ornementation expressive.
 </meta>
     <section=theme_1, n_mesure=8, bpm=144, format=4/4, tonalite=La_mineur>
         <mesure num=1>
@@ -105,7 +111,10 @@ Continuation de la section A : la gamme chromatique reprend en La à la main dro
     </section>
 
 <meta>
-Troisième groupe de la section A, enrichi de progressions harmoniques en cercle de quintes avec passages par des accords diminués. La section B approche : les phrases se raccourcissent à un seul temps et l'intensité monte. La gamme chromatique de la main droite prend un caractère plus agité, les ondulations descendantes pouvant égarer l'interprète hors de la pulsation.
+8 mesures. BPM 144. Signature 4/4. Tonalité La_mineur.
+Troisième groupe de la section A, enrichi de progressions harmoniques en cercle de quintes avec passages par des accords diminués.
+La section B approche : les phrases se raccourcissent à un seul temps et l'intensité monte.
+La gamme chromatique de la main droite prend un caractère plus agité, les ondulations descendantes pouvant égarer l'interprète hors de la pulsation.
 </meta>
     <section=theme_1, n_mesure=8, bpm=144, format=4/4, tonalite=La_mineur>
         <mesure num=1>
@@ -151,7 +160,10 @@ Troisième groupe de la section A, enrichi de progressions harmoniques en cercle
     </section>
 
 <meta>
-Section B (partie centrale) : les phrases se condensent en motifs d'une mesure ; des progressions séquentielles harmoniques en cercle de quintes et des enchaînements d'accords diminués créent une tension croissante. La dominante Mi est tenue en pédale à la basse à partir de la mesure 32. La main droite maintient sa ligne chromatique inlassable.
+8 mesures. BPM 144. Signature 4/4. Tonalité La_mineur.
+Section B (partie centrale) : les phrases se condensent en motifs d'une mesure ;
+des progressions séquentielles harmoniques en cercle de quintes et des enchaînements d'accords diminués créent une tension croissante. La dominante Mi est tenue en pédale à la basse à partir de la mesure 32.
+La main droite maintient sa ligne chromatique inlassable.
 </meta>
     <section=partie_B, n_mesure=8, bpm=144, format=4/4, tonalite=La_mineur>
         <mesure num=1>
@@ -197,7 +209,10 @@ Section B (partie centrale) : les phrases se condensent en motifs d'une mesure ;
     </section>
 
 <meta>
-Réexposition (retour de A) : les thèmes reprennent depuis La avec les mêmes contours que la section A. Cette récapitulation apporte un sentiment de résolution relative après la tension de la section centrale. La gamme chromatique retrouve son caractère initial ; jouer sans hâte pour laisser résonner la ligne mélodique.
+8 mesures. BPM 144. Signature 4/4. Tonalité La_mineur.
+Réexposition (retour de A) : les thèmes reprennent depuis La avec les mêmes contours que la section A.
+Cette récapitulation apporte un sentiment de résolution relative après la tension de la section centrale. La gamme chromatique retrouve son caractère initial ;
+jouer sans hâte pour laisser résonner la ligne mélodique.
 </meta>
     <section=recapitulation, n_mesure=8, bpm=144, format=4/4, tonalite=La_mineur>
         <mesure num=1>
@@ -243,7 +258,10 @@ Réexposition (retour de A) : les thèmes reprennent depuis La avec les mêmes c
     </section>
 
 <meta>
-Suite de la réexposition : la ligne chromatique continue à tisser ses arabesques serrées. Les dernières mesures s'ouvrent sur une longue vague ascendante jusqu'au Do aigu, culmination de toute l'étude, avant de redescendre en cascade conclusive. Laisser la sonorité s'élever librement vers le registre aigu.
+8 mesures. BPM 144. Signature 4/4. Tonalité La_mineur.
+Suite de la réexposition : la ligne chromatique continue à tisser ses arabesques serrées.
+Les dernières mesures s'ouvrent sur une longue vague ascendante jusqu'au Do aigu, culmination de toute l'étude, avant de redescendre en cascade conclusive.
+Laisser la sonorité s'élever librement vers le registre aigu.
 </meta>
     <section=recapitulation, n_mesure=8, bpm=144, format=4/4, tonalite=La_mineur>
         <mesure num=1>
@@ -289,7 +307,10 @@ Suite de la réexposition : la ligne chromatique continue à tisser ses arabesqu
     </section>
 
 <meta>
-Coda conclusive d'une mesure : accord final en tierce picarde (La majeur), lueur d'espoir inattendue après la tension chromatique de l'étude entière. L'accord est joué avec fermeté, laissant résonner la tierce majeure comme une résolution lumineuse sur fond sombre.
+1 mesures. BPM 144. Signature 4/4. Tonalité La_mineur.
+Coda conclusive d'une mesure : accord final en tierce picarde (La majeur), lueur d'espoir inattendue après la tension chromatique de l'étude entière.
+L'accord est joué avec fermeté, laissant résonner la tierce majeure comme une résolution lumineuse sur fond sombre.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
     <section=coda, n_mesure=1, bpm=144, format=4/4, tonalite=La_mineur>
         <mesure num=1>
