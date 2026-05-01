@@ -6,7 +6,7 @@ FORMAT : piano_solo
 NIVEAU : avance
 Titre : Prélude en Sol dièse mineur, BWV 887, Clavier bien tempéré Livre II n°18
 Date : 1742
-Auteur : Johann Sebastian Bach
+Auteur : Bach
 Tonalite : Sol#_mineur
 Unite : quarter
 Intention : Prélude d'une expressivité contrastée, unique dans tout le Clavier bien tempéré par ses indications piano et forte alternées qui évoquent un clavecin à deux claviers. Pièce en mesure commune à deux voix principales, Sol dièse mineur, 50 mesures ; le thème de soupirs en doubles croches se déploie en contrastes dynamiques piano/forte, avec un développement chromatique intense, avant une récapitulation et une brève coda, tempo moderato vers 72 BPM.
