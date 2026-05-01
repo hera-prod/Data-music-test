@@ -6,7 +6,7 @@ FORMAT : piano_solo
 NIVEAU : avance
 Titre : Prélude en Si majeur, BWV 892, Le Clavier bien tempéré Livre II n°23
 Date : 1742
-Auteur : Johann Sebastian Bach
+Auteur : Bach
 Tonalite : Si_majeur
 Unite : quarter
 Intention : Toccata brillante et jubilatoire de caractère concertant, déployant trois thèmes contrastés en doubles croches ininterrompues qui se relaient entre les deux mains avec une virtuosité lumineuse, évoquant la gaieté d'un concerto pour clavier. Prélude en Si majeur, 4/4, 46 mesures à 80 BPM, articulé en quatre périodes dont une récapitulation abrégée précédée d'une pédale de dominante répétée huit fois.
