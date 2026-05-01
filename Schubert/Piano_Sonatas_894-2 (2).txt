@@ -3,19 +3,19 @@
 TACHE : composition
 STYLE : romantique
 FORMAT : piano_solo
-NIVEAU : simple
+NIVEAU : intermediaire
 Titre : Piano_Sonatas_894-2
-Date : ?
+Date : 1826
 Auteur : Schubert
 Tonalite : Re_majeur
 Unite : quarter
-Intention : Pièce pour piano solo, modéré, lumineux, au balancement ternaire. Tonalité : Re majeur. 181 mesures.
+Intention : Mouvement lent d'une ampleur meditation, ce second mouvement de la Sonate D.894 en Sol majeur deploie en Re majeur un chant d'une noblesse tranquille, traversant ombre et lumiere avec une profondeur rare. Forme ternaire avec coda en Re majeur, 3/4, Andante (environ 54 BPM), 181 mesures, section B modulant vers Si mineur et Re majeur.
 </tete>
 
 <meta>
-Section d'ouverture — 8 mesures. Tonalité Re majeur, tempo 75 BPM.
+8 mesures. Tempo Andante, environ 54 BPM. Signature 3/4. Tonalite Re majeur. La section A en Re majeur deploie une melodie d'une noblesse tranquille, Schubert revelant ici la maturite de son langage (1826) dans un chant d'une profondeur rare, aux harmonies subtiles et a l'expression poetique elevee. Re majeur confere a cette section une chaleur particuliere et une couleur elevee qui distingue ce mouvement lent. Jouer avec une sonnorite ample et chantante, le legato absolu, la melodie au premier plan.
 </meta>
-    <section=section_1, n_mesure=8, bpm=75, format=3/8, tonalite=Re_majeur>
+    <section=section_A_1, n_mesure=8, bpm=54, format=3/4, tonalite=Re_majeur>
         <mesure num=1>
             <piano_1_v1>  |(la4, si4), do#5|
             <piano_1_v2>  |_, _, _|
@@ -59,9 +59,9 @@ Section d'ouverture — 8 mesures. Tonalité Re majeur, tempo 75 BPM.
     </section>
 
 <meta>
-Section de développement 1 — 8 mesures. Tonalité Re majeur, tempo 75 BPM.
+8 mesures. Tempo Andante, environ 54 BPM. Signature 3/4. Tonalite Re majeur. La section A en Re majeur deploie une melodie d'une noblesse tranquille, Schubert revelant ici la maturite de son langage (1826) dans un chant d'une profondeur rare, aux harmonies subtiles et a l'expression poetique elevee. Re majeur confere a cette section une chaleur particuliere et une couleur elevee qui distingue ce mouvement lent. Jouer avec une sonnorite ample et chantante, le legato absolu, la melodie au premier plan.
 </meta>
-    <section=section_2, n_mesure=8, bpm=75, format=3/8, tonalite=Re_majeur>
+    <section=section_A_2, n_mesure=8, bpm=54, format=3/4, tonalite=Re_majeur>
         <mesure num=1>
             <piano_1_v1>  |fa#3 re4, fa#4, (sol4, la4)|
             <piano_1_v3>  |re2 re3, fa#3, (sol3, la3)|
@@ -108,9 +108,9 @@ Section de développement 1 — 8 mesures. Tonalité Re majeur, tempo 75 BPM.
     </section>
 
 <meta>
-Section de développement 2 — 8 mesures. Tonalité Re majeur, tempo 75 BPM.
+8 mesures. Tempo Andante, environ 54 BPM. Signature 3/4. Tonalite Re majeur. La section A en Re majeur deploie une melodie d'une noblesse tranquille, Schubert revelant ici la maturite de son langage (1826) dans un chant d'une profondeur rare, aux harmonies subtiles et a l'expression poetique elevee. Re majeur confere a cette section une chaleur particuliere et une couleur elevee qui distingue ce mouvement lent. Jouer avec une sonnorite ample et chantante, le legato absolu, la melodie au premier plan.
 </meta>
-    <section=section_3, n_mesure=8, bpm=75, format=3/8, tonalite=Re_majeur>
+    <section=section_A_3, n_mesure=8, bpm=54, format=3/4, tonalite=Re_majeur>
         <mesure num=1>
             <piano_1_v1>  |re5, fa#5, la4|
             <piano_1_v2>  |fa#4, -, mi4|
@@ -157,9 +157,9 @@ Section de développement 2 — 8 mesures. Tonalité Re majeur, tempo 75 BPM.
     </section>
 
 <meta>
-Section de développement 3 — 8 mesures. Tonalité Re majeur, tempo 75 BPM.
+8 mesures. Tempo Andante, environ 54 BPM. Signature 3/4. Tonalite Re majeur. La section A en Re majeur deploie une melodie d'une noblesse tranquille, Schubert revelant ici la maturite de son langage (1826) dans un chant d'une profondeur rare, aux harmonies subtiles et a l'expression poetique elevee. Re majeur confere a cette section une chaleur particuliere et une couleur elevee qui distingue ce mouvement lent. Jouer avec une sonnorite ample et chantante, le legato absolu, la melodie au premier plan.
 </meta>
-    <section=section_4, n_mesure=8, bpm=75, format=3/8, tonalite=Re_majeur>
+    <section=section_A_4, n_mesure=8, bpm=54, format=3/4, tonalite=Re_majeur>
         <mesure num=1>
             <piano_1_v1>  |mi5, re5, (fa#4, sol4)|
             <piano_1_v3>  |mi4, re4, (fa#3, sol3)|
@@ -198,9 +198,9 @@ Section de développement 3 — 8 mesures. Tonalité Re majeur, tempo 75 BPM.
     </section>
 
 <meta>
-Section de développement 4 — 8 mesures. Tonalité Re majeur, tempo 75 BPM.
+8 mesures. Tempo Andante, environ 54 BPM. Signature 3/4. Tonalite Re majeur. La section A en Re majeur deploie une melodie d'une noblesse tranquille, Schubert revelant ici la maturite de son langage (1826) dans un chant d'une profondeur rare, aux harmonies subtiles et a l'expression poetique elevee. Re majeur confere a cette section une chaleur particuliere et une couleur elevee qui distingue ce mouvement lent. Jouer avec une sonnorite ample et chantante, le legato absolu, la melodie au premier plan.
 </meta>
-    <section=section_5, n_mesure=8, bpm=75, format=3/8, tonalite=Re_majeur>
+    <section=section_A_5, n_mesure=8, bpm=54, format=3/4, tonalite=Re_majeur>
         <mesure num=1>
             <piano_1_v1>  |do#5 sol5 si5 do#6, sol4 si4 do#5, (_, si4 do#5)|
             <piano_1_v3>  |mi2 mi3, mi3 sol3 si3 do#4, (_, mi1 mi2)|
@@ -238,9 +238,9 @@ Section de développement 4 — 8 mesures. Tonalité Re majeur, tempo 75 BPM.
     </section>
 
 <meta>
-Section de développement 5 — 8 mesures. Tonalité Re majeur, tempo 75 BPM.
+8 mesures. Tempo Andante, environ 54 BPM. Signature 3/4. Tonalite Re majeur. La section A en Re majeur deploie une melodie d'une noblesse tranquille, Schubert revelant ici la maturite de son langage (1826) dans un chant d'une profondeur rare, aux harmonies subtiles et a l'expression poetique elevee. Re majeur confere a cette section une chaleur particuliere et une couleur elevee qui distingue ce mouvement lent. Jouer avec une sonnorite ample et chantante, le legato absolu, la melodie au premier plan.
 </meta>
-    <section=section_6, n_mesure=8, bpm=75, format=3/8, tonalite=Re_majeur>
+    <section=section_A_6, n_mesure=8, bpm=54, format=3/4, tonalite=Re_majeur>
         <mesure num=1>
             <piano_1_v1>  |re5 re6, (sol4 sol5, _), re5 re6|
             <piano_1_v3>  |({si2, re3}, sol3, re3), ({si2, re3}, sol3, re3), ({si2, re3}, sol3, re3)|
@@ -276,9 +276,9 @@ Section de développement 5 — 8 mesures. Tonalité Re majeur, tempo 75 BPM.
     </section>
 
 <meta>
-Section de développement 6 — 8 mesures. Tonalité Re majeur, tempo 75 BPM.
+8 mesures. Tempo Andante, environ 54 BPM. Signature 3/4. Tonalite Si mineur et Re majeur. La section B module vers Si mineur avant de revenir vers Re majeur, Schubert creant un parcours harmonique riche qui explore l'ombre et la lumiere dans une tension expressive particulierement sophistiquee. Ces modulations complexes revelent la maturite harmonique du Schubert de 1826. Naviguer les modulations avec sensibilite, chaque changement harmonique ressenti comme une emotion nouvelle.
 </meta>
-    <section=section_7, n_mesure=8, bpm=75, format=3/8, tonalite=Re_majeur>
+    <section=section_B_7, n_mesure=8, bpm=54, format=3/4, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |(do#5, do#5), (re#5 fa#5, do#5), (do#5, do#5)|
             <piano_1_v2>  |(fa#4, fa#4), (fa#4, fa#4), ({fa#4, fa4}, fa#4, sol#4)|
@@ -316,9 +316,9 @@ Section de développement 6 — 8 mesures. Tonalité Re majeur, tempo 75 BPM.
     </section>
 
 <meta>
-Section de développement 7 — 8 mesures. Tonalité Re majeur, tempo 75 BPM.
+8 mesures. Tempo Andante, environ 54 BPM. Signature 3/4. Tonalite Si mineur et Re majeur. La section B module vers Si mineur avant de revenir vers Re majeur, Schubert creant un parcours harmonique riche qui explore l'ombre et la lumiere dans une tension expressive particulierement sophistiquee. Ces modulations complexes revelent la maturite harmonique du Schubert de 1826. Naviguer les modulations avec sensibilite, chaque changement harmonique ressenti comme une emotion nouvelle.
 </meta>
-    <section=section_8, n_mesure=8, bpm=75, format=3/8, tonalite=Re_majeur>
+    <section=section_B_8, n_mesure=8, bpm=54, format=3/4, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |({si4, mi4}, sol4, do#4), ({mi4, si3}, do#4), _|
             <piano_1_v3>  |_, sol3|
@@ -357,9 +357,9 @@ Section de développement 7 — 8 mesures. Tonalité Re majeur, tempo 75 BPM.
     </section>
 
 <meta>
-Section de développement 8 — 8 mesures. Tonalité Re majeur, tempo 75 BPM.
+8 mesures. Tempo Andante, environ 54 BPM. Signature 3/4. Tonalite Si mineur et Re majeur. La section B module vers Si mineur avant de revenir vers Re majeur, Schubert creant un parcours harmonique riche qui explore l'ombre et la lumiere dans une tension expressive particulierement sophistiquee. Ces modulations complexes revelent la maturite harmonique du Schubert de 1826. Naviguer les modulations avec sensibilite, chaque changement harmonique ressenti comme une emotion nouvelle.
 </meta>
-    <section=section_9, n_mesure=8, bpm=75, format=3/8, tonalite=Re_majeur>
+    <section=section_B_9, n_mesure=8, bpm=54, format=3/4, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |fa#5, (fa5, fa#5), (sol#5, la#5, si5)|
             <piano_1_v2>  |si4, -, si4|
@@ -400,9 +400,9 @@ Section de développement 8 — 8 mesures. Tonalité Re majeur, tempo 75 BPM.
     </section>
 
 <meta>
-Section de développement 9 — 8 mesures. Tonalité Re majeur, tempo 75 BPM.
+8 mesures. Tempo Andante, environ 54 BPM. Signature 3/4. Tonalite Si mineur et Re majeur. La section B module vers Si mineur avant de revenir vers Re majeur, Schubert creant un parcours harmonique riche qui explore l'ombre et la lumiere dans une tension expressive particulierement sophistiquee. Ces modulations complexes revelent la maturite harmonique du Schubert de 1826. Naviguer les modulations avec sensibilite, chaque changement harmonique ressenti comme une emotion nouvelle.
 </meta>
-    <section=section_10, n_mesure=8, bpm=75, format=3/8, tonalite=Re_majeur>
+    <section=section_B_10, n_mesure=8, bpm=54, format=3/4, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |do#5, fa#4, (_, do#5)|
             <piano_1_v3>  |({la2, do#3}, fa#3, do#3), ({la2, do#3}, fa#3, do#3), ({la2, do#3}, fa#3, do#3)|
@@ -438,9 +438,9 @@ Section de développement 9 — 8 mesures. Tonalité Re majeur, tempo 75 BPM.
     </section>
 
 <meta>
-Section de développement 10 — 8 mesures. Tonalité Re majeur, tempo 75 BPM.
+8 mesures. Tempo Andante, environ 54 BPM. Signature 3/4. Tonalite Si mineur et Re majeur. La section B module vers Si mineur avant de revenir vers Re majeur, Schubert creant un parcours harmonique riche qui explore l'ombre et la lumiere dans une tension expressive particulierement sophistiquee. Ces modulations complexes revelent la maturite harmonique du Schubert de 1826. Naviguer les modulations avec sensibilite, chaque changement harmonique ressenti comme une emotion nouvelle.
 </meta>
-    <section=section_11, n_mesure=8, bpm=75, format=3/8, tonalite=Re_majeur>
+    <section=section_B_11, n_mesure=8, bpm=54, format=3/4, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |re5, (do#5, re5), ({fa#5, re5}, do#5, si4)|
             <piano_1_v3>  |re4, (do#4, re4), ({fa#4, re4}, do#4, si3)|
@@ -481,9 +481,9 @@ Section de développement 10 — 8 mesures. Tonalité Re majeur, tempo 75 BPM.
     </section>
 
 <meta>
-Section de développement 11 — 8 mesures. Tonalité Re majeur, tempo 75 BPM.
+8 mesures. Tempo Andante, environ 54 BPM. Signature 3/4. Tonalite Si mineur et Re majeur. La section B module vers Si mineur avant de revenir vers Re majeur, Schubert creant un parcours harmonique riche qui explore l'ombre et la lumiere dans une tension expressive particulierement sophistiquee. Ces modulations complexes revelent la maturite harmonique du Schubert de 1826. Naviguer les modulations avec sensibilite, chaque changement harmonique ressenti comme une emotion nouvelle.
 </meta>
-    <section=section_12, n_mesure=8, bpm=75, format=3/8, tonalite=Re_majeur>
+    <section=section_B_12, n_mesure=8, bpm=54, format=3/4, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |si4, ({si4, la4}, sol4, fa#4), (mi4, _)|
             <piano_1_v3>  |si3, ({si3, la3}, sol3, fa#3), (mi3, _)|
@@ -532,9 +532,9 @@ Section de développement 11 — 8 mesures. Tonalité Re majeur, tempo 75 BPM.
     </section>
 
 <meta>
-Section de développement 12 — 8 mesures. Tonalité Re majeur, tempo 75 BPM.
+8 mesures. Tempo Andante, environ 54 BPM. Signature 3/4. Tonalite Re majeur. Le retour de la section A en Re majeur apporte une resolution profondement satisfaisante, enrichie par l'experience emotionnelle de la section B, Schubert pouvant y ajouter des ornements ou des variantes expressives. Ce retour est vecu avec plus de profondeur encore grace au parcours harmonique precedent. Retrouver la noblesse tranquille du debut, avec encore plus d'interiorite et de profondeur.
 </meta>
-    <section=section_13, n_mesure=8, bpm=75, format=3/8, tonalite=Re_majeur>
+    <section=section_A_prime_13, n_mesure=8, bpm=54, format=3/4, tonalite=Re_majeur>
         <mesure num=1>
             <piano_1_v1>  |la5, ({sol#5, la5}, sol#5, la5), (do#6, si5)|
             <piano_1_v2>  |re5, re#5, (mi5, sol#5)|
@@ -576,9 +576,9 @@ Section de développement 12 — 8 mesures. Tonalité Re majeur, tempo 75 BPM.
     </section>
 
 <meta>
-Section de développement 13 — 8 mesures. Tonalité Re majeur, tempo 75 BPM.
+8 mesures. Tempo Andante, environ 54 BPM. Signature 3/4. Tonalite Re majeur. Le retour de la section A en Re majeur apporte une resolution profondement satisfaisante, enrichie par l'experience emotionnelle de la section B, Schubert pouvant y ajouter des ornements ou des variantes expressives. Ce retour est vecu avec plus de profondeur encore grace au parcours harmonique precedent. Retrouver la noblesse tranquille du debut, avec encore plus d'interiorite et de profondeur.
 </meta>
-    <section=section_14, n_mesure=8, bpm=75, format=3/8, tonalite=Re_majeur>
+    <section=section_A_prime_14, n_mesure=8, bpm=54, format=3/4, tonalite=Re_majeur>
         <mesure num=1>
             <piano_1_v1>  |la5, si4 si5, do#5 do#6|
             <piano_1_v3>  |(la3, fa#4 la4), (la3, mi4 sol4), (la2, la3 mi4)|
@@ -615,9 +615,9 @@ Section de développement 13 — 8 mesures. Tonalité Re majeur, tempo 75 BPM.
     </section>
 
 <meta>
-Section de développement 14 — 8 mesures. Tonalité Re majeur, tempo 75 BPM.
+8 mesures. Tempo Andante, environ 54 BPM. Signature 3/4. Tonalite Re majeur. Le retour de la section A en Re majeur apporte une resolution profondement satisfaisante, enrichie par l'experience emotionnelle de la section B, Schubert pouvant y ajouter des ornements ou des variantes expressives. Ce retour est vecu avec plus de profondeur encore grace au parcours harmonique precedent. Retrouver la noblesse tranquille du debut, avec encore plus d'interiorite et de profondeur.
 </meta>
-    <section=section_15, n_mesure=8, bpm=75, format=3/8, tonalite=Re_majeur>
+    <section=section_A_prime_15, n_mesure=8, bpm=54, format=3/4, tonalite=Re_majeur>
         <mesure num=1>
             <piano_1_v1>  |(do#5 sol5 la#5, do#5 sol5 la#5, do#5 sol5 la#5), (re5 fa5 la5, re5 fa5 la5, re5 fa5 la5), (la4 mi5 sol5, la4 mi5 sol5, la4 mi5 sol5)|
             <piano_1_v2>  |_, _, _|
@@ -658,9 +658,9 @@ Section de développement 14 — 8 mesures. Tonalité Re majeur, tempo 75 BPM.
     </section>
 
 <meta>
-Section de développement 15 — 8 mesures. Tonalité Re majeur, tempo 75 BPM.
+8 mesures. Tempo Andante, environ 54 BPM. Signature 3/4. Tonalite Re majeur. Le retour de la section A en Re majeur apporte une resolution profondement satisfaisante, enrichie par l'experience emotionnelle de la section B, Schubert pouvant y ajouter des ornements ou des variantes expressives. Ce retour est vecu avec plus de profondeur encore grace au parcours harmonique precedent. Retrouver la noblesse tranquille du debut, avec encore plus d'interiorite et de profondeur.
 </meta>
-    <section=section_16, n_mesure=8, bpm=75, format=3/8, tonalite=Re_majeur>
+    <section=section_A_prime_16, n_mesure=8, bpm=54, format=3/4, tonalite=Re_majeur>
         <mesure num=1>
             <piano_1_v1>  |(mi5 mi6, la4 la5), mi4 mi5, (la3 la4, la3 la4)|
             <piano_1_v3>  |({do3, mi3}, la3, mi3), ({do3, mi3}, la3, mi3), ({do3, mi3}, la3, mi3)|
@@ -697,9 +697,9 @@ Section de développement 15 — 8 mesures. Tonalité Re majeur, tempo 75 BPM.
     </section>
 
 <meta>
-Section de développement 16 — 8 mesures. Tonalité Re majeur, tempo 75 BPM.
+8 mesures. Tempo Andante, environ 54 BPM. Signature 3/4. Tonalite Re majeur. Le retour de la section A en Re majeur apporte une resolution profondement satisfaisante, enrichie par l'experience emotionnelle de la section B, Schubert pouvant y ajouter des ornements ou des variantes expressives. Ce retour est vecu avec plus de profondeur encore grace au parcours harmonique precedent. Retrouver la noblesse tranquille du debut, avec encore plus d'interiorite et de profondeur.
 </meta>
-    <section=section_17, n_mesure=8, bpm=75, format=3/8, tonalite=Re_majeur>
+    <section=section_A_prime_17, n_mesure=8, bpm=54, format=3/4, tonalite=Re_majeur>
         <mesure num=1>
             <piano_1_v1>  |(mi5, mi5), (mi5, {do#5, mi5}), (mi5, _)|
             <piano_1_v2>  |(la4, sol#4), (la4, sol#4 si4), (la4, _)|
@@ -738,9 +738,9 @@ Section de développement 16 — 8 mesures. Tonalité Re majeur, tempo 75 BPM.
     </section>
 
 <meta>
-Section de développement 17 — 8 mesures. Tonalité Re majeur, tempo 75 BPM.
+8 mesures. Tempo Andante, environ 54 BPM. Signature 3/4. Tonalite Re majeur. Le retour de la section A en Re majeur apporte une resolution profondement satisfaisante, enrichie par l'experience emotionnelle de la section B, Schubert pouvant y ajouter des ornements ou des variantes expressives. Ce retour est vecu avec plus de profondeur encore grace au parcours harmonique precedent. Retrouver la noblesse tranquille du debut, avec encore plus d'interiorite et de profondeur.
 </meta>
-    <section=section_18, n_mesure=8, bpm=75, format=3/8, tonalite=Re_majeur>
+    <section=section_A_prime_18, n_mesure=8, bpm=54, format=3/4, tonalite=Re_majeur>
         <mesure num=1>
             <piano_1_v1>  |_, _, do#5 mi5 la5 do#6|
             <piano_1_v3>  |(fa3, sol3), la3, la2 la3|
@@ -778,9 +778,9 @@ Section de développement 17 — 8 mesures. Tonalité Re majeur, tempo 75 BPM.
     </section>
 
 <meta>
-Section de développement 18 — 8 mesures. Tonalité Re majeur, tempo 75 BPM.
+8 mesures. Tempo Andante, environ 54 BPM. Signature 3/4. Tonalite Re majeur. La coda prolonge la resolution en Re majeur dans une conclusion apaisee et lumineuse, Schubert laissant le mouvement se dissoudre progressivement dans le calme. Ces dernieres mesures sont parmi les plus belles de toute la sonate. Diminuer le volume vers la fin, les dernieres notes pianissimo, la conclusion murmure.
 </meta>
-    <section=section_19, n_mesure=8, bpm=75, format=3/8, tonalite=Re_majeur>
+    <section=coda_19, n_mesure=8, bpm=54, format=3/4, tonalite=Re_majeur>
         <mesure num=1>
             <piano_1_v1>  |fa#5, (sol5, la5), (sol5, fa#5, mi5)|
             <piano_1_v2>  |la4 re5, -, la4 do#5|
@@ -820,9 +820,9 @@ Section de développement 18 — 8 mesures. Tonalité Re majeur, tempo 75 BPM.
     </section>
 
 <meta>
-Section de développement 19 — 8 mesures. Tonalité Re majeur, tempo 75 BPM.
+8 mesures. Tempo Andante, environ 54 BPM. Signature 3/4. Tonalite Re majeur. La coda prolonge la resolution en Re majeur dans une conclusion apaisee et lumineuse, Schubert laissant le mouvement se dissoudre progressivement dans le calme. Ces dernieres mesures sont parmi les plus belles de toute la sonate. Diminuer le volume vers la fin, les dernieres notes pianissimo, la conclusion murmure.
 </meta>
-    <section=section_20, n_mesure=8, bpm=75, format=3/8, tonalite=Re_majeur>
+    <section=coda_20, n_mesure=8, bpm=54, format=3/4, tonalite=Re_majeur>
         <mesure num=1>
             <piano_1_v1>  |fa5, sol#4, (_, fa5)|
             <piano_1_v3>  |({re3, fa3}, si3, fa3), ({re3, fa3}, si3, fa3), ({re3, fa3}, si3, fa3)|
@@ -861,9 +861,9 @@ Section de développement 19 — 8 mesures. Tonalité Re majeur, tempo 75 BPM.
     </section>
 
 <meta>
-Section de développement 20 — 8 mesures. Tonalité Re majeur, tempo 75 BPM.
+8 mesures. Tempo Andante, environ 54 BPM. Signature 3/4. Tonalite Re majeur. La coda prolonge la resolution en Re majeur dans une conclusion apaisee et lumineuse, Schubert laissant le mouvement se dissoudre progressivement dans le calme. Ces dernieres mesures sont parmi les plus belles de toute la sonate. Diminuer le volume vers la fin, les dernieres notes pianissimo, la conclusion murmure.
 </meta>
-    <section=section_21, n_mesure=8, bpm=75, format=3/8, tonalite=Re_majeur>
+    <section=coda_21, n_mesure=8, bpm=54, format=3/4, tonalite=Re_majeur>
         <mesure num=1>
             <piano_1_v1>  |la4, la4, (si4, sol4)|
             <piano_1_v3>  |do#3 mi3 la3, -, -|
@@ -903,9 +903,9 @@ Section de développement 20 — 8 mesures. Tonalité Re majeur, tempo 75 BPM.
     </section>
 
 <meta>
-Section de développement 21 — 8 mesures. Tonalité Re majeur, tempo 75 BPM.
+8 mesures. Tempo Andante, environ 54 BPM. Signature 3/4. Tonalite Re majeur. La coda prolonge la resolution en Re majeur dans une conclusion apaisee et lumineuse, Schubert laissant le mouvement se dissoudre progressivement dans le calme. Ces dernieres mesures sont parmi les plus belles de toute la sonate. Diminuer le volume vers la fin, les dernieres notes pianissimo, la conclusion murmure.
 </meta>
-    <section=section_22, n_mesure=8, bpm=75, format=3/8, tonalite=Re_majeur>
+    <section=coda_22, n_mesure=8, bpm=54, format=3/4, tonalite=Re_majeur>
         <mesure num=1>
             <piano_1_v1>  |re5 re6, do#5 do#6, (re5 re6, si4 si5)|
             <piano_1_v3>  |fa#3 re4, mi3 do#4, (fa#3 re4, sol3 si3)|
@@ -942,9 +942,9 @@ Section de développement 21 — 8 mesures. Tonalité Re majeur, tempo 75 BPM.
     </section>
 
 <meta>
-Section conclusive — 5 mesures. Tonalité Re majeur, tempo 75 BPM.
+5 mesures. Tempo Andante, environ 54 BPM. Signature 3/4. Tonalite Re majeur. La coda prolonge la resolution en Re majeur dans une conclusion apaisee et lumineuse, Schubert laissant le mouvement se dissoudre progressivement dans le calme. Ces dernieres mesures sont parmi les plus belles de toute la sonate. Diminuer le volume vers la fin, les dernieres notes pianissimo, la conclusion murmure.
 </meta>
-    <section=section_23, n_mesure=5, bpm=75, format=3/8, tonalite=Re_majeur>
+    <section=coda_23, n_mesure=5, bpm=54, format=3/4, tonalite=Re_majeur>
         <mesure num=1>
             <piano_1_v1>  |re5, re4, (mi4, fa#4)|
             <piano_1_v3>  |re3 fa#3 re4, _, _|
