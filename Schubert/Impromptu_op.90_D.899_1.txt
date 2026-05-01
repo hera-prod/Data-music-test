@@ -3,19 +3,19 @@
 TACHE : composition
 STYLE : romantique
 FORMAT : piano_solo
-NIVEAU : simple
+NIVEAU : avance
 Titre : Impromptu_op.90_D.899_1
-Date : ?
+Date : 1827
 Auteur : Schubert
 Tonalite : Do_mineur
 Unite : quarter
-Intention : Pièce pour piano solo, modéré, mélancolique, au cadre binaire régulier. Tonalité : Do mineur. 204 mesures.
+Intention : Oeuvre d'une gravite austere, ce premier Impromptu s'ouvre sur une marche implacable qui fait alterner la sombre puissance de l'unisson et l'ardeur lyrique d'un chant interieur profondement romantique. Forme sonate en Do mineur, 4/4, Allegro molto moderato (environ 80 BPM), 204 mesures articulees en introduction, theme A, theme B (Mib majeur), developpement modulant et recapitulation.
 </tete>
 
 <meta>
-Section d'ouverture — 8 mesures. Tonalité Do mineur, tempo 90 BPM.
+8 mesures. Tempo Allegro molto moderato, environ 80 BPM. Signature 4/4. Tonalite Do mineur. L'introduction etablit le caractere implacable de l'oeuvre par une marche a l'unisson qui implique toute la tessiture du piano, procede rare qui souligne la gravite et la determination de l'ouverture. Le registre grave et la dynamique forte creent une tension implacable qui prepare l'entree du theme principal. Jouer avec un toucher ferme et egal, les accents sur les premieres notes de chaque groupe.
 </meta>
-    <section=section_1, n_mesure=8, bpm=90, format=4/4, tonalite=Do_mineur>
+    <section=introduction_1, n_mesure=8, bpm=80, format=4/4, tonalite=Do_mineur>
         <mesure num=1>
             <piano_1_v1>  |sol4 sol5, -, -, (si4, do5)|
             <piano_1_v4>  |sol1 sol2, -, -, _|
@@ -51,9 +51,9 @@ Section d'ouverture — 8 mesures. Tonalité Do mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 1 — 8 mesures. Tonalité Do mineur, tempo 90 BPM.
+8 mesures. Tempo Allegro molto moderato, environ 80 BPM. Signature 4/4. Tonalite Do mineur. L'introduction etablit le caractere implacable de l'oeuvre par une marche a l'unisson qui implique toute la tessiture du piano, procede rare qui souligne la gravite et la determination de l'ouverture. Le registre grave et la dynamique forte creent une tension implacable qui prepare l'entree du theme principal. Jouer avec un toucher ferme et egal, les accents sur les premieres notes de chaque groupe.
 </meta>
-    <section=section_2, n_mesure=8, bpm=90, format=4/4, tonalite=Do_mineur>
+    <section=introduction_2, n_mesure=8, bpm=80, format=4/4, tonalite=Do_mineur>
         <mesure num=1>
             <piano_1_v1>  |mib4 sol4 do5, -, -, (re5, mib5)|
             <piano_1_v4>  |do3 sol3, -, -, _|
@@ -89,9 +89,9 @@ Section de développement 1 — 8 mesures. Tonalité Do mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 2 — 8 mesures. Tonalité Do mineur, tempo 90 BPM.
+8 mesures. Tempo Allegro molto moderato, environ 80 BPM. Signature 4/4. Tonalite Do mineur. Le theme A presente la melodie principale en Do mineur, alternant entre le chant lyrique de la main droite et le soutien harmonique de la gauche, etablissant la dualite expressive de l'oeuvre entre passion et rigueur. Le mouvement melodique cree une sensibilite romantique intense qui capte immediatement l'attention. Chanter la melodie avec une ligne legato continue, le pouce guidant l'expression melodique.
 </meta>
-    <section=section_3, n_mesure=8, bpm=90, format=4/4, tonalite=Do_mineur>
+    <section=theme_A_3, n_mesure=8, bpm=80, format=4/4, tonalite=Do_mineur>
         <mesure num=1>
             <piano_1_v1>  |mib4 sol4 do5, -, -, (si4, do5)|
             <piano_1_v4>  |do3 sol3, -, -, _|
@@ -130,9 +130,9 @@ Section de développement 2 — 8 mesures. Tonalité Do mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 3 — 8 mesures. Tonalité Do mineur, tempo 90 BPM.
+8 mesures. Tempo Allegro molto moderato, environ 80 BPM. Signature 4/4. Tonalite Do mineur. Le theme A presente la melodie principale en Do mineur, alternant entre le chant lyrique de la main droite et le soutien harmonique de la gauche, etablissant la dualite expressive de l'oeuvre entre passion et rigueur. Le mouvement melodique cree une sensibilite romantique intense qui capte immediatement l'attention. Chanter la melodie avec une ligne legato continue, le pouce guidant l'expression melodique.
 </meta>
-    <section=section_4, n_mesure=8, bpm=90, format=4/4, tonalite=Do_mineur>
+    <section=theme_A_4, n_mesure=8, bpm=80, format=4/4, tonalite=Do_mineur>
         <mesure num=1>
             <piano_1_v1>  |mib4 sol4 do5, -, -, (re5, mib5)|
             <piano_1_v4>  |re2 sol2, -, -, _|
@@ -170,9 +170,9 @@ Section de développement 3 — 8 mesures. Tonalité Do mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 4 — 8 mesures. Tonalité Do mineur, tempo 90 BPM.
+8 mesures. Tempo Allegro molto moderato, environ 80 BPM. Signature 4/4. Tonalite Do mineur. Le theme A presente la melodie principale en Do mineur, alternant entre le chant lyrique de la main droite et le soutien harmonique de la gauche, etablissant la dualite expressive de l'oeuvre entre passion et rigueur. Le mouvement melodique cree une sensibilite romantique intense qui capte immediatement l'attention. Chanter la melodie avec une ligne legato continue, le pouce guidant l'expression melodique.
 </meta>
-    <section=section_5, n_mesure=8, bpm=90, format=4/4, tonalite=Do_mineur>
+    <section=theme_A_5, n_mesure=8, bpm=80, format=4/4, tonalite=Do_mineur>
         <mesure num=1>
             <piano_1_v1>  |mib4 sol4 do5, -, -, (mib5, re5)|
             <piano_1_v4>  |do2 sol2, -, -, _|
@@ -208,9 +208,9 @@ Section de développement 4 — 8 mesures. Tonalité Do mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 5 — 8 mesures. Tonalité Do mineur, tempo 90 BPM.
+8 mesures. Tempo Allegro molto moderato, environ 80 BPM. Signature 4/4. Tonalite Do mineur. Le theme A presente la melodie principale en Do mineur, alternant entre le chant lyrique de la main droite et le soutien harmonique de la gauche, etablissant la dualite expressive de l'oeuvre entre passion et rigueur. Le mouvement melodique cree une sensibilite romantique intense qui capte immediatement l'attention. Chanter la melodie avec une ligne legato continue, le pouce guidant l'expression melodique.
 </meta>
-    <section=section_6, n_mesure=8, bpm=90, format=4/4, tonalite=Do_mineur>
+    <section=theme_A_6, n_mesure=8, bpm=80, format=4/4, tonalite=Do_mineur>
         <mesure num=1>
             <piano_1_v1>  |do4 mib4 lab4, -, _, (lab4, do5)|
             <piano_1_v4>  |(lab2, {do3, mib3}), (do3, {mib3, lab3}), (si2, {re3, lab3}), (do3, {mib3, lab3})|
@@ -247,9 +247,9 @@ Section de développement 5 — 8 mesures. Tonalité Do mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 6 — 8 mesures. Tonalité Do mineur, tempo 90 BPM.
+8 mesures. Tempo Allegro molto moderato, environ 80 BPM. Signature 4/4. Tonalite Do mineur. Le theme A presente la melodie principale en Do mineur, alternant entre le chant lyrique de la main droite et le soutien harmonique de la gauche, etablissant la dualite expressive de l'oeuvre entre passion et rigueur. Le mouvement melodique cree une sensibilite romantique intense qui capte immediatement l'attention. Chanter la melodie avec une ligne legato continue, le pouce guidant l'expression melodique.
 </meta>
-    <section=section_7, n_mesure=8, bpm=90, format=4/4, tonalite=Do_mineur>
+    <section=theme_A_7, n_mesure=8, bpm=80, format=4/4, tonalite=Do_mineur>
         <mesure num=1>
             <piano_1_v1>  |reb5, -, si4, sib4|
             <piano_1_v2>  |re4, re4|
@@ -288,9 +288,9 @@ Section de développement 6 — 8 mesures. Tonalité Do mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 7 — 8 mesures. Tonalité Do mineur, tempo 90 BPM.
+8 mesures. Tempo Allegro molto moderato, environ 80 BPM. Signature 4/4. Tonalite Do mineur. Le theme A presente la melodie principale en Do mineur, alternant entre le chant lyrique de la main droite et le soutien harmonique de la gauche, etablissant la dualite expressive de l'oeuvre entre passion et rigueur. Le mouvement melodique cree une sensibilite romantique intense qui capte immediatement l'attention. Chanter la melodie avec une ligne legato continue, le pouce guidant l'expression melodique.
 </meta>
-    <section=section_8, n_mesure=8, bpm=90, format=4/4, tonalite=Do_mineur>
+    <section=theme_A_8, n_mesure=8, bpm=80, format=4/4, tonalite=Do_mineur>
         <mesure num=1>
             <piano_1_v1>  |fa5 fa6, sol5 sol6, lab5 lab6, mib5 mib6|
             <piano_1_v4>  |(reb4, {fa4, lab4}), (reb4, {mib4, sib4}), (do4, {mib4, lab4}), (do4, {mib4, lab4})|
@@ -327,9 +327,9 @@ Section de développement 7 — 8 mesures. Tonalité Do mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 8 — 8 mesures. Tonalité Do mineur, tempo 90 BPM.
+8 mesures. Tempo Allegro molto moderato, environ 80 BPM. Signature 4/4. Tonalite Mib majeur. Le theme B apporte un contraste lumineux en Mib majeur, tonalite relative de Do mineur, offrant une oasis expressive plus chaleureuse et chantante apres la tension du premier theme. Ce changement de mode produit un effet de soulagement et d'ouverture qui rend l'oeuvre particulierement touchante. Adoucir le toucher, chercher une sonnerie plus ronde et lyrique pour ce contraste tonal.
 </meta>
-    <section=section_9, n_mesure=8, bpm=90, format=4/4, tonalite=Do_mineur>
+    <section=theme_B_9, n_mesure=8, bpm=80, format=4/4, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |(mib4 lab4 do5, {mib4, lab4}), (do5, {lab4, mib4}), (mib5, {do5, lab4}), (lab4, {do5, mib5})|
             <piano_1_v4>  |lab2 mib3 lab3, _, _, (lab2 lab3, do3 do4)|
@@ -367,9 +367,9 @@ Section de développement 8 — 8 mesures. Tonalité Do mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 9 — 8 mesures. Tonalité Do mineur, tempo 90 BPM.
+8 mesures. Tempo Allegro molto moderato, environ 80 BPM. Signature 4/4. Tonalite Mib majeur. Le theme B apporte un contraste lumineux en Mib majeur, tonalite relative de Do mineur, offrant une oasis expressive plus chaleureuse et chantante apres la tension du premier theme. Ce changement de mode produit un effet de soulagement et d'ouverture qui rend l'oeuvre particulierement touchante. Adoucir le toucher, chercher une sonnerie plus ronde et lyrique pour ce contraste tonal.
 </meta>
-    <section=section_10, n_mesure=8, bpm=90, format=4/4, tonalite=Do_mineur>
+    <section=theme_B_10, n_mesure=8, bpm=80, format=4/4, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |sol4 sol5, sol4 sol5, (lab4 lab5, sol4 sol5), (fa4 fa5, sol4 sol5)|
             <piano_1_v4>  |(mib3, {sib3, reb4}), (mib3, {sib3, reb4}), (mib3, {sib3, reb4}), (mib3, {sib3, reb4})|
@@ -407,9 +407,9 @@ Section de développement 9 — 8 mesures. Tonalité Do mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 10 — 8 mesures. Tonalité Do mineur, tempo 90 BPM.
+8 mesures. Tempo Allegro molto moderato, environ 80 BPM. Signature 4/4. Tonalite Mib majeur. Le theme B apporte un contraste lumineux en Mib majeur, tonalite relative de Do mineur, offrant une oasis expressive plus chaleureuse et chantante apres la tension du premier theme. Ce changement de mode produit un effet de soulagement et d'ouverture qui rend l'oeuvre particulierement touchante. Adoucir le toucher, chercher une sonnerie plus ronde et lyrique pour ce contraste tonal.
 </meta>
-    <section=section_11, n_mesure=8, bpm=90, format=4/4, tonalite=Do_mineur>
+    <section=theme_B_11, n_mesure=8, bpm=80, format=4/4, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |(sol4 mib5 sol5, fa4 reb5 fa5), (mib4 do5 mib5, reb4 sib4 reb5), do4 lab4 do5, (reb5, sib4)|
             <piano_1_v2>  |_, _, _, reb4 sol4|
@@ -446,9 +446,9 @@ Section de développement 10 — 8 mesures. Tonalité Do mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 11 — 8 mesures. Tonalité Do mineur, tempo 90 BPM.
+8 mesures. Tempo Allegro molto moderato, environ 80 BPM. Signature 4/4. Tonalite Mib majeur. Le theme B apporte un contraste lumineux en Mib majeur, tonalite relative de Do mineur, offrant une oasis expressive plus chaleureuse et chantante apres la tension du premier theme. Ce changement de mode produit un effet de soulagement et d'ouverture qui rend l'oeuvre particulierement touchante. Adoucir le toucher, chercher une sonnerie plus ronde et lyrique pour ce contraste tonal.
 </meta>
-    <section=section_12, n_mesure=8, bpm=90, format=4/4, tonalite=Do_mineur>
+    <section=theme_B_12, n_mesure=8, bpm=80, format=4/4, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |sol3 sol4, -, sol3 sol4, (sol3 sol4, {sol3 sol4, fa3 fa4})|
             <piano_1_v4>  |mib3, re3, do3, (sib2, lab2)|
@@ -485,9 +485,9 @@ Section de développement 11 — 8 mesures. Tonalité Do mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 12 — 8 mesures. Tonalité Do mineur, tempo 90 BPM.
+8 mesures. Tempo Allegro molto moderato, environ 80 BPM. Signature 4/4. Tonalite Mib majeur. Le theme B apporte un contraste lumineux en Mib majeur, tonalite relative de Do mineur, offrant une oasis expressive plus chaleureuse et chantante apres la tension du premier theme. Ce changement de mode produit un effet de soulagement et d'ouverture qui rend l'oeuvre particulierement touchante. Adoucir le toucher, chercher une sonnerie plus ronde et lyrique pour ce contraste tonal.
 </meta>
-    <section=section_13, n_mesure=8, bpm=90, format=4/4, tonalite=Do_mineur>
+    <section=theme_B_13, n_mesure=8, bpm=80, format=4/4, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |mib5, re5, do5, (re5, do5)|
             <piano_1_v2>  |_, mib4, sol4, _|
@@ -532,9 +532,9 @@ Section de développement 12 — 8 mesures. Tonalité Do mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 13 — 8 mesures. Tonalité Do mineur, tempo 90 BPM.
+8 mesures. Tempo Allegro molto moderato, environ 80 BPM. Signature 4/4. Tonalite Mib majeur. Le theme B apporte un contraste lumineux en Mib majeur, tonalite relative de Do mineur, offrant une oasis expressive plus chaleureuse et chantante apres la tension du premier theme. Ce changement de mode produit un effet de soulagement et d'ouverture qui rend l'oeuvre particulierement touchante. Adoucir le toucher, chercher une sonnerie plus ronde et lyrique pour ce contraste tonal.
 </meta>
-    <section=section_14, n_mesure=8, bpm=90, format=4/4, tonalite=Do_mineur>
+    <section=theme_B_14, n_mesure=8, bpm=80, format=4/4, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |sol5, fa5, mib5, (re5, do5)|
             <piano_1_v2>  |_, (sol4, lab4), sol4, _|
@@ -582,9 +582,9 @@ Section de développement 13 — 8 mesures. Tonalité Do mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 14 — 8 mesures. Tonalité Do mineur, tempo 90 BPM.
+8 mesures. Tempo Allegro molto moderato, environ 80 BPM. Signature 4/4. Tonalite modulante. Le developpement explore harmoniquement le materiau thematique principal, passant par plusieurs tonalites intermediaires pour heighten la tension dramatique avant la recapitulation. Les modulations frequentes creent une instabilite harmonique volontaire qui traduit le questionnement romantique de l'oeuvre. Maintenir une pulsation stable malgre les changements harmoniques, laisser les contrastes dynamiques parler.
 </meta>
-    <section=section_15, n_mesure=8, bpm=90, format=4/4, tonalite=Do_mineur>
+    <section=developpement_15, n_mesure=8, bpm=80, format=4/4, tonalite=Do_mineur>
         <mesure num=1>
             <piano_1_v1>  |do5 sol5 do6, -, -, (do4 do5, {do4 do5, do4 do5})|
             <piano_1_v4>  |(do3, {do3, do3}), (do3, {do3, do3}), (do3, {do3, do3}), (do3, {do3, do3})|
@@ -627,9 +627,9 @@ Section de développement 14 — 8 mesures. Tonalité Do mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 15 — 8 mesures. Tonalité Do mineur, tempo 90 BPM.
+8 mesures. Tempo Allegro molto moderato, environ 80 BPM. Signature 4/4. Tonalite modulante. Le developpement explore harmoniquement le materiau thematique principal, passant par plusieurs tonalites intermediaires pour heighten la tension dramatique avant la recapitulation. Les modulations frequentes creent une instabilite harmonique volontaire qui traduit le questionnement romantique de l'oeuvre. Maintenir une pulsation stable malgre les changements harmoniques, laisser les contrastes dynamiques parler.
 </meta>
-    <section=section_16, n_mesure=8, bpm=90, format=4/4, tonalite=Do_mineur>
+    <section=developpement_16, n_mesure=8, bpm=80, format=4/4, tonalite=Do_mineur>
         <mesure num=1>
             <piano_1_v1>  |mi4 do5, -, fa4 do5, mib4 solb4 do5|
             <piano_1_v4>  |do3, -, do3, do3|
@@ -676,9 +676,9 @@ Section de développement 15 — 8 mesures. Tonalité Do mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 16 — 8 mesures. Tonalité Do mineur, tempo 90 BPM.
+8 mesures. Tempo Allegro molto moderato, environ 80 BPM. Signature 4/4. Tonalite modulante. Le developpement explore harmoniquement le materiau thematique principal, passant par plusieurs tonalites intermediaires pour heighten la tension dramatique avant la recapitulation. Les modulations frequentes creent une instabilite harmonique volontaire qui traduit le questionnement romantique de l'oeuvre. Maintenir une pulsation stable malgre les changements harmoniques, laisser les contrastes dynamiques parler.
 </meta>
-    <section=section_17, n_mesure=8, bpm=90, format=4/4, tonalite=Do_mineur>
+    <section=developpement_17, n_mesure=8, bpm=80, format=4/4, tonalite=Do_mineur>
         <mesure num=1>
             <piano_1_v1>  |(sol4, re4), (mib4, mib4), (re4, re4, solb4), ({sol4, re4}, sol4, sib4)|
             <piano_1_v2>  |sol4, -, -, _|
@@ -722,9 +722,9 @@ Section de développement 16 — 8 mesures. Tonalité Do mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 17 — 8 mesures. Tonalité Do mineur, tempo 90 BPM.
+8 mesures. Tempo Allegro molto moderato, environ 80 BPM. Signature 4/4. Tonalite modulante. Le developpement explore harmoniquement le materiau thematique principal, passant par plusieurs tonalites intermediaires pour heighten la tension dramatique avant la recapitulation. Les modulations frequentes creent une instabilite harmonique volontaire qui traduit le questionnement romantique de l'oeuvre. Maintenir une pulsation stable malgre les changements harmoniques, laisser les contrastes dynamiques parler.
 </meta>
-    <section=section_18, n_mesure=8, bpm=90, format=4/4, tonalite=Do_mineur>
+    <section=developpement_18, n_mesure=8, bpm=80, format=4/4, tonalite=Do_mineur>
         <mesure num=1>
             <piano_1_v1>  |solb4 solb5, solb4 solb5, (sol4 sol5, solb4 solb5), (mi4 mi5, solb4 solb5)|
             <piano_1_v4>  |({mib3, la3}, do4, la3), ({re3, la3}, do4, la3), ({re3, la3}, do4, la3), ({re3, la3}, do4, la3)|
@@ -760,9 +760,9 @@ Section de développement 17 — 8 mesures. Tonalité Do mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 18 — 8 mesures. Tonalité Do mineur, tempo 90 BPM.
+8 mesures. Tempo Allegro molto moderato, environ 80 BPM. Signature 4/4. Tonalite modulante. Le developpement explore harmoniquement le materiau thematique principal, passant par plusieurs tonalites intermediaires pour heighten la tension dramatique avant la recapitulation. Les modulations frequentes creent une instabilite harmonique volontaire qui traduit le questionnement romantique de l'oeuvre. Maintenir une pulsation stable malgre les changements harmoniques, laisser les contrastes dynamiques parler.
 </meta>
-    <section=section_19, n_mesure=8, bpm=90, format=4/4, tonalite=Do_mineur>
+    <section=developpement_19, n_mesure=8, bpm=80, format=4/4, tonalite=Do_mineur>
         <mesure num=1>
             <piano_1_v1>  |(_, sol4 re5 sol5), (sol4 do5 sol5, reb5 sol5 reb6), (_, re5 sol5 la5 re6), (re5 fa5 la5 re6, fa4 la4 re5)|
             <piano_1_v4>  |mib3 mib4, -, re3 re4, -|
@@ -798,9 +798,9 @@ Section de développement 18 — 8 mesures. Tonalité Do mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 19 — 8 mesures. Tonalité Do mineur, tempo 90 BPM.
+8 mesures. Tempo Allegro molto moderato, environ 80 BPM. Signature 4/4. Tonalite modulante. Le developpement explore harmoniquement le materiau thematique principal, passant par plusieurs tonalites intermediaires pour heighten la tension dramatique avant la recapitulation. Les modulations frequentes creent une instabilite harmonique volontaire qui traduit le questionnement romantique de l'oeuvre. Maintenir une pulsation stable malgre les changements harmoniques, laisser les contrastes dynamiques parler.
 </meta>
-    <section=section_20, n_mesure=8, bpm=90, format=4/4, tonalite=Do_mineur>
+    <section=developpement_20, n_mesure=8, bpm=80, format=4/4, tonalite=Do_mineur>
         <mesure num=1>
             <piano_1_v1>  |{si4, mi5}, (si4, la4), (lab4, la4)|
             <piano_1_v4>  |(do2, {do3 mi3 si3, do3 mi3 si3}), do3 mi3 lab3, do3 mi3 la3, -|
@@ -839,9 +839,9 @@ Section de développement 19 — 8 mesures. Tonalité Do mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 20 — 8 mesures. Tonalité Do mineur, tempo 90 BPM.
+8 mesures. Tempo Allegro molto moderato, environ 80 BPM. Signature 4/4. Tonalite Do mineur vers Do majeur. La recapitulation reunite les themes initiaux sous la tonalite principale, avec un glissement final vers Do majeur qui transforme la gravite initiale en une resolution apaisee, passage de mineur en majeur typique du style schubertien. Cette conclusion en majeur produit un effet de lumiere inattendue apres la tension sombre du debut. Laisser la transformation vers Do majeur s'operer naturellement, pianissimo pour le dernier bloc.
 </meta>
-    <section=section_21, n_mesure=8, bpm=90, format=4/4, tonalite=Do_mineur>
+    <section=recapitulation_21, n_mesure=8, bpm=80, format=4/4, tonalite=Do_mineur>
         <mesure num=1>
             <piano_1_v1>  |sol3 sol4, -, -, -|
             <piano_1_v4>  |re3, re3, re3, (do3, re3)|
@@ -877,9 +877,9 @@ Section de développement 20 — 8 mesures. Tonalité Do mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 21 — 8 mesures. Tonalité Do mineur, tempo 90 BPM.
+8 mesures. Tempo Allegro molto moderato, environ 80 BPM. Signature 4/4. Tonalite Do mineur vers Do majeur. La recapitulation reunite les themes initiaux sous la tonalite principale, avec un glissement final vers Do majeur qui transforme la gravite initiale en une resolution apaisee, passage de mineur en majeur typique du style schubertien. Cette conclusion en majeur produit un effet de lumiere inattendue apres la tension sombre du debut. Laisser la transformation vers Do majeur s'operer naturellement, pianissimo pour le dernier bloc.
 </meta>
-    <section=section_22, n_mesure=8, bpm=90, format=4/4, tonalite=Do_mineur>
+    <section=recapitulation_22, n_mesure=8, bpm=80, format=4/4, tonalite=Do_mineur>
         <mesure num=1>
             <piano_1_v1>  |fa4 sol4 re5, fa4 sol4 re5, fa4 sol4 re5, (mi4 sol4 do5, fa4 sol4 re5)|
             <piano_1_v4>  |sol3, -, -, -|
@@ -915,9 +915,9 @@ Section de développement 21 — 8 mesures. Tonalité Do mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 22 — 8 mesures. Tonalité Do mineur, tempo 90 BPM.
+8 mesures. Tempo Allegro molto moderato, environ 80 BPM. Signature 4/4. Tonalite Do mineur vers Do majeur. La recapitulation reunite les themes initiaux sous la tonalite principale, avec un glissement final vers Do majeur qui transforme la gravite initiale en une resolution apaisee, passage de mineur en majeur typique du style schubertien. Cette conclusion en majeur produit un effet de lumiere inattendue apres la tension sombre du debut. Laisser la transformation vers Do majeur s'operer naturellement, pianissimo pour le dernier bloc.
 </meta>
-    <section=section_23, n_mesure=8, bpm=90, format=4/4, tonalite=Do_mineur>
+    <section=recapitulation_23, n_mesure=8, bpm=80, format=4/4, tonalite=Do_mineur>
         <mesure num=1>
             <piano_1_v1>  |re6, re6, re6, (do6, re6)|
             <piano_1_v2>  |_, fa5 lab5 si5, fa5 la5 do6, fa5 la5|
@@ -965,9 +965,9 @@ Section de développement 22 — 8 mesures. Tonalité Do mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 23 — 8 mesures. Tonalité Do mineur, tempo 90 BPM.
+8 mesures. Tempo Allegro molto moderato, environ 80 BPM. Signature 4/4. Tonalite Do mineur vers Do majeur. La recapitulation reunite les themes initiaux sous la tonalite principale, avec un glissement final vers Do majeur qui transforme la gravite initiale en une resolution apaisee, passage de mineur en majeur typique du style schubertien. Cette conclusion en majeur produit un effet de lumiere inattendue apres la tension sombre du debut. Laisser la transformation vers Do majeur s'operer naturellement, pianissimo pour le dernier bloc.
 </meta>
-    <section=section_24, n_mesure=8, bpm=90, format=4/4, tonalite=Do_mineur>
+    <section=recapitulation_24, n_mesure=8, bpm=80, format=4/4, tonalite=Do_mineur>
         <mesure num=1>
             <piano_1_v1>  |re4 si4 re5, re4 si4 re5, re4 si4 re5, (mi4 do5 mi5, fa4 re5 fa5)|
             <piano_1_v4>  |(sol3, {sol3, sol3}), (solb3 sol3, {solb3 sol3, solb3 sol3}), (fa3 sol3, {mi3 sol3, re3 sol3}), (do3 sol3, {si2 sol3, sib2 sol3})|
@@ -1012,9 +1012,9 @@ Section de développement 23 — 8 mesures. Tonalité Do mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 24 — 8 mesures. Tonalité Do mineur, tempo 90 BPM.
+8 mesures. Tempo Allegro molto moderato, environ 80 BPM. Signature 4/4. Tonalite Do mineur vers Do majeur. La recapitulation reunite les themes initiaux sous la tonalite principale, avec un glissement final vers Do majeur qui transforme la gravite initiale en une resolution apaisee, passage de mineur en majeur typique du style schubertien. Cette conclusion en majeur produit un effet de lumiere inattendue apres la tension sombre du debut. Laisser la transformation vers Do majeur s'operer naturellement, pianissimo pour le dernier bloc.
 </meta>
-    <section=section_25, n_mesure=8, bpm=90, format=4/4, tonalite=Do_mineur>
+    <section=recapitulation_25, n_mesure=8, bpm=80, format=4/4, tonalite=Do_mineur>
         <mesure num=1>
             <piano_1_v1>  |do5, -, -, (si4, do5)|
             <piano_1_v2>  |mi4, -, -, _|
@@ -1052,9 +1052,9 @@ Section de développement 24 — 8 mesures. Tonalité Do mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section conclusive — 4 mesures. Tonalité Do mineur, tempo 90 BPM.
+4 mesures. Tempo Allegro molto moderato, environ 80 BPM. Signature 4/4. Tonalite Do mineur vers Do majeur. La recapitulation reunite les themes initiaux sous la tonalite principale, avec un glissement final vers Do majeur qui transforme la gravite initiale en une resolution apaisee, passage de mineur en majeur typique du style schubertien. Cette conclusion en majeur produit un effet de lumiere inattendue apres la tension sombre du debut. Laisser la transformation vers Do majeur s'operer naturellement, pianissimo pour le dernier bloc.
 </meta>
-    <section=section_26, n_mesure=4, bpm=90, format=4/4, tonalite=Do_mineur>
+    <section=recapitulation_26, n_mesure=4, bpm=80, format=4/4, tonalite=Do_mineur>
         <mesure num=1>
             <piano_1_v1>  |mi4 do5, -, sol4, fa4 si4|
             <piano_1_v4>  |do3 sol3 do4, -, sol3 mi4, sol3 re4|
