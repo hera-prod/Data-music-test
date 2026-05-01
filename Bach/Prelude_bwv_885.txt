@@ -6,7 +6,7 @@ FORMAT : piano_solo
 NIVEAU : avance
 Titre : Prélude en Sol mineur, BWV 885, Clavier bien tempéré II n°16
 Date : 1742
-Auteur : Johann Sebastian Bach
+Auteur : Bach
 Tonalite : Sol_mineur
 Unite : quarter
 Intention : Prélude au caractère grave, désespéré et mélancolique, bâti sur une figure rythmique pointée qui évoque l'ouverture à la française avec sa noblesse sombre et son inexorable progression harmonique, renforcée par des dissonances liées et des enchaînements harmoniques surprenants qui semblent étirer le temps. Tonalité de Sol mineur, mesure 4/4, 21 mesures en trois périodes, tempo largo environ 56 BPM, avec une cadence sur la dominante ré mineur à la mesure 9 et un retour à la tonique sol mineur à la mesure 20.
