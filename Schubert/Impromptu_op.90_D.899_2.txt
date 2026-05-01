@@ -3,19 +3,19 @@
 TACHE : composition
 STYLE : romantique
 FORMAT : piano_solo
-NIVEAU : simple
+NIVEAU : avance
 Titre : Impromptu_op.90_D.899_2
-Date : ?
+Date : 1827
 Auteur : Schubert
 Tonalite : Mib_majeur
 Unite : quarter
-Intention : Pièce pour piano solo, modéré, lumineux, au balancement ternaire. Tonalité : Mib majeur. 284 mesures.
+Intention : Perpetuum mobile d'une virtuosite legere, ce second Impromptu deploie un torrent de triolets en Mib majeur qui traduit une joie debordante et une grace aerienne typiquement schubertienne. Forme ternaire (A-B-A') en Mib majeur, 3/4, Allegro (environ 138 BPM), 284 mesures organisees en section A, section B (Sib mineur), section A' et coda.
 </tete>
 
 <meta>
-Section d'ouverture — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+8 mesures. Tempo Allegro, environ 138 BPM. Signature 3/4. Tonalite Mib majeur. La section A etablit le flux perpetuel de triolets qui definit cet Impromptu, creant une energie dansante et une legerete aerienne qui representent l'essence de la virtuosite schubertienne. Ce torrent de notes egales produit un effet de mouvement sans effort, comme une brise musicale continue. Veiller a une egalite parfaite des triolets, le poignet souple, sans accent marque sur chaque debut de temps.
 </meta>
-    <section=section_1, n_mesure=8, bpm=90, format=3/4, tonalite=Mib_majeur>
+    <section=section_A_1, n_mesure=8, bpm=138, format=3/4, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |sib5, -, -|
             <piano_1_v2>  |_, _, _|
@@ -64,9 +64,9 @@ Section d'ouverture — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 1 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+8 mesures. Tempo Allegro, environ 138 BPM. Signature 3/4. Tonalite Mib majeur. La section A etablit le flux perpetuel de triolets qui definit cet Impromptu, creant une energie dansante et une legerete aerienne qui representent l'essence de la virtuosite schubertienne. Ce torrent de notes egales produit un effet de mouvement sans effort, comme une brise musicale continue. Veiller a une egalite parfaite des triolets, le poignet souple, sans accent marque sur chaque debut de temps.
 </meta>
-    <section=section_2, n_mesure=8, bpm=90, format=3/4, tonalite=Mib_majeur>
+    <section=section_A_2, n_mesure=8, bpm=138, format=3/4, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |(mib4, {fa4, sol4}), (lab4, {sib4, do5}), (re5, {mib5, fa5})|
             <piano_1_v3>  |mib3, sol3 sib3 mib4, -|
@@ -115,9 +115,9 @@ Section de développement 1 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 2 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+8 mesures. Tempo Allegro, environ 138 BPM. Signature 3/4. Tonalite Mib majeur. La section A etablit le flux perpetuel de triolets qui definit cet Impromptu, creant une energie dansante et une legerete aerienne qui representent l'essence de la virtuosite schubertienne. Ce torrent de notes egales produit un effet de mouvement sans effort, comme une brise musicale continue. Veiller a une egalite parfaite des triolets, le poignet souple, sans accent marque sur chaque debut de temps.
 </meta>
-    <section=section_3, n_mesure=8, bpm=90, format=3/4, tonalite=Mib_majeur>
+    <section=section_A_3, n_mesure=8, bpm=138, format=3/4, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |(mib5, {fa5, sol5}), (lab5, {sib5, do6}), (re6, {mib6, fa6})|
             <piano_1_v3>  |mib3, sol3 sib3 mib4, -|
@@ -166,9 +166,9 @@ Section de développement 2 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 3 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+8 mesures. Tempo Allegro, environ 138 BPM. Signature 3/4. Tonalite Mib majeur. La section A etablit le flux perpetuel de triolets qui definit cet Impromptu, creant une energie dansante et une legerete aerienne qui representent l'essence de la virtuosite schubertienne. Ce torrent de notes egales produit un effet de mouvement sans effort, comme une brise musicale continue. Veiller a une egalite parfaite des triolets, le poignet souple, sans accent marque sur chaque debut de temps.
 </meta>
-    <section=section_4, n_mesure=8, bpm=90, format=3/4, tonalite=Mib_majeur>
+    <section=section_A_4, n_mesure=8, bpm=138, format=3/4, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |(mib5, {sol5, fa5}), (mib5, {re5, do5}), (sib4, {lab4, fa4})|
             <piano_1_v3>  |mib3, sol3 sib3 mib4, -|
@@ -218,9 +218,9 @@ Section de développement 3 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 4 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+8 mesures. Tempo Allegro, environ 138 BPM. Signature 3/4. Tonalite Mib majeur. La section A etablit le flux perpetuel de triolets qui definit cet Impromptu, creant une energie dansante et une legerete aerienne qui representent l'essence de la virtuosite schubertienne. Ce torrent de notes egales produit un effet de mouvement sans effort, comme une brise musicale continue. Veiller a une egalite parfaite des triolets, le poignet souple, sans accent marque sur chaque debut de temps.
 </meta>
-    <section=section_5, n_mesure=8, bpm=90, format=3/4, tonalite=Mib_majeur>
+    <section=section_A_5, n_mesure=8, bpm=138, format=3/4, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |(solb3, {sib3, mib4}), (solb4, {sib3, mib4}), (reb4, {sib3, reb4})|
             <piano_1_v2>  |_, solb4, -|
@@ -272,9 +272,9 @@ Section de développement 4 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 5 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+8 mesures. Tempo Allegro, environ 138 BPM. Signature 3/4. Tonalite Mib majeur. La section A etablit le flux perpetuel de triolets qui definit cet Impromptu, creant une energie dansante et une legerete aerienne qui representent l'essence de la virtuosite schubertienne. Ce torrent de notes egales produit un effet de mouvement sans effort, comme une brise musicale continue. Veiller a une egalite parfaite des triolets, le poignet souple, sans accent marque sur chaque debut de temps.
 </meta>
-    <section=section_6, n_mesure=8, bpm=90, format=3/4, tonalite=Mib_majeur>
+    <section=section_A_6, n_mesure=8, bpm=138, format=3/4, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |(reb4, {solb4, sib4}), (reb5, {sib4, solb4}), (fa4, {solb4, mi4})|
             <piano_1_v2>  |_, reb5, -|
@@ -323,9 +323,9 @@ Section de développement 5 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 6 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+8 mesures. Tempo Allegro, environ 138 BPM. Signature 3/4. Tonalite Mib majeur. La section A etablit le flux perpetuel de triolets qui definit cet Impromptu, creant une energie dansante et une legerete aerienne qui representent l'essence de la virtuosite schubertienne. Ce torrent de notes egales produit un effet de mouvement sans effort, comme une brise musicale continue. Veiller a une egalite parfaite des triolets, le poignet souple, sans accent marque sur chaque debut de temps.
 </meta>
-    <section=section_7, n_mesure=8, bpm=90, format=3/4, tonalite=Mib_majeur>
+    <section=section_A_7, n_mesure=8, bpm=138, format=3/4, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |(lab5, {si5, sib5}), (lab5, {solb5, fa5}), (mib5, {re5, fa5})|
             <piano_1_v2>  |_, _, _|
@@ -375,9 +375,9 @@ Section de développement 6 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 7 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+8 mesures. Tempo Allegro, environ 138 BPM. Signature 3/4. Tonalite Mib majeur. La section A etablit le flux perpetuel de triolets qui definit cet Impromptu, creant une energie dansante et une legerete aerienne qui representent l'essence de la virtuosite schubertienne. Ce torrent de notes egales produit un effet de mouvement sans effort, comme une brise musicale continue. Veiller a une egalite parfaite des triolets, le poignet souple, sans accent marque sur chaque debut de temps.
 </meta>
-    <section=section_8, n_mesure=8, bpm=90, format=3/4, tonalite=Mib_majeur>
+    <section=section_A_8, n_mesure=8, bpm=138, format=3/4, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |(sol4, {sib4, lab4}), (sol4, {lab4, sib4}), (do5, {re5, mib5})|
             <piano_1_v2>  |_, _, _|
@@ -426,9 +426,9 @@ Section de développement 7 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 8 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+8 mesures. Tempo Allegro, environ 138 BPM. Signature 3/4. Tonalite Mib majeur. La section A etablit le flux perpetuel de triolets qui definit cet Impromptu, creant une energie dansante et une legerete aerienne qui representent l'essence de la virtuosite schubertienne. Ce torrent de notes egales produit un effet de mouvement sans effort, comme une brise musicale continue. Veiller a une egalite parfaite des triolets, le poignet souple, sans accent marque sur chaque debut de temps.
 </meta>
-    <section=section_9, n_mesure=8, bpm=90, format=3/4, tonalite=Mib_majeur>
+    <section=section_A_9, n_mesure=8, bpm=138, format=3/4, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |(sol5, {solb5, sol5}), (lab5, {sol5, lab5}), (sib5, {lab5, sib5})|
             <piano_1_v2>  |_, _, _|
@@ -479,9 +479,9 @@ Section de développement 8 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 9 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+8 mesures. Tempo Allegro, environ 138 BPM. Signature 3/4. Tonalite Sib mineur. La section B plonge dans Sib mineur, creant un contraste expressif sombre avec le brillant de la section A, Schubert utilisant la tonalite pour introduire une ombre mysterieuse et dramatique. Ce changement de mode assombrit immediatement la couleur sonore et rend la section plus intense emotionnellement. Appuyer les basses en Sib mineur pour souligner le caractere dramatique, sans perdre la fluidite du mouvement.
 </meta>
-    <section=section_10, n_mesure=8, bpm=90, format=3/4, tonalite=Mib_majeur>
+    <section=section_B_10, n_mesure=8, bpm=138, format=3/4, tonalite=Sib_mineur>
         <mesure num=1>
             <piano_1_v1>  |(si5, {mib6, reb6}), (si5, {sib5, lab5}), (solb5, {fa5, mib5})|
             <piano_1_v3>  |lab2, lab3, -|
@@ -531,9 +531,9 @@ Section de développement 9 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 10 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+8 mesures. Tempo Allegro, environ 138 BPM. Signature 3/4. Tonalite Sib mineur. La section B plonge dans Sib mineur, creant un contraste expressif sombre avec le brillant de la section A, Schubert utilisant la tonalite pour introduire une ombre mysterieuse et dramatique. Ce changement de mode assombrit immediatement la couleur sonore et rend la section plus intense emotionnellement. Appuyer les basses en Sib mineur pour souligner le caractere dramatique, sans perdre la fluidite du mouvement.
 </meta>
-    <section=section_11, n_mesure=8, bpm=90, format=3/4, tonalite=Mib_majeur>
+    <section=section_B_11, n_mesure=8, bpm=138, format=3/4, tonalite=Sib_mineur>
         <mesure num=1>
             <piano_1_v1>  |_, _, (re4, {mib4, fa4})|
             <piano_1_v2>  |_, do4|
@@ -583,9 +583,9 @@ Section de développement 10 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 11 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+8 mesures. Tempo Allegro, environ 138 BPM. Signature 3/4. Tonalite Sib mineur. La section B plonge dans Sib mineur, creant un contraste expressif sombre avec le brillant de la section A, Schubert utilisant la tonalite pour introduire une ombre mysterieuse et dramatique. Ce changement de mode assombrit immediatement la couleur sonore et rend la section plus intense emotionnellement. Appuyer les basses en Sib mineur pour souligner le caractere dramatique, sans perdre la fluidite du mouvement.
 </meta>
-    <section=section_12, n_mesure=8, bpm=90, format=3/4, tonalite=Mib_majeur>
+    <section=section_B_12, n_mesure=8, bpm=138, format=3/4, tonalite=Sib_mineur>
         <mesure num=1>
             <piano_1_v1>  |re5, -, -|
             <piano_1_v2>  |_, (re4, {solb4, si4}), re4|
@@ -636,9 +636,9 @@ Section de développement 11 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 12 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+8 mesures. Tempo Allegro, environ 138 BPM. Signature 3/4. Tonalite Sib mineur. La section B plonge dans Sib mineur, creant un contraste expressif sombre avec le brillant de la section A, Schubert utilisant la tonalite pour introduire une ombre mysterieuse et dramatique. Ce changement de mode assombrit immediatement la couleur sonore et rend la section plus intense emotionnellement. Appuyer les basses en Sib mineur pour souligner le caractere dramatique, sans perdre la fluidite du mouvement.
 </meta>
-    <section=section_13, n_mesure=8, bpm=90, format=3/4, tonalite=Mib_majeur>
+    <section=section_B_13, n_mesure=8, bpm=138, format=3/4, tonalite=Sib_mineur>
         <mesure num=1>
             <piano_1_v1>  |re5, -, -|
             <piano_1_v2>  |_, (re4, {solb4, si4}), re4|
@@ -682,9 +682,9 @@ Section de développement 12 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 13 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+8 mesures. Tempo Allegro, environ 138 BPM. Signature 3/4. Tonalite Sib mineur. La section B plonge dans Sib mineur, creant un contraste expressif sombre avec le brillant de la section A, Schubert utilisant la tonalite pour introduire une ombre mysterieuse et dramatique. Ce changement de mode assombrit immediatement la couleur sonore et rend la section plus intense emotionnellement. Appuyer les basses en Sib mineur pour souligner le caractere dramatique, sans perdre la fluidite du mouvement.
 </meta>
-    <section=section_14, n_mesure=8, bpm=90, format=3/4, tonalite=Mib_majeur>
+    <section=section_B_14, n_mesure=8, bpm=138, format=3/4, tonalite=Sib_mineur>
         <mesure num=1>
             <piano_1_v1>  |solb4, -, -|
             <piano_1_v2>  |_, (solb3, {la3, reb4}), solb3|
@@ -730,9 +730,9 @@ Section de développement 13 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 14 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+8 mesures. Tempo Allegro, environ 138 BPM. Signature 3/4. Tonalite Sib mineur. La section B plonge dans Sib mineur, creant un contraste expressif sombre avec le brillant de la section A, Schubert utilisant la tonalite pour introduire une ombre mysterieuse et dramatique. Ce changement de mode assombrit immediatement la couleur sonore et rend la section plus intense emotionnellement. Appuyer les basses en Sib mineur pour souligner le caractere dramatique, sans perdre la fluidite du mouvement.
 </meta>
-    <section=section_15, n_mesure=8, bpm=90, format=3/4, tonalite=Mib_majeur>
+    <section=section_B_15, n_mesure=8, bpm=138, format=3/4, tonalite=Sib_mineur>
         <mesure num=1>
             <piano_1_v1>  |sib4, -, -|
             <piano_1_v2>  |_, (sib3, {reb4, sol4}), sib3|
@@ -784,9 +784,9 @@ Section de développement 14 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 15 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+8 mesures. Tempo Allegro, environ 138 BPM. Signature 3/4. Tonalite Sib mineur. La section B plonge dans Sib mineur, creant un contraste expressif sombre avec le brillant de la section A, Schubert utilisant la tonalite pour introduire une ombre mysterieuse et dramatique. Ce changement de mode assombrit immediatement la couleur sonore et rend la section plus intense emotionnellement. Appuyer les basses en Sib mineur pour souligner le caractere dramatique, sans perdre la fluidite du mouvement.
 </meta>
-    <section=section_16, n_mesure=8, bpm=90, format=3/4, tonalite=Mib_majeur>
+    <section=section_B_16, n_mesure=8, bpm=138, format=3/4, tonalite=Sib_mineur>
         <mesure num=1>
             <piano_1_v1>  |reb5, -, -|
             <piano_1_v2>  |_, (reb4, {fa4, lab4}), reb4|
@@ -838,9 +838,9 @@ Section de développement 15 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 16 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+8 mesures. Tempo Allegro, environ 138 BPM. Signature 3/4. Tonalite Sib mineur. La section B plonge dans Sib mineur, creant un contraste expressif sombre avec le brillant de la section A, Schubert utilisant la tonalite pour introduire une ombre mysterieuse et dramatique. Ce changement de mode assombrit immediatement la couleur sonore et rend la section plus intense emotionnellement. Appuyer les basses en Sib mineur pour souligner le caractere dramatique, sans perdre la fluidite du mouvement.
 </meta>
-    <section=section_17, n_mesure=8, bpm=90, format=3/4, tonalite=Mib_majeur>
+    <section=section_B_17, n_mesure=8, bpm=138, format=3/4, tonalite=Sib_mineur>
         <mesure num=1>
             <piano_1_v1>  |si4, -, -|
             <piano_1_v2>  |_, (si3, {reb4, sol4}), si3|
@@ -892,9 +892,9 @@ Section de développement 16 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 17 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+8 mesures. Tempo Allegro, environ 138 BPM. Signature 3/4. Tonalite Sib mineur. La section B plonge dans Sib mineur, creant un contraste expressif sombre avec le brillant de la section A, Schubert utilisant la tonalite pour introduire une ombre mysterieuse et dramatique. Ce changement de mode assombrit immediatement la couleur sonore et rend la section plus intense emotionnellement. Appuyer les basses en Sib mineur pour souligner le caractere dramatique, sans perdre la fluidite du mouvement.
 </meta>
-    <section=section_18, n_mesure=8, bpm=90, format=3/4, tonalite=Mib_majeur>
+    <section=section_B_18, n_mesure=8, bpm=138, format=3/4, tonalite=Sib_mineur>
         <mesure num=1>
             <piano_1_v1>  |mi5, -, -|
             <piano_1_v2>  |_, (mi4, {solb4, do5}), mi4|
@@ -940,9 +940,9 @@ Section de développement 17 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 18 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+8 mesures. Tempo Allegro, environ 138 BPM. Signature 3/4. Tonalite Mib majeur. Le retour de la section A en Mib majeur apporte la resolution bienheureuse apres le contraste sombre, reinstaurant le flux lumineux initial avec un sentiment de liberation et de joie retrouvee. La repetition de la section A rend ce retour encore plus satisfaisant a l'oreille. Retrouver la legerete et la brillance initiales, avec encore plus d'elan qu'au debut.
 </meta>
-    <section=section_19, n_mesure=8, bpm=90, format=3/4, tonalite=Mib_majeur>
+    <section=section_A_prime_19, n_mesure=8, bpm=138, format=3/4, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |do5, -, -|
             <piano_1_v2>  |_, (do4, {mi4, sol4}), do4|
@@ -986,9 +986,9 @@ Section de développement 18 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 19 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+8 mesures. Tempo Allegro, environ 138 BPM. Signature 3/4. Tonalite Mib majeur. Le retour de la section A en Mib majeur apporte la resolution bienheureuse apres le contraste sombre, reinstaurant le flux lumineux initial avec un sentiment de liberation et de joie retrouvee. La repetition de la section A rend ce retour encore plus satisfaisant a l'oreille. Retrouver la legerete et la brillance initiales, avec encore plus d'elan qu'au debut.
 </meta>
-    <section=section_20, n_mesure=8, bpm=90, format=3/4, tonalite=Mib_majeur>
+    <section=section_A_prime_20, n_mesure=8, bpm=138, format=3/4, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |si4, -, -|
             <piano_1_v2>  |_, (si3, {re4, solb4}), si3|
@@ -1032,9 +1032,9 @@ Section de développement 19 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 20 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+8 mesures. Tempo Allegro, environ 138 BPM. Signature 3/4. Tonalite Mib majeur. Le retour de la section A en Mib majeur apporte la resolution bienheureuse apres le contraste sombre, reinstaurant le flux lumineux initial avec un sentiment de liberation et de joie retrouvee. La repetition de la section A rend ce retour encore plus satisfaisant a l'oreille. Retrouver la legerete et la brillance initiales, avec encore plus d'elan qu'au debut.
 </meta>
-    <section=section_21, n_mesure=8, bpm=90, format=3/4, tonalite=Mib_majeur>
+    <section=section_A_prime_21, n_mesure=8, bpm=138, format=3/4, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |sib4, -, -|
             <piano_1_v2>  |_, (sib3, {mib4, solb4}), sib3|
@@ -1078,9 +1078,9 @@ Section de développement 20 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 21 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+8 mesures. Tempo Allegro, environ 138 BPM. Signature 3/4. Tonalite Mib majeur. Le retour de la section A en Mib majeur apporte la resolution bienheureuse apres le contraste sombre, reinstaurant le flux lumineux initial avec un sentiment de liberation et de joie retrouvee. La repetition de la section A rend ce retour encore plus satisfaisant a l'oreille. Retrouver la legerete et la brillance initiales, avec encore plus d'elan qu'au debut.
 </meta>
-    <section=section_22, n_mesure=8, bpm=90, format=3/4, tonalite=Mib_majeur>
+    <section=section_A_prime_22, n_mesure=8, bpm=138, format=3/4, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |(sib5, {lab5, sib5}), (lab5, {sib5, lab5}), (sib5, {lab5, sib5})|
             <piano_1_v3>  |sib2 fa3 lab3 sib3, -, -|
@@ -1129,9 +1129,9 @@ Section de développement 21 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 22 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+8 mesures. Tempo Allegro, environ 138 BPM. Signature 3/4. Tonalite Mib majeur. Le retour de la section A en Mib majeur apporte la resolution bienheureuse apres le contraste sombre, reinstaurant le flux lumineux initial avec un sentiment de liberation et de joie retrouvee. La repetition de la section A rend ce retour encore plus satisfaisant a l'oreille. Retrouver la legerete et la brillance initiales, avec encore plus d'elan qu'au debut.
 </meta>
-    <section=section_23, n_mesure=8, bpm=90, format=3/4, tonalite=Mib_majeur>
+    <section=section_A_prime_23, n_mesure=8, bpm=138, format=3/4, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |(mib4, {fa4, sol4}), (lab4, {sib4, do5}), (re5, {mib5, fa5})|
             <piano_1_v3>  |mib3, sol3 sib3 mib4, -|
@@ -1180,9 +1180,9 @@ Section de développement 22 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 23 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+8 mesures. Tempo Allegro, environ 138 BPM. Signature 3/4. Tonalite Mib majeur. Le retour de la section A en Mib majeur apporte la resolution bienheureuse apres le contraste sombre, reinstaurant le flux lumineux initial avec un sentiment de liberation et de joie retrouvee. La repetition de la section A rend ce retour encore plus satisfaisant a l'oreille. Retrouver la legerete et la brillance initiales, avec encore plus d'elan qu'au debut.
 </meta>
-    <section=section_24, n_mesure=8, bpm=90, format=3/4, tonalite=Mib_majeur>
+    <section=section_A_prime_24, n_mesure=8, bpm=138, format=3/4, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |(mib5, {fa5, sol5}), (lab5, {sib5, do6}), (re6, {mib6, fa6})|
             <piano_1_v3>  |mib3, sol3 sib3 mib4, -|
@@ -1231,9 +1231,9 @@ Section de développement 23 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 24 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+8 mesures. Tempo Allegro, environ 138 BPM. Signature 3/4. Tonalite Mib majeur. Le retour de la section A en Mib majeur apporte la resolution bienheureuse apres le contraste sombre, reinstaurant le flux lumineux initial avec un sentiment de liberation et de joie retrouvee. La repetition de la section A rend ce retour encore plus satisfaisant a l'oreille. Retrouver la legerete et la brillance initiales, avec encore plus d'elan qu'au debut.
 </meta>
-    <section=section_25, n_mesure=8, bpm=90, format=3/4, tonalite=Mib_majeur>
+    <section=section_A_prime_25, n_mesure=8, bpm=138, format=3/4, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |(mib5, {sol5, fa5}), (mib5, {re5, do5}), (sib4, {lab4, fa4})|
             <piano_1_v3>  |mib3, sol3 sib3 mib4, -|
@@ -1283,9 +1283,9 @@ Section de développement 24 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 25 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+8 mesures. Tempo Allegro, environ 138 BPM. Signature 3/4. Tonalite Mib majeur. Le retour de la section A en Mib majeur apporte la resolution bienheureuse apres le contraste sombre, reinstaurant le flux lumineux initial avec un sentiment de liberation et de joie retrouvee. La repetition de la section A rend ce retour encore plus satisfaisant a l'oreille. Retrouver la legerete et la brillance initiales, avec encore plus d'elan qu'au debut.
 </meta>
-    <section=section_26, n_mesure=8, bpm=90, format=3/4, tonalite=Mib_majeur>
+    <section=section_A_prime_26, n_mesure=8, bpm=138, format=3/4, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |(solb3, {sib3, mib4}), solb4, -|
             <piano_1_v2>  |_, (solb4, {sib3, mib4}), (reb4, {sib3, reb4})|
@@ -1337,9 +1337,9 @@ Section de développement 25 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 26 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+8 mesures. Tempo Allegro, environ 138 BPM. Signature 3/4. Tonalite Mib majeur. Le retour de la section A en Mib majeur apporte la resolution bienheureuse apres le contraste sombre, reinstaurant le flux lumineux initial avec un sentiment de liberation et de joie retrouvee. La repetition de la section A rend ce retour encore plus satisfaisant a l'oreille. Retrouver la legerete et la brillance initiales, avec encore plus d'elan qu'au debut.
 </meta>
-    <section=section_27, n_mesure=8, bpm=90, format=3/4, tonalite=Mib_majeur>
+    <section=section_A_prime_27, n_mesure=8, bpm=138, format=3/4, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |_, reb5, -|
             <piano_1_v2>  |(reb4, {solb4, sib4}), (reb5, {sib4, solb4}), (fa4, {solb4, mi4})|
@@ -1388,9 +1388,9 @@ Section de développement 26 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 27 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+8 mesures. Tempo Allegro, environ 138 BPM. Signature 3/4. Tonalite Mib majeur. La coda conclut avec une elaboration brillante du materiau principal, apportant une conclusion energique et virtuose qui confirme le caractere de perpetuum mobile de l'oeuvre. Ces mesures finales concentrent toute l'energie accumulee dans une conclusion rayonnante. Construire vers la conclusion avec un crescendo naturel, la note finale affirmee avec confiance.
 </meta>
-    <section=section_28, n_mesure=8, bpm=90, format=3/4, tonalite=Mib_majeur>
+    <section=coda_28, n_mesure=8, bpm=138, format=3/4, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |(lab5, {si5, sib5}), (lab5, {solb5, fa5}), (mib5, {re5, fa5})|
             <piano_1_v2>  |_, _, _|
@@ -1440,9 +1440,9 @@ Section de développement 27 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 28 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+8 mesures. Tempo Allegro, environ 138 BPM. Signature 3/4. Tonalite Mib majeur. La coda conclut avec une elaboration brillante du materiau principal, apportant une conclusion energique et virtuose qui confirme le caractere de perpetuum mobile de l'oeuvre. Ces mesures finales concentrent toute l'energie accumulee dans une conclusion rayonnante. Construire vers la conclusion avec un crescendo naturel, la note finale affirmee avec confiance.
 </meta>
-    <section=section_29, n_mesure=8, bpm=90, format=3/4, tonalite=Mib_majeur>
+    <section=coda_29, n_mesure=8, bpm=138, format=3/4, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |(sol4, {sib4, lab4}), (sol4, {lab4, sib4}), (do5, {re5, mib5})|
             <piano_1_v2>  |_, _, _|
@@ -1491,9 +1491,9 @@ Section de développement 28 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 29 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+8 mesures. Tempo Allegro, environ 138 BPM. Signature 3/4. Tonalite Mib majeur. La coda conclut avec une elaboration brillante du materiau principal, apportant une conclusion energique et virtuose qui confirme le caractere de perpetuum mobile de l'oeuvre. Ces mesures finales concentrent toute l'energie accumulee dans une conclusion rayonnante. Construire vers la conclusion avec un crescendo naturel, la note finale affirmee avec confiance.
 </meta>
-    <section=section_30, n_mesure=8, bpm=90, format=3/4, tonalite=Mib_majeur>
+    <section=coda_30, n_mesure=8, bpm=138, format=3/4, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |(sol5, {solb5, sol5}), (lab5, {sol5, lab5}), (sib5, {lab5, sib5})|
             <piano_1_v2>  |_, _, _|
@@ -1544,9 +1544,9 @@ Section de développement 29 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 30 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+8 mesures. Tempo Allegro, environ 138 BPM. Signature 3/4. Tonalite Mib majeur. La coda conclut avec une elaboration brillante du materiau principal, apportant une conclusion energique et virtuose qui confirme le caractere de perpetuum mobile de l'oeuvre. Ces mesures finales concentrent toute l'energie accumulee dans une conclusion rayonnante. Construire vers la conclusion avec un crescendo naturel, la note finale affirmee avec confiance.
 </meta>
-    <section=section_31, n_mesure=8, bpm=90, format=3/4, tonalite=Mib_majeur>
+    <section=coda_31, n_mesure=8, bpm=138, format=3/4, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |(si5, {mib6, reb6}), (si5, {sib5, lab5}), (solb5, {fa5, mib5})|
             <piano_1_v3>  |lab2, lab3, -|
@@ -1590,9 +1590,9 @@ Section de développement 30 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 31 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+8 mesures. Tempo Allegro, environ 138 BPM. Signature 3/4. Tonalite Mib majeur. La coda conclut avec une elaboration brillante du materiau principal, apportant une conclusion energique et virtuose qui confirme le caractere de perpetuum mobile de l'oeuvre. Ces mesures finales concentrent toute l'energie accumulee dans une conclusion rayonnante. Construire vers la conclusion avec un crescendo naturel, la note finale affirmee avec confiance.
 </meta>
-    <section=section_32, n_mesure=8, bpm=90, format=3/4, tonalite=Mib_majeur>
+    <section=coda_32, n_mesure=8, bpm=138, format=3/4, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |_, do4, (re4, {mib4, fa4})|
             <piano_1_v3>  |_, (lab3, sib3)|
@@ -1642,9 +1642,9 @@ Section de développement 31 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 32 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+8 mesures. Tempo Allegro, environ 138 BPM. Signature 3/4. Tonalite Mib majeur. La coda conclut avec une elaboration brillante du materiau principal, apportant une conclusion energique et virtuose qui confirme le caractere de perpetuum mobile de l'oeuvre. Ces mesures finales concentrent toute l'energie accumulee dans une conclusion rayonnante. Construire vers la conclusion avec un crescendo naturel, la note finale affirmee avec confiance.
 </meta>
-    <section=section_33, n_mesure=8, bpm=90, format=3/4, tonalite=Mib_majeur>
+    <section=coda_33, n_mesure=8, bpm=138, format=3/4, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |mib5, -, -|
             <piano_1_v2>  |_, (mib4, {solb4, sib4}), mib4|
@@ -1691,9 +1691,9 @@ Section de développement 32 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 33 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+8 mesures. Tempo Allegro, environ 138 BPM. Signature 3/4. Tonalite Mib majeur. La coda conclut avec une elaboration brillante du materiau principal, apportant une conclusion energique et virtuose qui confirme le caractere de perpetuum mobile de l'oeuvre. Ces mesures finales concentrent toute l'energie accumulee dans une conclusion rayonnante. Construire vers la conclusion avec un crescendo naturel, la note finale affirmee avec confiance.
 </meta>
-    <section=section_34, n_mesure=8, bpm=90, format=3/4, tonalite=Mib_majeur>
+    <section=coda_34, n_mesure=8, bpm=138, format=3/4, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |mib6, -, -|
             <piano_1_v2>  |_, (mib5, {solb5, sib5}), mib5|
@@ -1739,9 +1739,9 @@ Section de développement 33 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 34 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+8 mesures. Tempo Allegro, environ 138 BPM. Signature 3/4. Tonalite Mib majeur. La coda conclut avec une elaboration brillante du materiau principal, apportant une conclusion energique et virtuose qui confirme le caractere de perpetuum mobile de l'oeuvre. Ces mesures finales concentrent toute l'energie accumulee dans une conclusion rayonnante. Construire vers la conclusion avec un crescendo naturel, la note finale affirmee avec confiance.
 </meta>
-    <section=section_35, n_mesure=8, bpm=90, format=3/4, tonalite=Mib_majeur>
+    <section=coda_35, n_mesure=8, bpm=138, format=3/4, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |sib5, -, -|
             <piano_1_v2>  |_, (sib4, {mib5, solb5}), sib4|
@@ -1787,9 +1787,9 @@ Section de développement 34 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section conclusive — 4 mesures. Tonalité Mib majeur, tempo 90 BPM.
+4 mesures. Tempo Allegro, environ 138 BPM. Signature 3/4. Tonalite Mib majeur. La coda conclut avec une elaboration brillante du materiau principal, apportant une conclusion energique et virtuose qui confirme le caractere de perpetuum mobile de l'oeuvre. Ces mesures finales concentrent toute l'energie accumulee dans une conclusion rayonnante. Construire vers la conclusion avec un crescendo naturel, la note finale affirmee avec confiance.
 </meta>
-    <section=section_36, n_mesure=4, bpm=90, format=3/4, tonalite=Mib_majeur>
+    <section=coda_36, n_mesure=4, bpm=138, format=3/4, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |mib4, mib4, mib4|
             <piano_1_v3>  |mib3 solb3 sib3, mib3 la3 si3, mib3 solb3 sib3|
