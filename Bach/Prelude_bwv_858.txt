@@ -6,7 +6,7 @@ FORMAT : piano_solo
 NIVEAU : intermediaire
 Titre : Prélude en Fa dièse majeur, BWV 858, Le Clavier bien tempéré I n°13
 Date : 1722
-Auteur : Johann Sebastian Bach
+Auteur : Bach
 Tonalite : Fa#_majeur
 Unite : quarter
 Intention : Prélude à deux voix d'une légèreté trompeuse, fondé sur un mouvement syncopé et balançant où la main droite déploie un flot continu de notes groupées par trois, tandis que la main gauche répond et complète la pulsation, créant des suspensions expressives. Forme binaire en Fa dièse majeur, 30 mesures en 12/16, tempo modéré, articulant deux périodes thématiques et une coda sur pédale de dominante.
