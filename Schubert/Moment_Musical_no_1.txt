@@ -3,19 +3,19 @@
 TACHE : composition
 STYLE : romantique
 FORMAT : piano_solo
-NIVEAU : simple
+NIVEAU : intermediaire
 Titre : Moment_Musical_no_1
-Date : ?
+Date : 1823
 Auteur : Schubert
-Tonalite : Sol_majeur
+Tonalite : Do_majeur
 Unite : quarter
-Intention : Pièce pour piano solo, modéré, lumineux, au balancement ternaire. Tonalité : Sol majeur. 153 mesures.
+Intention : D'un caractere simple et lumineux, ce premier Moment Musical en Do majeur rayonne d'une serenite naturelle traversee par un episode contrastant qui apporte une ombre transitoire avant le retour de la lumiere initiale. Forme ternaire avec coda en Do majeur, 2/4, Moderato (environ 80 BPM), 153 mesures, section B modulant vers Lab majeur et Do mineur.
 </tete>
 
 <meta>
-Section d'ouverture — 8 mesures. Tonalité Sol majeur, tempo 90 BPM.
+8 mesures. Tempo Moderato, environ 80 BPM. Signature 2/4. Tonalite Do majeur. La section A en Do majeur etablit un caractere simple et lumineux, Schubert choisissant la tonalite la plus naturelle du piano pour exprimer une serenite sans artifice, la melodie cantabile se detachant clairement sur le fond harmonique. La simplicite de Do majeur est ici un choix expressif delibere qui rend la melodie immediatement accessible et attachante. Jouer piano et legato, la melodie bien detachee, le mouvement regulier et serein.
 </meta>
-    <section=section_1, n_mesure=8, bpm=90, format=3/4, tonalite=Sol_majeur>
+    <section=section_A_1, n_mesure=8, bpm=80, format=2/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |sol4, (sol4, {mi4, do4}), (sol4, mi5)|
             <piano_1_v2>  |la4|
@@ -54,9 +54,9 @@ Section d'ouverture — 8 mesures. Tonalité Sol majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 1 — 8 mesures. Tonalité Sol majeur, tempo 90 BPM.
+8 mesures. Tempo Moderato, environ 80 BPM. Signature 2/4. Tonalite Do majeur. La section A en Do majeur etablit un caractere simple et lumineux, Schubert choisissant la tonalite la plus naturelle du piano pour exprimer une serenite sans artifice, la melodie cantabile se detachant clairement sur le fond harmonique. La simplicite de Do majeur est ici un choix expressif delibere qui rend la melodie immediatement accessible et attachante. Jouer piano et legato, la melodie bien detachee, le mouvement regulier et serein.
 </meta>
-    <section=section_2, n_mesure=8, bpm=90, format=3/4, tonalite=Sol_majeur>
+    <section=section_A_2, n_mesure=8, bpm=80, format=2/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |sol4, (sol4, {mi4, do4}), (sol4, mi5)|
             <piano_1_v2>  |la4|
@@ -95,9 +95,9 @@ Section de développement 1 — 8 mesures. Tonalité Sol majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 2 — 8 mesures. Tonalité Sol majeur, tempo 90 BPM.
+8 mesures. Tempo Moderato, environ 80 BPM. Signature 2/4. Tonalite Do majeur. La section A en Do majeur etablit un caractere simple et lumineux, Schubert choisissant la tonalite la plus naturelle du piano pour exprimer une serenite sans artifice, la melodie cantabile se detachant clairement sur le fond harmonique. La simplicite de Do majeur est ici un choix expressif delibere qui rend la melodie immediatement accessible et attachante. Jouer piano et legato, la melodie bien detachee, le mouvement regulier et serein.
 </meta>
-    <section=section_3, n_mesure=8, bpm=90, format=3/4, tonalite=Sol_majeur>
+    <section=section_A_3, n_mesure=8, bpm=80, format=2/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |mi5, (mi5, {do5, la4}), (do5, {la4, mi4})|
             <piano_1_v2>  |fa5, re5|
@@ -143,9 +143,9 @@ Section de développement 2 — 8 mesures. Tonalité Sol majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 3 — 8 mesures. Tonalité Sol majeur, tempo 90 BPM.
+8 mesures. Tempo Moderato, environ 80 BPM. Signature 2/4. Tonalite Do majeur. La section A en Do majeur etablit un caractere simple et lumineux, Schubert choisissant la tonalite la plus naturelle du piano pour exprimer une serenite sans artifice, la melodie cantabile se detachant clairement sur le fond harmonique. La simplicite de Do majeur est ici un choix expressif delibere qui rend la melodie immediatement accessible et attachante. Jouer piano et legato, la melodie bien detachee, le mouvement regulier et serein.
 </meta>
-    <section=section_4, n_mesure=8, bpm=90, format=3/4, tonalite=Sol_majeur>
+    <section=section_A_4, n_mesure=8, bpm=80, format=2/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |_, _, _|
             <piano_1_v3>  |_, _, _|
@@ -185,9 +185,9 @@ Section de développement 3 — 8 mesures. Tonalité Sol majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 4 — 8 mesures. Tonalité Sol majeur, tempo 90 BPM.
+8 mesures. Tempo Moderato, environ 80 BPM. Signature 2/4. Tonalite Lab majeur et Do mineur. La section B apporte un contraste expressif en modulant vers Lab majeur puis Do mineur, tonalites eloignees de Do majeur qui creent une ombre temporaire et enrichissent le discours musical d'une nouvelle profondeur. Ce contraste tonal rend le retour en Do majeur encore plus satisfaisant a l'oreille. Accentuer legerement le changement de caractere a l'entree de la section B, sans brusquerie.
 </meta>
-    <section=section_5, n_mesure=8, bpm=90, format=3/4, tonalite=Sol_majeur>
+    <section=section_B_5, n_mesure=8, bpm=80, format=2/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |(sol4 mi5 sol5, sol4 re5 fa5), (sol4 do5 mi5, sol4 si4 re5), (sol4 do5 mi5, _)|
             <piano_1_v3>  |(sol2, la2, si2), (do3, sol2), (do3, _)|
@@ -228,9 +228,9 @@ Section de développement 4 — 8 mesures. Tonalité Sol majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 5 — 8 mesures. Tonalité Sol majeur, tempo 90 BPM.
+8 mesures. Tempo Moderato, environ 80 BPM. Signature 2/4. Tonalite Lab majeur et Do mineur. La section B apporte un contraste expressif en modulant vers Lab majeur puis Do mineur, tonalites eloignees de Do majeur qui creent une ombre temporaire et enrichissent le discours musical d'une nouvelle profondeur. Ce contraste tonal rend le retour en Do majeur encore plus satisfaisant a l'oreille. Accentuer legerement le changement de caractere a l'entree de la section B, sans brusquerie.
 </meta>
-    <section=section_6, n_mesure=8, bpm=90, format=3/4, tonalite=Sol_majeur>
+    <section=section_B_6, n_mesure=8, bpm=80, format=2/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |mi5, (do5, {si4, la4}), si4|
             <piano_1_v2>  |re5|
@@ -271,9 +271,9 @@ Section de développement 5 — 8 mesures. Tonalité Sol majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 6 — 8 mesures. Tonalité Sol majeur, tempo 90 BPM.
+8 mesures. Tempo Moderato, environ 80 BPM. Signature 2/4. Tonalite Lab majeur et Do mineur. La section B apporte un contraste expressif en modulant vers Lab majeur puis Do mineur, tonalites eloignees de Do majeur qui creent une ombre temporaire et enrichissent le discours musical d'une nouvelle profondeur. Ce contraste tonal rend le retour en Do majeur encore plus satisfaisant a l'oreille. Accentuer legerement le changement de caractere a l'entree de la section B, sans brusquerie.
 </meta>
-    <section=section_7, n_mesure=8, bpm=90, format=3/4, tonalite=Sol_majeur>
+    <section=section_B_7, n_mesure=8, bpm=80, format=2/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |(mi5 sol5, sol4, _), (mi5 sol5, sol4, _), (mi5 sol5, sol4, _)|
             <piano_1_v3>  |sol3, (sol3, {mi3, do3}), (sol3, mi4)|
@@ -313,9 +313,9 @@ Section de développement 6 — 8 mesures. Tonalité Sol majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 7 — 8 mesures. Tonalité Sol majeur, tempo 90 BPM.
+8 mesures. Tempo Moderato, environ 80 BPM. Signature 2/4. Tonalite Lab majeur et Do mineur. La section B apporte un contraste expressif en modulant vers Lab majeur puis Do mineur, tonalites eloignees de Do majeur qui creent une ombre temporaire et enrichissent le discours musical d'une nouvelle profondeur. Ce contraste tonal rend le retour en Do majeur encore plus satisfaisant a l'oreille. Accentuer legerement le changement de caractere a l'entree de la section B, sans brusquerie.
 </meta>
-    <section=section_8, n_mesure=8, bpm=90, format=3/4, tonalite=Sol_majeur>
+    <section=section_B_8, n_mesure=8, bpm=80, format=2/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |(sol5 sol6, fa5 fa6), fa5 fa6, si4 si5|
             <piano_1_v3>  |(sol3 la#3 re4, sol2 re3 si3), sol2 re3 si3, sol3 fa4 sol4|
@@ -357,9 +357,9 @@ Section de développement 7 — 8 mesures. Tonalité Sol majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 8 — 8 mesures. Tonalité Sol majeur, tempo 90 BPM.
+8 mesures. Tempo Moderato, environ 80 BPM. Signature 2/4. Tonalite Lab majeur et Do mineur. La section B apporte un contraste expressif en modulant vers Lab majeur puis Do mineur, tonalites eloignees de Do majeur qui creent une ombre temporaire et enrichissent le discours musical d'une nouvelle profondeur. Ce contraste tonal rend le retour en Do majeur encore plus satisfaisant a l'oreille. Accentuer legerement le changement de caractere a l'entree de la section B, sans brusquerie.
 </meta>
-    <section=section_9, n_mesure=8, bpm=90, format=3/4, tonalite=Sol_majeur>
+    <section=section_B_9, n_mesure=8, bpm=80, format=2/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |(re4, re5), (mi4 mi5, fa#4 fa#5), (sol4 sol5, re4 sol4 si4)|
             <piano_1_v3>  |sol2 si2 re3, (sol2 do3 mi3, sol2 la2 fa#3), (sol2 si2 sol3, re3 sol3 si3)|
@@ -401,9 +401,9 @@ Section de développement 8 — 8 mesures. Tonalité Sol majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 9 — 8 mesures. Tonalité Sol majeur, tempo 90 BPM.
+8 mesures. Tempo Moderato, environ 80 BPM. Signature 2/4. Tonalite Lab majeur et Do mineur. La section B apporte un contraste expressif en modulant vers Lab majeur puis Do mineur, tonalites eloignees de Do majeur qui creent une ombre temporaire et enrichissent le discours musical d'une nouvelle profondeur. Ce contraste tonal rend le retour en Do majeur encore plus satisfaisant a l'oreille. Accentuer legerement le changement de caractere a l'entree de la section B, sans brusquerie.
 </meta>
-    <section=section_10, n_mesure=8, bpm=90, format=3/4, tonalite=Sol_majeur>
+    <section=section_B_10, n_mesure=8, bpm=80, format=2/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |(re4, re5), (mi4 mi5, fa#4 fa#5), (sol4 sol5, re4 sol4 si4)|
             <piano_1_v3>  |sol2 si2 re3, (sol2 do3 mi3, sol2 la2 fa#3), (sol2 si2 sol3, re3 sol3 si3)|
@@ -439,9 +439,9 @@ Section de développement 9 — 8 mesures. Tonalité Sol majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 10 — 8 mesures. Tonalité Sol majeur, tempo 90 BPM.
+8 mesures. Tempo Moderato, environ 80 BPM. Signature 2/4. Tonalite Do majeur. Le retour de la section A en Do majeur restaure la serenite initiale avec un sentiment de boucle parfaite, Schubert enrichissant parfois la reprise de details ornementaux discrets. Ce retour au point de depart produit une satisfaction d'ordre architecturale tout autant qu'emotionnelle. Retrouver la legerete et la luminosite de la section A, comme si rien ne s'etait passe.
 </meta>
-    <section=section_11, n_mesure=8, bpm=90, format=3/4, tonalite=Sol_majeur>
+    <section=section_A_prime_11, n_mesure=8, bpm=80, format=2/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |(re4 fa#4, la3 mi4), fa#3 re4, -|
             <piano_1_v3>  |(re2, {la2, re2}), (la1, {re2, la1}), (re2, {la2, re2})|
@@ -478,9 +478,9 @@ Section de développement 10 — 8 mesures. Tonalité Sol majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 11 — 8 mesures. Tonalité Sol majeur, tempo 90 BPM.
+8 mesures. Tempo Moderato, environ 80 BPM. Signature 2/4. Tonalite Do majeur. Le retour de la section A en Do majeur restaure la serenite initiale avec un sentiment de boucle parfaite, Schubert enrichissant parfois la reprise de details ornementaux discrets. Ce retour au point de depart produit une satisfaction d'ordre architecturale tout autant qu'emotionnelle. Retrouver la legerete et la luminosite de la section A, comme si rien ne s'etait passe.
 </meta>
-    <section=section_12, n_mesure=8, bpm=90, format=3/4, tonalite=Sol_majeur>
+    <section=section_A_prime_12, n_mesure=8, bpm=80, format=2/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |(la4, {re4, do4}), (la4, {re4, do4}), (sol4, {re4, la#3})|
             <piano_1_v3>  |(do3, {re3, la3}), (do3, {re3, la3}), (la#2, {re3, sol3})|
@@ -521,9 +521,9 @@ Section de développement 11 — 8 mesures. Tonalité Sol majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 12 — 8 mesures. Tonalité Sol majeur, tempo 90 BPM.
+8 mesures. Tempo Moderato, environ 80 BPM. Signature 2/4. Tonalite Do majeur. Le retour de la section A en Do majeur restaure la serenite initiale avec un sentiment de boucle parfaite, Schubert enrichissant parfois la reprise de details ornementaux discrets. Ce retour au point de depart produit une satisfaction d'ordre architecturale tout autant qu'emotionnelle. Retrouver la legerete et la luminosite de la section A, comme si rien ne s'etait passe.
 </meta>
-    <section=section_13, n_mesure=8, bpm=90, format=3/4, tonalite=Sol_majeur>
+    <section=section_A_prime_13, n_mesure=8, bpm=80, format=2/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |(fa#4 re5, la4 mi5), fa#4 re5, (la4 mi5, _)|
             <piano_1_v3>  |(la1, {re2, la1}), (re2, {la2, re2}), (la1, {do#2, la1})|
@@ -559,9 +559,9 @@ Section de développement 12 — 8 mesures. Tonalité Sol majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 13 — 8 mesures. Tonalité Sol majeur, tempo 90 BPM.
+8 mesures. Tempo Moderato, environ 80 BPM. Signature 2/4. Tonalite Do majeur. Le retour de la section A en Do majeur restaure la serenite initiale avec un sentiment de boucle parfaite, Schubert enrichissant parfois la reprise de details ornementaux discrets. Ce retour au point de depart produit une satisfaction d'ordre architecturale tout autant qu'emotionnelle. Retrouver la legerete et la luminosite de la section A, comme si rien ne s'etait passe.
 </meta>
-    <section=section_14, n_mesure=8, bpm=90, format=3/4, tonalite=Sol_majeur>
+    <section=section_A_prime_14, n_mesure=8, bpm=80, format=2/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |re4 fa#4 do5, (re4 sol4 si4, re4 fa#4 la4), re4 fa#4 la4|
             <piano_1_v3>  |(la1, {re2, la1}), (si1, {re2, do2}), (do2, {re2, do2})|
@@ -599,9 +599,9 @@ Section de développement 13 — 8 mesures. Tonalité Sol majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 14 — 8 mesures. Tonalité Sol majeur, tempo 90 BPM.
+8 mesures. Tempo Moderato, environ 80 BPM. Signature 2/4. Tonalite Do majeur. Le retour de la section A en Do majeur restaure la serenite initiale avec un sentiment de boucle parfaite, Schubert enrichissant parfois la reprise de details ornementaux discrets. Ce retour au point de depart produit une satisfaction d'ordre architecturale tout autant qu'emotionnelle. Retrouver la legerete et la luminosite de la section A, comme si rien ne s'etait passe.
 </meta>
-    <section=section_15, n_mesure=8, bpm=90, format=3/4, tonalite=Sol_majeur>
+    <section=section_A_prime_15, n_mesure=8, bpm=80, format=2/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |re5, -, -|
             <piano_1_v2>  |(sol4, {re4, si4}), (sol4, {re4, si4}), (fa#4, {re4, la4})|
@@ -641,9 +641,9 @@ Section de développement 14 — 8 mesures. Tonalité Sol majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 15 — 8 mesures. Tonalité Sol majeur, tempo 90 BPM.
+8 mesures. Tempo Moderato, environ 80 BPM. Signature 2/4. Tonalite Do majeur. La coda prolonge la resolution en Do majeur dans une conclusion apaisee, Schubert diluant progressivement l'energie pour installer une ambiance de serein consentement final. Ces dernieres mesures installent un sentiment de calme accomplissement tres schubertien. Diminuer progressivement le volume vers la conclusion, les dernieres notes pianissimo et bien tenues.
 </meta>
-    <section=section_16, n_mesure=8, bpm=90, format=3/4, tonalite=Sol_majeur>
+    <section=coda_16, n_mesure=8, bpm=80, format=2/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |sol3 re4 fa4, (sol3 do4 mi4, sol3 si3 re4), sol3 si3 re4|
             <piano_1_v3>  |(sol1, {sol2, sol1}), (sol1, {sol2, sol1}), (sol1, {sol2, sol1})|
@@ -684,9 +684,9 @@ Section de développement 15 — 8 mesures. Tonalité Sol majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 16 — 8 mesures. Tonalité Sol majeur, tempo 90 BPM.
+8 mesures. Tempo Moderato, environ 80 BPM. Signature 2/4. Tonalite Do majeur. La coda prolonge la resolution en Do majeur dans une conclusion apaisee, Schubert diluant progressivement l'energie pour installer une ambiance de serein consentement final. Ces dernieres mesures installent un sentiment de calme accomplissement tres schubertien. Diminuer progressivement le volume vers la conclusion, les dernieres notes pianissimo et bien tenues.
 </meta>
-    <section=section_17, n_mesure=8, bpm=90, format=3/4, tonalite=Sol_majeur>
+    <section=coda_17, n_mesure=8, bpm=80, format=2/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |(sol3 re#4 sol4, sol3 re4 fa4), (sol3 do4 re#4, sol3 si3 re4), (sol3 do4 re#4, la#3 re4 fa4)|
             <piano_1_v3>  |(sol2, la2, si2), (do3, sol2), (do3, la#2)|
@@ -728,9 +728,9 @@ Section de développement 16 — 8 mesures. Tonalité Sol majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 17 — 8 mesures. Tonalité Sol majeur, tempo 90 BPM.
+8 mesures. Tempo Moderato, environ 80 BPM. Signature 2/4. Tonalite Do majeur. La coda prolonge la resolution en Do majeur dans une conclusion apaisee, Schubert diluant progressivement l'energie pour installer une ambiance de serein consentement final. Ces dernieres mesures installent un sentiment de calme accomplissement tres schubertien. Diminuer progressivement le volume vers la conclusion, les dernieres notes pianissimo et bien tenues.
 </meta>
-    <section=section_18, n_mesure=8, bpm=90, format=3/4, tonalite=Sol_majeur>
+    <section=coda_18, n_mesure=8, bpm=80, format=2/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |si4, (si4, {sol4, mi4}), (sol5, mi5, _)|
             <piano_1_v2>  |do5|
@@ -771,9 +771,9 @@ Section de développement 17 — 8 mesures. Tonalité Sol majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 18 — 8 mesures. Tonalité Sol majeur, tempo 90 BPM.
+8 mesures. Tempo Moderato, environ 80 BPM. Signature 2/4. Tonalite Do majeur. La coda prolonge la resolution en Do majeur dans une conclusion apaisee, Schubert diluant progressivement l'energie pour installer une ambiance de serein consentement final. Ces dernieres mesures installent un sentiment de calme accomplissement tres schubertien. Diminuer progressivement le volume vers la conclusion, les dernieres notes pianissimo et bien tenues.
 </meta>
-    <section=section_19, n_mesure=8, bpm=90, format=3/4, tonalite=Sol_majeur>
+    <section=coda_19, n_mesure=8, bpm=80, format=2/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |(mi5 sol5, sol4, _), (mi5 sol5, sol4, _), (mi5 sol5, sol4, _)|
             <piano_1_v3>  |mi4, -, (do4, _)|
@@ -812,9 +812,9 @@ Section de développement 18 — 8 mesures. Tonalité Sol majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section conclusive — 1 mesures. Tonalité Sol majeur, tempo 90 BPM.
+9 mesures. Tempo Moderato, environ 80 BPM. Signature 2/4. Tonalite Do majeur. La coda prolonge la resolution en Do majeur dans une conclusion apaisee, Schubert diluant progressivement l'energie pour installer une ambiance de serein consentement final. Ces dernieres mesures installent un sentiment de calme accomplissement tres schubertien. Diminuer progressivement le volume vers la conclusion, les dernieres notes pianissimo et bien tenues.
 </meta>
-    <section=section_20, n_mesure=1, bpm=90, format=3/4, tonalite=Sol_majeur>
+    <section=coda_20, n_mesure=9, bpm=80, format=2/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |do5 do6, -, -|
             <piano_1_v3>  |do4 mi4 sol4, -, -|
