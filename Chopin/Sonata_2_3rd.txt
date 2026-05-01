@@ -3,17 +3,20 @@
 TACHE : composition
 STYLE : romantique
 FORMAT : piano_solo
-NIVEAU : intermediaire
+NIVEAU : avance
 Titre : Sonate n°2 en si bémol mineur op.35, 3e mouvement : Marche funèbre (Lento)
 Date : 1837
 Auteur : Frédéric Chopin
 Tonalite : Sib_mineur
 Unite : quarter
-Intention : Page immortelle du répertoire romantique, cette Marche funèbre associe la gravité d'une procession mortuaire et la douceur nocturne du trio en ré bémol majeur. Forme ternaire ABA en si bémol mineur, mesure 4/4, 84 mesures, tempo Lento ; la pulsation régulière de la marche et le rythme pointé caractéristique créent un sentiment d'irrévocabilité, tandis que le trio apporte un répit pastoral et mélancolique avant la reprise de la marche.
+Intention : Gravité d'une procession mortuaire et douceur nocturne d'une consolation pastorale, cette Marche funèbre est l'une des pages les plus immortelles du répertoire romantique. Forme ternaire ABA en si bémol mineur, mesure à 4/4, 84 mesures, Lento ; la pulsation régulière du rythme pointé crée l'irrévocabilité, le trio en ré bémol majeur apporte un répit mélancolique.
 </tete>
 
 <meta>
-Marche funèbre, si bémol mineur, Lento ; le rythme pointé (noire pointée-croche) instaure immédiatement la solennité de la procession. Les accords à la basse soutiennent la mélodie sombre dans le registre médian. Maintenir un tempo de marche rigoureusement régulier, pondre avec gravité.
+8 mesures. BPM 90. Signature 4/4. Tonalité Sib_mineur.
+Marche funèbre, si bémol mineur, Lento ;
+le rythme pointé (noire pointée-croche) instaure immédiatement la solennité de la procession. Les accords à la basse soutiennent la mélodie sombre dans le registre médian.
+Maintenir un tempo de marche rigoureusement régulier, pondre avec gravité.
 </meta>
     <section=partie_A, n_mesure=8, bpm=90, format=4/4, tonalite=Sib_mineur>
         <mesure num=1>
@@ -60,7 +63,10 @@ Marche funèbre, si bémol mineur, Lento ; le rythme pointé (noire pointée-cro
     </section>
 
 <meta>
-Continuation de la marche funèbre ; la mélodie monte vers les octaves aiguës, le rythme pointé s'affirme avec plus d'insistance. Les harmonies de ré bémol majeur apportent un bref rayon de lumière dans la sombre procession. Soigner la conduite mélodique dans les octaves.
+8 mesures. BPM 90. Signature 4/4. Tonalité Sib_mineur.
+Continuation de la marche funèbre ;
+la mélodie monte vers les octaves aiguës, le rythme pointé s'affirme avec plus d'insistance. Les harmonies de ré bémol majeur apportent un bref rayon de lumière dans la sombre procession.
+Soigner la conduite mélodique dans les octaves.
 </meta>
     <section=partie_A, n_mesure=8, bpm=90, format=4/4, tonalite=Sib_mineur>
         <mesure num=1>
@@ -104,7 +110,10 @@ Continuation de la marche funèbre ; la mélodie monte vers les octaves aiguës,
     </section>
 
 <meta>
-Développement de la marche ; les accords en ré bémol majeur montant par degrés créent un contraste expressif avec le si bémol mineur environnant. Le rythme de marche reste inébranlable. Garder une sonorité pleine et profonde.
+8 mesures. BPM 90. Signature 4/4. Tonalité Sib_mineur.
+Développement de la marche ;
+les accords en ré bémol majeur montant par degrés créent un contraste expressif avec le si bémol mineur environnant. Le rythme de marche reste inébranlable.
+Garder une sonorité pleine et profonde.
 </meta>
     <section=partie_A, n_mesure=8, bpm=90, format=4/4, tonalite=Sib_mineur>
         <mesure num=1>
@@ -148,7 +157,10 @@ Développement de la marche ; les accords en ré bémol majeur montant par degr�
     </section>
 
 <meta>
-Clôture de la section A de la marche ; la phrase mélodique redescend vers la tonique si bémol mineur dans une cadence authentique. La répétition de la section confère à la marche sa structure en arche. Respecter les nuances dynamiques indiquées.
+8 mesures. BPM 90. Signature 4/4. Tonalité Sib_mineur.
+Clôture de la section A de la marche ;
+la phrase mélodique redescend vers la tonique si bémol mineur dans une cadence authentique. La répétition de la section confère à la marche sa structure en arche.
+Respecter les nuances dynamiques indiquées.
 </meta>
     <section=partie_A, n_mesure=8, bpm=90, format=4/4, tonalite=Sib_mineur>
         <mesure num=1>
@@ -192,7 +204,10 @@ Clôture de la section A de la marche ; la phrase mélodique redescend vers la t
     </section>
 
 <meta>
-Trio en ré bémol majeur, piano ; mélodie nocturne d'une sérénité irréelle sur un accompagnement ternaire doux. Comme un souvenir tendre dans le deuil, cette section constitue l'une des plus belles pages de tout le répertoire pianistique romantique. Voix du dessus portée avec délicatesse, legato parfait.
+8 mesures. BPM 90. Signature 4/4. Tonalité Sib_mineur.
+Trio en ré bémol majeur, piano ;
+mélodie nocturne d'une sérénité irréelle sur un accompagnement ternaire doux. Comme un souvenir tendre dans le deuil, cette section constitue l'une des plus belles pages de tout le répertoire pianistique romantique.
+Voix du dessus portée avec délicatesse, legato parfait.
 </meta>
     <section=trio, n_mesure=8, bpm=90, format=4/4, tonalite=Sib_mineur>
         <mesure num=1>
@@ -232,7 +247,10 @@ Trio en ré bémol majeur, piano ; mélodie nocturne d'une sérénité irréelle
     </section>
 
 <meta>
-Développement du trio en ré bémol majeur ; la mélodie évolue vers le registre aigu avec des ornements expressifs. La simplicité apparente du thème contraste avec la profondeur émotionnelle du contexte. Ne pas accélérer, goûter chaque note.
+8 mesures. BPM 90. Signature 4/4. Tonalité Sib_mineur.
+Développement du trio en ré bémol majeur ;
+la mélodie évolue vers le registre aigu avec des ornements expressifs. La simplicité apparente du thème contraste avec la profondeur émotionnelle du contexte.
+Ne pas accélérer, goûter chaque note.
 </meta>
     <section=trio, n_mesure=8, bpm=90, format=4/4, tonalite=Sib_mineur>
         <mesure num=1>
@@ -270,7 +288,10 @@ Développement du trio en ré bémol majeur ; la mélodie évolue vers le regist
     </section>
 
 <meta>
-Fin du trio et transition vers la reprise de la marche ; les dernières notes du ré bémol major s'éteignent doucement avant que le si bémol mineur ne reprenne son droit. Ce silence entre les deux sections doit être pleinement respecté.
+8 mesures. BPM 90. Signature 4/4. Tonalité Sib_mineur.
+Fin du trio et transition vers la reprise de la marche ;
+les dernières notes du ré bémol major s'éteignent doucement avant que le si bémol mineur ne reprenne son droit.
+Ce silence entre les deux sections doit être pleinement respecté.
 </meta>
     <section=trio, n_mesure=8, bpm=90, format=4/4, tonalite=Sib_mineur>
         <mesure num=1>
@@ -312,7 +333,10 @@ Fin du trio et transition vers la reprise de la marche ; les dernières notes du
     </section>
 
 <meta>
-Reprise de la marche funèbre en si bémol mineur ; le retour du rythme pointé est vécu différemment après la douceur du trio, son caractère inéluctable s'en trouve amplifié. Jouer avec encore plus de poids et de gravité.
+8 mesures. BPM 90. Signature 4/4. Tonalité Sib_mineur.
+Reprise de la marche funèbre en si bémol mineur ;
+le retour du rythme pointé est vécu différemment après la douceur du trio, son caractère inéluctable s'en trouve amplifié.
+Jouer avec encore plus de poids et de gravité.
 </meta>
     <section=partie_A, n_mesure=8, bpm=90, format=4/4, tonalite=Sib_mineur>
         <mesure num=1>
@@ -359,7 +383,10 @@ Reprise de la marche funèbre en si bémol mineur ; le retour du rythme pointé 
     </section>
 
 <meta>
-Continuation de la reprise ; la marche poursuit son cours implacable. Certains interprètes varient discrètement les nuances pour éviter la répétition à l'identique. Intégrer subtilement une variation de sonorité ou de dynamique.
+8 mesures. BPM 90. Signature 4/4. Tonalité Sib_mineur.
+Continuation de la reprise ;
+la marche poursuit son cours implacable. Certains interprètes varient discrètement les nuances pour éviter la répétition à l'identique.
+Intégrer subtilement une variation de sonorité ou de dynamique.
 </meta>
     <section=partie_A, n_mesure=8, bpm=90, format=4/4, tonalite=Sib_mineur>
         <mesure num=1>
@@ -401,7 +428,10 @@ Continuation de la reprise ; la marche poursuit son cours implacable. Certains i
     </section>
 
 <meta>
-Approche de la cadence finale de la marche ; les accords descendent vers la tonique si bémol mineur dans une progression inévitable. La tension s'accroît dans les dernières mesures avant la clôture.
+8 mesures. BPM 90. Signature 4/4. Tonalité Sib_mineur.
+Approche de la cadence finale de la marche ;
+les accords descendent vers la tonique si bémol mineur dans une progression inévitable.
+La tension s'accroît dans les dernières mesures avant la clôture.
 </meta>
     <section=partie_A, n_mesure=8, bpm=90, format=4/4, tonalite=Sib_mineur>
         <mesure num=1>
@@ -445,7 +475,10 @@ Approche de la cadence finale de la marche ; les accords descendent vers la toni
     </section>
 
 <meta>
-Mesures conclusives de la Marche funèbre ; les derniers accords en si bémol mineur scellent le mouvement dans la gravité la plus profonde. Ce silence après le dernier accord prépare l'entrée du Presto final, totalement inattendu.
+4 mesures. BPM 90. Signature 4/4. Tonalité Sib_mineur.
+Mesures conclusives de la Marche funèbre ;
+les derniers accords en si bémol mineur scellent le mouvement dans la gravité la plus profonde.
+Ce silence après le dernier accord prépare l'entrée du Presto final, totalement inattendu.
 </meta>
     <section=partie_A, n_mesure=4, bpm=90, format=4/4, tonalite=Sib_mineur>
         <mesure num=1>
