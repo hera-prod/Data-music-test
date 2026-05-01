@@ -3,17 +3,20 @@
 TACHE : composition
 STYLE : romantique
 FORMAT : piano_solo
-NIVEAU : intermediaire
-Titre : Étude op. 10 n° 3 en Mi majeur "Tristesse"
+NIVEAU : avance
+Titre : Étude op.10 n°3 en Mi majeur «Tristesse»
 Date : 1832
 Auteur : Frédéric Chopin
 Tonalite : Mi_majeur
 Unite : quarter
-Intention : Étude d'un lyrisme profond et d'une tendresse mélancolique, portée par une mélodie cantabile d'une noblesse incomparable, que Chopin lui-même déclara ne jamais avoir retrouvée. Forme ternaire (A-B-A) avec coda, en Mi majeur, 78 mesures, mesure à 2/4, tempo Lento ma non troppo à la noire égale 100.
+Intention : Lyrisme profond et tendresse mélancolique inoubliable, cette étude déploie une mélodie cantabile d'une noblesse incomparable que Chopin lui-même déclara ne jamais avoir retrouvée. Forme ternaire ABA avec coda, en mi majeur, 78 mesures, mesure à 2/4, Lento ma non troppo à la noire égale 100.
 </tete>
 
 <meta>
-78 mesures, Lento ma non troppo, 2/4, Mi majeur. Étude de contrôle du legato et de la voix chantante : la mélodie, confiée à la voix supérieure de la main droite, doit être portée comme un chant de soprano, avec rubato à la main droite tandis que la main gauche reste rigoureusement en mesure. La section centrale (poco più animato) exige une virtuosité intense ; le retour est marqué rallentando e smorzando. Pour l'interprétation, incliner légèrement la main droite vers le cinquième doigt pour faire ressortir la mélodie des accords ; éviter toute mièvrerie dans l'expressivité.
+8 mesures. BPM 100. Signature 2/4. Tonalité Mi_majeur.
+78 mesures, Lento ma non troppo, 2/4, Mi majeur.
+Étude de contrôle du legato et de la voix chantante : la mélodie, confiée à la voix supérieure de la main droite, doit être portée comme un chant de soprano, avec rubato à la main droite tandis que la main gauche reste rigoureusement en mesure. La section centrale (poco più animato) exige une virtuosité intense ; le retour est marqué rallentando e smorzando. Pour l'interprétation, incliner légèrement la main droite vers le cinquième doigt pour faire ressortir la mélodie des accords ;
+éviter toute mièvrerie dans l'expressivité.
 </meta>
     <section=theme_1, n_mesure=8, bpm=100, format=2/4, tonalite=Mi_majeur>
         <mesure num=1>
@@ -67,7 +70,10 @@ Intention : Étude d'un lyrisme profond et d'une tendresse mélancolique, porté
     </section>
 
 <meta>
-Développement du thème lyrique initial : la mélodie se déploie en phrases plus longues, s'aventurant vers des régions harmoniques voisines. Les ornements expressifs (appogiatures, broderies) enrichissent le chant. La main gauche conserve son accompagnement régulier ; la voix mélodique doit flotter librement, avec une inflexion naturelle et vivante.
+8 mesures. BPM 100. Signature 2/4. Tonalité Mi_majeur.
+Développement du thème lyrique initial : la mélodie se déploie en phrases plus longues, s'aventurant vers des régions harmoniques voisines.
+Les ornements expressifs (appogiatures, broderies) enrichissent le chant. La main gauche conserve son accompagnement régulier ;
+la voix mélodique doit flotter librement, avec une inflexion naturelle et vivante.
 </meta>
     <section=theme_1, n_mesure=8, bpm=100, format=2/4, tonalite=Mi_majeur>
         <mesure num=1>
@@ -123,7 +129,10 @@ Développement du thème lyrique initial : la mélodie se déploie en phrases pl
     </section>
 
 <meta>
-Troisième groupe du thème A : la mélodie cantabile approche de son sommet expressif avant le contraste de la section centrale. Les harmonies s'enrichissent de sixtes et de septièmes, ajoutant une teinte de nostalgie. La main droite porte simultanément deux voix en mouvement contraire (doubles notes) ; utiliser un poignet souple et un poids de bras contrôlé.
+8 mesures. BPM 100. Signature 2/4. Tonalité Mi_majeur.
+Troisième groupe du thème A : la mélodie cantabile approche de son sommet expressif avant le contraste de la section centrale.
+Les harmonies s'enrichissent de sixtes et de septièmes, ajoutant une teinte de nostalgie. La main droite porte simultanément deux voix en mouvement contraire (doubles notes) ;
+utiliser un poignet souple et un poids de bras contrôlé.
 </meta>
     <section=theme_1, n_mesure=8, bpm=100, format=2/4, tonalite=Mi_majeur>
         <mesure num=1>
@@ -170,7 +179,10 @@ Troisième groupe du thème A : la mélodie cantabile approche de son sommet exp
     </section>
 
 <meta>
-Entrée de la section centrale (poco più animato) : rupture radicale avec l'atmosphère lyrique initiale. Les accords chromatiques descendants en blocs homophoniques créent une tension dramatique intense, avec des accords de sixte diminuée sur des basses chromatiques descendantes. Jouer avec véhémence et énergie (con forza, con fuoco), en laissant le poids du bras s'engager pleinement dans les accords.
+8 mesures. BPM 100. Signature 2/4. Tonalité Mi_majeur.
+Entrée de la section centrale (poco più animato) : rupture radicale avec l'atmosphère lyrique initiale.
+Les accords chromatiques descendants en blocs homophoniques créent une tension dramatique intense, avec des accords de sixte diminuée sur des basses chromatiques descendantes.
+Jouer avec véhémence et énergie (con forza, con fuoco), en laissant le poids du bras s'engager pleinement dans les accords.
 </meta>
     <section=partie_B, n_mesure=8, bpm=100, format=2/4, tonalite=Mi_majeur>
         <mesure num=1>
@@ -217,7 +229,10 @@ Entrée de la section centrale (poco più animato) : rupture radicale avec l'atm
     </section>
 
 <meta>
-Continuation de la section B : les accords chromatiques se déroulent en doubles notes à mouvement contraire, atteignant le fortissimo (con bravura). Les trilles de basse (mesures 54-60) maintiennent la tension harmonique. Jouer avec bravura, en utilisant le poids du bras pour les accords parallèles et en levant le poignet entre les groups de deux notes liées.
+8 mesures. BPM 100. Signature 2/4. Tonalité Mi_majeur.
+Continuation de la section B : les accords chromatiques se déroulent en doubles notes à mouvement contraire, atteignant le fortissimo (con bravura).
+Les trilles de basse (mesures 54-60) maintiennent la tension harmonique.
+Jouer avec bravura, en utilisant le poids du bras pour les accords parallèles et en levant le poignet entre les groups de deux notes liées.
 </meta>
     <section=partie_B, n_mesure=8, bpm=100, format=2/4, tonalite=Mi_majeur>
         <mesure num=1>
@@ -267,7 +282,10 @@ Continuation de la section B : les accords chromatiques se déroulent en doubles
     </section>
 
 <meta>
-Transition de la section B vers la réexposition : les accords chromatiques se détendent progressivement, la tension s'apaise. Les trilles de basse (ornements écrits : note principale vers note supérieure) maintiennent le lien avec la section centrale. Ce passage de transition prépare le retour du thème lyrique ; jouer avec une décroissance naturelle de l'intensité.
+8 mesures. BPM 100. Signature 2/4. Tonalité Mi_majeur.
+Transition de la section B vers la réexposition : les accords chromatiques se détendent progressivement, la tension s'apaise.
+Les trilles de basse (ornements écrits : note principale vers note supérieure) maintiennent le lien avec la section centrale. Ce passage de transition prépare le retour du thème lyrique ;
+jouer avec une décroissance naturelle de l'intensité.
 </meta>
     <section=transition, n_mesure=8, bpm=100, format=2/4, tonalite=Mi_majeur>
         <mesure num=1>
@@ -305,7 +323,10 @@ Transition de la section B vers la réexposition : les accords chromatiques se d
     </section>
 
 <meta>
-Réexposition (retour de A) : la mélodie cantabile revient dans sa lumière initiale, transfigurée par l'épreuve de la section centrale. La ligne mélodique doit sonner encore plus intérieure et recueillie. Le rubato s'enrichit d'une nuance de résignation poétique. La main gauche retrouve son balancement régulier.
+8 mesures. BPM 100. Signature 2/4. Tonalité Mi_majeur.
+Réexposition (retour de A) : la mélodie cantabile revient dans sa lumière initiale, transfigurée par l'épreuve de la section centrale.
+La ligne mélodique doit sonner encore plus intérieure et recueillie. Le rubato s'enrichit d'une nuance de résignation poétique.
+La main gauche retrouve son balancement régulier.
 </meta>
     <section=recapitulation, n_mesure=8, bpm=100, format=2/4, tonalite=Mi_majeur>
         <mesure num=1>
@@ -345,7 +366,10 @@ Réexposition (retour de A) : la mélodie cantabile revient dans sa lumière ini
     </section>
 
 <meta>
-Suite de la réexposition : la mélodie s'éteint progressivement (rallentando e smorzando), se dissolvant dans un pianissimo de plus en plus ténu. Les ornements se raréfient, laissant place à la simplicité poignante des dernières notes. Laisser la mélodie mourir dans un murmure, sans accentuer les notes finales.
+8 mesures. BPM 100. Signature 2/4. Tonalité Mi_majeur.
+Suite de la réexposition : la mélodie s'éteint progressivement (rallentando e smorzando), se dissolvant dans un pianissimo de plus en plus ténu.
+Les ornements se raréfient, laissant place à la simplicité poignante des dernières notes.
+Laisser la mélodie mourir dans un murmure, sans accentuer les notes finales.
 </meta>
     <section=recapitulation, n_mesure=8, bpm=100, format=2/4, tonalite=Mi_majeur>
         <mesure num=1>
@@ -396,7 +420,10 @@ Suite de la réexposition : la mélodie s'éteint progressivement (rallentando e
     </section>
 
 <meta>
-Dernières phrases de la réexposition avant la coda : la mélodie s'efface dans le registre aigu, les harmonies se simplifient vers la cadence finale. L'émotion se concentre dans la retenue et la douceur, comme une confidence ultime. Jouer dans le plus grand calme intérieur.
+8 mesures. BPM 100. Signature 2/4. Tonalité Mi_majeur.
+Dernières phrases de la réexposition avant la coda : la mélodie s'efface dans le registre aigu, les harmonies se simplifient vers la cadence finale.
+L'émotion se concentre dans la retenue et la douceur, comme une confidence ultime.
+Jouer dans le plus grand calme intérieur.
 </meta>
     <section=recapitulation, n_mesure=8, bpm=100, format=2/4, tonalite=Mi_majeur>
         <mesure num=1>
@@ -446,7 +473,10 @@ Dernières phrases de la réexposition avant la coda : la mélodie s'efface dans
     </section>
 
 <meta>
-Coda de 6 mesures : les derniers accords de Mi majeur se posent avec une sérénité absolue, comme l'ultime soupir d'une confidence. La pédale prolonge la résonance de la tonique. Laisser sonner les harmonies sans hâte, dans un silence intérieur total.
+6 mesures. BPM 100. Signature 2/4. Tonalité Mi_majeur.
+Coda de 6 mesures : les derniers accords de Mi majeur se posent avec une sérénité absolue, comme l'ultime soupir d'une confidence.
+La pédale prolonge la résonance de la tonique.
+Laisser sonner les harmonies sans hâte, dans un silence intérieur total.
 </meta>
     <section=coda, n_mesure=6, bpm=100, format=2/4, tonalite=Mi_majeur>
         <mesure num=1>
