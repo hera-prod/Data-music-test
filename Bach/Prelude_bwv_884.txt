@@ -6,7 +6,7 @@ FORMAT : piano_solo
 NIVEAU : avance
 Titre : Prélude en Sol majeur, BWV 884, Clavier bien tempéré II n°15
 Date : 1742
-Auteur : Johann Sebastian Bach
+Auteur : Bach
 Tonalite : Sol_majeur
 Unite : quarter
 Intention : Prélude de forme binaire ancienne au caractère lumineux et festif, bâti sur une figure ornementale constante qui marie pédale de tonique soutenue et pédale de dominante répétée en doubles-croches, créant un balancement harmonieux et tendu à la fois. Tonalité de Sol majeur, mesure ternaire 3/4, 48 mesures en deux grandes parties séparées par une double barre, avec une cadence parfaite en ré majeur à mi-parcours et un retour en sol majeur pour conclure, tempo allant environ 84 BPM.
