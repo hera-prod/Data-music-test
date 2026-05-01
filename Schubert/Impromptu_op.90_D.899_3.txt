@@ -3,19 +3,19 @@
 TACHE : composition
 STYLE : romantique
 FORMAT : piano_solo
-NIVEAU : simple
+NIVEAU : avance
 Titre : Impromptu_op.90_D.899_3
-Date : ?
+Date : 1827
 Auteur : Schubert
-Tonalite : Fa#_majeur
+Tonalite : Solb_majeur
 Unite : quarter
-Intention : Pièce pour piano solo, modéré, lumineux, au cadre binaire régulier. Tonalité : Fa# majeur. 88 mesures.
+Intention : Nocturne sans nom, ce troisieme Impromptu en Sol bemol majeur est une meditation veloutee dont la melodie centrale flotte au-dessus d'un accompagnement murmure, revelant une poesie intime et contemplative. Forme ternaire (A-B-A') en Solb majeur, 4/4, Andante (environ 60 BPM), 88 mesures dont une section B en Mi majeur enharmonique de Lab majeur.
 </tete>
 
 <meta>
-Section d'ouverture — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
+8 mesures. Tempo Andante, environ 60 BPM. Signature 4/4. Tonalite Solb majeur. La section A presente la melodie centrale en Sol bemol majeur, flottant au-dessus d'un accompagnement murmure, tonalite rare qui confere a la piece une couleur veloutee et presque hors du temps, favorisee par les nombreux bemols. La richesse en bemols de Sol bemol majeur produit paradoxalement un son tres doux et interieur au piano. Laisser la melodie chanter pianissimo, le legato absolu, l'accompagnement presqu'inaudible.
 </meta>
-    <section=section_1, n_mesure=8, bpm=90, format=4/2, tonalite=Fa#_majeur>
+    <section=section_A_1, n_mesure=8, bpm=60, format=4/4, tonalite=Solb_majeur>
         <mesure num=1>
             <piano_1_v1>  |la#4, -, la#4, la#4|
             <piano_1_v2>  |({_, la#3}, {do#4, fa#4, do#4}, la#3), ({do#4, la#3}, {do#4, fa#4, do#4}, la#3), ({_, la#3}, {do#4, fa#4, do#4}, la#3), ({_, la#3}, {do#4, fa#4, do#4}, la#3)|
@@ -61,9 +61,9 @@ Section d'ouverture — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 1 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
+8 mesures. Tempo Andante, environ 60 BPM. Signature 4/4. Tonalite Solb majeur. La section A presente la melodie centrale en Sol bemol majeur, flottant au-dessus d'un accompagnement murmure, tonalite rare qui confere a la piece une couleur veloutee et presque hors du temps, favorisee par les nombreux bemols. La richesse en bemols de Sol bemol majeur produit paradoxalement un son tres doux et interieur au piano. Laisser la melodie chanter pianissimo, le legato absolu, l'accompagnement presqu'inaudible.
 </meta>
-    <section=section_2, n_mesure=8, bpm=90, format=4/2, tonalite=Fa#_majeur>
+    <section=section_A_2, n_mesure=8, bpm=60, format=4/4, tonalite=Solb_majeur>
         <mesure num=1>
             <piano_1_v1>  |sol#4, -, la#4, -|
             <piano_1_v2>  |({_, sol#3}, {do#4, fa4, do#4}, sol#3), ({do#4, sol#3}, {do#4, fa4, do#4}, sol#3), ({_, do#4}, {re#4, sol4, re#4}, do#4), ({re#4, do#4}, {re#4, sol4, re#4}, do#4)|
@@ -110,9 +110,9 @@ Section de développement 1 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 2 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
+8 mesures. Tempo Andante, environ 60 BPM. Signature 4/4. Tonalite Solb majeur. La section A presente la melodie centrale en Sol bemol majeur, flottant au-dessus d'un accompagnement murmure, tonalite rare qui confere a la piece une couleur veloutee et presque hors du temps, favorisee par les nombreux bemols. La richesse en bemols de Sol bemol majeur produit paradoxalement un son tres doux et interieur au piano. Laisser la melodie chanter pianissimo, le legato absolu, l'accompagnement presqu'inaudible.
 </meta>
-    <section=section_3, n_mesure=8, bpm=90, format=4/2, tonalite=Fa#_majeur>
+    <section=section_A_3, n_mesure=8, bpm=60, format=4/4, tonalite=Solb_majeur>
         <mesure num=1>
             <piano_1_v1>  |sol#4, -, la#4, -|
             <piano_1_v2>  |({_, sol#3}, {do#4, fa4, do#4}, sol#3), ({do#4, sol#3}, {do#4, fa4, do#4}, sol#3), ({_, do#4}, {mi4, sol4, mi4}, do#4), ({re#4, do#4}, {re#4, sol4, re#4}, do#4)|
@@ -162,9 +162,9 @@ Section de développement 2 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 3 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
+8 mesures. Tempo Andante, environ 60 BPM. Signature 4/4. Tonalite Solb majeur. La section A presente la melodie centrale en Sol bemol majeur, flottant au-dessus d'un accompagnement murmure, tonalite rare qui confere a la piece une couleur veloutee et presque hors du temps, favorisee par les nombreux bemols. La richesse en bemols de Sol bemol majeur produit paradoxalement un son tres doux et interieur au piano. Laisser la melodie chanter pianissimo, le legato absolu, l'accompagnement presqu'inaudible.
 </meta>
-    <section=section_4, n_mesure=8, bpm=90, format=4/2, tonalite=Fa#_majeur>
+    <section=section_A_4, n_mesure=8, bpm=60, format=4/4, tonalite=Solb_majeur>
         <mesure num=1>
             <piano_1_v1>  |la#4, -, la#4, -|
             <piano_1_v2>  |({_, la#3}, {re#4, fa#4, re#4}, la#3), ({re#4, la#3}, {re#4, fa#4, re#4}, la#3), ({_, la#3}, {re#4, fa#4, re#4}, la#3), ({re#4, la#3}, {re#4, fa#4, re#4}, la#3)|
@@ -213,9 +213,9 @@ Section de développement 3 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 4 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
+8 mesures. Tempo Andante, environ 60 BPM. Signature 4/4. Tonalite Mi majeur. La section B en Mi majeur, enharmonique de Lab majeur, introduit un contraste plus chaud et lumineux par rapport au voile de Sol bemol majeur, utilisant une modulation enharmonique ingenieuse pour ouvrir une nouvelle couleur sonore. Ce changement de tonalite produit une sensation d'espace et de lumiere soudains au milieu de la contemplation. Accueillir la lumiere de Mi majeur avec une sonnorite plus ronde et plus projetee, sans rompre la ligne expressive.
 </meta>
-    <section=section_5, n_mesure=8, bpm=90, format=4/2, tonalite=Fa#_majeur>
+    <section=section_B_5, n_mesure=8, bpm=60, format=4/4, tonalite=Mi_majeur>
         <mesure num=1>
             <piano_1_v1>  |re#5, do#5, (do#5, si4), (sol#4, mi4)|
             <piano_1_v2>  |({_, re#4}, {fa#4, si4, fa#4}, re#4), ({fa#4, re#4}, {fa#4, _, sol4}, re#4), ({do#5, sol#4}, {si3, si4, sol#4}, si3), ({sol#4, mi4}, {si3, mi4, do#4}, sol#3)|
@@ -266,9 +266,9 @@ Section de développement 4 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 5 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
+8 mesures. Tempo Andante, environ 60 BPM. Signature 4/4. Tonalite Mi majeur. La section B en Mi majeur, enharmonique de Lab majeur, introduit un contraste plus chaud et lumineux par rapport au voile de Sol bemol majeur, utilisant une modulation enharmonique ingenieuse pour ouvrir une nouvelle couleur sonore. Ce changement de tonalite produit une sensation d'espace et de lumiere soudains au milieu de la contemplation. Accueillir la lumiere de Mi majeur avec une sonnorite plus ronde et plus projetee, sans rompre la ligne expressive.
 </meta>
-    <section=section_6, n_mesure=8, bpm=90, format=4/2, tonalite=Fa#_majeur>
+    <section=section_B_6, n_mesure=8, bpm=60, format=4/4, tonalite=Mi_majeur>
         <mesure num=1>
             <piano_1_v1>  |(fa#4, fa4), (re#4, re4)|
             <piano_1_v2>  |({_, sol#3}, {la#3, si3, la#3}, sol#3), ({la#3, sol#3}, {la#3, si3, la#3}, sol#3), ({_, sol#3}, {la#3, si3, la#3}, sol#3), ({la#3, sol#3}, {la#3, si3, la#3}, sol#3)|
@@ -314,9 +314,9 @@ Section de développement 5 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 6 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
+8 mesures. Tempo Andante, environ 60 BPM. Signature 4/4. Tonalite Mi majeur. La section B en Mi majeur, enharmonique de Lab majeur, introduit un contraste plus chaud et lumineux par rapport au voile de Sol bemol majeur, utilisant une modulation enharmonique ingenieuse pour ouvrir une nouvelle couleur sonore. Ce changement de tonalite produit une sensation d'espace et de lumiere soudains au milieu de la contemplation. Accueillir la lumiere de Mi majeur avec une sonnorite plus ronde et plus projetee, sans rompre la ligne expressive.
 </meta>
-    <section=section_7, n_mesure=8, bpm=90, format=4/2, tonalite=Fa#_majeur>
+    <section=section_B_7, n_mesure=8, bpm=60, format=4/4, tonalite=Mi_majeur>
         <mesure num=1>
             <piano_1_v1>  |sol5, fa5, (fa5, re#5), (do5, sol#4)|
             <piano_1_v2>  |({_, sol4}, {la#4, re#5, la#4}, sol4), ({la#4, sol4}, {la#4, _, si4}, sol4), ({fa5, do5}, {re#4, re#5, do5}, re#4), ({do5, sol#4}, {re#4, sol#4, fa4}, do4)|
@@ -366,9 +366,9 @@ Section de développement 6 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 7 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
+8 mesures. Tempo Andante, environ 60 BPM. Signature 4/4. Tonalite Solb majeur. Le retour en Sol bemol majeur rappelle la couleur initiale avec le sentiment d'un retour a une intimite perdue, Schubert enrichissant parfois l'ornementation ou la dynamique pour marquer ce retour. La repetition de la section A enveloppe l'oeuvre dans un cercle parfait de meditation. Retrouver le pianissimo initial, avec encore plus de tendresse dans la ligne melodique.
 </meta>
-    <section=section_8, n_mesure=8, bpm=90, format=4/2, tonalite=Fa#_majeur>
+    <section=section_A_prime_8, n_mesure=8, bpm=60, format=4/4, tonalite=Solb_majeur>
         <mesure num=1>
             <piano_1_v1>  |sol#4, -, (fa#4, fa4), (re#4, do#4)|
             <piano_1_v2>  |({_, sol#3}, {si3, re#4, si3}, sol#3), ({si3, sol#3}, {si3, re#4, si3}, sol#3), ({fa#4, sol#3}, {si3, fa4, sol#3}, si3), ({re#4, sol#3}, {si3, do#4, fa3}, sol#3)|
@@ -416,9 +416,9 @@ Section de développement 7 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 8 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
+8 mesures. Tempo Andante, environ 60 BPM. Signature 4/4. Tonalite Solb majeur. Le retour en Sol bemol majeur rappelle la couleur initiale avec le sentiment d'un retour a une intimite perdue, Schubert enrichissant parfois l'ornementation ou la dynamique pour marquer ce retour. La repetition de la section A enveloppe l'oeuvre dans un cercle parfait de meditation. Retrouver le pianissimo initial, avec encore plus de tendresse dans la ligne melodique.
 </meta>
-    <section=section_9, n_mesure=8, bpm=90, format=4/2, tonalite=Fa#_majeur>
+    <section=section_A_prime_9, n_mesure=8, bpm=60, format=4/4, tonalite=Solb_majeur>
         <mesure num=1>
             <piano_1_v1>  |si4, -, si4, do#5|
             <piano_1_v2>  |({_, si3}, {mi4, sol#4, mi4}, si3), ({mi4, si3}, {mi4, sol#4, mi4}, si3), ({_, si3}, {re#4, fa#4, re#4}, si3), ({_, mi4}, {fa#4, la#4, fa#4}, mi4)|
@@ -467,9 +467,9 @@ Section de développement 8 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 9 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
+8 mesures. Tempo Andante, environ 60 BPM. Signature 4/4. Tonalite Solb majeur. Le retour en Sol bemol majeur rappelle la couleur initiale avec le sentiment d'un retour a une intimite perdue, Schubert enrichissant parfois l'ornementation ou la dynamique pour marquer ce retour. La repetition de la section A enveloppe l'oeuvre dans un cercle parfait de meditation. Retrouver le pianissimo initial, avec encore plus de tendresse dans la ligne melodique.
 </meta>
-    <section=section_10, n_mesure=8, bpm=90, format=4/2, tonalite=Fa#_majeur>
+    <section=section_A_prime_10, n_mesure=8, bpm=60, format=4/4, tonalite=Solb_majeur>
         <mesure num=1>
             <piano_1_v1>  |do#5, -, (do#5, si4), (sol#4, re#4)|
             <piano_1_v2>  |({_, do#4}, {fa#4, la#4, fa#4}, do#4), ({fa#4, do#4}, {fa#4, la#4, fa#4}, do#4), ({do#5, sol4}, {re#4, si4, sol#4}, re#4), ({sol#4, re#4}, {si3, re#4, do4}, sol#3)|
@@ -520,9 +520,9 @@ Section de développement 9 — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section conclusive — 8 mesures. Tonalité Fa# majeur, tempo 90 BPM.
+8 mesures. Tempo Andante, environ 60 BPM. Signature 4/4. Tonalite Solb majeur. Le retour en Sol bemol majeur rappelle la couleur initiale avec le sentiment d'un retour a une intimite perdue, Schubert enrichissant parfois l'ornementation ou la dynamique pour marquer ce retour. La repetition de la section A enveloppe l'oeuvre dans un cercle parfait de meditation. Retrouver le pianissimo initial, avec encore plus de tendresse dans la ligne melodique.
 </meta>
-    <section=section_11, n_mesure=8, bpm=90, format=4/2, tonalite=Fa#_majeur>
+    <section=section_A_prime_11, n_mesure=8, bpm=60, format=4/4, tonalite=Solb_majeur>
         <mesure num=1>
             <piano_1_v1>  |sol4, -, -, -|
             <piano_1_v2>  |({_, sol3}, {la#3, re4, la#3}, sol3), ({la#3, sol3}, {la#3, re4, la#3}, sol3)|
