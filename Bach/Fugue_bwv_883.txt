@@ -6,10 +6,10 @@ FORMAT : piano_solo
 NIVEAU : avance
 Titre : Fugue en Fa dièse mineur, BWV 883 (Le Clavier bien tempéré II, n°14)
 Date : 1742
-Auteur : Johann Sebastian Bach
+Auteur : Bach
 Tonalite : Fa#_mineur
 Unite : quarter
-Intention : Fugue à trois voix d'une grande intériorité et retenue, construite sur un sujet chromatique sighing composé d'un soupir expressif et d'un mouvement par demi-tons, conférant à l'ensemble une dignité contemplative et une luminosité contenue. En Fa dièse mineur, mesure à 4/4, tempo modéré, 70 mesures traversant six épisodes modulants avant une récapitulation et une coda brèves qui affirment la tonalité principale avec sérénité.
+Intention : Fugue à trois voix d'une grande intériorité et retenue, construite sur un sujet chromatique soupir expressif composé d'un soupir expressif et d'un mouvement par demi-tons, conférant à l'ensemble une dignité contemplative et une luminosité contenue. En Fa dièse mineur, mesure à 4/4, tempo modéré, 70 mesures traversant six épisodes modulants avant une récapitulation et une coda brèves qui affirment la tonalité principale avec sérénité.
 </tete>
 
 <meta>
