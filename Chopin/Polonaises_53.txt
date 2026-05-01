@@ -9,11 +9,14 @@ Date : 1842
 Auteur : Frédéric Chopin
 Tonalite : Lab_majeur
 Unite : quarter
-Intention : Grandeur nationale et héroïsme romantique, cette polonaise est l'une des expressions les plus puissantes du patriotisme de Chopin, combinant la noblesse de la danse polonaise à un développement pianistique d'une ambition symphonique; le trio avec son ostinato d'octaves graves imitant le bruit des chevaux est l'un des passages les plus célèbres du répertoire pianistique. Forme de rondo-sonate (A-B-A-C-A) en La bémol majeur, 178 mesures en 3/4, Alla polacca e maestoso (90 BPM), composée en 1842 et publiée en 1843.
+Intention : Grandeur nationale et héroïsme romantique, cette polonaise est l'une des expressions les plus puissantes du patriotisme de Chopin, combinant la noblesse de la danse polonaise à un développement pianistique d'une ambition symphonique. Forme de rondo-sonate ABACA en la bémol majeur, 178 mesures en 3/4, Alla polacca e maestoso (90 BPM), composée en 1842 et publiée en 1843.
 </tete>
 
 <meta>
-8 mesures d'introduction, La bémol majeur, tempo 90 BPM. Introduction grandiose avec gammes chromatiques ascendantes dans les deux mains, établissant d'emblée le caractère héroïque et combatif de la pièce. Les deux premières mesures constituent un appel martial qui plonge l'auditeur dans l'atmosphère de la polonaise. Ne pas précipiter malgré la montée d'adrénaline; rester maître du tempo.
+8 mesures. BPM 90. Signature 3/4. Tonalité Lab_majeur.
+8 mesures d'introduction, La bémol majeur, tempo 90 BPM.
+Introduction grandiose avec gammes chromatiques ascendantes dans les deux mains, établissant d'emblée le caractère héroïque et combatif de la pièce. Les deux premières mesures constituent un appel martial qui plonge l'auditeur dans l'atmosphère de la polonaise. Ne pas précipiter malgré la montée d'adrénaline;
+rester maître du tempo.
 </meta>
     <section=introduction, n_mesure=8, bpm=90, format=3/4, tonalite=Lab_majeur>
         <mesure num=1>
@@ -51,7 +54,10 @@ Intention : Grandeur nationale et héroïsme romantique, cette polonaise est l'u
     </section>
 
 <meta>
-8 mesures, La bémol majeur, Alla polacca, tempo 90 BPM. Présentation du thème principal, une mélodie de danse en La bémol majeur avec le rythme polonaise caractéristique (croche pointée-double croche) à la main gauche en octaves martelées. Le thème doit sonner à la fois noble et dansant; les octaves de la gauche sont la colonne vertébrale rythmique. Articuler nettement les ornements de trilles qui enrichissent la ligne.
+8 mesures. BPM 90. Signature 3/4. Tonalité Lab_majeur.
+8 mesures, La bémol majeur, Alla polacca, tempo 90 BPM.
+Présentation du thème principal, une mélodie de danse en La bémol majeur avec le rythme polonaise caractéristique (croche pointée-double croche) à la main gauche en octaves martelées. Le thème doit sonner à la fois noble et dansant; les octaves de la gauche sont la colonne vertébrale rythmique.
+Articuler nettement les ornements de trilles qui enrichissent la ligne.
 </meta>
     <section=theme_1, n_mesure=8, bpm=90, format=3/4, tonalite=Lab_majeur>
         <mesure num=1>
@@ -91,7 +97,10 @@ Intention : Grandeur nationale et héroïsme romantique, cette polonaise est l'u
     </section>
 
 <meta>
-8 mesures, La bémol majeur, répétition ornée, tempo 90 BPM. Première répétition du thème principal à l'octave supérieure avec des trilles ajoutés; la répétition doit sonner encore plus majestueuse que la première présentation. Les trilles aux doigts faibles (3-4 et 4-5) sont le principal obstacle technique de cette section.
+8 mesures. BPM 90. Signature 3/4. Tonalité Lab_majeur.
+8 mesures, La bémol majeur, répétition ornée, tempo 90 BPM.
+Première répétition du thème principal à l'octave supérieure avec des trilles ajoutés; la répétition doit sonner encore plus majestueuse que la première présentation.
+Les trilles aux doigts faibles (3-4 et 4-5) sont le principal obstacle technique de cette section.
 </meta>
     <section=theme_1, n_mesure=8, bpm=90, format=3/4, tonalite=Lab_majeur>
         <mesure num=1>
@@ -133,7 +142,10 @@ Intention : Grandeur nationale et héroïsme romantique, cette polonaise est l'u
     </section>
 
 <meta>
-8 mesures, transition harmonique, tempo 90 BPM. Pont menant au premier interlude; des progressions d'accords préparent le changement de caractère. Réminiscence du rythme de polonaise dans la main gauche, maintenant au service d'une ligne harmonique préparatoire.
+8 mesures. BPM 90. Signature 3/4. Tonalité Lab_majeur.
+8 mesures, transition harmonique, tempo 90 BPM.
+Pont menant au premier interlude; des progressions d'accords préparent le changement de caractère.
+Réminiscence du rythme de polonaise dans la main gauche, maintenant au service d'une ligne harmonique préparatoire.
 </meta>
     <section=pont, n_mesure=8, bpm=90, format=3/4, tonalite=Lab_majeur>
         <mesure num=1>
@@ -181,7 +193,10 @@ Intention : Grandeur nationale et héroïsme romantique, cette polonaise est l'u
     </section>
 
 <meta>
-8 mesures, retour du thème A, tempo 90 BPM. Retour du thème principal après l'interlude; il doit sonner avec encore plus de puissance. Les octaves de la main gauche sont ici au niveau le plus fort de la dynamique. Préparer mentalement la transition vers le trio immédiat.
+8 mesures. BPM 90. Signature 3/4. Tonalité Lab_majeur.
+8 mesures, retour du thème A, tempo 90 BPM.
+Retour du thème principal après l'interlude; il doit sonner avec encore plus de puissance. Les octaves de la main gauche sont ici au niveau le plus fort de la dynamique.
+Préparer mentalement la transition vers le trio immédiat.
 </meta>
     <section=theme_1, n_mesure=8, bpm=90, format=3/4, tonalite=Lab_majeur>
         <mesure num=1>
@@ -228,7 +243,10 @@ Intention : Grandeur nationale et héroïsme romantique, cette polonaise est l'u
     </section>
 
 <meta>
-8 mesures, La bémol majeur, affirmation, tempo 90 BPM. Continuation du thème A avec amplification harmonique; les accords à large étendue exigent une main bien ouverte et un poignet souple. Conserver la noblesse du caractère tout au long de cette section.
+8 mesures. BPM 90. Signature 3/4. Tonalité Lab_majeur.
+8 mesures, La bémol majeur, affirmation, tempo 90 BPM.
+Continuation du thème A avec amplification harmonique; les accords à large étendue exigent une main bien ouverte et un poignet souple.
+Conserver la noblesse du caractère tout au long de cette section.
 </meta>
     <section=theme_1, n_mesure=8, bpm=90, format=3/4, tonalite=Lab_majeur>
         <mesure num=1>
@@ -279,7 +297,10 @@ Intention : Grandeur nationale et héroïsme romantique, cette polonaise est l'u
     </section>
 
 <meta>
-8 mesures, préparation du trio, tempo 90 BPM. Transition vers le trio (section B) avec une modulation préparant Mi majeur et Ré dièse majeur. Six accords arpégés puissants ouvrent le trio; prendre le temps de laisser résonner chaque accord.
+8 mesures. BPM 90. Signature 3/4. Tonalité Lab_majeur.
+8 mesures, préparation du trio, tempo 90 BPM.
+Transition vers le trio (section B) avec une modulation préparant Mi majeur et Ré dièse majeur. Six accords arpégés puissants ouvrent le trio;
+prendre le temps de laisser résonner chaque accord.
 </meta>
     <section=transition, n_mesure=8, bpm=90, format=3/4, tonalite=Lab_majeur>
         <mesure num=1>
@@ -332,7 +353,10 @@ Intention : Grandeur nationale et héroïsme romantique, cette polonaise est l'u
     </section>
 
 <meta>
-8 mesures, ostinato d'octaves graves, Mi majeur, tempo 90 BPM. Début du célèbre trio avec l'ostinato de basses en octaves descendantes en Mi majeur évoquant le roulement sourd de la cavalerie qui s'approche. La main gauche seule en octaves répétitives pendant que la droite pose une mélodie de marche. Jouer les octaves de la gauche avec un poignet rebondissant, jamais rigide.
+8 mesures. BPM 90. Signature 3/4. Tonalité Lab_majeur.
+8 mesures, ostinato d'octaves graves, Mi majeur, tempo 90 BPM.
+Début du célèbre trio avec l'ostinato de basses en octaves descendantes en Mi majeur évoquant le roulement sourd de la cavalerie qui s'approche. La main gauche seule en octaves répétitives pendant que la droite pose une mélodie de marche.
+Jouer les octaves de la gauche avec un poignet rebondissant, jamais rigide.
 </meta>
     <section=trio, n_mesure=8, bpm=90, format=3/4, tonalite=Lab_majeur>
         <mesure num=1>
@@ -376,7 +400,10 @@ Intention : Grandeur nationale et héroïsme romantique, cette polonaise est l'u
     </section>
 
 <meta>
-8 mesures, Mi majeur/Ré dièse majeur, tempo 90 BPM. La mélodie de marche se développe sur l'ostinato implacable; le changement enharmonique Mi/Ré dièse crée une transition harmonique d'un effet saisissant. Maintenir l'ostinato parfaitement régulier comme un tambour militaire.
+8 mesures. BPM 90. Signature 3/4. Tonalité Lab_majeur.
+8 mesures, Mi majeur/Ré dièse majeur, tempo 90 BPM.
+La mélodie de marche se développe sur l'ostinato implacable; le changement enharmonique Mi/Ré dièse crée une transition harmonique d'un effet saisissant.
+Maintenir l'ostinato parfaitement régulier comme un tambour militaire.
 </meta>
     <section=trio, n_mesure=8, bpm=90, format=3/4, tonalite=Lab_majeur>
         <mesure num=1>
@@ -423,7 +450,10 @@ Intention : Grandeur nationale et héroïsme romantique, cette polonaise est l'u
     </section>
 
 <meta>
-8 mesures, développement du trio, tempo 90 BPM. Développement lyrique au-dessus de l'ostinato; une longue ligne mélodique expressive de la main droite contraste avec la machine rythmique implacable de la gauche. Laisser chanter cette mélodie avec une généreuse pédale.
+8 mesures. BPM 90. Signature 3/4. Tonalité Lab_majeur.
+8 mesures, développement du trio, tempo 90 BPM.
+Développement lyrique au-dessus de l'ostinato; une longue ligne mélodique expressive de la main droite contraste avec la machine rythmique implacable de la gauche.
+Laisser chanter cette mélodie avec une généreuse pédale.
 </meta>
     <section=trio, n_mesure=8, bpm=90, format=3/4, tonalite=Lab_majeur>
         <mesure num=1>
@@ -469,7 +499,10 @@ Intention : Grandeur nationale et héroïsme romantique, cette polonaise est l'u
     </section>
 
 <meta>
-8 mesures, trio central, lyrique, tempo 90 BPM. Moment le plus lyrique du trio avec des progressions harmoniques modulantes; la mélodie s'élève vers le registre aigu dans une cantilène expressive. Permettre un large rubato dans cette section sans briser l'ostinato.
+8 mesures. BPM 90. Signature 3/4. Tonalité Lab_majeur.
+8 mesures, trio central, lyrique, tempo 90 BPM.
+Moment le plus lyrique du trio avec des progressions harmoniques modulantes; la mélodie s'élève vers le registre aigu dans une cantilène expressive.
+Permettre un large rubato dans cette section sans briser l'ostinato.
 </meta>
     <section=trio, n_mesure=8, bpm=90, format=3/4, tonalite=Lab_majeur>
         <mesure num=1>
@@ -509,7 +542,10 @@ Intention : Grandeur nationale et héroïsme romantique, cette polonaise est l'u
     </section>
 
 <meta>
-8 mesures, intensification du trio, tempo 90 BPM. Montée progressive vers le climax du trio; les harmonies se complexifient, la texture s'épaissit avec des accords plus riches. Le passage descendant en sixtes annonce la reprise grandiose du thème principal.
+8 mesures. BPM 90. Signature 3/4. Tonalité Lab_majeur.
+8 mesures, intensification du trio, tempo 90 BPM.
+Montée progressive vers le climax du trio; les harmonies se complexifient, la texture s'épaissit avec des accords plus riches.
+Le passage descendant en sixtes annonce la reprise grandiose du thème principal.
 </meta>
     <section=trio, n_mesure=8, bpm=90, format=3/4, tonalite=Lab_majeur>
         <mesure num=1>
@@ -550,7 +586,10 @@ Intention : Grandeur nationale et héroïsme romantique, cette polonaise est l'u
     </section>
 
 <meta>
-8 mesures, fin du trio, préparation de la reprise, tempo 90 BPM. Accumulation finale du trio avant le retour triomphal du thème A; l'ostinato s'intensifie une dernière fois avant de s'interrompre brutalement. La rupture soudaine crée un silence chargé avant l'irruption du thème principal.
+8 mesures. BPM 90. Signature 3/4. Tonalité Lab_majeur.
+8 mesures, fin du trio, préparation de la reprise, tempo 90 BPM.
+Accumulation finale du trio avant le retour triomphal du thème A; l'ostinato s'intensifie une dernière fois avant de s'interrompre brutalement.
+La rupture soudaine crée un silence chargé avant l'irruption du thème principal.
 </meta>
     <section=trio, n_mesure=8, bpm=90, format=3/4, tonalite=Lab_majeur>
         <mesure num=1>
@@ -590,7 +629,10 @@ Intention : Grandeur nationale et héroïsme romantique, cette polonaise est l'u
     </section>
 
 <meta>
-8 mesures, retour triomphal en La bémol majeur, tempo 90 BPM. Retour du thème principal après le trio, maintenant à son niveau de puissance maximal. La noblesse initiale se transforme en triomphe guerrier après l'expérience du trio. Jouer avec la plénitude sonore la plus grande possible.
+8 mesures. BPM 90. Signature 3/4. Tonalité Lab_majeur.
+8 mesures, retour triomphal en La bémol majeur, tempo 90 BPM.
+Retour du thème principal après le trio, maintenant à son niveau de puissance maximal. La noblesse initiale se transforme en triomphe guerrier après l'expérience du trio.
+Jouer avec la plénitude sonore la plus grande possible.
 </meta>
     <section=theme_1, n_mesure=8, bpm=90, format=3/4, tonalite=Lab_majeur>
         <mesure num=1>
@@ -630,7 +672,10 @@ Intention : Grandeur nationale et héroïsme romantique, cette polonaise est l'u
     </section>
 
 <meta>
-8 mesures, La bémol majeur, grandioso, tempo 90 BPM. Continuation du retour avec des octaves de plus en plus lourdes; chaque accord doit sonner comme un coup de gong. Maintenir le tempo exactement: ni précipiter ni ralentir malgré l'excitation.
+8 mesures. BPM 90. Signature 3/4. Tonalité Lab_majeur.
+8 mesures, La bémol majeur, grandioso, tempo 90 BPM.
+Continuation du retour avec des octaves de plus en plus lourdes; chaque accord doit sonner comme un coup de gong.
+Maintenir le tempo exactement: ni précipiter ni ralentir malgré l'excitation.
 </meta>
     <section=theme_1, n_mesure=8, bpm=90, format=3/4, tonalite=Lab_majeur>
         <mesure num=1>
@@ -671,7 +716,10 @@ Intention : Grandeur nationale et héroïsme romantique, cette polonaise est l'u
     </section>
 
 <meta>
-8 mesures, La bémol majeur, recapitulation, tempo 90 BPM. Récapitulation du matériau de l'exposition dans sa forme la plus concentrée; les éléments thématiques se condensent vers la coda. La dynamique reste au niveau du forte; ne pas ménager ses forces à ce stade.
+8 mesures. BPM 90. Signature 3/4. Tonalité Lab_majeur.
+8 mesures, La bémol majeur, recapitulation, tempo 90 BPM.
+Récapitulation du matériau de l'exposition dans sa forme la plus concentrée; les éléments thématiques se condensent vers la coda. La dynamique reste au niveau du forte;
+ne pas ménager ses forces à ce stade.
 </meta>
     <section=recapitulation, n_mesure=8, bpm=90, format=3/4, tonalite=Lab_majeur>
         <mesure num=1>
@@ -721,7 +769,10 @@ Intention : Grandeur nationale et héroïsme romantique, cette polonaise est l'u
     </section>
 
 <meta>
-8 mesures, La bémol majeur, dernier déploiement, tempo 90 BPM. Ultime déploiement du thème principal avant la coda; les accords arpégés et les octaves atteignent leur plus grande ampleur. Un léger allargando naturel sur les quatre dernières mesures prépare la coda majestueuse.
+8 mesures. BPM 90. Signature 3/4. Tonalité Lab_majeur.
+8 mesures, La bémol majeur, dernier déploiement, tempo 90 BPM.
+Ultime déploiement du thème principal avant la coda; les accords arpégés et les octaves atteignent leur plus grande ampleur.
+Un léger allargando naturel sur les quatre dernières mesures prépare la coda majestueuse.
 </meta>
     <section=recapitulation, n_mesure=8, bpm=90, format=3/4, tonalite=Lab_majeur>
         <mesure num=1>
@@ -779,7 +830,10 @@ Intention : Grandeur nationale et héroïsme romantique, cette polonaise est l'u
     </section>
 
 <meta>
-8 mesures, La bémol majeur, convergence vers la coda, tempo 90 BPM. Convergence de tous les éléments thématiques vers le point final; les formules cadentielles en La bémol majeur s'enchaînent avec une énergie implacable.
+8 mesures. BPM 90. Signature 3/4. Tonalité Lab_majeur.
+8 mesures, La bémol majeur, convergence vers la coda, tempo 90 BPM.
+Convergence de tous les éléments thématiques vers le point final;
+les formules cadentielles en La bémol majeur s'enchaînent avec une énergie implacable.
 </meta>
     <section=recapitulation, n_mesure=8, bpm=90, format=3/4, tonalite=Lab_majeur>
         <mesure num=1>
@@ -837,7 +891,10 @@ Intention : Grandeur nationale et héroïsme romantique, cette polonaise est l'u
     </section>
 
 <meta>
-8 mesures, La bémol majeur, approche finale, tempo 90 BPM. Avant-dernière section avec les formules cadentielles les plus énergiques; la pédale doit être utilisée généreusement pour amplifier la résonance des accords. Préparer mentalement la toute dernière phase de la pièce.
+8 mesures. BPM 90. Signature 3/4. Tonalité Lab_majeur.
+8 mesures, La bémol majeur, approche finale, tempo 90 BPM.
+Avant-dernière section avec les formules cadentielles les plus énergiques; la pédale doit être utilisée généreusement pour amplifier la résonance des accords.
+Préparer mentalement la toute dernière phase de la pièce.
 </meta>
     <section=recapitulation, n_mesure=8, bpm=90, format=3/4, tonalite=Lab_majeur>
         <mesure num=1>
@@ -899,7 +956,10 @@ Intention : Grandeur nationale et héroïsme romantique, cette polonaise est l'u
     </section>
 
 <meta>
-8 mesures, La bémol majeur, dynamique maximale, tempo 90 BPM. Section précédant immédiatement la coda; les octaves atteignent leur apogée dynamique. Chaque note doit être jouée avec conviction et clarté malgré la complexité technique accumulée.
+8 mesures. BPM 90. Signature 3/4. Tonalité Lab_majeur.
+8 mesures, La bémol majeur, dynamique maximale, tempo 90 BPM.
+Section précédant immédiatement la coda; les octaves atteignent leur apogée dynamique.
+Chaque note doit être jouée avec conviction et clarté malgré la complexité technique accumulée.
 </meta>
     <section=recapitulation, n_mesure=8, bpm=90, format=3/4, tonalite=Lab_majeur>
         <mesure num=1>
@@ -946,7 +1006,10 @@ Intention : Grandeur nationale et héroïsme romantique, cette polonaise est l'u
     </section>
 
 <meta>
-8 mesures, La bémol majeur, préparation coda, tempo 90 BPM. Préparation immédiate de la coda avec un élargissement du tempo et des formules plus courtes. Un arpège final conduit directement à l'accord lumineux de La bémol majeur qui ouvre la coda.
+8 mesures. BPM 90. Signature 3/4. Tonalité Lab_majeur.
+8 mesures, La bémol majeur, préparation coda, tempo 90 BPM.
+Préparation immédiate de la coda avec un élargissement du tempo et des formules plus courtes.
+Un arpège final conduit directement à l'accord lumineux de La bémol majeur qui ouvre la coda.
 </meta>
     <section=recapitulation, n_mesure=8, bpm=90, format=3/4, tonalite=Lab_majeur>
         <mesure num=1>
@@ -994,7 +1057,10 @@ Intention : Grandeur nationale et héroïsme romantique, cette polonaise est l'u
     </section>
 
 <meta>
-8 mesures, La bémol majeur, avant-coda, tempo 90 BPM. Dernières mesures du corps de la pièce; les accords s'élèvent vers le registre aigu. La tension harmonique atteint son maximum avant la résolution définitive.
+8 mesures. BPM 90. Signature 3/4. Tonalité Lab_majeur.
+8 mesures, La bémol majeur, avant-coda, tempo 90 BPM.
+Dernières mesures du corps de la pièce; les accords s'élèvent vers le registre aigu.
+La tension harmonique atteint son maximum avant la résolution définitive.
 </meta>
     <section=recapitulation, n_mesure=8, bpm=90, format=3/4, tonalite=Lab_majeur>
         <mesure num=1>
@@ -1038,7 +1104,10 @@ Intention : Grandeur nationale et héroïsme romantique, cette polonaise est l'u
     </section>
 
 <meta>
-2 mesures conclusives, La bémol majeur, tempo 90 BPM. La coda condense l'héroïsme de toute la pièce en deux mesures d'accords fulgurants. L'accord final fortissimo doit être joué avec toute la puissance dont le pianiste est capable, puis soutenu dans un silence total: la résonance fait partie de la conclusion.
+2 mesures. BPM 90. Signature 3/4. Tonalité Lab_majeur.
+2 mesures conclusives, La bémol majeur, tempo 90 BPM.
+La coda condense l'héroïsme de toute la pièce en deux mesures d'accords fulgurants.
+L'accord final fortissimo doit être joué avec toute la puissance dont le pianiste est capable, puis soutenu dans un silence total: la résonance fait partie de la conclusion.
 </meta>
     <section=coda, n_mesure=2, bpm=90, format=3/4, tonalite=Lab_majeur>
         <mesure num=1>
