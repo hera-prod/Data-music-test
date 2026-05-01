@@ -6,7 +6,7 @@ FORMAT : piano_solo
 NIVEAU : intermediaire
 Titre : Prélude en La bémol majeur, BWV 862, Clavier bien tempéré I n°17
 Date : 1722
-Auteur : Johann Sebastian Bach
+Auteur : Bach
 Tonalite : Lab_majeur
 Unite : quarter
 Intention : Ce prélude rayonne d'une lumière chaleureuse et d'un élan mélodique continu, où la figure ornementale du premier temps se propage à travers toutes les voix comme une imitation en cascade. Prélude en 3/4, 44 mesures, tempo modéré vers 84 BPM, bâti en deux grandes périodes séparées par une cadence parfaite en Mib majeur, complétées d'une coda conclusive en Lab majeur à partir de la mesure 35.
