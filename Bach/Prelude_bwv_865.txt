@@ -6,7 +6,7 @@ FORMAT : piano_solo
 NIVEAU : avance
 Titre : Prélude en La mineur, BWV 865, Clavier bien tempéré I, n°20
 Date : 1722
-Auteur : Johann Sebastian Bach
+Auteur : Bach
 Tonalite : La_mineur
 Unite : quarter
 Intention : Prélude d'une concentration motifique remarquable, où deux voix s'échangent en zigzag deux cellules complémentaires, l'arpège bondissant et le trille ornementé, qui s'épanouissent en courbes mélismatiques animées. Prélude en La mineur, 28 mesures en 9/8, bâti en trois périodes : exposition du matériau thématique, développement modulant vers Do majeur et Sol mineur, puis réexposition avec point d'orgue et retour triomphant du trille.
