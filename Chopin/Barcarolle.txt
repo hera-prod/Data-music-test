@@ -9,11 +9,14 @@ Date : 1846
 Auteur : Frédéric Chopin
 Tonalite : Fa#_majeur
 Unite : quarter
-Intention : Langueur enchanteresse et profondeur romantique, la Barcarolle transcende le genre de la chanson de gondolier pour atteindre une densité contrapuntique et harmonique de premier plan; le balancement de 12/8 imite le mouvement des vagues vénitiennes sous une double mélodie vocale en tierces et sixtes. Forme ternaire ABA' en Fa dièse majeur avec section centrale en La majeur, 115 mesures en 12/8, Andante con moto (90 BPM), composée entre 1845 et 1846, l'une des dernières grandes oeuvres de Chopin.
+Intention : Langueur enchanteresse et profondeur romantique, la Barcarolle transcende le genre de la chanson de gondolier pour atteindre une densité contrapuntique et harmonique de premier plan, le balancement de 12/8 imitant le mouvement des vagues vénitiennes sous une double mélodie vocale en tierces et sixtes. Forme ternaire ABA' en fa dièse majeur avec section centrale en la majeur, 115 mesures en 12/8, Andante con moto (90 BPM), composée entre 1845 et 1846, l'une des dernières grandes oeuvres de Chopin.
 </tete>
 
 <meta>
-8 mesures, Fa dièse majeur, établissement du bercement, tempo 90 BPM. L'introduction établit l'ostinato de barcarolle: un premier motif syncopé et un motif ternaire léger alternent pour créer le balancement incessant des vagues. Un accord dissonant d'ouverture (un accord de quarte augmentée) crée une tension initiale qui laisse place à la fluidité. La main gauche doit bercer sans jamais accrocher; la pédale doit être changée à chaque temps harmonique.
+8 mesures. BPM 90. Signature 12/8. Tonalité Fa#_majeur.
+8 mesures, Fa dièse majeur, établissement du bercement, tempo 90 BPM.
+L'introduction établit l'ostinato de barcarolle: un premier motif syncopé et un motif ternaire léger alternent pour créer le balancement incessant des vagues. Un accord dissonant d'ouverture (un accord de quarte augmentée) crée une tension initiale qui laisse place à la fluidité. La main gauche doit bercer sans jamais accrocher;
+la pédale doit être changée à chaque temps harmonique.
 </meta>
     <section=introduction, n_mesure=8, bpm=90, format=12/8, tonalite=Fa#_majeur>
         <mesure num=1>
@@ -55,7 +58,10 @@ Intention : Langueur enchanteresse et profondeur romantique, la Barcarolle trans
     </section>
 
 <meta>
-8 mesures, Fa dièse majeur, double mélodie vocale, tempo 90 BPM. Première présentation du thème en double mélodie de tierces et sixtes à la main droite, sur fond de balancement régulier à la main gauche. L'écriture à deux voix simultanées évoque deux voix de gondolier qui chantent ensemble. Soigner l'indépendance des deux voix: chacune doit avoir sa propre ligne expressive.
+8 mesures. BPM 90. Signature 12/8. Tonalité Fa#_majeur.
+8 mesures, Fa dièse majeur, double mélodie vocale, tempo 90 BPM.
+Première présentation du thème en double mélodie de tierces et sixtes à la main droite, sur fond de balancement régulier à la main gauche. L'écriture à deux voix simultanées évoque deux voix de gondolier qui chantent ensemble.
+Soigner l'indépendance des deux voix: chacune doit avoir sa propre ligne expressive.
 </meta>
     <section=theme_1, n_mesure=8, bpm=90, format=12/8, tonalite=Fa#_majeur>
         <mesure num=1>
@@ -100,7 +106,10 @@ Intention : Langueur enchanteresse et profondeur romantique, la Barcarolle trans
     </section>
 
 <meta>
-8 mesures, Fa dièse majeur, développement thématique, tempo 90 BPM. Développement du thème principal avec des ornements en triolets et des appogiatures expressives. La main droite atteint des registres plus aigus; la main gauche commence à intégrer des sauts plus larges. Laisser les appogiatures «tomber» naturellement sans les précipiter.
+8 mesures. BPM 90. Signature 12/8. Tonalité Fa#_majeur.
+8 mesures, Fa dièse majeur, développement thématique, tempo 90 BPM.
+Développement du thème principal avec des ornements en triolets et des appogiatures expressives. La main droite atteint des registres plus aigus; la main gauche commence à intégrer des sauts plus larges.
+Laisser les appogiatures «tomber» naturellement sans les précipiter.
 </meta>
     <section=theme_1, n_mesure=8, bpm=90, format=12/8, tonalite=Fa#_majeur>
         <mesure num=1>
@@ -148,7 +157,10 @@ Intention : Langueur enchanteresse et profondeur romantique, la Barcarolle trans
     </section>
 
 <meta>
-8 mesures, Fa dièse majeur, intensification lyrique, tempo 90 BPM. La mélodie s'élance vers le fortepiano avec des lignes en sixtes plus larges; un moment de légèreté cristalline suit, évoquant des reflets sur l'eau. La pédale doit être utilisée généreusement pour créer un halo harmonique.
+8 mesures. BPM 90. Signature 12/8. Tonalité Fa#_majeur.
+8 mesures, Fa dièse majeur, intensification lyrique, tempo 90 BPM.
+La mélodie s'élance vers le fortepiano avec des lignes en sixtes plus larges; un moment de légèreté cristalline suit, évoquant des reflets sur l'eau.
+La pédale doit être utilisée généreusement pour créer un halo harmonique.
 </meta>
     <section=theme_1, n_mesure=8, bpm=90, format=12/8, tonalite=Fa#_majeur>
         <mesure num=1>
@@ -189,7 +201,10 @@ Intention : Langueur enchanteresse et profondeur romantique, la Barcarolle trans
     </section>
 
 <meta>
-8 mesures, Fa dièse majeur, variation mélodique, tempo 90 BPM. Variation ornée du thème principal avec des figures en doubles croches encerclant la mélodie; la sophistication contrapuntique de Chopin se manifeste par des échanges de voix entre les deux mains. Maintenir la fluidité du balancement malgré la complexité des ornements.
+8 mesures. BPM 90. Signature 12/8. Tonalité Fa#_majeur.
+8 mesures, Fa dièse majeur, variation mélodique, tempo 90 BPM.
+Variation ornée du thème principal avec des figures en doubles croches encerclant la mélodie; la sophistication contrapuntique de Chopin se manifeste par des échanges de voix entre les deux mains.
+Maintenir la fluidité du balancement malgré la complexité des ornements.
 </meta>
     <section=theme_1, n_mesure=8, bpm=90, format=12/8, tonalite=Fa#_majeur>
         <mesure num=1>
@@ -231,7 +246,10 @@ Intention : Langueur enchanteresse et profondeur romantique, la Barcarolle trans
     </section>
 
 <meta>
-8 mesures, modulations expressives, tempo 90 BPM. Développement harmonique avec des modulations vers les tons voisins de Fa dièse majeur; les progressions chromatiques créent une harmonie instable et frémissante. Prendre le temps de laisser résonner les dissonances avant de les résoudre.
+8 mesures. BPM 90. Signature 12/8. Tonalité Fa#_majeur.
+8 mesures, modulations expressives, tempo 90 BPM.
+Développement harmonique avec des modulations vers les tons voisins de Fa dièse majeur; les progressions chromatiques créent une harmonie instable et frémissante.
+Prendre le temps de laisser résonner les dissonances avant de les résoudre.
 </meta>
     <section=developpement, n_mesure=8, bpm=90, format=12/8, tonalite=Fa#_majeur>
         <mesure num=1>
@@ -277,7 +295,10 @@ Intention : Langueur enchanteresse et profondeur romantique, la Barcarolle trans
     </section>
 
 <meta>
-8 mesures, La majeur, section centrale, tempo 90 BPM. Irruption de la section centrale en La majeur, tonalité lointaine mais liée par la médiante; une nouvelle mélodie plus intime et cantabile émerge. Ce changement de tonalité est l'un des moments les plus surprenants et beaux de toute l'oeuvre de Chopin. Adopter un toucher plus intérieur et une dynamique plus douce.
+8 mesures. BPM 90. Signature 12/8. Tonalité Fa#_majeur.
+8 mesures, La majeur, section centrale, tempo 90 BPM.
+Irruption de la section centrale en La majeur, tonalité lointaine mais liée par la médiante; une nouvelle mélodie plus intime et cantabile émerge. Ce changement de tonalité est l'un des moments les plus surprenants et beaux de toute l'oeuvre de Chopin.
+Adopter un toucher plus intérieur et une dynamique plus douce.
 </meta>
     <section=partie_B, n_mesure=8, bpm=90, format=12/8, tonalite=Fa#_majeur>
         <mesure num=1>
@@ -323,7 +344,10 @@ Intention : Langueur enchanteresse et profondeur romantique, la Barcarolle trans
     </section>
 
 <meta>
-8 mesures, La majeur, développement lyrique, tempo 90 BPM. Développement de la mélodie en La majeur avec un enrichissement harmonique progressif; la double voix de la droite continue à dialoguer. La pédale doit être plus généreuse ici pour soutenir les longues phrases.
+8 mesures. BPM 90. Signature 12/8. Tonalité Fa#_majeur.
+8 mesures, La majeur, développement lyrique, tempo 90 BPM.
+Développement de la mélodie en La majeur avec un enrichissement harmonique progressif; la double voix de la droite continue à dialoguer.
+La pédale doit être plus généreuse ici pour soutenir les longues phrases.
 </meta>
     <section=partie_B, n_mesure=8, bpm=90, format=12/8, tonalite=Fa#_majeur>
         <mesure num=1>
@@ -368,7 +392,10 @@ Intention : Langueur enchanteresse et profondeur romantique, la Barcarolle trans
     </section>
 
 <meta>
-8 mesures, La majeur, climax expressif, tempo 90 BPM. Climax de la section B avec le passage en forte le plus intense de la pièce; un double fortissimo à la mesure 84 représente le point culminant expressif. Chopin lui-même jouait ce passage pianissimo dans ses dernières années, bouleversant tous les signes. Faire un choix interprétatif conscient sur la dynamique de ce moment.
+8 mesures. BPM 90. Signature 12/8. Tonalité Fa#_majeur.
+8 mesures, La majeur, climax expressif, tempo 90 BPM.
+Climax de la section B avec le passage en forte le plus intense de la pièce; un double fortissimo à la mesure 84 représente le point culminant expressif. Chopin lui-même jouait ce passage pianissimo dans ses dernières années, bouleversant tous les signes.
+Faire un choix interprétatif conscient sur la dynamique de ce moment.
 </meta>
     <section=partie_B, n_mesure=8, bpm=90, format=12/8, tonalite=Fa#_majeur>
         <mesure num=1>
@@ -410,7 +437,10 @@ Intention : Langueur enchanteresse et profondeur romantique, la Barcarolle trans
     </section>
 
 <meta>
-8 mesures, transition vers Fa dièse majeur, tempo 90 BPM. Le passage «svogato» marque le retour vers la tonique; la musique flotte librement avant de se réancrer. Un passage en filigrane ascendant conduit au retour du thème principal transfiguré. La liberté rythmique indiquée (svogato) signifie un rubato généreux et naturel.
+8 mesures. BPM 90. Signature 12/8. Tonalité Fa#_majeur.
+8 mesures, transition vers Fa dièse majeur, tempo 90 BPM.
+Le passage «svogato» marque le retour vers la tonique; la musique flotte librement avant de se réancrer. Un passage en filigrane ascendant conduit au retour du thème principal transfiguré.
+La liberté rythmique indiquée (svogato) signifie un rubato généreux et naturel.
 </meta>
     <section=recapitulation, n_mesure=8, bpm=90, format=12/8, tonalite=Fa#_majeur>
         <mesure num=1>
@@ -451,7 +481,10 @@ Intention : Langueur enchanteresse et profondeur romantique, la Barcarolle trans
     </section>
 
 <meta>
-8 mesures, Fa dièse majeur, retour du thème A, tempo 90 BPM. Retour du thème principal en Fa dièse majeur, maintenant transposé et enrichi par la mémoire de la section B. Le retour du thème de la section B transposé en Fa dièse crée un moment d'extase pure. Jouer avec la plus grande ampleur sonore et la plus grande liberté de phrasé.
+8 mesures. BPM 90. Signature 12/8. Tonalité Fa#_majeur.
+8 mesures, Fa dièse majeur, retour du thème A, tempo 90 BPM.
+Retour du thème principal en Fa dièse majeur, maintenant transposé et enrichi par la mémoire de la section B. Le retour du thème de la section B transposé en Fa dièse crée un moment d'extase pure.
+Jouer avec la plus grande ampleur sonore et la plus grande liberté de phrasé.
 </meta>
     <section=recapitulation, n_mesure=8, bpm=90, format=12/8, tonalite=Fa#_majeur>
         <mesure num=1>
@@ -495,7 +528,10 @@ Intention : Langueur enchanteresse et profondeur romantique, la Barcarolle trans
     </section>
 
 <meta>
-8 mesures, Fa dièse majeur, développement conclusif, tempo 90 BPM. Développement conclusif avec des éléments thématiques des deux parties A et B entrelacés; la synthèse harmonique de toute la pièce s'accomplit ici. La texture devient de plus en plus riche avant le calando final.
+8 mesures. BPM 90. Signature 12/8. Tonalité Fa#_majeur.
+8 mesures, Fa dièse majeur, développement conclusif, tempo 90 BPM.
+Développement conclusif avec des éléments thématiques des deux parties A et B entrelacés; la synthèse harmonique de toute la pièce s'accomplit ici.
+La texture devient de plus en plus riche avant le calando final.
 </meta>
     <section=recapitulation, n_mesure=8, bpm=90, format=12/8, tonalite=Fa#_majeur>
         <mesure num=1>
@@ -535,7 +571,10 @@ Intention : Langueur enchanteresse et profondeur romantique, la Barcarolle trans
     </section>
 
 <meta>
-8 mesures, Fa dièse majeur, dissolution progressive, tempo 90 BPM. La musique commence à se dissoudre progressivement vers la coda; un calando (ralentissement et diminuendo combinés) est indiqué par Chopin. Laisser la musique s'éteindre naturellement comme un coucher de soleil sur la lagune.
+8 mesures. BPM 90. Signature 12/8. Tonalité Fa#_majeur.
+8 mesures, Fa dièse majeur, dissolution progressive, tempo 90 BPM.
+La musique commence à se dissoudre progressivement vers la coda; un calando (ralentissement et diminuendo combinés) est indiqué par Chopin.
+Laisser la musique s'éteindre naturellement comme un coucher de soleil sur la lagune.
 </meta>
     <section=recapitulation, n_mesure=8, bpm=90, format=12/8, tonalite=Fa#_majeur>
         <mesure num=1>
@@ -585,7 +624,10 @@ Intention : Langueur enchanteresse et profondeur romantique, la Barcarolle trans
     </section>
 
 <meta>
-8 mesures, Fa dièse majeur, dissolution continuée, tempo 90 BPM. Continuation du processus de dissolution; les deux voix de la main droite se rejoignent en une seule ligne. La dynamique descend vers le pianissimo. La coda se profile dans les dernières formules cadentielles.
+8 mesures. BPM 90. Signature 12/8. Tonalité Fa#_majeur.
+8 mesures, Fa dièse majeur, dissolution continuée, tempo 90 BPM.
+Continuation du processus de dissolution; les deux voix de la main droite se rejoignent en une seule ligne. La dynamique descend vers le pianissimo.
+La coda se profile dans les dernières formules cadentielles.
 </meta>
     <section=recapitulation, n_mesure=8, bpm=90, format=12/8, tonalite=Fa#_majeur>
         <mesure num=1>
@@ -633,7 +675,10 @@ Intention : Langueur enchanteresse et profondeur romantique, la Barcarolle trans
     </section>
 
 <meta>
-3 mesures conclusives, Fa dièse majeur, tempo 90 BPM. La coda distille la quintessence de la barcarolle en quelques accords finaux; le balancement s'immobilise progressivement. Le dernier accord en Fa dièse majeur, pianissimo, est tenu jusqu'au silence complet; la gondole s'est arrêtée, le rêve se dissout dans la nuit vénitienne.
+3 mesures. BPM 90. Signature 12/8. Tonalité Fa#_majeur.
+3 mesures conclusives, Fa dièse majeur, tempo 90 BPM.
+La coda distille la quintessence de la barcarolle en quelques accords finaux; le balancement s'immobilise progressivement. Le dernier accord en Fa dièse majeur, pianissimo, est tenu jusqu'au silence complet;
+la gondole s'est arrêtée, le rêve se dissout dans la nuit vénitienne.
 </meta>
     <section=coda, n_mesure=3, bpm=90, format=12/8, tonalite=Fa#_majeur>
         <mesure num=1>
