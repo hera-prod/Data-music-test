@@ -6,7 +6,7 @@ FORMAT : piano_solo
 NIVEAU : avance
 Titre : Fugue en Mi majeur, BWV 854 (Clavier bien tempéré, Livre I, n°9)
 Date : 1722
-Auteur : Johann Sebastian Bach
+Auteur : Bach
 Tonalite : Mi_majeur
 Unite : quarter
 Intention : Fugue de caractère vif et lumineux, d'un affect joyeux et affirmé, où le sujet bref et incisif engendre une polyphonie à trois voix d'une clarté exemplaire. Forme fuguée en Mi majeur, 29 mesures en 4/4, tempo environ 90 BPM, organisée en exposition, contre-exposition, développement épisodique et coda conclusive.
