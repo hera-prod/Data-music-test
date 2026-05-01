@@ -6,7 +6,7 @@ FORMAT : piano_solo
 NIVEAU : avance
 Titre : Prélude en Sol majeur, BWV 860, Le Clavier bien tempéré, Livre I
 Date : 1722
-Auteur : Johann Sebastian Bach
+Auteur : Bach
 Tonalite : Sol_majeur
 Unite : quarter
 Intention : Prélude d'un élan brillant et primesautier, fondé sur des arpèges en cascade à la main droite contre une pédale ponctuée de sauts d'octave à la main gauche, créant une vivacité et une légèreté sonore caractéristiques de Sol majeur. Forme binaire en deux périodes, Sol majeur, 19 mesures en 24/16, à 90 BPM, la première période modulant vers Ré majeur, la seconde ramenant fermement la tonique.
