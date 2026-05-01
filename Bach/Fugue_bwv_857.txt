@@ -6,7 +6,7 @@ FORMAT : piano_solo
 NIVEAU : avance
 Titre : Fugue en Fa mineur, BWV 857 (Clavier bien tempéré I, n°12)
 Date : 1722
-Auteur : Johann Sebastian Bach
+Auteur : Bach
 Tonalite : Fa_mineur
 Unite : quarter
 Intention : Cette fugue à quatre voix dégage une atmosphère de mélancolie profonde et d'une gravité inéluctable, portée par un sujet chromatique de dix notes en valeurs égales parcourant une octave du degré V au degré I, qui convoque l'intégralité des douze sons de la gamme chromatique dès l'entrée de la réponse. La forme est cyclique en Fa mineur sur 58 mesures à 4/4, au tempo de 84 à la noire, avec exposition en quatre voix (ténor, alto, basse, soprano), deux contre-sujets en contrepoint renversable, six épisodes modulants et une coda qui se conclut sur la tierce picarde.
