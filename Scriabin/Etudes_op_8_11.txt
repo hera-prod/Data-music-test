@@ -1,21 +1,21 @@
 [BOS]
 <tete>
 TACHE : composition
-STYLE : impressionniste
+STYLE : romantique
 FORMAT : piano_solo
-NIVEAU : simple
+NIVEAU : avance
 Titre : Etudes_op_8_11
-Date : ?
+Date : 1894
 Auteur : Scriabin
 Tonalite : Sib_mineur
 Unite : quarter
-Intention : Pièce pour piano solo, lent et expressif, mélancolique, au balancement ternaire. Tonalité : Sib mineur. 54 mesures.
+Intention : Chant expressif d'une profonde mélancolie, cantabile prolongé, voix intérieure chargée de nostalgie romantique. Forme binaire avec longue coda en Sib mineur, 3/4, Andante cantabile, bpm 56, 54 mesures.
 </tete>
 
 <meta>
-Section d'ouverture — 8 mesures. Tonalité Sib mineur, tempo 63 BPM.
+8 mesures. 3/4, 56 bpm. Sib mineur. Section A, première phrase : ligne mélodique expressive et nocturne, accompagnement riche en harmonies altérées. Scriabin place la voix chantante au premier plan avec une noblesse mélancolique. Cantabile pur, toucher chaud et soutenu.
 </meta>
-    <section=section_1, n_mesure=8, bpm=63, format=3/4, tonalite=Sib_mineur>
+    <section=section_A_a, n_mesure=8, bpm=56, format=3/4, tonalite=Sib_mineur>
         <mesure num=1>
             <piano_1_v1>  |(reb4 sib4, reb4 sib4), (reb4 sib4, reb4 sib4), (mib4 sib4, mib4 sib4)|
             <piano_1_v2>  |(reb5, reb5), reb5, ({fa5, reb5}, {fa5, mib5}, sib4)|
@@ -67,9 +67,9 @@ Section d'ouverture — 8 mesures. Tonalité Sib mineur, tempo 63 BPM.
     </section>
 
 <meta>
-Section de développement 1 — 8 mesures. Tonalité Sib mineur, tempo 63 BPM.
+8 mesures. 3/4, 56 bpm. Sib mineur. Section A, deuxième phrase : approfondissement harmonique, inflexions chromatiques expressives. La ligne mélodique s'enrichit de tensions romantiques. Rubato naturel, legato absolu.
 </meta>
-    <section=section_2, n_mesure=8, bpm=63, format=3/4, tonalite=Sib_mineur>
+    <section=section_A_b, n_mesure=8, bpm=56, format=3/4, tonalite=Sib_mineur>
         <mesure num=1>
             <piano_1_v1>  |(reb4 sib4, reb4 sib4), (reb4 sib4, reb4 sib4), (mib4 sib4, mib4 sib4)|
             <piano_1_v2>  |(reb5, reb5), reb5, ({fa5, reb5}, {fa5, mib5}, sib4)|
@@ -118,9 +118,9 @@ Section de développement 1 — 8 mesures. Tonalité Sib mineur, tempo 63 BPM.
     </section>
 
 <meta>
-Section de développement 2 — 8 mesures. Tonalité Sib mineur, tempo 63 BPM.
+8 mesures. 3/4, 56 bpm. Sib mineur. Section A, clôture : cadence conclusive de la section, intensité émotionnelle accrue. La première section se referme sur une harmonie expressive. Voix chantante soutenue jusqu'au bout.
 </meta>
-    <section=section_3, n_mesure=8, bpm=63, format=3/4, tonalite=Sib_mineur>
+    <section=section_A_c, n_mesure=8, bpm=56, format=3/4, tonalite=Sib_mineur>
         <mesure num=1>
             <piano_1_v1>  |(lab3 do4, solb3 do4), (solb3 do4, solb3 do4), (solb3 do4, solb3)|
             <piano_1_v2>  |fa4, ({fa4, solb4}, mi4, fa4), (lab4, lab3)|
@@ -166,9 +166,9 @@ Section de développement 2 — 8 mesures. Tonalité Sib mineur, tempo 63 BPM.
     </section>
 
 <meta>
-Section de développement 3 — 8 mesures. Tonalité Sib mineur, tempo 63 BPM.
+8 mesures. 3/4, 56 bpm. Sib mineur. Coda, première section : élargissement expressif, nouvelles tensions harmoniques. La coda de Scriabin approfondit et prolonge l'affect initial plutôt que de conclure. Son plus dense et plus soutenu.
 </meta>
-    <section=section_4, n_mesure=8, bpm=63, format=3/4, tonalite=Sib_mineur>
+    <section=coda_a, n_mesure=8, bpm=56, format=3/4, tonalite=Sib_mineur>
         <mesure num=1>
             <piano_1_v1>  |(la3 fa4, la3 fa4), (la3 fa4, la3 fa4), fa4|
             <piano_1_v2>  |do5, ({do5, re5}, si4, do5), ({fa5, re5}, {do5, fa4}, la3)|
@@ -214,9 +214,9 @@ Section de développement 3 — 8 mesures. Tonalité Sib mineur, tempo 63 BPM.
     </section>
 
 <meta>
-Section de développement 4 — 8 mesures. Tonalité Sib mineur, tempo 63 BPM.
+8 mesures. 3/4, 56 bpm. Sib mineur. Coda, deuxième section : montée expressive, chromatisme romantique accentué. La tension émotionnelle culmine. Rubato expressif bienvenu.
 </meta>
-    <section=section_5, n_mesure=8, bpm=63, format=3/4, tonalite=Sib_mineur>
+    <section=coda_b, n_mesure=8, bpm=56, format=3/4, tonalite=Sib_mineur>
         <mesure num=1>
             <piano_1_v1>  |(la3 mib4, la3 mib4), (la3 mib4, la3 mib4), (sib3 mib4, sib3 mib4)|
             <piano_1_v2>  |(la4, la4), la4, sib4|
@@ -264,9 +264,9 @@ Section de développement 4 — 8 mesures. Tonalité Sib mineur, tempo 63 BPM.
     </section>
 
 <meta>
-Section de développement 5 — 8 mesures. Tonalité Sib mineur, tempo 63 BPM.
+8 mesures. 3/4, 56 bpm. Sib mineur. Coda, troisième section : descente progressive, dissolution expressive. Le discours se retire lentement. Decrescendo long et soigné.
 </meta>
-    <section=section_6, n_mesure=8, bpm=63, format=3/4, tonalite=Sib_mineur>
+    <section=coda_c, n_mesure=8, bpm=56, format=3/4, tonalite=Sib_mineur>
         <mesure num=1>
             <piano_1_v1>  |(sib3 reb4, sib3 reb4), (sib3 fa4, sib3 fa4), (fa4, fa4)|
             <piano_1_v2>  |sib4, sib4, sib4|
@@ -313,9 +313,9 @@ Section de développement 5 — 8 mesures. Tonalité Sib mineur, tempo 63 BPM.
     </section>
 
 <meta>
-Section conclusive — 6 mesures. Tonalité Sib mineur, tempo 63 BPM.
+6 mesures. 3/4, 56 bpm. Sib mineur. Coda finale : dernières mesures, accord final en Sib mineur, résolution mélancolique. L'étude s'éteint dans un souffle expressif. Pianissimo, dernier accord suspendu dans le silence.
 </meta>
-    <section=section_7, n_mesure=6, bpm=63, format=3/4, tonalite=Sib_mineur>
+    <section=coda_d, n_mesure=6, bpm=56, format=3/4, tonalite=Sib_mineur>
         <mesure num=1>
             <piano_1_v1>  |(fa3 la3 mib4, fa3 la3 mib4), (fa3 la3 mib4, fa3 la3 mib4), (fa3 la3 mib4, fa3 la3 mib4)|
             <piano_1_v2>  |fa4, fa4, fa4|
