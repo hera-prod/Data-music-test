@@ -9,11 +9,14 @@ Date : 1836
 Auteur : Frédéric Chopin
 Tonalite : La_mineur
 Unite : quarter
-Intention : Tempête intérieure et bravoure implacable, cette étude associe une gamme chromatique en rafales à la main droite à des sauts d'octaves exténuants à la main gauche, exigeant une endurance et une coordination exceptionnelles sur plus de quatre minutes. Un motif introductif de quatre mesures (ajouté après la composition initiale) prépare l'atmosphère tourmentée. Forme de grande fantaisie en La mineur, 96 mesures en 4/4, Lento - Allegro con brio (69 BPM), l'une des études les plus longues et les plus exigeantes du romantisme.
+Intention : Tempête intérieure et bravoure implacable, cette étude associe une gamme chromatique en rafales à la main droite à des sauts d'octaves exténuants à la main gauche, exigeant endurance et coordination exceptionnelles. Forme de grande fantaisie en la mineur, 96 mesures en 4/4, Lento puis Allegro con brio (69 BPM), l'une des études les plus longues et exigeantes du romantisme.
 </tete>
 
 <meta>
-8 mesures, La mineur, tempo 69 BPM. Introduction solennelle de quatre mesures avec accords étirés qui posent le caractère sombre et tourmenté de l'étude; les quatre premières mesures furent ajoutées par un ami après la composition. La main droite commence par une mélodie vocale avant que la tempête ne se lève. Ce prologue doit préparer l'oreille à ce qui va suivre: une montée progressive vers le fortissimo.
+8 mesures. BPM 69. Signature 4/4. Tonalité La_mineur.
+8 mesures, La mineur, tempo 69 BPM.
+Introduction solennelle de quatre mesures avec accords étirés qui posent le caractère sombre et tourmenté de l'étude; les quatre premières mesures furent ajoutées par un ami après la composition. La main droite commence par une mélodie vocale avant que la tempête ne se lève.
+Ce prologue doit préparer l'oreille à ce qui va suivre: une montée progressive vers le fortissimo.
 </meta>
     <section=introduction, n_mesure=8, bpm=69, format=4/4, tonalite=La_mineur>
         <mesure num=1>
@@ -53,7 +56,10 @@ Intention : Tempête intérieure et bravoure implacable, cette étude associe un
     </section>
 
 <meta>
-8 mesures, La mineur, Allegro, tempo 69 BPM. Déferlement de la tempête: la main droite enchaîne des gammes chromatiques continues sur plusieurs octaves pendant que la main gauche assume des sauts d'octaves syncopés. La mélodie principale se cache dans les notes supérieures de la main droite. Travailler séparément: notes supérieures seules (mélodie), puis doigté complet lentement.
+8 mesures. BPM 69. Signature 4/4. Tonalité La_mineur.
+8 mesures, La mineur, Allegro, tempo 69 BPM.
+Déferlement de la tempête: la main droite enchaîne des gammes chromatiques continues sur plusieurs octaves pendant que la main gauche assume des sauts d'octaves syncopés. La mélodie principale se cache dans les notes supérieures de la main droite.
+Travailler séparément: notes supérieures seules (mélodie), puis doigté complet lentement.
 </meta>
     <section=exposition, n_mesure=8, bpm=69, format=4/4, tonalite=La_mineur>
         <mesure num=1>
@@ -93,7 +99,10 @@ Intention : Tempête intérieure et bravoure implacable, cette étude associe un
     </section>
 
 <meta>
-8 mesures, La mineur, continuation, tempo 69 BPM. Continuation de l'exposition avec intensification des gammes chromatiques; les sauts de la main gauche s'étendent jusqu'à trois octaves. La double difficulté de la pièce (endurance des deux mains) commence à peser ici. La résolution métronomique est indispensable pour ne pas se perdre dans les gammes.
+8 mesures. BPM 69. Signature 4/4. Tonalité La_mineur.
+8 mesures, La mineur, continuation, tempo 69 BPM.
+Continuation de l'exposition avec intensification des gammes chromatiques; les sauts de la main gauche s'étendent jusqu'à trois octaves. La double difficulté de la pièce (endurance des deux mains) commence à peser ici.
+La résolution métronomique est indispensable pour ne pas se perdre dans les gammes.
 </meta>
     <section=exposition, n_mesure=8, bpm=69, format=4/4, tonalite=La_mineur>
         <mesure num=1>
@@ -133,7 +142,10 @@ Intention : Tempête intérieure et bravoure implacable, cette étude associe un
     </section>
 
 <meta>
-8 mesures, modulations en La mineur, tempo 69 BPM. Premier développement harmonique; les gammes chromatiques de la main droite traversent différentes régions tonales. La main gauche enrichit son accompagnement avec des accords supplémentaires. Préserver à tout prix la clarté de la mélodie dans les notes supérieures.
+8 mesures. BPM 69. Signature 4/4. Tonalité La_mineur.
+8 mesures, modulations en La mineur, tempo 69 BPM.
+Premier développement harmonique; les gammes chromatiques de la main droite traversent différentes régions tonales. La main gauche enrichit son accompagnement avec des accords supplémentaires.
+Préserver à tout prix la clarté de la mélodie dans les notes supérieures.
 </meta>
     <section=developpement, n_mesure=8, bpm=69, format=4/4, tonalite=La_mineur>
         <mesure num=1>
@@ -173,7 +185,10 @@ Intention : Tempête intérieure et bravoure implacable, cette étude associe un
     </section>
 
 <meta>
-8 mesures, tension maximale, tempo 69 BPM. Climax du développement avec les passages les plus larges et les plus exigeants des deux mains simultanément. La dynamique atteint ici son maximum; ne pas retenir ni précipiter le tempo sous la pression physique.
+8 mesures. BPM 69. Signature 4/4. Tonalité La_mineur.
+8 mesures, tension maximale, tempo 69 BPM.
+Climax du développement avec les passages les plus larges et les plus exigeants des deux mains simultanément. La dynamique atteint ici son maximum;
+ne pas retenir ni précipiter le tempo sous la pression physique.
 </meta>
     <section=developpement, n_mesure=8, bpm=69, format=4/4, tonalite=La_mineur>
         <mesure num=1>
@@ -213,7 +228,10 @@ Intention : Tempête intérieure et bravoure implacable, cette étude associe un
     </section>
 
 <meta>
-8 mesures, relâchement transitoire, tempo 69 BPM. Léger relâchement de la tension avec une texture moins dense; quelques mesures de respiration harmonique avant la réexposition. Utiliser ce moment pour récupérer physiquement sans le montrer musicalement.
+8 mesures. BPM 69. Signature 4/4. Tonalité La_mineur.
+8 mesures, relâchement transitoire, tempo 69 BPM.
+Léger relâchement de la tension avec une texture moins dense; quelques mesures de respiration harmonique avant la réexposition.
+Utiliser ce moment pour récupérer physiquement sans le montrer musicalement.
 </meta>
     <section=developpement, n_mesure=8, bpm=69, format=4/4, tonalite=La_mineur>
         <mesure num=1>
@@ -255,7 +273,10 @@ Intention : Tempête intérieure et bravoure implacable, cette étude associe un
     </section>
 
 <meta>
-8 mesures, retour en La mineur, tempo 69 BPM. Réexposition du thème de la tempête avec une force renouvelée; les gammes chromatiques reprennent leur course implacable. Le pianiste doit retrouver une fraîcheur d'attaque malgré la fatigue accumulée.
+8 mesures. BPM 69. Signature 4/4. Tonalité La_mineur.
+8 mesures, retour en La mineur, tempo 69 BPM.
+Réexposition du thème de la tempête avec une force renouvelée; les gammes chromatiques reprennent leur course implacable.
+Le pianiste doit retrouver une fraîcheur d'attaque malgré la fatigue accumulée.
 </meta>
     <section=recapitulation, n_mesure=8, bpm=69, format=4/4, tonalite=La_mineur>
         <mesure num=1>
@@ -295,7 +316,10 @@ Intention : Tempête intérieure et bravoure implacable, cette étude associe un
     </section>
 
 <meta>
-8 mesures, La mineur, intensification, tempo 69 BPM. Deuxième vague de la réexposition avec des gammes encore plus étendues; la main gauche densifie ses sauts d'octaves. Cette section représente le plus grand obstacle technique de la pièce.
+8 mesures. BPM 69. Signature 4/4. Tonalité La_mineur.
+8 mesures, La mineur, intensification, tempo 69 BPM.
+Deuxième vague de la réexposition avec des gammes encore plus étendues; la main gauche densifie ses sauts d'octaves.
+Cette section représente le plus grand obstacle technique de la pièce.
 </meta>
     <section=recapitulation, n_mesure=8, bpm=69, format=4/4, tonalite=La_mineur>
         <mesure num=1>
@@ -337,7 +361,10 @@ Intention : Tempête intérieure et bravoure implacable, cette étude associe un
     </section>
 
 <meta>
-8 mesures, La mineur, progression finale, tempo 69 BPM. Accumulation vers la grande conclusion; les gammes de la main droite montent vers le registre le plus aigu. L'énergie expressive doit être maintenue jusqu'au dernier instant. La dynamique atteint son apogée absolu ici.
+8 mesures. BPM 69. Signature 4/4. Tonalité La_mineur.
+8 mesures, La mineur, progression finale, tempo 69 BPM.
+Accumulation vers la grande conclusion; les gammes de la main droite montent vers le registre le plus aigu. L'énergie expressive doit être maintenue jusqu'au dernier instant.
+La dynamique atteint son apogée absolu ici.
 </meta>
     <section=recapitulation, n_mesure=8, bpm=69, format=4/4, tonalite=La_mineur>
         <mesure num=1>
@@ -376,7 +403,10 @@ Intention : Tempête intérieure et bravoure implacable, cette étude associe un
     </section>
 
 <meta>
-8 mesures, La mineur, dissolution vers la coda, tempo 69 BPM. Les gammes chromatiques se condensent progressivement; la main gauche commence à poser les jalons de la coda harmonique. La vitesse peut légèrement s'emballer pour intensifier le sentiment de tourbillon final.
+8 mesures. BPM 69. Signature 4/4. Tonalité La_mineur.
+8 mesures, La mineur, dissolution vers la coda, tempo 69 BPM.
+Les gammes chromatiques se condensent progressivement; la main gauche commence à poser les jalons de la coda harmonique.
+La vitesse peut légèrement s'emballer pour intensifier le sentiment de tourbillon final.
 </meta>
     <section=recapitulation, n_mesure=8, bpm=69, format=4/4, tonalite=La_mineur>
         <mesure num=1>
@@ -417,7 +447,10 @@ Intention : Tempête intérieure et bravoure implacable, cette étude associe un
     </section>
 
 <meta>
-8 mesures, La mineur, avant-coda, tempo 69 BPM. Ultime déferlement des gammes avant la résolution; chaque mesure est un pas de plus vers la conclusion. La densité accumulée tout au long de l'étude se décharge ici avec un effet de catharsis.
+8 mesures. BPM 69. Signature 4/4. Tonalité La_mineur.
+8 mesures, La mineur, avant-coda, tempo 69 BPM.
+Ultime déferlement des gammes avant la résolution; chaque mesure est un pas de plus vers la conclusion.
+La densité accumulée tout au long de l'étude se décharge ici avec un effet de catharsis.
 </meta>
     <section=recapitulation, n_mesure=8, bpm=69, format=4/4, tonalite=La_mineur>
         <mesure num=1>
@@ -455,7 +488,10 @@ Intention : Tempête intérieure et bravoure implacable, cette étude associe un
     </section>
 
 <meta>
-8 mesures conclusives en La mineur, tempo 69 BPM. La coda résout la tempête en puissants accords finaux en La mineur; les gammes se font de plus en plus courtes jusqu'à l'accord final. L'accord de conclusion doit être d'une solidité absolue, pierre d'ancrage après la tourmente.
+8 mesures. BPM 69. Signature 4/4. Tonalité La_mineur.
+8 mesures conclusives en La mineur, tempo 69 BPM.
+La coda résout la tempête en puissants accords finaux en La mineur; les gammes se font de plus en plus courtes jusqu'à l'accord final.
+L'accord de conclusion doit être d'une solidité absolue, pierre d'ancrage après la tourmente.
 </meta>
     <section=coda, n_mesure=8, bpm=69, format=4/4, tonalite=La_mineur>
         <mesure num=1>
