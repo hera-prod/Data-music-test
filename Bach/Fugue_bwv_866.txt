@@ -3,10 +3,10 @@
 TACHE : composition
 STYLE : baroque
 FORMAT : piano_solo
-NIVEAU : intermediaire
+NIVEAU : avance
 Titre : Fugue en Sib majeur, BWV 866, Clavier bien tempéré I, n°21
 Date : 1722
-Auteur : Johann Sebastian Bach
+Auteur : Bach
 Tonalite : Sib_majeur
 Unite : quarter
 Intention : Fugue vive et capricieuse à trois voix, d'un caractère dansant et enjoué, fondée sur un sujet au saut expressif suivi d'un contre-sujet énergique qui engendre un contrepoint double de grande ingéniosité. Fugue en Sib majeur, 48 mesures en 3/4, organisée en forme analogue à la forme sonate : exposition dans le ton principal et la dominante, développement modulant vers Sol mineur, Do mineur et Mib majeur, récapitulation et coda cadentielle.
