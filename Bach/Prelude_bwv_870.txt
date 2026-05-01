@@ -6,10 +6,10 @@ FORMAT : piano_solo
 NIVEAU : avance
 Titre : Prélude en do majeur, BWV 870, Clavier bien tempéré II n°1
 Date : 1742
-Auteur : Johann Sebastian Bach
+Auteur : Bach
 Tonalite : Do_majeur
 Unite : quarter
-Intention : Prélude d'un caractère librement improvisatoire et lumineux, comparable selon Ledbetter à une improvisation d'orgue, dont le flux mélodique ininterrompu ne connaît aucun point d'arrivée décisif avant la cadence finale. Forme prélude en do majeur, mesure à 4/4, 34 mesures, tempo modéré aux alentours de 90 pulsations par minute, avec une construction soigneusement architecturée dissimulée derrière l'apparence libre du discours musical.
+Intention : Prélude d'un caractère librement improvisatoire et lumineux, comparable à une improvisation d'orgue, dont le flux mélodique ininterrompu ne connaît aucun point d'arrivée décisif avant la cadence finale. Forme prélude en do majeur, mesure à 4/4, 34 mesures, tempo modéré aux alentours de 90 pulsations par minute, avec une construction soigneusement architecturée dissimulée derrière l'apparence libre du discours musical.
 </tete>
 
 <meta>
