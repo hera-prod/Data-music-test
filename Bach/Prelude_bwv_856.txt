@@ -3,10 +3,10 @@
 TACHE : composition
 STYLE : baroque
 FORMAT : piano_solo
-NIVEAU : avance
+NIVEAU : intermediaire
 Titre : Prélude en Fa majeur, BWV 856 (Clavier bien tempéré I, n°11)
 Date : 1722
-Auteur : Johann Sebastian Bach
+Auteur : Bach
 Tonalite : Fa_majeur
 Unite : quarter
 Intention : Ce prélude déploie un caractère pastoral et lumineux, tissé de figures d'arpèges continus en 12/8 qui évoquent une promenade légère et gracieuse, alternant tenues ornées et mouvements fluides entre les voix. La forme est bipartite en Fa majeur, composée de 18 mesures en mesure composée à 12/8, au tempo modéré de 90 à la noire pointée, avec deux voix principales et un contrepoint intérieur à partir de la troisième mesure.
