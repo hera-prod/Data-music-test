@@ -3,19 +3,19 @@
 TACHE : composition
 STYLE : romantique
 FORMAT : piano_solo
-NIVEAU : simple
+NIVEAU : avance
 Titre : Kreisleriana_1
-Date : ?
+Date : 1838
 Auteur : Schumann
-Tonalite : Fa_majeur
+Tonalite : Re_mineur
 Unite : quarter
-Intention : Pièce pour piano solo, modéré, lumineux, au cadre binaire régulier. Tonalité : Fa majeur. 78 mesures.
+Intention : Tourbillon agité et passionné, nature fiévreuse du Kapellmeister Kreisler de Hoffmann, élan irrépressible. Forme ternaire avec coda en Re mineur, 2/4, Ausserst bewegt, bpm 138, 78 mesures.
 </tete>
 
 <meta>
-Section d'ouverture — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
+8 mesures. 2/4, 138 bpm. Re mineur. Section A, première phrase : tourbillon de doubles-croches, véhémence rythmique, tempête intérieure. Schumann incarne l'état d'exaltation frénétique du Kapellmeister. Attaque nette et brillante, vitesse sans précipitation.
 </meta>
-    <section=section_1, n_mesure=8, bpm=90, format=2/4, tonalite=Fa_majeur>
+    <section=section_A_a, n_mesure=8, bpm=138, format=2/4, tonalite=Re_mineur>
         <mesure num=1>
             <piano_1_v1>  |_|
             <piano_1_v2>  |la3|
@@ -53,9 +53,9 @@ Section d'ouverture — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 1 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
+8 mesures. 2/4, 138 bpm. Re mineur. Section A, deuxième phrase : continuation du tourbillon, tensions harmoniques accrues. Le mouvement perpétuel exige une technique impeccable et une énergie soutenue. Maintenir la pulsation.
 </meta>
-    <section=section_2, n_mesure=8, bpm=90, format=2/4, tonalite=Fa_majeur>
+    <section=section_A_b, n_mesure=8, bpm=138, format=2/4, tonalite=Re_mineur>
         <mesure num=1>
             <piano_1_v1>  |({reb6, mi5}, {mi6, la6, la5}, re6), (re7, _)|
             <piano_1_v2>  |(_, la3 reb4 la4), (re4 fa4 la4 re5, _)|
@@ -97,9 +97,9 @@ Section de développement 1 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 2 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
+8 mesures. 2/4, 138 bpm. Re mineur. Section A, troisième phrase : intensification dynamique, climax approchant. Les tensions tonales se resserrent. Crescendo progressif, son puissant mais contrôlé.
 </meta>
-    <section=section_3, n_mesure=8, bpm=90, format=2/4, tonalite=Fa_majeur>
+    <section=section_A_c, n_mesure=8, bpm=138, format=2/4, tonalite=Re_mineur>
         <mesure num=1>
             <piano_1_v1>  |({mib5, sib4}, {sol5, sib5, sib4}, re5), ({sol5, sib4}, {re5, mib5, si4}, mib5)|
             <piano_1_v2>  |(_, sol3 sib3 mib4), (lab3 sib3 re4 sol4, sol3 sib3 mib4)|
@@ -143,9 +143,9 @@ Section de développement 2 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 3 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
+8 mesures. 2/4, 138 bpm. Re mineur. Section A, clôture : cadence dramatique en Re mineur, conclusion du bloc initial. Nette et affirmée, prépare le contraste de la section B.
 </meta>
-    <section=section_4, n_mesure=8, bpm=90, format=2/4, tonalite=Fa_majeur>
+    <section=section_A_d, n_mesure=8, bpm=138, format=2/4, tonalite=Re_mineur>
         <mesure num=1>
             <piano_1_v1>  |({reb5, sol4}, {mi5, sol5, sib4}, re5), ({mib5, la4}, {la5, do6, do5}, re5)|
             <piano_1_v2>  |(mi4, sol4), (solb4, la4)|
@@ -183,9 +183,9 @@ Section de développement 3 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 4 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
+8 mesures. 2/4, 138 bpm. Fa majeur. Section B, première phrase : contraste vers le relatif majeur, légère détente mais élan maintenu. Le passage en Fa majeur apporte une clarté momentanée sans abandonner l'urgence. Texte plus chantant.
 </meta>
-    <section=section_5, n_mesure=8, bpm=90, format=2/4, tonalite=Fa_majeur>
+    <section=section_B_a, n_mesure=8, bpm=138, format=2/4, tonalite=Fa_majeur>
         <mesure num=1>
             <piano_1_v1>  |({sib4, fa4}, {_, _}), ({do5, re5}, {sol4, _}), {sib4, _, _, _}|
             <piano_1_v2>  |({_, _}, {_, re4}, sib3), ({fa3, _}, do4, sib3), ({mi3, _, _}, _)|
@@ -221,9 +221,9 @@ Section de développement 4 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 5 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
+8 mesures. 2/4, 138 bpm. Fa majeur. Section B, deuxième phrase : développement lyrique en Fa majeur. La ligne mélodique s'épanouit brièvement. Legato expressif.
 </meta>
-    <section=section_6, n_mesure=8, bpm=90, format=2/4, tonalite=Fa_majeur>
+    <section=section_B_b, n_mesure=8, bpm=138, format=2/4, tonalite=Fa_majeur>
         <mesure num=1>
             <piano_1_v1>  |({mib5, solb4}, {_, sib4, mib4}, do4), ({reb5, do5}, {fa4, _}), {la4, _, _, _}|
             <piano_1_v2>  |({_, _}, {_, _}), (do4, la3), ({mib3, _, _}, _)|
@@ -259,9 +259,9 @@ Section de développement 5 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 6 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
+8 mesures. 2/4, 138 bpm. Fa majeur. Section B, troisième phrase : maintien de la clarté majeure, préparation du retour au mineur. Équilibre entre passion et lumière.
 </meta>
-    <section=section_7, n_mesure=8, bpm=90, format=2/4, tonalite=Fa_majeur>
+    <section=section_B_c, n_mesure=8, bpm=138, format=2/4, tonalite=Fa_majeur>
         <mesure num=1>
             <piano_1_v1>  |({mib5, mib4}, {_, _}), ({mib5, si4}, {lab4, _}), {si4, _, _, _}|
             <piano_1_v2>  |({_, _}, {_, sol4}, sib3), ({sol3, _}, re4, lab3), ({fa3, _, _}, _)|
@@ -300,9 +300,9 @@ Section de développement 6 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 7 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
+8 mesures. 2/4, 138 bpm. Fa majeur. Section B, clôture : cadence en Fa majeur, pivot vers la coda. Résolution momentanée avant la conclusion agitée.
 </meta>
-    <section=section_8, n_mesure=8, bpm=90, format=2/4, tonalite=Fa_majeur>
+    <section=section_B_d, n_mesure=8, bpm=138, format=2/4, tonalite=Fa_majeur>
         <mesure num=1>
             <piano_1_v1>  |({lab4, re4}, {re5, fa5, fa4}, lab4), ({la4, mi4}, {reb5, mi5, sol4}, la4)|
             <piano_1_v2>  |(lab2 lab3, la2 la3)|
@@ -342,9 +342,9 @@ Section de développement 7 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 8 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
+8 mesures. 2/4, 138 bpm. Re mineur. Coda, première partie : retour impétueux à Re mineur, urgence finale, réaffirmation du caractère initial. La conclusion exige toute l'énergie disponible. Forte, décisif.
 </meta>
-    <section=section_9, n_mesure=8, bpm=90, format=2/4, tonalite=Fa_majeur>
+    <section=coda_a, n_mesure=8, bpm=138, format=2/4, tonalite=Re_mineur>
         <mesure num=1>
             <piano_1_v1>  |({re6, re5}, {sol5, la5, re5}, sol5), ({do6, do5}, {fa5, sol5, do5}, fa5)|
             <piano_1_v2>  |(la4, sol4), fa4|
@@ -383,9 +383,9 @@ Section de développement 8 — 8 mesures. Tonalité Fa majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section conclusive — 6 mesures. Tonalité Fa majeur, tempo 90 BPM.
+6 mesures. 2/4, 138 bpm. Re mineur. Coda finale : conclusion brève et fulgurante, derniers accords percutants. Schumann conclut avec une violence contrôlée. Accent sur les dernières frappes, fin sans appel.
 </meta>
-    <section=section_10, n_mesure=6, bpm=90, format=2/4, tonalite=Fa_majeur>
+    <section=coda_b, n_mesure=6, bpm=138, format=2/4, tonalite=Re_mineur>
         <mesure num=1>
             <piano_1_v1>  |({mib4, sib3}, {sol4, sib4, re4}, mi4), ({fa4, si3}, {si4, re5, fa4}, sol4)|
             <piano_1_v2>  |(solb2 solb3, sol2 sol3), lab2 lab3|
