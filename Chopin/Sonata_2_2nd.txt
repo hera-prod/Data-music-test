@@ -9,13 +9,16 @@ Date : 1839
 Auteur : Frédéric Chopin
 Tonalite : Mib_mineur
 Unite : quarter
-Intention : Scherzo d'une énergie motorique implacable, construit sur un martèlement obsessionnel d'octaves et de rythmes syncopés. Forme scherzo-trio-scherzo en mi bémol mineur, mesure ternaire à 3/4, 290 mesures ; le trio en sol bémol majeur offre un contrepoint lyrique d'une grâce sereine avant le retour brutal du scherzo initial.
+Intention : Énergie motorique implacable et martèlement obsessionnel, ce scherzo construit sa violence sur des octaves répétées et des rythmes syncopés fortissimo en mi bémol mineur. Forme scherzo-trio-scherzo en mi bémol mineur, mesure ternaire à 3/4, 290 mesures ; le trio en sol bémol majeur offre un contrepoint lyrique d'une grâce sereine avant le retour brutal du scherzo.
 </tete>
 
 <meta>
-Ouverture du scherzo en mi bémol mineur ; deux mesures d'accords fortissimo frappés sur les temps forts imposent un caractère percussif et brutal. Le motif obsessionnel d'octaves répétées s'installe immédiatement. Attaque ferme, accent sur le deuxième temps pour le balancement caractéristique.
+8 mesures. BPM 90. Signature 3/4. Tonalité Mib_mineur.
+Ouverture du scherzo en mi bémol mineur ;
+deux mesures d'accords fortissimo frappés sur les temps forts imposent un caractère percussif et brutal. Le motif obsessionnel d'octaves répétées s'installe immédiatement.
+Attaque ferme, accent sur le deuxième temps pour le balancement caractéristique.
 </meta>
-    <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
+    <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Mib_mineur>
         <mesure num=1>
             <piano_1_v1>  |la#2 la#3, -, -|
             <piano_1_v4>  |la#1, -, -|
@@ -51,9 +54,12 @@ Ouverture du scherzo en mi bémol mineur ; deux mesures d'accords fortissimo fra
     </section>
 
 <meta>
-Continuation du scherzo A, mi bémol mineur ; les accords en quartes glissent le long du clavier dans un trait virtuose. Chopin manipule le temps ternaire avec des accents déplacés sur le troisième temps. Souplesse du poignet indispensable.
+8 mesures. BPM 90. Signature 3/4. Tonalité Mib_mineur.
+Continuation du scherzo A, mi bémol mineur ;
+les accords en quartes glissent le long du clavier dans un trait virtuose. Chopin manipule le temps ternaire avec des accents déplacés sur le troisième temps.
+Souplesse du poignet indispensable.
 </meta>
-    <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
+    <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Mib_mineur>
         <mesure num=1>
             <piano_1_v1>  |la#3 re#4 la#4, sol#3 re#4 sol#4, sol3 sol#3 re#4 fa#4|
             <piano_1_v4>  |si2 si3, si1 si2, do2 do3|
@@ -89,9 +95,12 @@ Continuation du scherzo A, mi bémol mineur ; les accords en quartes glissent le
     </section>
 
 <meta>
-Développement du premier thème du scherzo ; la texture s'épaissit, les trilles et les mordants ornent les octaves répétées. La dynamique reste soutenue en forte. Clarté de l'articulation malgré la densité.
+8 mesures. BPM 90. Signature 3/4. Tonalité Mib_mineur.
+Développement du premier thème du scherzo ;
+la texture s'épaissit, les trilles et les mordants ornent les octaves répétées. La dynamique reste soutenue en forte.
+Clarté de l'articulation malgré la densité.
 </meta>
-    <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
+    <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Mib_mineur>
         <mesure num=1>
             <piano_1_v1>  |la#3 la#4, -, -|
             <piano_1_v4>  |_, _, _|
@@ -127,9 +136,12 @@ Développement du premier thème du scherzo ; la texture s'épaissit, les trille
     </section>
 
 <meta>
-Épisode central du scherzo A ; les traits en accords de quartes s'élancent sur tout le clavier, les deux mains en miroir. La logique harmonique reste fermement ancrée en mi bémol mineur. Précision dans les sauts de registre.
+8 mesures. BPM 90. Signature 3/4. Tonalité Mib_mineur.
+Épisode central du scherzo A ;
+les traits en accords de quartes s'élancent sur tout le clavier, les deux mains en miroir. La logique harmonique reste fermement ancrée en mi bémol mineur.
+Précision dans les sauts de registre.
 </meta>
-    <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
+    <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Mib_mineur>
         <mesure num=1>
             <piano_1_v1>  |sol#3 re4 fa#4 sol#4, (sol#4 re5 fa#5 sol#5, fa#4 fa#5), (sol#4 do#5 fa5 sol#5, la4 la5)|
             <piano_1_v4>  |si1 si2, si2 fa#3 sol#3 re4, do#3 sol#3 si3 fa4|
@@ -167,9 +179,12 @@ Développement du premier thème du scherzo ; la texture s'épaissit, les trille
     </section>
 
 <meta>
-Passage contrapuntique du scherzo ; les voix médianes prennent le relais dans une texture à trois plans. L'influence de Bach est perceptible dans la conduite linéaire des voix. Mettre en valeur chaque ligne sans écraser les autres.
+8 mesures. BPM 90. Signature 3/4. Tonalité Mib_mineur.
+Passage contrapuntique du scherzo ;
+les voix médianes prennent le relais dans une texture à trois plans. L'influence de Bach est perceptible dans la conduite linéaire des voix.
+Mettre en valeur chaque ligne sans écraser les autres.
 </meta>
-    <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
+    <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Mib_mineur>
         <mesure num=1>
             <piano_1_v1>  |do#5 sol#5 do#6, fa#5 do#6 fa#6, do#4 sol#4 do#5|
             <piano_1_v4>  |do#4 fa4 si4, fa#3 do#4 la4, do#3 fa3 si3|
@@ -205,9 +220,12 @@ Passage contrapuntique du scherzo ; les voix médianes prennent le relais dans u
     </section>
 
 <meta>
-Développement motorique du scherzo A ; les octaves répétées s'enchaînent en séquences ascendantes créant une montée dramatique. L'accentuation syncopée du deuxième temps amplifie l'effet de suspension rhythmique.
+8 mesures. BPM 90. Signature 3/4. Tonalité Mib_mineur.
+Développement motorique du scherzo A ;
+les octaves répétées s'enchaînent en séquences ascendantes créant une montée dramatique.
+L'accentuation syncopée du deuxième temps amplifie l'effet de suspension rhythmique.
 </meta>
-    <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
+    <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Mib_mineur>
         <mesure num=1>
             <piano_1_v1>  |la4 re5, la#4 re#5, re#5 la#5 re#6|
             <piano_1_v4>  |fa#4, sol4, sol3 la#3 re#4 sol4|
@@ -243,9 +261,12 @@ Développement motorique du scherzo A ; les octaves répétées s'enchaînent en
     </section>
 
 <meta>
-Section agitée du scherzo ; les deux mains jouent en dialogue serré, échangeant le motif principal dans les registres grave et aigu. La dynamique fluctue entre forte et fortissimo. Maintenir la précision dans les échanges thématiques.
+8 mesures. BPM 90. Signature 3/4. Tonalité Mib_mineur.
+Section agitée du scherzo ;
+les deux mains jouent en dialogue serré, échangeant le motif principal dans les registres grave et aigu. La dynamique fluctue entre forte et fortissimo.
+Maintenir la précision dans les échanges thématiques.
 </meta>
-    <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
+    <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Mib_mineur>
         <mesure num=1>
             <piano_1_v1>  |(sol4 sol5, sol#4 sol#5), (la4 la5, la4 la5), (la4 la5, la4 la5)|
             <piano_1_v4>  |(si3 re4, do4 re#4), (do#4 mi4, do#4 mi4), (do#4 mi4, do#4 mi4)|
@@ -281,9 +302,12 @@ Section agitée du scherzo ; les deux mains jouent en dialogue serré, échangea
     </section>
 
 <meta>
-Intensification du scherzo A ; les accords s'enchaînent en rafale, la progression harmonique chromatique crée une tension accrue. Préparer mentalement la transition vers le trio.
+8 mesures. BPM 90. Signature 3/4. Tonalité Mib_mineur.
+Intensification du scherzo A ;
+les accords s'enchaînent en rafale, la progression harmonique chromatique crée une tension accrue.
+Préparer mentalement la transition vers le trio.
 </meta>
-    <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
+    <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Mib_mineur>
         <mesure num=1>
             <piano_1_v1>  |fa#6 re#7, re#4 fa#4 la4, fa#4 la4 fa#5|
             <piano_1_v4>  |la5 do6, do3 do4, do1 do2|
@@ -319,9 +343,12 @@ Intensification du scherzo A ; les accords s'enchaînent en rafale, la progressi
     </section>
 
 <meta>
-Sommet dramatique du scherzo A ; fortissimo généralisé, accords martelés dans les deux registres extrêmes. L'énergie motorique atteint son paroxysme avant le contraste du trio. Maintenir la régularité du tempo malgré l'intensité.
+8 mesures. BPM 90. Signature 3/4. Tonalité Mib_mineur.
+Sommet dramatique du scherzo A ;
+fortissimo généralisé, accords martelés dans les deux registres extrêmes. L'énergie motorique atteint son paroxysme avant le contraste du trio.
+Maintenir la régularité du tempo malgré l'intensité.
 </meta>
-    <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
+    <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Mib_mineur>
         <mesure num=1>
             <piano_1_v1>  |la#3 la#4, la#4 la#5, la#5 la#6|
             <piano_1_v4>  |si1 si2, la#1 la#2, fa#1 fa#2|
@@ -357,9 +384,12 @@ Sommet dramatique du scherzo A ; fortissimo généralisé, accords martelés dan
     </section>
 
 <meta>
-Section de transition scherzo-trio ; les accords se raréfient progressivement, la dynamique décroît. Un point d'orgue sur l'accord de dominante instaure une suspension avant le glissement vers sol bémol majeur.
+8 mesures. BPM 90. Signature 3/4. Tonalité Mib_mineur.
+Section de transition scherzo-trio ;
+les accords se raréfient progressivement, la dynamique décroît.
+Un point d'orgue sur l'accord de dominante instaure une suspension avant le glissement vers sol bémol majeur.
 </meta>
-    <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
+    <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Mib_mineur>
         <mesure num=1>
             <piano_1_v1>  |sol#3 re#4 sol#4, re#4 sol#4 re#5, fa4 si4 re#5 fa5|
             <piano_1_v4>  |si2 si3, si1 si2, sol#1 sol#2|
@@ -395,9 +425,12 @@ Section de transition scherzo-trio ; les accords se raréfient progressivement, 
     </section>
 
 <meta>
-Préparation harmonique de la transition ; la tonalité pivote subtilement de mi bémol mineur vers sol bémol majeur relatif. Les chromatismes ménagent un pont expressif entre les deux sections contrastées.
+8 mesures. BPM 90. Signature 3/4. Tonalité Mib_mineur.
+Préparation harmonique de la transition ;
+la tonalité pivote subtilement de mi bémol mineur vers sol bémol majeur relatif.
+Les chromatismes ménagent un pont expressif entre les deux sections contrastées.
 </meta>
-    <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
+    <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Mib_mineur>
         <mesure num=1>
             <piano_1_v1>  |re#3 re#4, _, _|
             <piano_1_v4>  |re#1 re#2, _, _|
@@ -436,9 +469,12 @@ Préparation harmonique de la transition ; la tonalité pivote subtilement de mi
     </section>
 
 <meta>
-Dernières mesures du premier scherzo ; la cadence demi-cadencielle suspensive ouvre l'espace pour le trio. Laisser résonner le point d'orgue pour marquer clairement la césure formelle.
+8 mesures. BPM 90. Signature 3/4. Tonalité Mib_mineur.
+Dernières mesures du premier scherzo ;
+la cadence demi-cadencielle suspensive ouvre l'espace pour le trio.
+Laisser résonner le point d'orgue pour marquer clairement la césure formelle.
 </meta>
-    <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
+    <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Mib_mineur>
         <mesure num=1>
             <piano_1_v1>  |la#4, -, -|
             <piano_1_v2>  |_, la#3 fa#4, la#3 fa#4|
@@ -479,9 +515,12 @@ Dernières mesures du premier scherzo ; la cadence demi-cadencielle suspensive o
     </section>
 
 <meta>
-Continuation de la cadence transitoire ; accord tenu sur la dominante de sol bémol prépare l'entrée du trio dans la sérénité. Respecter le silence avant le changement de caractère.
+8 mesures. BPM 90. Signature 3/4. Tonalité Mib_mineur.
+Continuation de la cadence transitoire ;
+accord tenu sur la dominante de sol bémol prépare l'entrée du trio dans la sérénité.
+Respecter le silence avant le changement de caractère.
 </meta>
-    <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
+    <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Mib_mineur>
         <mesure num=1>
             <piano_1_v1>  |re#5, do#5, -|
             <piano_1_v2>  |_, do#4 la#4, do#4 la#4|
@@ -522,9 +561,12 @@ Continuation de la cadence transitoire ; accord tenu sur la dominante de sol bé
     </section>
 
 <meta>
-Mesures de liaison avant le trio ; motifs résiduels du scherzo s'estompent en douceur. La texture s'allège radicalement pour préparer le caractère nocturne du trio. Diminuendo très progressif.
+8 mesures. BPM 90. Signature 3/4. Tonalité Mib_mineur.
+Mesures de liaison avant le trio ;
+motifs résiduels du scherzo s'estompent en douceur. La texture s'allège radicalement pour préparer le caractère nocturne du trio.
+Diminuendo très progressif.
 </meta>
-    <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
+    <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Mib_mineur>
         <mesure num=1>
             <piano_1_v1>  |la#4, -, -|
             <piano_1_v2>  |_, la#3 fa#4, la#3 fa#4|
@@ -565,9 +607,12 @@ Mesures de liaison avant le trio ; motifs résiduels du scherzo s'estompent en d
     </section>
 
 <meta>
-Clôture de la première section A ; la phrase conclusive en mi bémol mineur pose la cadence parfaite avant l'interruption formelle du trio. Les octaves finales s'éteignent dans le piano.
+8 mesures. BPM 90. Signature 3/4. Tonalité Mib_mineur.
+Clôture de la première section A ;
+la phrase conclusive en mi bémol mineur pose la cadence parfaite avant l'interruption formelle du trio.
+Les octaves finales s'éteignent dans le piano.
 </meta>
-    <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
+    <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Mib_mineur>
         <mesure num=1>
             <piano_1_v1>  |fa5, -, -|
             <piano_1_v2>  |_, fa4 la4, fa4 la4|
@@ -611,9 +656,12 @@ Clôture de la première section A ; la phrase conclusive en mi bémol mineur po
     </section>
 
 <meta>
-Couplet de liaison formel ; mesures de respiration entre scherzo et trio, permettant à l'auditeur de se préparer au contraste lyrique. Maintenir le fil narratif malgré l'interruption thématique.
+8 mesures. BPM 90. Signature 3/4. Tonalité Mib_mineur.
+Couplet de liaison formel ;
+mesures de respiration entre scherzo et trio, permettant à l'auditeur de se préparer au contraste lyrique.
+Maintenir le fil narratif malgré l'interruption thématique.
 </meta>
-    <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
+    <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Mib_mineur>
         <mesure num=1>
             <piano_1_v1>  |si4, -, -|
             <piano_1_v2>  |fa4, re#4, fa4|
@@ -656,9 +704,12 @@ Couplet de liaison formel ; mesures de respiration entre scherzo et trio, permet
     </section>
 
 <meta>
-Trio en sol bémol majeur, piano ; mélodie d'une quiétude presque irréelle, chantée sur un accompagnement en balancement ternaire. Ce refuge lumineux suspend le caractère agité du scherzo dans un nocturne intérieur. Legato absolu, voix du dessus projetée comme un chant.
+8 mesures. BPM 90. Signature 3/4. Tonalité Mib_mineur.
+Trio en sol bémol majeur, piano ;
+mélodie d'une quiétude presque irréelle, chantée sur un accompagnement en balancement ternaire. Ce refuge lumineux suspend le caractère agité du scherzo dans un nocturne intérieur.
+Legato absolu, voix du dessus projetée comme un chant.
 </meta>
-    <section=trio, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
+    <section=trio, n_mesure=8, bpm=90, format=3/4, tonalite=Mib_mineur>
         <mesure num=1>
             <piano_1_v1>  |fa#3 do#4, sol#3 do#4, la#3 do#4|
             <piano_1_v4>  |la#2 do#3, sol#2 do#3, fa#2 do#3|
@@ -700,9 +751,12 @@ Trio en sol bémol majeur, piano ; mélodie d'une quiétude presque irréelle, c
     </section>
 
 <meta>
-Développement du trio ; la mélodie se déploie en longues phrases expressives, légèrement ornée de broderies et de fioritures. L'accompagnement en croches régulières berce l'auditeur dans un tempo plus posé. Goûter chaque intervalle harmonique.
+8 mesures. BPM 90. Signature 3/4. Tonalité Mib_mineur.
+Développement du trio ;
+la mélodie se déploie en longues phrases expressives, légèrement ornée de broderies et de fioritures. L'accompagnement en croches régulières berce l'auditeur dans un tempo plus posé.
+Goûter chaque intervalle harmonique.
 </meta>
-    <section=trio, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
+    <section=trio, n_mesure=8, bpm=90, format=3/4, tonalite=Mib_mineur>
         <mesure num=1>
             <piano_1_v1>  |sol#3 re#4, la#3 re#4, fa#3 si3 re#4|
             <piano_1_v4>  |si2 re#3, la#2 re#3, sol#2 re#3|
@@ -746,9 +800,12 @@ Développement du trio ; la mélodie se déploie en longues phrases expressives,
     </section>
 
 <meta>
-Cœur du trio en sol bémol majeur ; climax expressif, la mélodie atteint son apogée dans le registre médium-aigu. Les accords dans les graves renforcent la base harmonique. Équilibrer la richesse harmonique sans alourdir.
+8 mesures. BPM 90. Signature 3/4. Tonalité Mib_mineur.
+Cœur du trio en sol bémol majeur ;
+climax expressif, la mélodie atteint son apogée dans le registre médium-aigu. Les accords dans les graves renforcent la base harmonique.
+Équilibrer la richesse harmonique sans alourdir.
 </meta>
-    <section=trio, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
+    <section=trio, n_mesure=8, bpm=90, format=3/4, tonalite=Mib_mineur>
         <mesure num=1>
             <piano_1_v1>  |la#3 do#4 fa#4, -, -|
             <piano_1_v4>  |fa#2 do#3, -, -|
@@ -790,9 +847,12 @@ Cœur du trio en sol bémol majeur ; climax expressif, la mélodie atteint son a
     </section>
 
 <meta>
-Retour du thème de trio légèrement varié ; des ornements supplémentaires enrichissent la ligne mélodique. L'harmonie explore de courtes digressions vers la sous-dominante avant de revenir au sol bémol majeur. Fluidité expressive requise.
+8 mesures. BPM 90. Signature 3/4. Tonalité Mib_mineur.
+Retour du thème de trio légèrement varié ;
+des ornements supplémentaires enrichissent la ligne mélodique. L'harmonie explore de courtes digressions vers la sous-dominante avant de revenir au sol bémol majeur.
+Fluidité expressive requise.
 </meta>
-    <section=trio, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
+    <section=trio, n_mesure=8, bpm=90, format=3/4, tonalite=Mib_mineur>
         <mesure num=1>
             <piano_1_v1>  |do#4 re#4 sol4, -, -|
             <piano_1_v4>  |(do4, la#3), (re3, re#3), (do4, la#3)|
@@ -833,9 +893,12 @@ Retour du thème de trio légèrement varié ; des ornements supplémentaires en
     </section>
 
 <meta>
-Section centrale du trio ; la mélodie dialogue avec elle-même dans des répétitions légèrement transformées. Les chromatismes apportent une nuance de mélancolie au cœur de la sérénité. Ne pas précipiter les ornements.
+8 mesures. BPM 90. Signature 3/4. Tonalité Mib_mineur.
+Section centrale du trio ;
+la mélodie dialogue avec elle-même dans des répétitions légèrement transformées. Les chromatismes apportent une nuance de mélancolie au cœur de la sérénité.
+Ne pas précipiter les ornements.
 </meta>
-    <section=trio, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
+    <section=trio, n_mesure=8, bpm=90, format=3/4, tonalite=Mib_mineur>
         <mesure num=1>
             <piano_1_v1>  |fa4 do#5, -, -|
             <piano_1_v2>  |do#4, -, -|
@@ -878,9 +941,12 @@ Section centrale du trio ; la mélodie dialogue avec elle-même dans des répét
     </section>
 
 <meta>
-Développement interne du trio ; la texture s'enrichit discrètement d'une troisième voix intermédiaire. L'atmosphère nocturne s'approfondit. Maintenir la clarté du cantabile principal.
+8 mesures. BPM 90. Signature 3/4. Tonalité Mib_mineur.
+Développement interne du trio ;
+la texture s'enrichit discrètement d'une troisième voix intermédiaire. L'atmosphère nocturne s'approfondit.
+Maintenir la clarté du cantabile principal.
 </meta>
-    <section=trio, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
+    <section=trio, n_mesure=8, bpm=90, format=3/4, tonalite=Mib_mineur>
         <mesure num=1>
             <piano_1_v1>  |fa#3 do#4, sol#3 do#4, fa#3 do#4|
             <piano_1_v4>  |la#2 do#3, si2 do#3, la#2 do#3|
@@ -922,9 +988,12 @@ Développement interne du trio ; la texture s'enrichit discrètement d'une trois
     </section>
 
 <meta>
-Préparation du retour au scherzo ; les deux chords intenses fortissimo font irruption comme un réveil brutal, les vestiges du trio s'estompent pianissimo smorzando. Ce moment est l'un des contrastes les plus saisissants de l'œuvre.
+8 mesures. BPM 90. Signature 3/4. Tonalité Mib_mineur.
+Préparation du retour au scherzo ;
+les deux chords intenses fortissimo font irruption comme un réveil brutal, les vestiges du trio s'estompent pianissimo smorzando.
+Ce moment est l'un des contrastes les plus saisissants de l'œuvre.
 </meta>
-    <section=trio, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
+    <section=trio, n_mesure=8, bpm=90, format=3/4, tonalite=Mib_mineur>
         <mesure num=1>
             <piano_1_v1>  |sol#3 re#4, la#3 re#4, fa#3 si3 re#4|
             <piano_1_v4>  |si2 re#3, la#2 re#3, sol#2 re#3|
@@ -968,9 +1037,12 @@ Préparation du retour au scherzo ; les deux chords intenses fortissimo font irr
     </section>
 
 <meta>
-Transition trio-scherzo ; les derniers accords du trio laissent place aux octaves initiales du scherzo. La violence de la réentrée doit être pleinement assumée.
+8 mesures. BPM 90. Signature 3/4. Tonalité Mib_mineur.
+Transition trio-scherzo ;
+les derniers accords du trio laissent place aux octaves initiales du scherzo.
+La violence de la réentrée doit être pleinement assumée.
 </meta>
-    <section=trio, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
+    <section=trio, n_mesure=8, bpm=90, format=3/4, tonalite=Mib_mineur>
         <mesure num=1>
             <piano_1_v1>  |la#3 do#4 fa#4, -, -|
             <piano_1_v4>  |fa#2 do#3, -, -|
@@ -1006,9 +1078,12 @@ Transition trio-scherzo ; les derniers accords du trio laissent place aux octave
     </section>
 
 <meta>
-Retour du scherzo A' en mi bémol mineur ; la réapparition du motif initial est identique mais son impact psychologique est décuplé par le souvenir du trio. Identique au début mais désormais inéluctable. Redonner l'élan avec fermeté.
+8 mesures. BPM 90. Signature 3/4. Tonalité Mib_mineur.
+Retour du scherzo A' en mi bémol mineur ;
+la réapparition du motif initial est identique mais son impact psychologique est décuplé par le souvenir du trio. Identique au début mais désormais inéluctable.
+Redonner l'élan avec fermeté.
 </meta>
-    <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
+    <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Mib_mineur>
         <mesure num=1>
             <piano_1_v1>  |fa3 si3 re#4 fa4, (fa4 si4 re#5 fa5, re#4 re#5), (fa4 la#4 re5 fa5, fa#4 fa#5)|
             <piano_1_v4>  |sol#1 sol#2, sol#2 re#3 fa3 si3, la#2 fa3 sol#3 re4|
@@ -1044,9 +1119,12 @@ Retour du scherzo A' en mi bémol mineur ; la réapparition du motif initial est
     </section>
 
 <meta>
-Continuation du retour du scherzo ; les accords de quartes reprennent leur course implacable. La cohérence formelle est assurée, le matériau identique à la première section. Maintenir le caractère percussif.
+8 mesures. BPM 90. Signature 3/4. Tonalité Mib_mineur.
+Continuation du retour du scherzo ;
+les accords de quartes reprennent leur course implacable. La cohérence formelle est assurée, le matériau identique à la première section.
+Maintenir le caractère percussif.
 </meta>
-    <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
+    <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Mib_mineur>
         <mesure num=1>
             <piano_1_v1>  |(do#5 la#5, do#5), (fa#5 do#6, fa#5), (la#5 fa#6, la#5)|
             <piano_1_v4>  |la#3 fa#4, do#4 la#4, fa#4 do#5|
@@ -1082,9 +1160,12 @@ Continuation du retour du scherzo ; les accords de quartes reprennent leur cours
     </section>
 
 <meta>
-Développement du scherzo A' ; légères variantes rhythmiques par rapport à l'exposé initial intensifient le sentiment de conclusion inévitable. La dynamique reste en forte soutenu.
+8 mesures. BPM 90. Signature 3/4. Tonalité Mib_mineur.
+Développement du scherzo A' ;
+légères variantes rhythmiques par rapport à l'exposé initial intensifient le sentiment de conclusion inévitable.
+La dynamique reste en forte soutenu.
 </meta>
-    <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
+    <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Mib_mineur>
         <mesure num=1>
             <piano_1_v1>  |la#3 la#4, -, -|
             <piano_1_v4>  |fa#2 fa#3, fa2 fa3, do#2 do#3|
@@ -1120,9 +1201,12 @@ Développement du scherzo A' ; légères variantes rhythmiques par rapport à l'
     </section>
 
 <meta>
-Intensification de la reprise du scherzo ; la main gauche ajoute un trille supplémentaire, densifiant encore la texture. Les accents déplacés créent une instabilité croissante vers la coda.
+8 mesures. BPM 90. Signature 3/4. Tonalité Mib_mineur.
+Intensification de la reprise du scherzo ;
+la main gauche ajoute un trille supplémentaire, densifiant encore la texture.
+Les accents déplacés créent une instabilité croissante vers la coda.
 </meta>
-    <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
+    <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Mib_mineur>
         <mesure num=1>
             <piano_1_v1>  |(si3 fa4 la4 si4, si3 fa4 la4 si4), (si3 fa4 la4 si4, si3 fa4 la4 si4), si3 fa4 la4 si4|
             <piano_1_v4>  |re2 re3, (re#2 re#3, mi2 mi3), fa2 fa3|
@@ -1160,9 +1244,12 @@ Intensification de la reprise du scherzo ; la main gauche ajoute un trille suppl
     </section>
 
 <meta>
-Section de développement cadentiel du scherzo A' ; pédale de dominante à la basse sous une succession d'accords de septième diminuée et de neuvième de dominante prépare la cadence parfaite.
+8 mesures. BPM 90. Signature 3/4. Tonalité Mib_mineur.
+Section de développement cadentiel du scherzo A' ;
+pédale de dominante à la basse sous une succession d'accords de septième diminuée et de neuvième de dominante prépare la cadence parfaite.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
-    <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
+    <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Mib_mineur>
         <mesure num=1>
             <piano_1_v1>  |do#4 sol#4 do#5, fa#4 do#5 fa#5, do#4 do#5|
             <piano_1_v4>  |do#3 fa3 si3, fa#2 do#3 la3, do#2 do#3|
@@ -1198,9 +1285,12 @@ Section de développement cadentiel du scherzo A' ; pédale de dominante à la b
     </section>
 
 <meta>
-Préparation de la coda ; retour de la cadence parfaite en mi bémol majeur (tierce picarde) ; les octaves finales du scherzo s'enchaînent en accélération vers la conclusion.
+8 mesures. BPM 90. Signature 3/4. Tonalité Mib_mineur.
+Préparation de la coda ;
+retour de la cadence parfaite en mi bémol majeur (tierce picarde) ;
+les octaves finales du scherzo s'enchaînent en accélération vers la conclusion.
 </meta>
-    <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
+    <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Mib_mineur>
         <mesure num=1>
             <piano_1_v1>  |(si3 mi4, do4 fa4), (do#4 fa#4, re4 sol4), (re#4 sol#4, mi4 la4)|
             <piano_1_v4>  |(sol#3, la3), (la#3, si3), (do4, do#4)|
@@ -1236,9 +1326,12 @@ Préparation de la coda ; retour de la cadence parfaite en mi bémol majeur (tie
     </section>
 
 <meta>
-Dernières mesures du scherzo avant la coda ; les traits d'octaves en rafale dans toute l'étendue du clavier amènent la résolution finale. Tenir la régularité jusqu'au bout.
+8 mesures. BPM 90. Signature 3/4. Tonalité Mib_mineur.
+Dernières mesures du scherzo avant la coda ;
+les traits d'octaves en rafale dans toute l'étendue du clavier amènent la résolution finale.
+Tenir la régularité jusqu'au bout.
 </meta>
-    <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
+    <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Mib_mineur>
         <mesure num=1>
             <piano_1_v1>  |sol#4 do#5 sol#5, ({la#4 la#5, sol#4 do#5 sol#5}, sol4 sol5), (sol#4 do#5 sol#5, la#4 la#5)|
             <piano_1_v4>  |si3 do#4 fa4, do#2 do#3, si3 do#4 fa4|
@@ -1274,9 +1367,12 @@ Dernières mesures du scherzo avant la coda ; les traits d'octaves en rafale dan
     </section>
 
 <meta>
-Coda du scherzo ; les derniers accords en mi bémol mineur et majeur concluent le mouvement avec une puissance sèche et définitive. Chopin ne résout pas en majeur mais affirme le mineur dans une clôture implacable.
+8 mesures. BPM 90. Signature 3/4. Tonalité Mib_mineur.
+Coda du scherzo ;
+les derniers accords en mi bémol mineur et majeur concluent le mouvement avec une puissance sèche et définitive.
+Chopin ne résout pas en majeur mais affirme le mineur dans une clôture implacable.
 </meta>
-    <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
+    <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Mib_mineur>
         <mesure num=1>
             <piano_1_v1>  |do#4 fa4 la#4 do#5, do#4 fa4, re#4 fa4 la4 do5|
             <piano_1_v4>  |fa1 fa2, fa2 fa3, fa1 fa2|
@@ -1312,9 +1408,12 @@ Coda du scherzo ; les derniers accords en mi bémol mineur et majeur concluent l
     </section>
 
 <meta>
-Clôture finale du scherzo ; les accords fortissimo en mi bémol mineur terminent abruptement le mouvement. Laisser l'accord résonner pleinement avant de lever les mains.
+8 mesures. BPM 90. Signature 3/4. Tonalité Mib_mineur.
+Clôture finale du scherzo ;
+les accords fortissimo en mi bémol mineur terminent abruptement le mouvement.
+Laisser l'accord résonner pleinement avant de lever les mains.
 </meta>
-    <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
+    <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Mib_mineur>
         <mesure num=1>
             <piano_1_v1>  |fa3 si3 re#4 fa4, (fa4 si4 re#5 fa5, re#4 re#5), (fa4 la#4 re5 fa5, fa#4 fa#5)|
             <piano_1_v4>  |sol#1 sol#2, sol#2 re#3 fa3 si3, la#2 fa3 sol#3 re4|
@@ -1350,9 +1449,12 @@ Clôture finale du scherzo ; les accords fortissimo en mi bémol mineur terminen
     </section>
 
 <meta>
-Mesures conclusives du 2e mouvement ; la strette finale de doubles octaves converge vers l'accord terminal. La clôture est brutale et définitive.
+8 mesures. BPM 90. Signature 3/4. Tonalité Mib_mineur.
+Mesures conclusives du 2e mouvement ;
+la strette finale de doubles octaves converge vers l'accord terminal.
+La clôture est brutale et définitive.
 </meta>
-    <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
+    <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Mib_mineur>
         <mesure num=1>
             <piano_1_v1>  |re5 re6, re4 fa#4 sol#4 si4, si4 si5|
             <piano_1_v4>  |si1 si2, re3 fa#3 sol#3 si3, re2 re3|
@@ -1388,9 +1490,12 @@ Mesures conclusives du 2e mouvement ; la strette finale de doubles octaves conve
     </section>
 
 <meta>
-Péroraison du scherzo ; série d'accords en mi bémol qui s'affirment avec une énergie péremptoire. Le rythme ternaire obstiné aboutit à sa conclusion logique.
+8 mesures. BPM 90. Signature 3/4. Tonalité Mib_mineur.
+Péroraison du scherzo ;
+série d'accords en mi bémol qui s'affirment avec une énergie péremptoire.
+Le rythme ternaire obstiné aboutit à sa conclusion logique.
 </meta>
-    <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
+    <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Mib_mineur>
         <mesure num=1>
             <piano_1_v1>  |do#4 do#5, fa#4 fa#5, do#4 sol#4 do#5|
             <piano_1_v4>  |do#3 fa#3 la#3, fa#2, do#3 fa3 si3|
@@ -1431,9 +1536,12 @@ Péroraison du scherzo ; série d'accords en mi bémol qui s'affirment avec une 
     </section>
 
 <meta>
-Dernière mesure du scherzo avant la double barre ; l'accord terminal en mi bémol scelle le mouvement. Ponctuation décisive, pas de rallentando inutile.
+8 mesures. BPM 90. Signature 3/4. Tonalité Mib_mineur.
+Dernière mesure du scherzo avant la double barre ;
+l'accord terminal en mi bémol scelle le mouvement.
+Ponctuation décisive, pas de rallentando inutile.
 </meta>
-    <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Fa#_majeur>
+    <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Mib_mineur>
         <mesure num=1>
             <piano_1_v1>  |do#4 fa#4, sol#3 do#4, fa#3 do#4|
             <piano_1_v4>  |do#3 fa#3 la#3, si2 do#3, la#2 do#3|
@@ -1469,9 +1577,12 @@ Dernière mesure du scherzo avant la double barre ; l'accord terminal en mi bém
     </section>
 
 <meta>
-Accord final et point d'orgue ; deux mesures conclusives en mi bémol mineur clôturent le second mouvement dans un silence pesant avant l'entrée de la Marche funèbre.
+2 mesures. BPM 90. Signature 3/4. Tonalité Mib_mineur.
+Accord final et point d'orgue ;
+deux mesures conclusives en mi bémol mineur clôturent le second mouvement dans un silence pesant avant l'entrée de la Marche funèbre.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
-    <section=coda, n_mesure=2, bpm=90, format=3/4, tonalite=Fa#_majeur>
+    <section=coda, n_mesure=2, bpm=90, format=3/4, tonalite=Mib_mineur>
         <mesure num=1>
             <piano_1_v1>  |fa#3 do#4 fa#4 la#4, -, -|
             <piano_1_v4>  |_, _, _|
