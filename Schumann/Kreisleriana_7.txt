@@ -3,19 +3,19 @@
 TACHE : composition
 STYLE : romantique
 FORMAT : piano_solo
-NIVEAU : simple
+NIVEAU : avance
 Titre : Kreisleriana_7
-Date : ?
+Date : 1838
 Auteur : Schumann
-Tonalite : Mib_majeur
+Tonalite : Do_mineur
 Unite : quarter
-Intention : Pièce pour piano solo, modéré, lumineux, au cadre binaire régulier. Tonalité : Mib majeur. 120 mesures.
+Intention : Rapidité fébrile et élan torrentiel, urgence expressive, caractère sombre et impétueux. Forme tripartite avec coda en Do mineur, 2/4, Sehr rasch, bpm 152, 120 mesures.
 </tete>
 
 <meta>
-Section d'ouverture — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+8 mesures. 2/4, 152 bpm. Do mineur. Section A, première phrase : torrent de notes rapides, urgence rythmique, caractère sombre et impétueux. L'élan s'impose dès la première mesure. Technique et précision absolues.
 </meta>
-    <section=section_1, n_mesure=8, bpm=90, format=2/4, tonalite=Mib_majeur>
+    <section=section_A_a, n_mesure=8, bpm=152, format=2/4, tonalite=Do_mineur>
         <mesure num=1>
             <piano_1_v1>  |sol4|
             <piano_1_v2>  |{sol4, do5, re5, _}|
@@ -60,9 +60,9 @@ Section d'ouverture — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 1 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+8 mesures. 2/4, 152 bpm. Do mineur. Section A, deuxième phrase : continuation impétueuse, tensions harmoniques. La pulsion rythmique ne relâche jamais. Maintenir la vélocité et l'intensité.
 </meta>
-    <section=section_2, n_mesure=8, bpm=90, format=2/4, tonalite=Mib_majeur>
+    <section=section_A_b, n_mesure=8, bpm=152, format=2/4, tonalite=Do_mineur>
         <mesure num=1>
             <piano_1_v1>  |_, (_, sol4)|
             <piano_1_v2>  |_, (_, {sol4, _})|
@@ -117,9 +117,9 @@ Section de développement 1 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 2 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+8 mesures. 2/4, 152 bpm. Do mineur. Section A, troisième phrase : intensification progressive, approche du climax. Crescendo soutenu.
 </meta>
-    <section=section_3, n_mesure=8, bpm=90, format=2/4, tonalite=Mib_majeur>
+    <section=section_A_c, n_mesure=8, bpm=152, format=2/4, tonalite=Do_mineur>
         <mesure num=1>
             <piano_1_v1>  |mib4, (la4, re4)|
             <piano_1_v2>  |{mib4, la3}, (_, re4, mib4)|
@@ -169,9 +169,9 @@ Section de développement 2 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 3 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+8 mesures. 2/4, 152 bpm. Do mineur. Section A, clôture : cadence en Do mineur, fin du premier bloc. Affirmé, puissant.
 </meta>
-    <section=section_4, n_mesure=8, bpm=90, format=2/4, tonalite=Mib_majeur>
+    <section=section_A_d, n_mesure=8, bpm=152, format=2/4, tonalite=Do_mineur>
         <mesure num=1>
             <piano_1_v1>  |re5, sol5|
             <piano_1_v2>  |({re5, sib4}, la4, sol4), (_, re5, mib5)|
@@ -215,9 +215,9 @@ Section de développement 3 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 4 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+8 mesures. 2/4, 152 bpm. Mib majeur. Section B, première phrase : contraste relatif majeur, clarté momentanée. L'énergie ne faiblit pas mais le caractère s'allège légèrement. Lumière dans l'intensité.
 </meta>
-    <section=section_5, n_mesure=8, bpm=90, format=2/4, tonalite=Mib_majeur>
+    <section=section_B_a, n_mesure=8, bpm=152, format=2/4, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |do5, (solb5, do5)|
             <piano_1_v2>  |({do5, solb4}, mi4, re4), (_, do5, re5)|
@@ -270,9 +270,9 @@ Section de développement 4 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 5 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+8 mesures. 2/4, 152 bpm. Mib majeur. Section B, deuxième phrase : développement en Mib majeur, ligne mélodique chantante. Contraste maintenu avec section A.
 </meta>
-    <section=section_6, n_mesure=8, bpm=90, format=2/4, tonalite=Mib_majeur>
+    <section=section_B_b, n_mesure=8, bpm=152, format=2/4, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |_, _|
             <piano_1_v2>  |({do5, mib4}, sol4, do5), ({la4, do4}, solb4, la4)|
@@ -323,9 +323,9 @@ Section de développement 5 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 6 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+8 mesures. 2/4, 152 bpm. Mib majeur. Section B, troisième phrase : continuation lumineuse, texture vive. Énergie identique, couleur différente.
 </meta>
-    <section=section_7, n_mesure=8, bpm=90, format=2/4, tonalite=Mib_majeur>
+    <section=section_B_c, n_mesure=8, bpm=152, format=2/4, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |({sol3, la3}, sib3, re4), ({sol4, la4}, sib4, solb4)|
             <piano_1_v4>  |sib2, la2|
@@ -370,9 +370,9 @@ Section de développement 6 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 7 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+8 mesures. 2/4, 152 bpm. Mib majeur. Section B, clôture : cadence conclusive, pivot vers la reprise. Élan maintenu.
 </meta>
-    <section=section_8, n_mesure=8, bpm=90, format=2/4, tonalite=Mib_majeur>
+    <section=section_B_d, n_mesure=8, bpm=152, format=2/4, tonalite=Mib_majeur>
         <mesure num=1>
             <piano_1_v1>  |({do5, reb5}, sib4, do5), ({lab4, sib4}, sol4, lab4)|
             <piano_1_v4>  |(do2, do3), mi3|
@@ -416,9 +416,9 @@ Section de développement 7 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 8 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+8 mesures. 2/4, 152 bpm. Do mineur. Reprise section A, première phrase : retour sombre et vigoureux, densité redoublée. Le retour de Do mineur est encore plus intense. Énergie maximale.
 </meta>
-    <section=section_9, n_mesure=8, bpm=90, format=2/4, tonalite=Mib_majeur>
+    <section=section_Aprime_a, n_mesure=8, bpm=152, format=2/4, tonalite=Do_mineur>
         <mesure num=1>
             <piano_1_v1>  |({sol5, lab5}, fa5, sol5), ({mib5, fa5}, re5, mib5)|
             <piano_1_v4>  |(fa4 sol4 re5, sol3 sol4), sol3 sol4|
@@ -464,9 +464,9 @@ Section de développement 8 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 9 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+8 mesures. 2/4, 152 bpm. Do mineur. Reprise section A, deuxième phrase : continuation torrentielle. Précision technique absolue.
 </meta>
-    <section=section_10, n_mesure=8, bpm=90, format=2/4, tonalite=Mib_majeur>
+    <section=section_Aprime_b, n_mesure=8, bpm=152, format=2/4, tonalite=Do_mineur>
         <mesure num=1>
             <piano_1_v1>  |sol4, do5|
             <piano_1_v2>  |{sol4, mib4}, (_, sol4, lab4)|
@@ -521,9 +521,9 @@ Section de développement 9 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 10 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+8 mesures. 2/4, 152 bpm. Do mineur. Reprise section A, troisième phrase : intensification vers la coda. Crescendo et tension croissante.
 </meta>
-    <section=section_11, n_mesure=8, bpm=90, format=2/4, tonalite=Mib_majeur>
+    <section=section_Aprime_c, n_mesure=8, bpm=152, format=2/4, tonalite=Do_mineur>
         <mesure num=1>
             <piano_1_v1>  |sol4, (do5, fa4)|
             <piano_1_v2>  |{sol4, do4}, (_, fa4, sol4)|
@@ -571,9 +571,9 @@ Section de développement 10 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 11 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+8 mesures. 2/4, 152 bpm. Do mineur. Reprise section A, clôture : cadence ferme, annonce de la coda. Décisif et puissant.
 </meta>
-    <section=section_12, n_mesure=8, bpm=90, format=2/4, tonalite=Mib_majeur>
+    <section=section_Aprime_d, n_mesure=8, bpm=152, format=2/4, tonalite=Do_mineur>
         <mesure num=1>
             <piano_1_v1>  |({sib4, reb4}, sol4, sib4), ({lab4, do4}, fa4, lab4)|
             <piano_1_v2>  |_, _|
@@ -619,9 +619,9 @@ Section de développement 11 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 12 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+8 mesures. 2/4, 152 bpm. Do mineur. Coda, première section : dénouement impétueux, énergie entière. La coda conclut avec la même véhémence. Forte et résolu.
 </meta>
-    <section=section_13, n_mesure=8, bpm=90, format=2/4, tonalite=Mib_majeur>
+    <section=coda_a, n_mesure=8, bpm=152, format=2/4, tonalite=Do_mineur>
         <mesure num=1>
             <piano_1_v1>  |_, _|
             <piano_1_v4>  |sib3 mib4 sol4, sol3 sib3 mib4|
@@ -669,9 +669,9 @@ Section de développement 12 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 13 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+8 mesures. 2/4, 152 bpm. Do mineur. Coda, deuxième section : intensification finale, tension extrême. Chaque mesure pousse vers la conclusion.
 </meta>
-    <section=section_14, n_mesure=8, bpm=90, format=2/4, tonalite=Mib_majeur>
+    <section=coda_b, n_mesure=8, bpm=152, format=2/4, tonalite=Do_mineur>
         <mesure num=1>
             <piano_1_v1>  |mib4 sib4, re4 lab4 re5|
             <piano_1_v4>  |sol3 sib3, fa3 sib3|
@@ -719,9 +719,9 @@ Section de développement 13 — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section conclusive — 8 mesures. Tonalité Mib majeur, tempo 90 BPM.
+8 mesures. 2/4, 152 bpm. Do mineur. Coda finale : conclusion foudroyante en Do mineur, derniers accords percutants. La pièce s'achève avec une énergie sans compromis. Dernier coup sec, silence immédiat.
 </meta>
-    <section=section_15, n_mesure=8, bpm=90, format=2/4, tonalite=Mib_majeur>
+    <section=coda_c, n_mesure=8, bpm=152, format=2/4, tonalite=Do_mineur>
         <mesure num=1>
             <piano_1_v1>  |do4 fa4 lab4, lab3 re4 fa4|
             <piano_1_v2>  |_, _|
