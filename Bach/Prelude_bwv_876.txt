@@ -6,7 +6,7 @@ FORMAT : piano_solo
 NIVEAU : avance
 Titre : Prélude en Mib majeur, BWV 876, Clavier bien tempéré II n°7
 Date : 1742
-Auteur : Johann Sebastian Bach
+Auteur : Bach
 Tonalite : Mib_majeur
 Unite : quarter
 Intention : Prélude d'un caractère gracieux et fluide, où de larges arpèges cantabile à la main gauche soutiennent une ligne mélodique chantante et ornementée à la main droite, évoquant le style improvisatoire et l'élégance vocale du baroque tardif. Forme ternaire en 9/8, 70 mesures, tempo moderato, articulée en quatre grandes périodes harmoniques parcourant les tonalités relatives avant de conclure fermement en Mib majeur.
