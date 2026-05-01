@@ -6,7 +6,7 @@ FORMAT : piano_solo
 NIVEAU : avance
 Titre : Fugue en Sol majeur, BWV 860, Le Clavier bien tempéré, Livre I
 Date : 1722
-Auteur : Johann Sebastian Bach
+Auteur : Bach
 Tonalite : Sol_majeur
 Unite : quarter
 Intention : Fugue à trois voix d'un élan joyeux et virtuose, où le sujet vif en 6/8 se déploie en inversions, strettes et épisodes à doubles croches qui insufflent une énergie tourbillonnante. Forme fuguée en Sol majeur, 86 mesures en 6/8 à 90 BPM, structurée en exposition, contre-exposition, divertissements modulants, strettes et coda.
