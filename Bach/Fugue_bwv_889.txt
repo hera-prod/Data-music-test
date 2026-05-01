@@ -6,7 +6,7 @@ FORMAT : piano_solo
 NIVEAU : avance
 Titre : Fugue en la mineur, BWV 889, Clavier bien tempéré II n°20
 Date : 1742
-Auteur : Johann Sebastian Bach
+Auteur : Bach
 Tonalite : La_mineur
 Unite : quarter
 Intention : Fugue à quatre voix d'un caractère dansant et presque enjoué, dont le sujet vif et rythmique contraste avec la gravité habituelle du mode mineur, créant une légèreté expressive rare dans le corpus bachien. Forme fugue tonale à quatre voix en la mineur, mesure à 4/4, 28 mesures, tempo modéré autour de 90 pulsations par minute, avec exposition, cinq épisodes modulants et une coda bravura aux tierces rapides sur plus de deux octaves.
