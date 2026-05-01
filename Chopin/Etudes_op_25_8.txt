@@ -9,11 +9,14 @@ Date : 1836
 Auteur : Frédéric Chopin
 Tonalite : Reb_majeur
 Unite : quarter
-Intention : Élégance jubilatoire et virtuosité brillante, cette étude consacre le travail des sixtes parallèles dans les deux mains, exigeant une égalité et une fluidité parfaites dans un intervalle moins naturel que la tierce mais d'une plénitude sonore incomparable. Forme binaire en Ré bémol majeur, 36 mesures en 4/4, Vivace (69 BPM), la pièce la plus courte de l'opus 25, où le défi technique concentré crée une densité expressive maximale en peu de mesures.
+Intention : Élégance jubilatoire et virtuosité brillante, cette étude consacre le travail des sixtes parallèles dans les deux mains, exigeant une égalité et une fluidité parfaites dans un intervalle d'une plénitude sonore incomparable. Forme binaire en ré bémol majeur, 36 mesures en 4/4, Vivace (69 BPM).
 </tete>
 
 <meta>
-8 mesures, Ré bémol majeur, tempo 69 BPM. Présentation du motif de sixtes parallèles dans les deux mains simultanément, créant une texture d'une plénitude veloutée caractéristique de Chopin. La difficulté réside dans le doigté inhabituel (1-4 et 2-5) et dans l'égalisation des deux voix de chaque sixte. Travailler d'abord les sixtes seules, lentement, voix aiguë puis voix grave séparément.
+8 mesures. BPM 69. Signature 4/4. Tonalité Reb_majeur.
+8 mesures, Ré bémol majeur, tempo 69 BPM.
+Présentation du motif de sixtes parallèles dans les deux mains simultanément, créant une texture d'une plénitude veloutée caractéristique de Chopin. La difficulté réside dans le doigté inhabituel (1-4 et 2-5) et dans l'égalisation des deux voix de chaque sixte.
+Travailler d'abord les sixtes seules, lentement, voix aiguë puis voix grave séparément.
 </meta>
     <section=exposition, n_mesure=8, bpm=69, format=4/4, tonalite=Reb_majeur>
         <mesure num=1>
@@ -51,7 +54,10 @@ Intention : Élégance jubilatoire et virtuosité brillante, cette étude consac
     </section>
 
 <meta>
-8 mesures, Ré bémol majeur, enrichissement harmonique, tempo 69 BPM. Les sixtes parallèles s'aventurent dans les régions chromatiques et modulantes; les doigtés se compliquent avec des glissements de demi-tons. La pédale doit être utilisée avec parcimonie pour maintenir la clarté des sixtes dans les passages rapides.
+8 mesures. BPM 69. Signature 4/4. Tonalité Reb_majeur.
+8 mesures, Ré bémol majeur, enrichissement harmonique, tempo 69 BPM.
+Les sixtes parallèles s'aventurent dans les régions chromatiques et modulantes; les doigtés se compliquent avec des glissements de demi-tons.
+La pédale doit être utilisée avec parcimonie pour maintenir la clarté des sixtes dans les passages rapides.
 </meta>
     <section=developpement, n_mesure=8, bpm=69, format=4/4, tonalite=Reb_majeur>
         <mesure num=1>
@@ -89,7 +95,10 @@ Intention : Élégance jubilatoire et virtuosité brillante, cette étude consac
     </section>
 
 <meta>
-8 mesures, modulations expressives, tempo 69 BPM. Passage par les tonalités voisines, créant des couleurs harmoniques variées sur fond de sixtes continues. Les sixtes ici atteignent un climax expressif avec des intervalles plus larges; l'oreille doit percevoir la ligne mélodique supérieure comme une mélodie chantée.
+8 mesures. BPM 69. Signature 4/4. Tonalité Reb_majeur.
+8 mesures, modulations expressives, tempo 69 BPM.
+Passage par les tonalités voisines, créant des couleurs harmoniques variées sur fond de sixtes continues. Les sixtes ici atteignent un climax expressif avec des intervalles plus larges;
+l'oreille doit percevoir la ligne mélodique supérieure comme une mélodie chantée.
 </meta>
     <section=developpement, n_mesure=8, bpm=69, format=4/4, tonalite=Reb_majeur>
         <mesure num=1>
@@ -127,7 +136,10 @@ Intention : Élégance jubilatoire et virtuosité brillante, cette étude consac
     </section>
 
 <meta>
-8 mesures, retour en Ré bémol majeur, tempo 69 BPM. Réexposition du thème principal avec une légère densification de la texture; le retour en Ré bémol apporte une satisfaction harmonique après les modulations. La plénitude sonore des sixtes doit ici atteindre sa plus grande richesse.
+8 mesures. BPM 69. Signature 4/4. Tonalité Reb_majeur.
+8 mesures, retour en Ré bémol majeur, tempo 69 BPM.
+Réexposition du thème principal avec une légère densification de la texture; le retour en Ré bémol apporte une satisfaction harmonique après les modulations.
+La plénitude sonore des sixtes doit ici atteindre sa plus grande richesse.
 </meta>
     <section=recapitulation, n_mesure=8, bpm=69, format=4/4, tonalite=Reb_majeur>
         <mesure num=1>
@@ -165,7 +177,10 @@ Intention : Élégance jubilatoire et virtuosité brillante, cette étude consac
     </section>
 
 <meta>
-4 mesures conclusives, Ré bémol majeur, tempo 69 BPM. La coda concentre le matériau thématique en formules cadentielles brillantes. Les sixtes finales s'enchaînent en gammes descendantes vers la tonique grave. Terminer avec clarté et précision, sans accélération finale.
+4 mesures. BPM 69. Signature 4/4. Tonalité Reb_majeur.
+4 mesures conclusives, Ré bémol majeur, tempo 69 BPM.
+La coda concentre le matériau thématique en formules cadentielles brillantes. Les sixtes finales s'enchaînent en gammes descendantes vers la tonique grave.
+Terminer avec clarté et précision, sans accélération finale.
 </meta>
     <section=coda, n_mesure=4, bpm=69, format=4/4, tonalite=Reb_majeur>
         <mesure num=1>
