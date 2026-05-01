@@ -6,7 +6,7 @@ FORMAT : piano_solo
 NIVEAU : avance
 Titre : Prélude en Fa dièse mineur, BWV 883 (Le Clavier bien tempéré II, n°14)
 Date : 1742
-Auteur : Johann Sebastian Bach
+Auteur : Bach
 Tonalite : Fa#_mineur
 Unite : quarter
 Intention : Prélude d'une expression intérieure et recueillie, construit sur une mélodie soliste ornée d'une grande sensibilité, portée par un accompagnement souple et balancé à deux voix inférieures qui rappelle la sérénité d'une sarabande lente. En Fa dièse mineur, mesure à 3/4, tempo modéré et expressive, 43 mesures articulées en trois périodes distinctes avec une réexposition partielle des mesures initiales avant la cadence conclusive.
