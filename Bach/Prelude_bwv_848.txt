@@ -6,7 +6,7 @@ FORMAT : piano_solo
 NIVEAU : avance
 Titre : Prélude en Do dièse majeur, BWV 848
 Date : 1722
-Auteur : Johann Sebastian Bach
+Auteur : Bach
 Tonalite : Do#_majeur
 Unite : quarter
 Intention : Prélude d'une éblouissante clarté, porté par un balancement ternaire continu et un élan motorique sans repos, évoquant à la fois la lumière et la tension propres à Do dièse majeur. Forme en trois périodes (104 mesures, 3/8, circa 96 BPM), explorant quatre phrases thématiques en inversion de voix, une section modulatoire vers Ré dièse majeur et Fa dièse majeur, puis une récapitulation avec longues pédales de dominante menant à une coda harmonique conclusive.
