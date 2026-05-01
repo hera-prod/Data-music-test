@@ -3,19 +3,19 @@
 TACHE : composition
 STYLE : romantique
 FORMAT : piano_solo
-NIVEAU : simple
+NIVEAU : avance
 Titre : Impromptu_op142_3
-Date : ?
+Date : 1827
 Auteur : Schubert
 Tonalite : Sib_majeur
 Unite : quarter
-Intention : Pièce pour piano solo, animé, lumineux, au cadre binaire régulier. Tonalité : Sib majeur. 137 mesures.
+Intention : Theme et variations d'une tendresse infinie, ce troisieme Impromptu op.142 fait naitre de son theme simple en Sib majeur une serie de metamorphoses qui revelent chaque facette de la palette expressive schubertienne. Forme theme et variations en Sib majeur, 4/4, Andante (environ 56 BPM), 137 mesures comprenant le theme, cinq variations et une coda.
 </tete>
 
 <meta>
-Section d'ouverture — 8 mesures. Tonalité Sib majeur, tempo 120 BPM.
+8 mesures. Tempo Andante, environ 56 BPM. Signature 4/4. Tonalite Sib majeur. Le theme expose le sujet principal en Sib majeur avec une simplicite melodique trompeuse, Schubert composant une ligne d'une fluidite naturelle qui servira de base a toutes les variations ulterieures. La clarte et la simplicite du theme sont volontaires, permettant aux variations de le transformer progressivement. Jouer le theme piano, legato, avec une ligne melodique expressive mais sans exces d'ornementation.
 </meta>
-    <section=section_1, n_mesure=8, bpm=120, format=2/2, tonalite=Sib_majeur>
+    <section=theme_1, n_mesure=8, bpm=56, format=4/4, tonalite=Sib_majeur>
         <mesure num=1>
             <piano_1_v1>  |(re5, re5, re5), (sib4, sib4)|
             <piano_1_v4>  |_, _|
@@ -64,9 +64,9 @@ Section d'ouverture — 8 mesures. Tonalité Sib majeur, tempo 120 BPM.
     </section>
 
 <meta>
-Section de développement 1 — 8 mesures. Tonalité Sib majeur, tempo 120 BPM.
+8 mesures. Tempo Andante, environ 56 BPM. Signature 4/4. Tonalite Sib majeur. Le theme expose le sujet principal en Sib majeur avec une simplicite melodique trompeuse, Schubert composant une ligne d'une fluidite naturelle qui servira de base a toutes les variations ulterieures. La clarte et la simplicite du theme sont volontaires, permettant aux variations de le transformer progressivement. Jouer le theme piano, legato, avec une ligne melodique expressive mais sans exces d'ornementation.
 </meta>
-    <section=section_2, n_mesure=8, bpm=120, format=2/2, tonalite=Sib_majeur>
+    <section=theme_2, n_mesure=8, bpm=56, format=4/4, tonalite=Sib_majeur>
         <mesure num=1>
             <piano_1_v1>  |(solb4 la4 re5, solb4 la4 re5, solb4 la4 re5), (re4 sol4 sib4, re4 sol4 sib4)|
             <piano_1_v4>  |_, _|
@@ -113,9 +113,9 @@ Section de développement 1 — 8 mesures. Tonalité Sib majeur, tempo 120 BPM.
     </section>
 
 <meta>
-Section de développement 2 — 8 mesures. Tonalité Sib majeur, tempo 120 BPM.
+8 mesures. Tempo Andante, environ 56 BPM. Signature 4/4. Tonalite Sib majeur. La premiere variation enrichit le theme par un ornement rythmique ou melodique, ajoutant une couche supplementaire de complexite tout en preservant la structure harmonique fondamentale du theme. Cette premiere variation eveille l'interet en proposant une nouvelle perspective sur le materiau connu. Jouer les ornements avec precision et legerete, sans deformer la ligne melodique sous-jacente.
 </meta>
-    <section=section_3, n_mesure=8, bpm=120, format=2/2, tonalite=Sib_majeur>
+    <section=variation_1_3, n_mesure=8, bpm=56, format=4/4, tonalite=Sib_majeur>
         <mesure num=1>
             <piano_1_v1>  |(do5, fa5), (sib4, sib3)|
             <piano_1_v2>  |({sib4, la4}, {sol4, la4}, mib4 la4), re4|
@@ -166,9 +166,9 @@ Section de développement 2 — 8 mesures. Tonalité Sib majeur, tempo 120 BPM.
     </section>
 
 <meta>
-Section de développement 3 — 8 mesures. Tonalité Sib majeur, tempo 120 BPM.
+8 mesures. Tempo Andante, environ 56 BPM. Signature 4/4. Tonalite Sib majeur. La premiere variation enrichit le theme par un ornement rythmique ou melodique, ajoutant une couche supplementaire de complexite tout en preservant la structure harmonique fondamentale du theme. Cette premiere variation eveille l'interet en proposant une nouvelle perspective sur le materiau connu. Jouer les ornements avec precision et legerete, sans deformer la ligne melodique sous-jacente.
 </meta>
-    <section=section_4, n_mesure=8, bpm=120, format=2/2, tonalite=Sib_majeur>
+    <section=variation_1_4, n_mesure=8, bpm=56, format=4/4, tonalite=Sib_majeur>
         <mesure num=1>
             <piano_1_v1>  |(re5, {la4, sib4}, do5), (reb5, {sol5, la5}, sib5)|
             <piano_1_v2>  |({re5, re4, fa4}, {la4, sib4, re4}, {fa4, do5}), ({reb5, sol4, sib4}, {sol5, la5, sib4}, {reb5, sib5})|
@@ -220,9 +220,9 @@ Section de développement 3 — 8 mesures. Tonalité Sib majeur, tempo 120 BPM.
     </section>
 
 <meta>
-Section de développement 4 — 8 mesures. Tonalité Sib majeur, tempo 120 BPM.
+8 mesures. Tempo Andante, environ 56 BPM. Signature 4/4. Tonalite Sib majeur. La deuxieme variation apporte un nouveau caractere au theme, modifiant le rythme, la dynamique ou la texture pour reveler une dimension differente de la melodie originale. Chaque variation represente une facette differente du theme, comme un prisme revelant differentes couleurs d'une meme lumiere. Adapter le toucher et la dynamique au caractere specifique de cette variation.
 </meta>
-    <section=section_5, n_mesure=8, bpm=120, format=2/2, tonalite=Sib_majeur>
+    <section=variation_2_5, n_mesure=8, bpm=56, format=4/4, tonalite=Sib_majeur>
         <mesure num=1>
             <piano_1_v1>  |(do5, {re5, do5}, reb5), (re5, {re5, mib5}, {re5, fa5})|
             <piano_1_v2>  |({do5, mi4, sib4}, {re5, do5, mi4}, {sib4, reb5}), ({re5, fa4, sib4}, {re5, mib5, fa4}, {re5, fa5})|
@@ -269,9 +269,9 @@ Section de développement 4 — 8 mesures. Tonalité Sib majeur, tempo 120 BPM.
     </section>
 
 <meta>
-Section de développement 5 — 8 mesures. Tonalité Sib majeur, tempo 120 BPM.
+8 mesures. Tempo Andante, environ 56 BPM. Signature 4/4. Tonalite Sib majeur. La deuxieme variation apporte un nouveau caractere au theme, modifiant le rythme, la dynamique ou la texture pour reveler une dimension differente de la melodie originale. Chaque variation represente une facette differente du theme, comme un prisme revelant differentes couleurs d'une meme lumiere. Adapter le toucher et la dynamique au caractere specifique de cette variation.
 </meta>
-    <section=section_6, n_mesure=8, bpm=120, format=2/2, tonalite=Sib_majeur>
+    <section=variation_2_6, n_mesure=8, bpm=56, format=4/4, tonalite=Sib_majeur>
         <mesure num=1>
             <piano_1_v1>  |({do5, do6, si5}, {sib5, la5, do5}, {sib4, sol5}), ({la4, fa5, do5}, {mib5, sib4, re5}, {la4, do5})|
             <piano_1_v4>  |({mi2, do4}, do4), ({fa2, la3 do4}, sib3 re4, do4 mib4)|
@@ -316,9 +316,9 @@ Section de développement 5 — 8 mesures. Tonalité Sib majeur, tempo 120 BPM.
     </section>
 
 <meta>
-Section de développement 6 — 8 mesures. Tonalité Sib majeur, tempo 120 BPM.
+8 mesures. Tempo Andante, environ 56 BPM. Signature 4/4. Tonalite Sib majeur. La troisieme variation intensifie le discours musical, adoptant un caractere plus dramatique ou deployant des figures plus complexes, approfondissant l'exploration du materiau thematique. Cette variation marque le milieu du parcours avec une plus grande intensite expressive. Chercher le caractere propre de cette variation, qu'il soit plus lyrique, dramatique ou virtuose.
 </meta>
-    <section=section_7, n_mesure=8, bpm=120, format=2/2, tonalite=Sib_majeur>
+    <section=variation_3_7, n_mesure=8, bpm=56, format=4/4, tonalite=Sib_majeur>
         <mesure num=1>
             <piano_1_v1>  |({mi5, do6, sib5}, {sol5, mi6, do6}, {sib5, sol5}), {fa5, la4 do5 mib5 fa5}|
             <piano_1_v4>  |({do3, sol3 sib3 do4 mi4}, do4 mi4), ({fa3, mib4, do4}, {la3, fa3, mib3}, {do3, fa3})|
@@ -357,9 +357,9 @@ Section de développement 6 — 8 mesures. Tonalité Sib majeur, tempo 120 BPM.
     </section>
 
 <meta>
-Section de développement 7 — 8 mesures. Tonalité Sib majeur, tempo 120 BPM.
+8 mesures. Tempo Andante, environ 56 BPM. Signature 4/4. Tonalite Sib majeur. La troisieme variation intensifie le discours musical, adoptant un caractere plus dramatique ou deployant des figures plus complexes, approfondissant l'exploration du materiau thematique. Cette variation marque le milieu du parcours avec une plus grande intensite expressive. Chercher le caractere propre de cette variation, qu'il soit plus lyrique, dramatique ou virtuose.
 </meta>
-    <section=section_8, n_mesure=8, bpm=120, format=2/2, tonalite=Sib_majeur>
+    <section=variation_3_8, n_mesure=8, bpm=56, format=4/4, tonalite=Sib_majeur>
         <mesure num=1>
             <piano_1_v1>  |(reb4 fa4 reb5, reb4 fa4 reb5), (do4 fa4 do5, sib3 fa4 sib4, sib3 fa4 sib4)|
             <piano_1_v4>  |_, _|
@@ -407,9 +407,9 @@ Section de développement 7 — 8 mesures. Tonalité Sib majeur, tempo 120 BPM.
     </section>
 
 <meta>
-Section de développement 8 — 8 mesures. Tonalité Sib majeur, tempo 120 BPM.
+8 mesures. Tempo Andante, environ 56 BPM. Signature 4/4. Tonalite Sib majeur. La quatrieme variation continue l'evolution expressive du theme, explorant une nouvelle couleur ou texture pour preparer la cinquieme variation et la coda. La progression des variations cree un arc narratif coherent qui rend l'ecoute de l'oeuvre particulierement satisfaisante. Maintenir la coherence interpretative entre les variations tout en soulignant les differences de caractere.
 </meta>
-    <section=section_9, n_mesure=8, bpm=120, format=2/2, tonalite=Sib_majeur>
+    <section=variation_4_9, n_mesure=8, bpm=56, format=4/4, tonalite=Sib_majeur>
         <mesure num=1>
             <piano_1_v1>  |(reb5 fa5 reb6, reb5 fa5 reb6), (do5 fa5 do6, sib4 fa5 sib5, sib4 fa5 sib5)|
             <piano_1_v2>  |(sib3 reb4 fa4, {sib3 reb4 mi4, sib3 reb4 fa4, sib3 reb4 solb4}, sib3 reb4 fa4), (reb4 fa4, {reb4 mi4, reb4 fa4, reb4 solb4}, reb4 fa4)|
@@ -463,9 +463,9 @@ Section de développement 8 — 8 mesures. Tonalité Sib majeur, tempo 120 BPM.
     </section>
 
 <meta>
-Section de développement 9 — 8 mesures. Tonalité Sib majeur, tempo 120 BPM.
+8 mesures. Tempo Andante, environ 56 BPM. Signature 4/4. Tonalite Sib majeur. La quatrieme variation continue l'evolution expressive du theme, explorant une nouvelle couleur ou texture pour preparer la cinquieme variation et la coda. La progression des variations cree un arc narratif coherent qui rend l'ecoute de l'oeuvre particulierement satisfaisante. Maintenir la coherence interpretative entre les variations tout en soulignant les differences de caractere.
 </meta>
-    <section=section_10, n_mesure=8, bpm=120, format=2/2, tonalite=Sib_majeur>
+    <section=variation_4_10, n_mesure=8, bpm=56, format=4/4, tonalite=Sib_majeur>
         <mesure num=1>
             <piano_1_v1>  |reb4 reb5|
             <piano_1_v4>  |_|
@@ -501,9 +501,9 @@ Section de développement 9 — 8 mesures. Tonalité Sib majeur, tempo 120 BPM.
     </section>
 
 <meta>
-Section de développement 10 — 8 mesures. Tonalité Sib majeur, tempo 120 BPM.
+8 mesures. Tempo Andante, environ 56 BPM. Signature 4/4. Tonalite Sib majeur. La cinquieme variation est la plus etendue, marquant un climax dans le cycle avant la coda, Schubert exploitant toutes les possibilites expressives du materiau thematique dans un souffle elargi. Cette variation plus ample represente le sommet de l'arc expressif de l'oeuvre. Donner a cette variation toute l'ampleur et l'intensite qu'elle merite, moment cle de l'oeuvre.
 </meta>
-    <section=section_11, n_mesure=8, bpm=120, format=2/2, tonalite=Sib_majeur>
+    <section=variation_5_11, n_mesure=8, bpm=56, format=4/4, tonalite=Sib_majeur>
         <mesure num=1>
             <piano_1_v1>  |(reb5 reb6, {do5 do6, do5 do6, mib5 mib6}, la4 la5), sib4 sib5|
             <piano_1_v4>  |({mi2, mi3 sol3 sib3 reb4}, {mi3 sol3 sib3 do4, fa2, fa3 la3 do4 solb4}, fa3 do4 mib4 fa4), ({sib2, fa3 reb4 fa4}, {fa3 do4 mib4, fa3 sib3 reb4})|
@@ -543,9 +543,9 @@ Section de développement 10 — 8 mesures. Tonalité Sib majeur, tempo 120 BPM.
     </section>
 
 <meta>
-Section de développement 11 — 8 mesures. Tonalité Sib majeur, tempo 120 BPM.
+8 mesures. Tempo Andante, environ 56 BPM. Signature 4/4. Tonalite Sib majeur. La cinquieme variation est la plus etendue, marquant un climax dans le cycle avant la coda, Schubert exploitant toutes les possibilites expressives du materiau thematique dans un souffle elargi. Cette variation plus ample represente le sommet de l'arc expressif de l'oeuvre. Donner a cette variation toute l'ampleur et l'intensite qu'elle merite, moment cle de l'oeuvre.
 </meta>
-    <section=section_12, n_mesure=8, bpm=120, format=2/2, tonalite=Sib_majeur>
+    <section=variation_5_12, n_mesure=8, bpm=56, format=4/4, tonalite=Sib_majeur>
         <mesure num=1>
             <piano_1_v1>  |({solb5, reb5, sib4 sib5}, {sib4 sib5, solb5}, sib4 sib5), ({sib4 sib5, solb4 solb5}, reb4 reb5, sib3 sib4)|
             <piano_1_v4>  |({solb2, sib3, reb3}, {sib3, solb3, sib3}, {reb3, sib3}), ({solb2, sib3, reb3}, {sib3, solb3, sib3}, {reb3, sib3})|
@@ -584,9 +584,9 @@ Section de développement 11 — 8 mesures. Tonalité Sib majeur, tempo 120 BPM.
     </section>
 
 <meta>
-Section de développement 12 — 8 mesures. Tonalité Sib majeur, tempo 120 BPM.
+8 mesures. Tempo Andante, environ 56 BPM. Signature 4/4. Tonalite Sib majeur. La cinquieme variation est la plus etendue, marquant un climax dans le cycle avant la coda, Schubert exploitant toutes les possibilites expressives du materiau thematique dans un souffle elargi. Cette variation plus ample represente le sommet de l'arc expressif de l'oeuvre. Donner a cette variation toute l'ampleur et l'intensite qu'elle merite, moment cle de l'oeuvre.
 </meta>
-    <section=section_13, n_mesure=8, bpm=120, format=2/2, tonalite=Sib_majeur>
+    <section=variation_5_13, n_mesure=8, bpm=56, format=4/4, tonalite=Sib_majeur>
         <mesure num=1>
             <piano_1_v1>  |({reb4, reb5, solb4 sib4}, {reb5, reb4, reb5}, {solb4 sib4, reb5}), ({mi4, mi5, solb4 reb5}, {mi5, mi4, mi5}, {solb4 reb5, mi5})|
             <piano_1_v4>  |({solb2, reb3, sib3}, {sib3, solb3}, sib3), ({sib3, solb3}, reb3, sib2)|
@@ -622,9 +622,9 @@ Section de développement 12 — 8 mesures. Tonalité Sib majeur, tempo 120 BPM.
     </section>
 
 <meta>
-Section de développement 13 — 8 mesures. Tonalité Sib majeur, tempo 120 BPM.
+8 mesures. Tempo Andante, environ 56 BPM. Signature 4/4. Tonalite Sib majeur. La coda conclut le cycle des variations par une synthese du materiau thematique, apportant une conclusion satisfaisante et sereine en Sib majeur qui rappelle le theme initial dans une lumiere apaisee. Ces dernieres mesures installent un sentiment de conclusion heureuse et d'accomplissement. Jouer la coda avec calme et assurance, laissant la conclusion se poser naturellement.
 </meta>
-    <section=section_14, n_mesure=8, bpm=120, format=2/2, tonalite=Sib_majeur>
+    <section=coda_14, n_mesure=8, bpm=56, format=4/4, tonalite=Sib_majeur>
         <mesure num=1>
             <piano_1_v1>  |fa4, sib4|
             <piano_1_v4>  |({fa2, sib3, re3}, {sib3, fa3, sib3}, {re3, sib3}), ({fa2, sib3, re3}, {sib3, fa3, sib3}, {re3, sib3})|
@@ -662,9 +662,9 @@ Section de développement 13 — 8 mesures. Tonalité Sib majeur, tempo 120 BPM.
     </section>
 
 <meta>
-Section de développement 14 — 8 mesures. Tonalité Sib majeur, tempo 120 BPM.
+8 mesures. Tempo Andante, environ 56 BPM. Signature 4/4. Tonalite Sib majeur. La coda conclut le cycle des variations par une synthese du materiau thematique, apportant une conclusion satisfaisante et sereine en Sib majeur qui rappelle le theme initial dans une lumiere apaisee. Ces dernieres mesures installent un sentiment de conclusion heureuse et d'accomplissement. Jouer la coda avec calme et assurance, laissant la conclusion se poser naturellement.
 </meta>
-    <section=section_15, n_mesure=8, bpm=120, format=2/2, tonalite=Sib_majeur>
+    <section=coda_15, n_mesure=8, bpm=56, format=4/4, tonalite=Sib_majeur>
         <mesure num=1>
             <piano_1_v1>  |({mi5, sol5, fa5, mib5}, {re5, do5, sib5, la5, sol5}, {fa5, mib5, re5}), (do5, sib4, {_, sib4})|
             <piano_1_v4>  |({sib2, fa3 sib3 re4}, fa3 sib3 re4), ({re3, fa3 sib3 fa4}, fa3 sib3 fa4)|
@@ -708,9 +708,9 @@ Section de développement 14 — 8 mesures. Tonalité Sib majeur, tempo 120 BPM.
     </section>
 
 <meta>
-Section de développement 15 — 8 mesures. Tonalité Sib majeur, tempo 120 BPM.
+8 mesures. Tempo Andante, environ 56 BPM. Signature 4/4. Tonalite Sib majeur. La coda conclut le cycle des variations par une synthese du materiau thematique, apportant une conclusion satisfaisante et sereine en Sib majeur qui rappelle le theme initial dans une lumiere apaisee. Ces dernieres mesures installent un sentiment de conclusion heureuse et d'accomplissement. Jouer la coda avec calme et assurance, laissant la conclusion se poser naturellement.
 </meta>
-    <section=section_16, n_mesure=8, bpm=120, format=2/2, tonalite=Sib_majeur>
+    <section=coda_16, n_mesure=8, bpm=56, format=4/4, tonalite=Sib_majeur>
         <mesure num=1>
             <piano_1_v1>  |({la4, do6, sib5, la5}, {sol5, fa5, mi5, re5, do5}, {sib4, la4, sol4}), ({fa4, fa5}, {sol5, fa5, mi5, sol5, fa5}, {mi5, sol6, fa6})|
             <piano_1_v4>  |_, _|
@@ -749,9 +749,9 @@ Section de développement 15 — 8 mesures. Tonalité Sib majeur, tempo 120 BPM.
     </section>
 
 <meta>
-Section de développement 16 — 8 mesures. Tonalité Sib majeur, tempo 120 BPM.
+8 mesures. Tempo Andante, environ 56 BPM. Signature 4/4. Tonalite Sib majeur. La coda conclut le cycle des variations par une synthese du materiau thematique, apportant une conclusion satisfaisante et sereine en Sib majeur qui rappelle le theme initial dans une lumiere apaisee. Ces dernieres mesures installent un sentiment de conclusion heureuse et d'accomplissement. Jouer la coda avec calme et assurance, laissant la conclusion se poser naturellement.
 </meta>
-    <section=section_17, n_mesure=8, bpm=120, format=2/2, tonalite=Sib_majeur>
+    <section=coda_17, n_mesure=8, bpm=56, format=4/4, tonalite=Sib_majeur>
         <mesure num=1>
             <piano_1_v1>  |_, _|
             <piano_1_v4>  |(re3 fa3 re4, re3 fa3 re4, re3 fa3 re4), (fa3 sib3, fa3 sib3)|
@@ -799,9 +799,9 @@ Section de développement 16 — 8 mesures. Tonalité Sib majeur, tempo 120 BPM.
     </section>
 
 <meta>
-Section conclusive — 1 mesures. Tonalité Sib majeur, tempo 120 BPM.
+9 mesures. Tempo Andante, environ 56 BPM. Signature 4/4. Tonalite Sib majeur. La coda conclut le cycle des variations par une synthese du materiau thematique, apportant une conclusion satisfaisante et sereine en Sib majeur qui rappelle le theme initial dans une lumiere apaisee. Ces dernieres mesures installent un sentiment de conclusion heureuse et d'accomplissement. Jouer la coda avec calme et assurance, laissant la conclusion se poser naturellement.
 </meta>
-    <section=section_18, n_mesure=1, bpm=120, format=2/2, tonalite=Sib_majeur>
+    <section=coda_18, n_mesure=9, bpm=56, format=4/4, tonalite=Sib_majeur>
         <mesure num=1>
             <piano_1_v1>  |re4 fa4 sib4, -|
             <piano_1_v4>  |_, _|
