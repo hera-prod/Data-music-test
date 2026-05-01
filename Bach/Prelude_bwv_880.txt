@@ -6,7 +6,7 @@ FORMAT : piano_solo
 NIVEAU : avance
 Titre : Prélude en Fa majeur, BWV 880 (Le Clavier bien tempéré II, n°11)
 Date : 1742
-Auteur : Johann Sebastian Bach
+Auteur : Bach
 Tonalite : Fa_majeur
 Unite : quarter
 Intention : Prélude de caractère majestueux et improvisatoire, proche du prélude non mesuré à la française, déployant un contrepoint à cinq voix dont les longues notes tenues à la basse confèrent une allure de choral grave et noble. En Fa majeur, mesure à 3/2, tempo modéré, 72 mesures articulées en cinq périodes thématiques qui parcourent les tons voisins avant de revenir à la tonique pour une conclusion affirmée.
