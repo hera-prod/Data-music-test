@@ -6,7 +6,7 @@ FORMAT : piano_solo
 NIVEAU : intermediaire
 Titre : Prélude en Si majeur, BWV 868, Clavier bien tempéré I n°23
 Date : 1722
-Auteur : Johann Sebastian Bach
+Auteur : Bach
 Tonalite : Si_majeur
 Unite : quarter
 Intention : Ce prélude fluide et lumineux déploie avec naturel le charme de la tonalité de Si majeur, son motif de doubles croches passant d'une voix à l'autre avec une légèreté élégante. Prélude en Si majeur à 4/4, 19 mesures, articulé en quatre périodes dont une coda sur pédale de dominante, construites sur un motif principal issu de la mesure 1 traité en inversion, en séquence descendante et avec échange des parties entre le dessus et la basse.
