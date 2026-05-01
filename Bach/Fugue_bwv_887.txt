@@ -6,7 +6,7 @@ FORMAT : piano_solo
 NIVEAU : avance
 Titre : Fugue en Sol dièse mineur, BWV 887, Clavier bien tempéré Livre II n°18
 Date : 1742
-Auteur : Johann Sebastian Bach
+Auteur : Bach
 Tonalite : Sol#_mineur
 Unite : quarter
 Intention : Fugue double d'une gravité architecturale saisissante, tissant deux sujets antagonistes avec une symétrie miroir rigoureuse et une énergie rythmique de gigue. Fugue en 6/8 à trois voix, Sol dièse mineur, composée de 143 mesures ; premier sujet en croches de gigue dès la mesure 1, second sujet chromatique descendant introduit à la mesure 61, les deux sujets combinés en double contrepoint à partir de la mesure 97, tempo moderato autour de 72 BPM.
