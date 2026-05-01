@@ -3,19 +3,23 @@
 TACHE : composition
 STYLE : romantique
 FORMAT : piano_solo
-NIVEAU : simple
+NIVEAU : avance
 Titre : Transcendental_Etudes_1
-Date : ?
+Date : 1851
 Auteur : Liszt
 Tonalite : Do_majeur
 Unite : quarter
-Intention : Pièce pour piano solo, modéré, lumineux, au cadre binaire régulier. Tonalité : Do majeur. 23 mesures.
+Intention : Le Preludio est une porte d'entrée fulgurante vers le cycle des Etudes transcendantes, une pièce courte mais d'une densité pianistique extrême qui établit immédiatement le niveau de virtuosité requis. Forme bipartite en do majeur, 4/4, environ 138 BPM, 23 mesures.
 </tete>
 
 <meta>
-Section d'ouverture — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+16 mesures. Presto, 138 BPM. 4/4. Do majeur.
+Le prélude expose le matériau principal de cette étude dans sa forme initiale, les figurations rapides et tourbillonnantes en do majeur créant immédiatement une impression de virtuosité éblouissante et d'énergie cinétique exceptionnelle, do majeur étant choisi pour sa clarté et son caractère affirmé.
+A l'oreille, ces premières mesures produisent un effet de déferlement sonore, la clarté de do majeur amplifiant la brillance des traits rapides qui se déroulent à une vitesse vertigineuse sur toute l'étendue du clavier.
+Jouer avec une précision absolue et une vitesse maximale, en maintenant l'égalité des doigts et la clarté de l'articulation malgré la vélocité extrême requise, la difficulté technique devant sembler naturelle et sans effort.
+<section=prelude, n_mesure=16, bpm=138, format=4/4, tonalite=Do_majeur>
 </meta>
-    <section=section_1, n_mesure=8, bpm=90, format=4/4, tonalite=Do_majeur>
+    <section=prelude, n_mesure=16, bpm=138, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |(_, do4), (do4, _), ({do6, mi6 do7, la#6, sol6, mi6}, {do6, la#5, sol5, mi5, do5, la#4, sol4, mi4, do4, la#3}, {sol3, mi3, do3, la#2}), (sol2, {re3, do3}, la#2), _|
             <piano_1_v2>  |_, _, _, (sol2, sol#2)|
@@ -58,57 +62,58 @@ Section d'ouverture — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
             <piano_1_v2>  |(do7, re7), (mi7, sol6), sol6, (sol6, sol6)|
             <piano_1_v3>  |(do4 sol4, si3 sol4), (do4 sol4, si2 sol3 si3), (do3 sol3 do4, si1 sol2 si2), (do2 sol2 do3, si1 sol2 si2)|
         </mesure>
-    </section>
 
-<meta>
-Section de développement 1 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
-</meta>
-    <section=section_2, n_mesure=8, bpm=90, format=4/4, tonalite=Do_majeur>
-        <mesure num=1>
+        <mesure num=9>
             <piano_1_v1>  |(mi6 mi7, _), (mi4 sol4 do#5 mi5, _), (fa4 sol#4 do#5 fa5, _), (sol#4 do5 re#5 sol#5, _)|
             <piano_1_v3>  |(do2 sol2 do3, _), (la#2 do#3 mi3 sol3 la#3, _), (sol#2 do#3 fa3 sol#3, _), (fa#2 do3 re#3 fa#3, _)|
         </mesure>
-        <mesure num=2>
+        <mesure num=10>
             <piano_1_v1>  |(do#5 fa5 sol#5 do#6, _), (fa#5 la#5 do#6 fa#6, _), (si5 re#6 fa#6 si6, _), (mi6 sol#6 si6 mi7, _)|
             <piano_1_v3>  |(fa2 sol#2 do#3 fa3, _), (mi2 la#2 do#3 mi3, _), (re#2 fa#2 si2 re#3, _), (re2 sol#2 si2 re3, _)|
         </mesure>
-        <mesure num=3>
+        <mesure num=11>
             <piano_1_v1>  |la5 mi6 la6, _, fa6 la6 re7 fa7, _|
             <piano_1_v3>  |do#2 mi2 la2 do#3, _, re2 fa2 la2 re3, _|
         </mesure>
-        <mesure num=4>
+        <mesure num=12>
             <piano_1_v1>  |fa3 la#3 re4, -, -, -|
             <piano_1_v3>  |la#2, -, -, sol#2|
         </mesure>
-        <mesure num=5>
+        <mesure num=13>
             <piano_1_v1>  |si3 re4 sol4, -, -, -|
             <piano_1_v3>  |sol2, fa2, re2, si1, sol1, -, (sol1, fa#1, sol1), ({sol#1, la1}, la#1, si1)|
             <piano_1_v4>  |fa3 sol3, -, -, -|
         </mesure>
-        <mesure num=6>
+        <mesure num=14>
             <piano_1_v1>  |_, _, _, _|
             <piano_1_v2>  |_, (do4, mi4), (si4, re5, sol#5), ({sol5, si5}, re6, sol6)|
             <piano_1_v3>  |({do2, mi2}, sol2, do3), {mi3, sol3}, _|
             <piano_1_v4>  |do2, -, sol#3 sol#4, (sol3 si3 re4 fa4 sol4, _)|
         </mesure>
-        <mesure num=7>
+        <mesure num=15>
             <piano_1_v1>  |_, _, _, _|
             <piano_1_v2>  |_, (do4, mi4), (si4, re5, sol#5), ({sol5, si5}, re6, sol6)|
             <piano_1_v3>  |({do2, mi2}, sol2, do3), {mi3, sol3}, _|
             <piano_1_v4>  |_, _, sol#3 sol#4, (sol3 si3 re4 fa4 sol4, _)|
         </mesure>
-        <mesure num=8>
+        <mesure num=16>
             <piano_1_v1>  |_, _, _, _|
             <piano_1_v2>  |_, (do4, mi4), (do5, mi5, la5), ({do6, mi6}, la6, re7)|
             <piano_1_v3>  |({do2, mi2}, sol2, do3), {mi3, sol3}, _|
             <piano_1_v4>  |_, _, la3 do4 mi4 la4, -|
         </mesure>
+
     </section>
 
+
 <meta>
-Section conclusive — 7 mesures. Tonalité Do majeur, tempo 90 BPM.
+7 mesures. Presto, 138 BPM. 4/4. Do majeur.
+La coda conclut cette étude courte mais foudroyante avec une dissolution rapide du matériau thématique, les dernières mesures synthétisant l'essentiel de la difficulté technique dans un geste conclusif bref et percutant qui ouvre symboliquement la voie aux études suivantes du cycle.
+A l'oreille, la coda produit un effet de clôture rapide et satisfaisante, comme un point d'exclamation après l'énergie du prélude, l'accord conclusif retentissant avec une clarté et une force affirmées.
+Jouer avec une intensité non relâchée jusqu'à la dernière note, en soignant la qualité de l'accord conclusif et en laissant résonner le son jusqu'au silence complet, la pédale pouvant enrichir la résonance finale.
+<section=coda, n_mesure=7, bpm=138, format=4/4, tonalite=Do_majeur>
 </meta>
-    <section=section_3, n_mesure=7, bpm=90, format=4/4, tonalite=Do_majeur>
+    <section=coda, n_mesure=7, bpm=138, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |({do7, sol6}, mi6, do6), ({sol5, mi5}, do5, sol4), ({_, la4}, do5, mi5), ({la5, do6}, mi6, do7)|
             <piano_1_v3>  |sol3 do4 mi4 sol4, -, mi3 la3 do4 mi4, -|
@@ -139,6 +144,7 @@ Section conclusive — 7 mesures. Tonalité Do majeur, tempo 90 BPM.
             <piano_1_v1>  |(_, mi6 sol6 mi7)|
             <piano_1_v3>  |({do2, mi2, sol2}, {do3, do4 mi4 sol4 do5})|
         </mesure>
+
     </section>
 
 [EOS]
