@@ -6,7 +6,7 @@ FORMAT : piano_solo
 NIVEAU : avance
 Titre : Fugue en Ré mineur, BWV 875 (Clavier bien tempéré, Livre II, n°6)
 Date : 1742
-Auteur : Johann Sebastian Bach
+Auteur : Bach
 Tonalite : Re_mineur
 Unite : quarter
 Intention : Fugue à trois voix d'un caractère sérieux et chromatique, fondée sur un sujet dont la tête vive en triolets ascendants s'oppose aux croches descendantes par demi-tons, nourrissant une architecture de quatre strettes de plus en plus resserrées. Tonalité Ré mineur, mesure 4/4, 27 mesures, tempo modéré d'environ 90 BPM ; la texture se densifie progressivement grâce aux inversions et aux renversements du sujet qui se superposent dans les strettes finales.
