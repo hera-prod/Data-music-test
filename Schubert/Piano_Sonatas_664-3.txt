@@ -5,17 +5,17 @@ STYLE : romantique
 FORMAT : piano_solo
 NIVEAU : intermediaire
 Titre : Piano_Sonatas_664-3
-Date : ?
+Date : 1819
 Auteur : Schubert
 Tonalite : La_majeur
 Unite : quarter
-Intention : Pièce pour piano solo, modéré, lumineux, au flux composé. Tonalité : La majeur. 217 mesures.
+Intention : Finale enjoue et populaire, ce rondo-sonate en La majeur conclut la sonate avec une vitalite dansante et une fraicheur melodique qui resument l'esprit lumineux de la jeunesse schubertienne. Forme rondo-sonate en La majeur, 3/4, Allegretto (environ 116 BPM), 217 mesures avec theme B en Mi majeur puis La majeur et un developpement modulant.
 </tete>
 
 <meta>
-Section d'ouverture — 8 mesures. Tonalité La majeur, tempo 85 BPM.
+8 mesures. Tempo Allegretto, environ 116 BPM. Signature 3/4. Tonalite La majeur. Le theme A expose le sujet principal du rondo, une melodie bondissante et populaire en La majeur dont la vitalite rythmique etablit immediatement l'atmosphere de danse joyeuse qui va caracteriser tout le finale. Ce theme reconnaissable et entrainant constitue l'ancre de la forme rondo. Jouer le theme A avec enthousiasme et clarte, les articulations legeres et precises.
 </meta>
-    <section=section_1, n_mesure=8, bpm=85, format=6/8, tonalite=La_majeur>
+    <section=theme_A_1_1, n_mesure=8, bpm=116, format=3/4, tonalite=La_majeur>
         <mesure num=1>
             <piano_1_v1>  |(si5, la5), (sol#5, fa#5), (mi5, re5)|
             <piano_1_v4>  |_, _, _, _, _, _|
@@ -59,9 +59,9 @@ Section d'ouverture — 8 mesures. Tonalité La majeur, tempo 85 BPM.
     </section>
 
 <meta>
-Section de développement 1 — 8 mesures. Tonalité La majeur, tempo 85 BPM.
+8 mesures. Tempo Allegretto, environ 116 BPM. Signature 3/4. Tonalite La majeur. Le theme A expose le sujet principal du rondo, une melodie bondissante et populaire en La majeur dont la vitalite rythmique etablit immediatement l'atmosphere de danse joyeuse qui va caracteriser tout le finale. Ce theme reconnaissable et entrainant constitue l'ancre de la forme rondo. Jouer le theme A avec enthousiasme et clarte, les articulations legeres et precises.
 </meta>
-    <section=section_2, n_mesure=8, bpm=85, format=6/8, tonalite=La_majeur>
+    <section=theme_A_1_2, n_mesure=8, bpm=116, format=3/4, tonalite=La_majeur>
         <mesure num=1>
             <piano_1_v1>  |(la5, sol#5), (la5, sol#5), (la5, sol#5), (si5, la5), (sol#5, fa#5), (mi5, re5)|
             <piano_1_v4>  |do#4, _, _, _, _, _|
@@ -105,9 +105,9 @@ Section de développement 1 — 8 mesures. Tonalité La majeur, tempo 85 BPM.
     </section>
 
 <meta>
-Section de développement 2 — 8 mesures. Tonalité La majeur, tempo 85 BPM.
+8 mesures. Tempo Allegretto, environ 116 BPM. Signature 3/4. Tonalite La majeur. Le theme A expose le sujet principal du rondo, une melodie bondissante et populaire en La majeur dont la vitalite rythmique etablit immediatement l'atmosphere de danse joyeuse qui va caracteriser tout le finale. Ce theme reconnaissable et entrainant constitue l'ancre de la forme rondo. Jouer le theme A avec enthousiasme et clarte, les articulations legeres et precises.
 </meta>
-    <section=section_3, n_mesure=8, bpm=85, format=6/8, tonalite=La_majeur>
+    <section=theme_A_1_3, n_mesure=8, bpm=116, format=3/4, tonalite=La_majeur>
         <mesure num=1>
             <piano_1_v1>  |la5, -, -, la4, mi5, sol5|
             <piano_1_v4>  |fa#4, do#4, fa#4, mi4, la3, mi4|
@@ -146,9 +146,9 @@ Section de développement 2 — 8 mesures. Tonalité La majeur, tempo 85 BPM.
     </section>
 
 <meta>
-Section de développement 3 — 8 mesures. Tonalité La majeur, tempo 85 BPM.
+8 mesures. Tempo Allegretto, environ 116 BPM. Signature 3/4. Tonalite Mi majeur. Le theme B en Mi majeur apporte un contraste plus lyrique et chantant, la tonalite dominante creant une ouverture et un elargissement du discours avant le retour du theme A. Ce contraste entre les themes A et B constitue le ressort dramatique de la forme rondo-sonate. Adoucir le toucher pour le theme B, chercher une ligne melodique plus cantabile.
 </meta>
-    <section=section_4, n_mesure=8, bpm=85, format=6/8, tonalite=La_majeur>
+    <section=theme_B_1_4, n_mesure=8, bpm=116, format=3/4, tonalite=Mi_majeur>
         <mesure num=1>
             <piano_1_v1>  |si5, -, -, -, -, -|
             <piano_1_v2>  |fa#5, -, -, fa#5, -, fa5|
@@ -187,9 +187,9 @@ Section de développement 3 — 8 mesures. Tonalité La majeur, tempo 85 BPM.
     </section>
 
 <meta>
-Section de développement 4 — 8 mesures. Tonalité La majeur, tempo 85 BPM.
+8 mesures. Tempo Allegretto, environ 116 BPM. Signature 3/4. Tonalite Mi majeur. Le theme B en Mi majeur apporte un contraste plus lyrique et chantant, la tonalite dominante creant une ouverture et un elargissement du discours avant le retour du theme A. Ce contraste entre les themes A et B constitue le ressort dramatique de la forme rondo-sonate. Adoucir le toucher pour le theme B, chercher une ligne melodique plus cantabile.
 </meta>
-    <section=section_5, n_mesure=8, bpm=85, format=6/8, tonalite=La_majeur>
+    <section=theme_B_1_5, n_mesure=8, bpm=116, format=3/4, tonalite=Mi_majeur>
         <mesure num=1>
             <piano_1_v1>  |do#6, -, -, -, -, -|
             <piano_1_v2>  |mi5, -, fa5, fa#5, -, sol5|
@@ -233,9 +233,9 @@ Section de développement 4 — 8 mesures. Tonalité La majeur, tempo 85 BPM.
     </section>
 
 <meta>
-Section de développement 5 — 8 mesures. Tonalité La majeur, tempo 85 BPM.
+8 mesures. Tempo Allegretto, environ 116 BPM. Signature 3/4. Tonalite Mi majeur. Le theme B en Mi majeur apporte un contraste plus lyrique et chantant, la tonalite dominante creant une ouverture et un elargissement du discours avant le retour du theme A. Ce contraste entre les themes A et B constitue le ressort dramatique de la forme rondo-sonate. Adoucir le toucher pour le theme B, chercher une ligne melodique plus cantabile.
 </meta>
-    <section=section_6, n_mesure=8, bpm=85, format=6/8, tonalite=La_majeur>
+    <section=theme_B_1_6, n_mesure=8, bpm=116, format=3/4, tonalite=Mi_majeur>
         <mesure num=1>
             <piano_1_v1>  |si3, mi4, mi4, si3 fa#4 si4, -, -|
             <piano_1_v2>  |sol#3, -, sol#3 si3, _, _, _|
@@ -275,9 +275,9 @@ Section de développement 5 — 8 mesures. Tonalité La majeur, tempo 85 BPM.
     </section>
 
 <meta>
-Section de développement 6 — 8 mesures. Tonalité La majeur, tempo 85 BPM.
+8 mesures. Tempo Allegretto, environ 116 BPM. Signature 3/4. Tonalite Mi majeur. Le theme B en Mi majeur apporte un contraste plus lyrique et chantant, la tonalite dominante creant une ouverture et un elargissement du discours avant le retour du theme A. Ce contraste entre les themes A et B constitue le ressort dramatique de la forme rondo-sonate. Adoucir le toucher pour le theme B, chercher une ligne melodique plus cantabile.
 </meta>
-    <section=section_7, n_mesure=8, bpm=85, format=6/8, tonalite=La_majeur>
+    <section=theme_B_1_7, n_mesure=8, bpm=116, format=3/4, tonalite=Mi_majeur>
         <mesure num=1>
             <piano_1_v1>  |mi5, -, fa#5, re#5, do#5, si4|
             <piano_1_v4>  |mi3, si3 mi4, mi4 sol#4, fa#3, si3 re#4, re#4 la4|
@@ -313,9 +313,9 @@ Section de développement 6 — 8 mesures. Tonalité La majeur, tempo 85 BPM.
     </section>
 
 <meta>
-Section de développement 7 — 8 mesures. Tonalité La majeur, tempo 85 BPM.
+8 mesures. Tempo Allegretto, environ 116 BPM. Signature 3/4. Tonalite La majeur. Le retour du theme A en La majeur confirme la structure rondo, reinstaurant la vitalite et la joie du theme principal apres le contraste du theme B. Ce retour cyclique du theme principal est le propre de la forme rondo et cree une coherence satisfaisante. Retrouver l'energie du premier expose du theme A, avec la meme fraicheur et la meme vivacite.
 </meta>
-    <section=section_8, n_mesure=8, bpm=85, format=6/8, tonalite=La_majeur>
+    <section=theme_A_2_8, n_mesure=8, bpm=116, format=3/4, tonalite=La_majeur>
         <mesure num=1>
             <piano_1_v1>  |(fa#4, la4), (do#5, la4), (fa#5 la5, do#5), (sol#4, si4), (mi5, sol#5), (re#5 fa#5 si5, si4)|
             <piano_1_v4>  |la2 la3, -, fa#2 fa#3, si2 si3, -, si1 si2|
@@ -353,9 +353,9 @@ Section de développement 7 — 8 mesures. Tonalité La majeur, tempo 85 BPM.
     </section>
 
 <meta>
-Section de développement 8 — 8 mesures. Tonalité La majeur, tempo 85 BPM.
+8 mesures. Tempo Allegretto, environ 116 BPM. Signature 3/4. Tonalite La majeur. Le retour du theme A en La majeur confirme la structure rondo, reinstaurant la vitalite et la joie du theme principal apres le contraste du theme B. Ce retour cyclique du theme principal est le propre de la forme rondo et cree une coherence satisfaisante. Retrouver l'energie du premier expose du theme A, avec la meme fraicheur et la meme vivacite.
 </meta>
-    <section=section_9, n_mesure=8, bpm=85, format=6/8, tonalite=La_majeur>
+    <section=theme_A_2_9, n_mesure=8, bpm=116, format=3/4, tonalite=La_majeur>
         <mesure num=1>
             <piano_1_v1>  |(mi5, si5), (la5, sol#5), (fa#5, mi5), (re#5, do#5), (si4, la4), (sol#4, fa#4)|
             <piano_1_v4>  |mi3 sol#3 si3 mi4, -, _, mi3 la3 si3 fa#4, -, _|
@@ -391,9 +391,9 @@ Section de développement 8 — 8 mesures. Tonalité La majeur, tempo 85 BPM.
     </section>
 
 <meta>
-Section de développement 9 — 8 mesures. Tonalité La majeur, tempo 85 BPM.
+8 mesures. Tempo Allegretto, environ 116 BPM. Signature 3/4. Tonalite La majeur. Le retour du theme A en La majeur confirme la structure rondo, reinstaurant la vitalite et la joie du theme principal apres le contraste du theme B. Ce retour cyclique du theme principal est le propre de la forme rondo et cree une coherence satisfaisante. Retrouver l'energie du premier expose du theme A, avec la meme fraicheur et la meme vivacite.
 </meta>
-    <section=section_10, n_mesure=8, bpm=85, format=6/8, tonalite=La_majeur>
+    <section=theme_A_2_10, n_mesure=8, bpm=116, format=3/4, tonalite=La_majeur>
         <mesure num=1>
             <piano_1_v1>  |_, _, _, (re#4, mi4), (fa#4, sol#4), (la4, si4)|
             <piano_1_v4>  |(mi3, fa#3), (sol#3, la3), (si3, do#4), (re#3, mi3), (fa#3, sol#3), (la3, si3)|
@@ -430,9 +430,9 @@ Section de développement 9 — 8 mesures. Tonalité La majeur, tempo 85 BPM.
     </section>
 
 <meta>
-Section de développement 10 — 8 mesures. Tonalité La majeur, tempo 85 BPM.
+8 mesures. Tempo Allegretto, environ 116 BPM. Signature 3/4. Tonalite modulante. Le developpement explore le materiau thematique a travers plusieurs tonalites, Schubert intensifiant momentanement le discours avant le retour definitif du materiau principal. Cette section maintient l'interet en transformant le materiau connu dans de nouveaux contextes harmoniques. Maintenir l'energie et la direction harmonique, les modulations bien articulees.
 </meta>
-    <section=section_11, n_mesure=8, bpm=85, format=6/8, tonalite=La_majeur>
+    <section=developpement_11, n_mesure=8, bpm=116, format=3/4, tonalite=La_majeur>
         <mesure num=1>
             <piano_1_v1>  |mi5 sol#5 si5 mi6, -, _, si4 fa#5 si5, -, _|
             <piano_1_v4>  |mi2 mi3, -, fa#2 fa#3, re#2 re#3, do#2 do#3, si1 si2|
@@ -472,9 +472,9 @@ Section de développement 10 — 8 mesures. Tonalité La majeur, tempo 85 BPM.
     </section>
 
 <meta>
-Section de développement 11 — 8 mesures. Tonalité La majeur, tempo 85 BPM.
+8 mesures. Tempo Allegretto, environ 116 BPM. Signature 3/4. Tonalite modulante. Le developpement explore le materiau thematique a travers plusieurs tonalites, Schubert intensifiant momentanement le discours avant le retour definitif du materiau principal. Cette section maintient l'interet en transformant le materiau connu dans de nouveaux contextes harmoniques. Maintenir l'energie et la direction harmonique, les modulations bien articulees.
 </meta>
-    <section=section_12, n_mesure=8, bpm=85, format=6/8, tonalite=La_majeur>
+    <section=developpement_12, n_mesure=8, bpm=116, format=3/4, tonalite=La_majeur>
         <mesure num=1>
             <piano_1_v1>  |do#5, -, -, re5, fa#5, re5|
             <piano_1_v4>  |fa4, sol#4, fa4, fa#4, la4, fa#4|
@@ -517,9 +517,9 @@ Section de développement 11 — 8 mesures. Tonalité La majeur, tempo 85 BPM.
     </section>
 
 <meta>
-Section de développement 12 — 8 mesures. Tonalité La majeur, tempo 85 BPM.
+8 mesures. Tempo Allegretto, environ 116 BPM. Signature 3/4. Tonalite modulante. Le developpement explore le materiau thematique a travers plusieurs tonalites, Schubert intensifiant momentanement le discours avant le retour definitif du materiau principal. Cette section maintient l'interet en transformant le materiau connu dans de nouveaux contextes harmoniques. Maintenir l'energie et la direction harmonique, les modulations bien articulees.
 </meta>
-    <section=section_13, n_mesure=8, bpm=85, format=6/8, tonalite=La_majeur>
+    <section=developpement_13, n_mesure=8, bpm=116, format=3/4, tonalite=La_majeur>
         <mesure num=1>
             <piano_1_v1>  |la4, -, _, (si5, fa#5), (mi5, re5), (do#5, si4)|
             <piano_1_v4>  |(fa#4, mi4), (re4, do#4), (si3, la3), sol#3, si3, mi4|
@@ -559,9 +559,9 @@ Section de développement 12 — 8 mesures. Tonalité La majeur, tempo 85 BPM.
     </section>
 
 <meta>
-Section de développement 13 — 8 mesures. Tonalité La majeur, tempo 85 BPM.
+8 mesures. Tempo Allegretto, environ 116 BPM. Signature 3/4. Tonalite modulante. Le developpement explore le materiau thematique a travers plusieurs tonalites, Schubert intensifiant momentanement le discours avant le retour definitif du materiau principal. Cette section maintient l'interet en transformant le materiau connu dans de nouveaux contextes harmoniques. Maintenir l'energie et la direction harmonique, les modulations bien articulees.
 </meta>
-    <section=section_14, n_mesure=8, bpm=85, format=6/8, tonalite=La_majeur>
+    <section=developpement_14, n_mesure=8, bpm=116, format=3/4, tonalite=La_majeur>
         <mesure num=1>
             <piano_1_v1>  |(do#6 mi6 fa#6, sol6), (mi6, re6), (do#6, si5), (la#5, sol5), (fa#5, mi5), (re5, do#5)|
             <piano_1_v2>  |fa#4 la#4 do#5, -, _, _, _, _|
@@ -598,9 +598,9 @@ Section de développement 13 — 8 mesures. Tonalité La majeur, tempo 85 BPM.
     </section>
 
 <meta>
-Section de développement 14 — 8 mesures. Tonalité La majeur, tempo 85 BPM.
+8 mesures. Tempo Allegretto, environ 116 BPM. Signature 3/4. Tonalite modulante. Le developpement explore le materiau thematique a travers plusieurs tonalites, Schubert intensifiant momentanement le discours avant le retour definitif du materiau principal. Cette section maintient l'interet en transformant le materiau connu dans de nouveaux contextes harmoniques. Maintenir l'energie et la direction harmonique, les modulations bien articulees.
 </meta>
-    <section=section_15, n_mesure=8, bpm=85, format=6/8, tonalite=La_majeur>
+    <section=developpement_15, n_mesure=8, bpm=116, format=3/4, tonalite=La_majeur>
         <mesure num=1>
             <piano_1_v1>  |la5 re6 la6, -, -, -, -, -|
             <piano_1_v4>  |(la#1, re2), (fa2, la#2), (re3, fa3), (la#3, re4), (fa4, la#4), (re5, fa5)|
@@ -636,9 +636,9 @@ Section de développement 14 — 8 mesures. Tonalité La majeur, tempo 85 BPM.
     </section>
 
 <meta>
-Section de développement 15 — 8 mesures. Tonalité La majeur, tempo 85 BPM.
+8 mesures. Tempo Allegretto, environ 116 BPM. Signature 3/4. Tonalite modulante. Le developpement explore le materiau thematique a travers plusieurs tonalites, Schubert intensifiant momentanement le discours avant le retour definitif du materiau principal. Cette section maintient l'interet en transformant le materiau connu dans de nouveaux contextes harmoniques. Maintenir l'energie et la direction harmonique, les modulations bien articulees.
 </meta>
-    <section=section_16, n_mesure=8, bpm=85, format=6/8, tonalite=La_majeur>
+    <section=developpement_16, n_mesure=8, bpm=116, format=3/4, tonalite=La_majeur>
         <mesure num=1>
             <piano_1_v1>  |(si5, la#5), (do#6, si5), (la5, sol5), (fa#5, mi5), (sol5, fa#5), (la5, sol5)|
             <piano_1_v4>  |la3 do#4 mi4, -, _, _, _, _|
@@ -680,9 +680,9 @@ Section de développement 15 — 8 mesures. Tonalité La majeur, tempo 85 BPM.
     </section>
 
 <meta>
-Section de développement 16 — 8 mesures. Tonalité La majeur, tempo 85 BPM.
+8 mesures. Tempo Allegretto, environ 116 BPM. Signature 3/4. Tonalite modulante. Le developpement explore le materiau thematique a travers plusieurs tonalites, Schubert intensifiant momentanement le discours avant le retour definitif du materiau principal. Cette section maintient l'interet en transformant le materiau connu dans de nouveaux contextes harmoniques. Maintenir l'energie et la direction harmonique, les modulations bien articulees.
 </meta>
-    <section=section_17, n_mesure=8, bpm=85, format=6/8, tonalite=La_majeur>
+    <section=developpement_17, n_mesure=8, bpm=116, format=3/4, tonalite=La_majeur>
         <mesure num=1>
             <piano_1_v1>  |re6, -, -, si5, re6, do#6|
             <piano_1_v4>  |fa#4, la4, fa#4, sol4, mi4, sol4|
@@ -726,9 +726,9 @@ Section de développement 16 — 8 mesures. Tonalité La majeur, tempo 85 BPM.
     </section>
 
 <meta>
-Section de développement 17 — 8 mesures. Tonalité La majeur, tempo 85 BPM.
+8 mesures. Tempo Allegretto, environ 116 BPM. Signature 3/4. Tonalite La majeur. Le troisieme retour du theme A installe definitivement La majeur comme la tonique finale, preparant la conclusion de l'oeuvre dans l'atmosphere populaire et dansante du theme principal. Ce retour consolide la structure rondo et prepare la conclusion festive. Jouer ce retour avec une joie renouvelee, le theme revenant une derniere fois avec toute sa force.
 </meta>
-    <section=section_18, n_mesure=8, bpm=85, format=6/8, tonalite=La_majeur>
+    <section=theme_A_3_18, n_mesure=8, bpm=116, format=3/4, tonalite=La_majeur>
         <mesure num=1>
             <piano_1_v1>  |re5, fa#4, fa#4, fa#4, do#5, mi5|
             <piano_1_v4>  |re4 fa#4, _, _, do#4, fa#3, do#4|
@@ -769,9 +769,9 @@ Section de développement 17 — 8 mesures. Tonalité La majeur, tempo 85 BPM.
     </section>
 
 <meta>
-Section de développement 18 — 8 mesures. Tonalité La majeur, tempo 85 BPM.
+8 mesures. Tempo Allegretto, environ 116 BPM. Signature 3/4. Tonalite La majeur. Le troisieme retour du theme A installe definitivement La majeur comme la tonique finale, preparant la conclusion de l'oeuvre dans l'atmosphere populaire et dansante du theme principal. Ce retour consolide la structure rondo et prepare la conclusion festive. Jouer ce retour avec une joie renouvelee, le theme revenant une derniere fois avec toute sa force.
 </meta>
-    <section=section_19, n_mesure=8, bpm=85, format=6/8, tonalite=La_majeur>
+    <section=theme_A_3_19, n_mesure=8, bpm=116, format=3/4, tonalite=La_majeur>
         <mesure num=1>
             <piano_1_v1>  |(si3, re4), (sol4, si4), (re5, sol5), mi5 sol5 si5, -, -|
             <piano_1_v4>  |si2 re3 sol3, -, -, (do#3, mi3), (la3, do#4), (mi4, la4)|
@@ -812,9 +812,9 @@ Section de développement 18 — 8 mesures. Tonalité La majeur, tempo 85 BPM.
     </section>
 
 <meta>
-Section de développement 19 — 8 mesures. Tonalité La majeur, tempo 85 BPM.
+8 mesures. Tempo Allegretto, environ 116 BPM. Signature 3/4. Tonalite La majeur. Le troisieme retour du theme A installe definitivement La majeur comme la tonique finale, preparant la conclusion de l'oeuvre dans l'atmosphere populaire et dansante du theme principal. Ce retour consolide la structure rondo et prepare la conclusion festive. Jouer ce retour avec une joie renouvelee, le theme revenant une derniere fois avec toute sa force.
 </meta>
-    <section=section_20, n_mesure=8, bpm=85, format=6/8, tonalite=La_majeur>
+    <section=theme_A_3_20, n_mesure=8, bpm=116, format=3/4, tonalite=La_majeur>
         <mesure num=1>
             <piano_1_v1>  |sol5, -, -, -, -, -|
             <piano_1_v2>  |la#4, -, -, -, -, -|
@@ -860,9 +860,9 @@ Section de développement 19 — 8 mesures. Tonalité La majeur, tempo 85 BPM.
     </section>
 
 <meta>
-Section de développement 20 — 8 mesures. Tonalité La majeur, tempo 85 BPM.
+8 mesures. Tempo Allegretto, environ 116 BPM. Signature 3/4. Tonalite La majeur. Le second expose du theme B en La majeur constitue la recapitulation de la forme sonate, reunissant les deux themes sous la tonalite principale pour preparer la conclusion. Ce retour du theme B en La majeur signale la recapitulation et approche de la conclusion. Jouer le theme B en La majeur avec la meme legerete, sa presence en tonique renforce la stabilite finale.
 </meta>
-    <section=section_21, n_mesure=8, bpm=85, format=6/8, tonalite=La_majeur>
+    <section=theme_B_2_21, n_mesure=8, bpm=116, format=3/4, tonalite=La_majeur>
         <mesure num=1>
             <piano_1_v1>  |la4, -, si4, sol#4, fa#4, mi4|
             <piano_1_v2>  |do#4, -, -, re4, -, -|
@@ -904,9 +904,9 @@ Section de développement 20 — 8 mesures. Tonalité La majeur, tempo 85 BPM.
     </section>
 
 <meta>
-Section de développement 21 — 8 mesures. Tonalité La majeur, tempo 85 BPM.
+8 mesures. Tempo Allegretto, environ 116 BPM. Signature 3/4. Tonalite La majeur. Le second expose du theme B en La majeur constitue la recapitulation de la forme sonate, reunissant les deux themes sous la tonalite principale pour preparer la conclusion. Ce retour du theme B en La majeur signale la recapitulation et approche de la conclusion. Jouer le theme B en La majeur avec la meme legerete, sa presence en tonique renforce la stabilite finale.
 </meta>
-    <section=section_22, n_mesure=8, bpm=85, format=6/8, tonalite=La_majeur>
+    <section=theme_B_2_22, n_mesure=8, bpm=116, format=3/4, tonalite=La_majeur>
         <mesure num=1>
             <piano_1_v1>  |do#6, la5, la5, mi5, -, -|
             <piano_1_v4>  |la2, mi3 la3, la3 do#4, si2, mi3 sol#3, sol#3 re4|
@@ -942,9 +942,9 @@ Section de développement 21 — 8 mesures. Tonalité La majeur, tempo 85 BPM.
     </section>
 
 <meta>
-Section de développement 22 — 8 mesures. Tonalité La majeur, tempo 85 BPM.
+8 mesures. Tempo Allegretto, environ 116 BPM. Signature 3/4. Tonalite La majeur. Le second expose du theme B en La majeur constitue la recapitulation de la forme sonate, reunissant les deux themes sous la tonalite principale pour preparer la conclusion. Ce retour du theme B en La majeur signale la recapitulation et approche de la conclusion. Jouer le theme B en La majeur avec la meme legerete, sa presence en tonique renforce la stabilite finale.
 </meta>
-    <section=section_23, n_mesure=8, bpm=85, format=6/8, tonalite=La_majeur>
+    <section=theme_B_2_23, n_mesure=8, bpm=116, format=3/4, tonalite=La_majeur>
         <mesure num=1>
             <piano_1_v1>  |(re5, mi5), (fa#5, sol5), (la5, si5), (la#5, sol5), (fa#5, mi5), (re5, do#5)|
             <piano_1_v4>  |la1 la2, re2 re3, re2 re3, fa#2 fa#3, -, -|
@@ -981,9 +981,9 @@ Section de développement 22 — 8 mesures. Tonalité La majeur, tempo 85 BPM.
     </section>
 
 <meta>
-Section de développement 23 — 8 mesures. Tonalité La majeur, tempo 85 BPM.
+8 mesures. Tempo Allegretto, environ 116 BPM. Signature 3/4. Tonalite La majeur. Le second expose du theme B en La majeur constitue la recapitulation de la forme sonate, reunissant les deux themes sous la tonalite principale pour preparer la conclusion. Ce retour du theme B en La majeur signale la recapitulation et approche de la conclusion. Jouer le theme B en La majeur avec la meme legerete, sa presence en tonique renforce la stabilite finale.
 </meta>
-    <section=section_24, n_mesure=8, bpm=85, format=6/8, tonalite=La_majeur>
+    <section=theme_B_2_24, n_mesure=8, bpm=116, format=3/4, tonalite=La_majeur>
         <mesure num=1>
             <piano_1_v1>  |_, _, _, (si4, do#5), (re5, mi5), (fa#5, sol#5)|
             <piano_1_v4>  |(do#4, re4), (mi4, fa#4), (sol#4, la4), la3 re4 mi4 sol#4, -, _|
@@ -1025,9 +1025,9 @@ Section de développement 23 — 8 mesures. Tonalité La majeur, tempo 85 BPM.
     </section>
 
 <meta>
-Section de développement 24 — 8 mesures. Tonalité La majeur, tempo 85 BPM.
+8 mesures. Tempo Allegretto, environ 116 BPM. Signature 3/4. Tonalite La majeur. La coda conclut le finale et toute la sonate avec une affirmation finale en La majeur, Schubert terminant cette oeuvre de jeunesse dans la meme lumiere et la meme joie qui l'ont caracterisee de bout en bout. Cette conclusion en La majeur referme la sonate dans un cercle parfait d'optimisme juvenil. Conclure avec assurance et joie, la note finale bien affirmee pour refermer toute la sonate.
 </meta>
-    <section=section_25, n_mesure=8, bpm=85, format=6/8, tonalite=La_majeur>
+    <section=coda_25, n_mesure=8, bpm=116, format=3/4, tonalite=La_majeur>
         <mesure num=1>
             <piano_1_v1>  |mi5 mi6, re5 re6, si4 si5, sol#4 sol#5, -, si4 si5|
             <piano_1_v4>  |re2, fa#3 si3, si3 re4, mi2, mi3 si3, si3 re4|
@@ -1067,9 +1067,9 @@ Section de développement 24 — 8 mesures. Tonalité La majeur, tempo 85 BPM.
     </section>
 
 <meta>
-Section de développement 25 — 8 mesures. Tonalité La majeur, tempo 85 BPM.
+8 mesures. Tempo Allegretto, environ 116 BPM. Signature 3/4. Tonalite La majeur. La coda conclut le finale et toute la sonate avec une affirmation finale en La majeur, Schubert terminant cette oeuvre de jeunesse dans la meme lumiere et la meme joie qui l'ont caracterisee de bout en bout. Cette conclusion en La majeur referme la sonate dans un cercle parfait d'optimisme juvenil. Conclure avec assurance et joie, la note finale bien affirmee pour refermer toute la sonate.
 </meta>
-    <section=section_26, n_mesure=8, bpm=85, format=6/8, tonalite=La_majeur>
+    <section=coda_26, n_mesure=8, bpm=116, format=3/4, tonalite=La_majeur>
         <mesure num=1>
             <piano_1_v1>  |la4 do#5 mi5 la5, -, _, mi4 si4 mi5, -, _|
             <piano_1_v4>  |la2 la3, -, si2 si3, sol#2 sol#3, fa#2 fa#3, mi2 mi3|
@@ -1107,9 +1107,9 @@ Section de développement 25 — 8 mesures. Tonalité La majeur, tempo 85 BPM.
     </section>
 
 <meta>
-Section de développement 26 — 8 mesures. Tonalité La majeur, tempo 85 BPM.
+8 mesures. Tempo Allegretto, environ 116 BPM. Signature 3/4. Tonalite La majeur. La coda conclut le finale et toute la sonate avec une affirmation finale en La majeur, Schubert terminant cette oeuvre de jeunesse dans la meme lumiere et la meme joie qui l'ont caracterisee de bout en bout. Cette conclusion en La majeur referme la sonate dans un cercle parfait d'optimisme juvenil. Conclure avec assurance et joie, la note finale bien affirmee pour refermer toute la sonate.
 </meta>
-    <section=section_27, n_mesure=8, bpm=85, format=6/8, tonalite=La_majeur>
+    <section=coda_27, n_mesure=8, bpm=116, format=3/4, tonalite=La_majeur>
         <mesure num=1>
             <piano_1_v1>  |do#5, do#5, do#5, si4, re5, do#5|
             <piano_1_v4>  |la4, mi4, la4, sol#4, mi4, re4|
@@ -1153,9 +1153,9 @@ Section de développement 26 — 8 mesures. Tonalité La majeur, tempo 85 BPM.
     </section>
 
 <meta>
-Section conclusive — 1 mesures. Tonalité La majeur, tempo 85 BPM.
+1 mesures. Tempo Allegretto, environ 116 BPM. Signature 3/4. Tonalite La majeur. La coda conclut le finale et toute la sonate avec une affirmation finale en La majeur, Schubert terminant cette oeuvre de jeunesse dans la meme lumiere et la meme joie qui l'ont caracterisee de bout en bout. Cette conclusion en La majeur referme la sonate dans un cercle parfait d'optimisme juvenil. Conclure avec assurance et joie, la note finale bien affirmee pour refermer toute la sonate.
 </meta>
-    <section=section_28, n_mesure=1, bpm=85, format=6/8, tonalite=La_majeur>
+    <section=coda_28, n_mesure=1, bpm=116, format=3/4, tonalite=La_majeur>
         <mesure num=1>
             <piano_1_v1>  |la4 do#5 mi5 la5, -, _, _, _, _|
             <piano_1_v4>  |la2 do#3 mi3 la3, -, _, _, _, _|
