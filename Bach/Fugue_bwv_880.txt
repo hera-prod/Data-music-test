@@ -6,7 +6,7 @@ FORMAT : piano_solo
 NIVEAU : avance
 Titre : Fugue en Fa majeur, BWV 880 (Le Clavier bien tempéré II, n°11)
 Date : 1742
-Auteur : Johann Sebastian Bach
+Auteur : Bach
 Tonalite : Fa_majeur
 Unite : quarter
 Intention : Fugue à trois voix au caractère bondissant et virtuose, contrastant avec la majesté du prélude qui la précède, portée par un sujet en sauts larges et motifs brefs qui crée un effet de jubilation ludique. En Fa majeur, mesure à 6/16, tempo vif, elle déploie 99 mesures organisées en exposition, divertissements épisodiques modulants et récapitulation, avec pédale de dominante et pédale de tonique au coeur du développement.
