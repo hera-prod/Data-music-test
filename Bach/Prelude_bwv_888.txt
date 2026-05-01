@@ -6,7 +6,7 @@ FORMAT : piano_solo
 NIVEAU : intermediaire
 Titre : Prélude en La majeur, BWV 888, Clavier bien tempéré Livre II n°19
 Date : 1742
-Auteur : Johann Sebastian Bach
+Auteur : Bach
 Tonalite : La_majeur
 Unite : quarter
 Intention : Prélude d'une légèreté et d'une clarté radieuses, bâti sur un thème court que Bach retourne continuellement par mouvement contraire comme un jeu de miroirs mélodiques. Pièce en 12/8 à trois voix principales, La majeur, composée de 33 mesures ; le thème par inversion est présent dans presque chaque mesure, traversant Si mineur, Ré majeur et Mi majeur avant de revenir en La majeur, tempo vivace vers 80 BPM.
