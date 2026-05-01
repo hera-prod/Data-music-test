@@ -3,19 +3,19 @@
 TACHE : composition
 STYLE : romantique
 FORMAT : piano_solo
-NIVEAU : simple
+NIVEAU : avance
 Titre : Kreisleriana_4
-Date : ?
+Date : 1838
 Auteur : Schumann
-Tonalite : Sib_majeur
-Unite : quarter
-Intention : Pièce pour piano solo, modéré, lumineux, au cadre binaire régulier. Tonalité : Sib majeur. 28 mesures.
+Tonalite : Si_majeur
+Unite : half
+Intention : Contemplation lente et solennelle, profondeur d'âme, lenteur comme expression d'une gravité intérieure absolue. Forme binaire courte avec coda en Si majeur, 3/2, Sehr langsam, bpm 40, 28 mesures.
 </tete>
 
 <meta>
-Section d'ouverture — 8 mesures. Tonalité Sib majeur, tempo 66 BPM.
+8 mesures. 3/2, 40 bpm. Si majeur. Section A, première phrase : lenteur contemplative, harmonie riche et profonde, chaque accord laisse sonner. La lenteur de Schumann ici n'est pas stase mais densité expressive. Écouter chaque résonnance avant d'avancer.
 </meta>
-    <section=section_1, n_mesure=8, bpm=66, format=4/4, tonalite=Sib_majeur>
+    <section=section_A_a, n_mesure=8, bpm=40, format=3/2, tonalite=Si_majeur>
         <mesure num=1>
             <piano_1_v1>  |(_, la3 mib4 la4), sib3 mib4 sib4, (re5, {do5, do4 mib4 do5}), sib3 mib4 sib4|
             <piano_1_v2>  |_, _, _, _|
@@ -70,9 +70,9 @@ Section d'ouverture — 8 mesures. Tonalité Sib majeur, tempo 66 BPM.
     </section>
 
 <meta>
-Section de développement 1 — 8 mesures. Tonalité Sib majeur, tempo 66 BPM.
+8 mesures. 3/2, 40 bpm. Si majeur. Section A, deuxième phrase : développement de la gravité harmonique, voix internes riches. La progression exprime une profondeur silencieuse. Toucher profond et chantant.
 </meta>
-    <section=section_2, n_mesure=8, bpm=66, format=4/4, tonalite=Sib_majeur>
+    <section=section_A_b, n_mesure=8, bpm=40, format=3/2, tonalite=Si_majeur>
         <mesure num=1>
             <piano_1_v1>  |(la4, sol4), (fa4, {sol4, fa4, mi4, fa4, sol4}, mib4), (mib4, do4 re4)|
             <piano_1_v2>  |(la3 mib4, sib3), (do4, do4), (do4, la3), sol3|
@@ -136,9 +136,9 @@ Section de développement 1 — 8 mesures. Tonalité Sib majeur, tempo 66 BPM.
     </section>
 
 <meta>
-Section de développement 2 — 8 mesures. Tonalité Sib majeur, tempo 66 BPM.
+8 mesures. 3/2, 40 bpm. Si majeur. Coda, première section : élargissement de la texture harmonique, richesse accrue. La coda approfondit plutôt qu'elle ne conclut précipitamment. Continuité méditatrice.
 </meta>
-    <section=section_3, n_mesure=8, bpm=66, format=4/4, tonalite=Sib_majeur>
+    <section=coda_a, n_mesure=8, bpm=40, format=3/2, tonalite=Si_majeur>
         <mesure num=1>
             <piano_1_v1>  |mib5, fa5, sol5, la5|
             <piano_1_v2>  |({mib5, mib4}, la4, do5), {fa5, fa4}, ({sol5, sol4}, do5, mib5), {la5, do5}|
@@ -206,9 +206,9 @@ Section de développement 2 — 8 mesures. Tonalité Sib majeur, tempo 66 BPM.
     </section>
 
 <meta>
-Section conclusive — 4 mesures. Tonalité Sib majeur, tempo 66 BPM.
+4 mesures. 3/2, 40 bpm. Si majeur. Coda finale : conclusion en Si majeur, accord final plein et solennel. La pièce courte laisse une impression d'éternité. Dernier accord tenu jusqu'à l'extinction naturelle.
 </meta>
-    <section=section_4, n_mesure=4, bpm=66, format=4/4, tonalite=Sib_majeur>
+    <section=coda_b, n_mesure=4, bpm=40, format=3/2, tonalite=Si_majeur>
         <mesure num=1>
             <piano_1_v1>  |la3 mib4 la4, sib3 mib4 sib4, (re5, {do5, do5}), sib4|
             <piano_1_v2>  |_, _, (sib4, do4 mib4), sib3 mib4|
