@@ -3,19 +3,19 @@
 TACHE : composition
 STYLE : romantique
 FORMAT : piano_solo
-NIVEAU : intermediaire
+NIVEAU : avance
 Titre : Impromptu_op142_1
-Date : ?
+Date : 1827
 Auteur : Schubert
 Tonalite : Fa_mineur
 Unite : quarter
-Intention : Pièce pour piano solo, modéré, mélancolique, au cadre binaire régulier. Tonalité : Fa mineur. 250 mesures.
+Intention : Oeuvre profondement dramatique, ce premier Impromptu op.142 plonge l'auditeur dans un monde tourmente ou Fa mineur devient le creuset d'une tension interieure qui ne se resout qu'au terme d'un long voyage harmonique. Forme sonate en Fa mineur, 4/4, Allegro moderato (environ 80 BPM), 250 mesures articulees en exposition, developpement (Lab majeur, modulant), recapitulation et coda.
 </tete>
 
 <meta>
-Section d'ouverture — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
+8 mesures. Tempo Allegro moderato, environ 80 BPM. Signature 4/4. Tonalite Fa mineur. L'exposition presente les themes en Fa mineur, etablissant un caractere tenebreux et dramatique que Schubert cultive avec une intensite soutenue, le second theme apportant un contraste modulant vers Lab majeur. Ce contraste entre tension et luminosite constitue le coeur dramatique de l'exposition. Jouer avec conviction et clarte thematique, le premier theme articule, le second plus lyrique et cantabile.
 </meta>
-    <section=section_1, n_mesure=8, bpm=90, format=4/4, tonalite=Fa_mineur>
+    <section=exposition_1, n_mesure=8, bpm=80, format=4/4, tonalite=Fa_mineur>
         <mesure num=1>
             <piano_1_v1>  |_, _, _, (_, _, {do4, fa4, lab4})|
             <piano_1_v3>  |_, _, _, _|
@@ -60,9 +60,9 @@ Section d'ouverture — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 1 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
+8 mesures. Tempo Allegro moderato, environ 80 BPM. Signature 4/4. Tonalite Fa mineur. L'exposition presente les themes en Fa mineur, etablissant un caractere tenebreux et dramatique que Schubert cultive avec une intensite soutenue, le second theme apportant un contraste modulant vers Lab majeur. Ce contraste entre tension et luminosite constitue le coeur dramatique de l'exposition. Jouer avec conviction et clarte thematique, le premier theme articule, le second plus lyrique et cantabile.
 </meta>
-    <section=section_2, n_mesure=8, bpm=90, format=4/4, tonalite=Fa_mineur>
+    <section=exposition_2, n_mesure=8, bpm=80, format=4/4, tonalite=Fa_mineur>
         <mesure num=1>
             <piano_1_v1>  |({fa5, sol5, fa5}, {mi5, fa5}, solb5), ({mib5, fa5, mib5}, {re5, mib5}, fa5), ({reb5, mib5, reb5}, {do5, reb5}, mib5), ({do5, reb5, do5}, {si4, do5}, reb5)|
             <piano_1_v3>  |fa3, -, -, -|
@@ -102,9 +102,9 @@ Section de développement 1 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 2 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
+8 mesures. Tempo Allegro moderato, environ 80 BPM. Signature 4/4. Tonalite Fa mineur. L'exposition presente les themes en Fa mineur, etablissant un caractere tenebreux et dramatique que Schubert cultive avec une intensite soutenue, le second theme apportant un contraste modulant vers Lab majeur. Ce contraste entre tension et luminosite constitue le coeur dramatique de l'exposition. Jouer avec conviction et clarte thematique, le premier theme articule, le second plus lyrique et cantabile.
 </meta>
-    <section=section_3, n_mesure=8, bpm=90, format=4/4, tonalite=Fa_mineur>
+    <section=exposition_3, n_mesure=8, bpm=80, format=4/4, tonalite=Fa_mineur>
         <mesure num=1>
             <piano_1_v1>  |({solb4, sib4}, fa4, lab4), ({fa4, lab4}, fa4, lab4), ({fa4, lab4}, mi4, sol4), ({mi4, sol4}, mi4, sol4)|
             <piano_1_v3>  |(do3, _), (fa3 lab3, _), (do3, _), (mi3 sol3, _)|
@@ -140,9 +140,9 @@ Section de développement 2 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 3 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
+8 mesures. Tempo Allegro moderato, environ 80 BPM. Signature 4/4. Tonalite Fa mineur. L'exposition presente les themes en Fa mineur, etablissant un caractere tenebreux et dramatique que Schubert cultive avec une intensite soutenue, le second theme apportant un contraste modulant vers Lab majeur. Ce contraste entre tension et luminosite constitue le coeur dramatique de l'exposition. Jouer avec conviction et clarte thematique, le premier theme articule, le second plus lyrique et cantabile.
 </meta>
-    <section=section_4, n_mesure=8, bpm=90, format=4/4, tonalite=Fa_mineur>
+    <section=exposition_4, n_mesure=8, bpm=80, format=4/4, tonalite=Fa_mineur>
         <mesure num=1>
             <piano_1_v1>  |({re5, fa5}, mib5, solb5), ({la5, do6}, re5, fa5), ({mib5, solb5}, la5, do6), ({sib5, la5}, sol5, la5)|
             <piano_1_v3>  |(fa3, fa4), (fa4, fa4), (fa3, fa4), (fa4, fa3 mib4 fa4)|
@@ -183,9 +183,9 @@ Section de développement 3 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 4 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
+8 mesures. Tempo Allegro moderato, environ 80 BPM. Signature 4/4. Tonalite Fa mineur. L'exposition presente les themes en Fa mineur, etablissant un caractere tenebreux et dramatique que Schubert cultive avec une intensite soutenue, le second theme apportant un contraste modulant vers Lab majeur. Ce contraste entre tension et luminosite constitue le coeur dramatique de l'exposition. Jouer avec conviction et clarte thematique, le premier theme articule, le second plus lyrique et cantabile.
 </meta>
-    <section=section_5, n_mesure=8, bpm=90, format=4/4, tonalite=Fa_mineur>
+    <section=exposition_5, n_mesure=8, bpm=80, format=4/4, tonalite=Fa_mineur>
         <mesure num=1>
             <piano_1_v1>  |(lab5, lab3), (lab3, lab3), (sol3, lab3), (lab3, lab3)|
             <piano_1_v3>  |(lab3 do4, lab2), (lab2, lab2), (sol2, lab2), (lab2, lab2)|
@@ -225,9 +225,9 @@ Section de développement 4 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 5 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
+8 mesures. Tempo Allegro moderato, environ 80 BPM. Signature 4/4. Tonalite Fa mineur. L'exposition presente les themes en Fa mineur, etablissant un caractere tenebreux et dramatique que Schubert cultive avec une intensite soutenue, le second theme apportant un contraste modulant vers Lab majeur. Ce contraste entre tension et luminosite constitue le coeur dramatique de l'exposition. Jouer avec conviction et clarte thematique, le premier theme articule, le second plus lyrique et cantabile.
 </meta>
-    <section=section_6, n_mesure=8, bpm=90, format=4/4, tonalite=Fa_mineur>
+    <section=exposition_6, n_mesure=8, bpm=80, format=4/4, tonalite=Fa_mineur>
         <mesure num=1>
             <piano_1_v1>  |(sib4 sib5, la4 la5), (la4 la5, sol4 sol5), (sol4 sol5, fa4 fa5), (fa4 fa5, fa4 fa5)|
             <piano_1_v3>  |(sib2 sib3, la2 la3), (la2 la3, sol2 sol3), (sol2 sol3, fa2 fa3), (fa2 fa3, fa2 fa3)|
@@ -267,9 +267,9 @@ Section de développement 5 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 6 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
+8 mesures. Tempo Allegro moderato, environ 80 BPM. Signature 4/4. Tonalite Fa mineur. L'exposition presente les themes en Fa mineur, etablissant un caractere tenebreux et dramatique que Schubert cultive avec une intensite soutenue, le second theme apportant un contraste modulant vers Lab majeur. Ce contraste entre tension et luminosite constitue le coeur dramatique de l'exposition. Jouer avec conviction et clarte thematique, le premier theme articule, le second plus lyrique et cantabile.
 </meta>
-    <section=section_7, n_mesure=8, bpm=90, format=4/4, tonalite=Fa_mineur>
+    <section=exposition_7, n_mesure=8, bpm=80, format=4/4, tonalite=Fa_mineur>
         <mesure num=1>
             <piano_1_v1>  |(reb4 mib4, do4 mib4 lab4), (do4 mib4 lab4, do4 mib4 lab4), (do4 mib4 lab4, do4 mib4 lab4), (mib4 lab4 do5, do4 mib4 lab4)|
             <piano_1_v2>  |_, _, lab4|
@@ -312,9 +312,9 @@ Section de développement 6 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 7 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
+8 mesures. Tempo Allegro moderato, environ 80 BPM. Signature 4/4. Tonalite Fa mineur. L'exposition presente les themes en Fa mineur, etablissant un caractere tenebreux et dramatique que Schubert cultive avec une intensite soutenue, le second theme apportant un contraste modulant vers Lab majeur. Ce contraste entre tension et luminosite constitue le coeur dramatique de l'exposition. Jouer avec conviction et clarte thematique, le premier theme articule, le second plus lyrique et cantabile.
 </meta>
-    <section=section_8, n_mesure=8, bpm=90, format=4/4, tonalite=Fa_mineur>
+    <section=exposition_8, n_mesure=8, bpm=80, format=4/4, tonalite=Fa_mineur>
         <mesure num=1>
             <piano_1_v1>  |(reb5 mib5, do5 mib5 lab5), (do5 mib5 lab5, do5 mib5 lab5), (do5 mib5 lab5, mib5, mib6), ({lab5, mib6}, sib5, mib6)|
             <piano_1_v3>  |(_, do4 mib4 lab4), (do4 mib4 lab4, do4 mib4 lab4), (do4 mib4 lab4, do4 mib4), (do4 mib4 lab4, mib4 sol4 sib4)|
@@ -356,9 +356,9 @@ Section de développement 7 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 8 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
+8 mesures. Tempo Allegro moderato, environ 80 BPM. Signature 4/4. Tonalite Lab majeur et modulant. Le developpement explore les possibilites harmoniques du materiau thematique, passant par Lab majeur et plusieurs tonalites intermediaires, creant des tensions harmoniques par des modulations inattendues caracteristiques de Schubert. Ces modulations imprevisibles sont l'une des caracteristiques les plus fascinantes du langage harmonique schubertien. Maintenir la tension et la direction harmonique a travers les modulations, chaque pivot harmonique ressenti comme une decouverte.
 </meta>
-    <section=section_9, n_mesure=8, bpm=90, format=4/4, tonalite=Fa_mineur>
+    <section=developpement_9, n_mesure=8, bpm=80, format=4/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |sib6, -, (sib6, do7), (reb7, re7)|
             <piano_1_v3>  |(mib3, _), reb4 mib4 sib4, -, -|
@@ -394,9 +394,9 @@ Section de développement 8 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 9 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
+8 mesures. Tempo Allegro moderato, environ 80 BPM. Signature 4/4. Tonalite Lab majeur et modulant. Le developpement explore les possibilites harmoniques du materiau thematique, passant par Lab majeur et plusieurs tonalites intermediaires, creant des tensions harmoniques par des modulations inattendues caracteristiques de Schubert. Ces modulations imprevisibles sont l'une des caracteristiques les plus fascinantes du langage harmonique schubertien. Maintenir la tension et la direction harmonique a travers les modulations, chaque pivot harmonique ressenti comme une decouverte.
 </meta>
-    <section=section_10, n_mesure=8, bpm=90, format=4/4, tonalite=Fa_mineur>
+    <section=developpement_10, n_mesure=8, bpm=80, format=4/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |({si3, mib4}, mib3, lab3), ({si3, mib4}, mib3, lab3), ({si3, mib4}, mib3, lab3), ({si3, mib4}, sol3 reb4, mib4)|
             <piano_1_v3>  |si4 mib5, _, _, (si2 mib3, sib2 mib3)|
@@ -432,9 +432,9 @@ Section de développement 9 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 10 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
+8 mesures. Tempo Allegro moderato, environ 80 BPM. Signature 4/4. Tonalite Lab majeur et modulant. Le developpement explore les possibilites harmoniques du materiau thematique, passant par Lab majeur et plusieurs tonalites intermediaires, creant des tensions harmoniques par des modulations inattendues caracteristiques de Schubert. Ces modulations imprevisibles sont l'une des caracteristiques les plus fascinantes du langage harmonique schubertien. Maintenir la tension et la direction harmonique a travers les modulations, chaque pivot harmonique ressenti comme une decouverte.
 </meta>
-    <section=section_11, n_mesure=8, bpm=90, format=4/4, tonalite=Fa_mineur>
+    <section=developpement_11, n_mesure=8, bpm=80, format=4/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |({reb4, solb4}, solb3, si3), ({reb4, solb4}, solb3, si3), ({reb4, solb4}, solb3, sib3), ({reb4, solb4}, solb3, sib3)|
             <piano_1_v3>  |solb5, -, -, -|
@@ -470,9 +470,9 @@ Section de développement 10 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 11 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
+8 mesures. Tempo Allegro moderato, environ 80 BPM. Signature 4/4. Tonalite Lab majeur et modulant. Le developpement explore les possibilites harmoniques du materiau thematique, passant par Lab majeur et plusieurs tonalites intermediaires, creant des tensions harmoniques par des modulations inattendues caracteristiques de Schubert. Ces modulations imprevisibles sont l'une des caracteristiques les plus fascinantes du langage harmonique schubertien. Maintenir la tension et la direction harmonique a travers les modulations, chaque pivot harmonique ressenti comme une decouverte.
 </meta>
-    <section=section_12, n_mesure=8, bpm=90, format=4/4, tonalite=Fa_mineur>
+    <section=developpement_12, n_mesure=8, bpm=80, format=4/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |({lab3 si3, mib4}, mib3, lab3), ({si3, mib4}, mib3, lab3), ({si3, mib4}, mib3, lab3), ({si3, mib4}, solb3 reb4, solb4)|
             <piano_1_v3>  |(lab2 mib3, _), _, _, (lab4 si4, sib4 reb5)|
@@ -508,9 +508,9 @@ Section de développement 11 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 12 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
+8 mesures. Tempo Allegro moderato, environ 80 BPM. Signature 4/4. Tonalite Lab majeur et modulant. Le developpement explore les possibilites harmoniques du materiau thematique, passant par Lab majeur et plusieurs tonalites intermediaires, creant des tensions harmoniques par des modulations inattendues caracteristiques de Schubert. Ces modulations imprevisibles sont l'une des caracteristiques les plus fascinantes du langage harmonique schubertien. Maintenir la tension et la direction harmonique a travers les modulations, chaque pivot harmonique ressenti comme une decouverte.
 </meta>
-    <section=section_13, n_mesure=8, bpm=90, format=4/4, tonalite=Fa_mineur>
+    <section=developpement_13, n_mesure=8, bpm=80, format=4/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |({mib4, solb4}, solb3, si3), ({mib4, solb4}, solb3, si3), ({re4, solb4}, solb3, si3), ({re4, solb4}, solb3, si3)|
             <piano_1_v3>  |mib5, _, (_, si2), (reb3, re3)|
@@ -546,9 +546,9 @@ Section de développement 12 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 13 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
+8 mesures. Tempo Allegro moderato, environ 80 BPM. Signature 4/4. Tonalite Lab majeur et modulant. Le developpement explore les possibilites harmoniques du materiau thematique, passant par Lab majeur et plusieurs tonalites intermediaires, creant des tensions harmoniques par des modulations inattendues caracteristiques de Schubert. Ces modulations imprevisibles sont l'une des caracteristiques les plus fascinantes du langage harmonique schubertien. Maintenir la tension et la direction harmonique a travers les modulations, chaque pivot harmonique ressenti comme une decouverte.
 </meta>
-    <section=section_14, n_mesure=8, bpm=90, format=4/4, tonalite=Fa_mineur>
+    <section=developpement_14, n_mesure=8, bpm=80, format=4/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |({mi4, lab4}, lab3, si3), ({mi4, lab4}, lab3, si3), ({mi4, la4}, la3, do4), ({mi4, la4}, la3, do4)|
             <piano_1_v3>  |(mi5, _), mi2, -, (do5, re5)|
@@ -584,9 +584,9 @@ Section de développement 13 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 14 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
+8 mesures. Tempo Allegro moderato, environ 80 BPM. Signature 4/4. Tonalite Lab majeur et modulant. Le developpement explore les possibilites harmoniques du materiau thematique, passant par Lab majeur et plusieurs tonalites intermediaires, creant des tensions harmoniques par des modulations inattendues caracteristiques de Schubert. Ces modulations imprevisibles sont l'une des caracteristiques les plus fascinantes du langage harmonique schubertien. Maintenir la tension et la direction harmonique a travers les modulations, chaque pivot harmonique ressenti comme une decouverte.
 </meta>
-    <section=section_15, n_mesure=8, bpm=90, format=4/4, tonalite=Fa_mineur>
+    <section=developpement_15, n_mesure=8, bpm=80, format=4/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |({do4, mib4}, mib3, lab3), ({do4, mib4}, mib3, lab3), ({do4, mib4}, mib3, lab3), ({do4, mib4}, sib3, mib4)|
             <piano_1_v3>  |lab2, _, _, (lab4, sol4 sib4)|
@@ -624,9 +624,9 @@ Section de développement 14 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 15 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
+8 mesures. Tempo Allegro moderato, environ 80 BPM. Signature 4/4. Tonalite Lab majeur et modulant. Le developpement explore les possibilites harmoniques du materiau thematique, passant par Lab majeur et plusieurs tonalites intermediaires, creant des tensions harmoniques par des modulations inattendues caracteristiques de Schubert. Ces modulations imprevisibles sont l'une des caracteristiques les plus fascinantes du langage harmonique schubertien. Maintenir la tension et la direction harmonique a travers les modulations, chaque pivot harmonique ressenti comme une decouverte.
 </meta>
-    <section=section_16, n_mesure=8, bpm=90, format=4/4, tonalite=Fa_mineur>
+    <section=developpement_16, n_mesure=8, bpm=80, format=4/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |({lab3 do4, mib4}, mib3, lab3), ({do4, mib4}, mib3, lab3), ({do4, mib4}, mib3, lab3), ({do4, mib4}, reb4, mib4)|
             <piano_1_v3>  |(lab2 do3, _), _, _, (lab4 do5, sib4 reb5)|
@@ -664,9 +664,9 @@ Section de développement 15 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 16 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
+8 mesures. Tempo Allegro moderato, environ 80 BPM. Signature 4/4. Tonalite Fa mineur vers Fa majeur. La recapitulation reunit les themes sous Fa mineur, avec une resolution possible en Fa majeur qui apporte la lumiere attendue apres la tension, procede cher a Schubert qui aime conclure en majeur relatif. Ce passage de mineur en majeur a la recapitulation produit un sentiment de liberation et de paix. Laisser le glissement vers Fa majeur s'operer avec naturel, comme une resolution inevitable et bienvenue.
 </meta>
-    <section=section_17, n_mesure=8, bpm=90, format=4/4, tonalite=Fa_mineur>
+    <section=recapitulation_17, n_mesure=8, bpm=80, format=4/4, tonalite=Fa_mineur>
         <mesure num=1>
             <piano_1_v1>  |({sib3, do4}, do3, mi3), ({sib3, do4}, mi3, sib3), ({do4, mi4}, sib3, do4), ({mi4, sib4}, do4, mi4)|
             <piano_1_v3>  |sol1 do2 sol2, -, -, -|
@@ -709,9 +709,9 @@ Section de développement 16 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 17 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
+8 mesures. Tempo Allegro moderato, environ 80 BPM. Signature 4/4. Tonalite Fa mineur vers Fa majeur. La recapitulation reunit les themes sous Fa mineur, avec une resolution possible en Fa majeur qui apporte la lumiere attendue apres la tension, procede cher a Schubert qui aime conclure en majeur relatif. Ce passage de mineur en majeur a la recapitulation produit un sentiment de liberation et de paix. Laisser le glissement vers Fa majeur s'operer avec naturel, comme une resolution inevitable et bienvenue.
 </meta>
-    <section=section_18, n_mesure=8, bpm=90, format=4/4, tonalite=Fa_mineur>
+    <section=recapitulation_18, n_mesure=8, bpm=80, format=4/4, tonalite=Fa_mineur>
         <mesure num=1>
             <piano_1_v1>  |{do5, fa5, lab5, do6}, sib5, (lab5, lab6), (sol5, sol6)|
             <piano_1_v3>  |lab3, -, -, sol2 mi3|
@@ -753,9 +753,9 @@ Section de développement 17 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 18 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
+8 mesures. Tempo Allegro moderato, environ 80 BPM. Signature 4/4. Tonalite Fa mineur vers Fa majeur. La recapitulation reunit les themes sous Fa mineur, avec une resolution possible en Fa majeur qui apporte la lumiere attendue apres la tension, procede cher a Schubert qui aime conclure en majeur relatif. Ce passage de mineur en majeur a la recapitulation produit un sentiment de liberation et de paix. Laisser le glissement vers Fa majeur s'operer avec naturel, comme une resolution inevitable et bienvenue.
 </meta>
-    <section=section_19, n_mesure=8, bpm=90, format=4/4, tonalite=Fa_mineur>
+    <section=recapitulation_19, n_mesure=8, bpm=80, format=4/4, tonalite=Fa_mineur>
         <mesure num=1>
             <piano_1_v1>  |({lab4, reb5}, lab4, do5), ({lab4, do5}, lab4, do5), ({lab4, do5}, solb4, sib4), ({solb4, sib4}, solb4, sib4)|
             <piano_1_v3>  |_, fa3 fa4, (sib2, _), (solb3 sib3, _)|
@@ -791,9 +791,9 @@ Section de développement 18 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 19 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
+8 mesures. Tempo Allegro moderato, environ 80 BPM. Signature 4/4. Tonalite Fa mineur vers Fa majeur. La recapitulation reunit les themes sous Fa mineur, avec une resolution possible en Fa majeur qui apporte la lumiere attendue apres la tension, procede cher a Schubert qui aime conclure en majeur relatif. Ce passage de mineur en majeur a la recapitulation produit un sentiment de liberation et de paix. Laisser le glissement vers Fa majeur s'operer avec naturel, comme une resolution inevitable et bienvenue.
 </meta>
-    <section=section_20, n_mesure=8, bpm=90, format=4/4, tonalite=Fa_mineur>
+    <section=recapitulation_20, n_mesure=8, bpm=80, format=4/4, tonalite=Fa_mineur>
         <mesure num=1>
             <piano_1_v1>  |(fa5, la4, do5), ({la4, do5}, la4, do5), ({lab4, si4}, la4, do5), ({la4, do5}, la4, do5)|
             <piano_1_v3>  |(fa3 la3 do4, do4), (do4, do4), (reb4, do4), (do4, mib4)|
@@ -834,9 +834,9 @@ Section de développement 19 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 20 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
+8 mesures. Tempo Allegro moderato, environ 80 BPM. Signature 4/4. Tonalite Fa mineur vers Fa majeur. La recapitulation reunit les themes sous Fa mineur, avec une resolution possible en Fa majeur qui apporte la lumiere attendue apres la tension, procede cher a Schubert qui aime conclure en majeur relatif. Ce passage de mineur en majeur a la recapitulation produit un sentiment de liberation et de paix. Laisser le glissement vers Fa majeur s'operer avec naturel, comme une resolution inevitable et bienvenue.
 </meta>
-    <section=section_21, n_mesure=8, bpm=90, format=4/4, tonalite=Fa_mineur>
+    <section=recapitulation_21, n_mesure=8, bpm=80, format=4/4, tonalite=Fa_mineur>
         <mesure num=1>
             <piano_1_v1>  |(solb3, {sol3, la3}), (sol3, {la3, sib3}), (do4, mi4, sol4), ({do5, mi5}, sol5, do6)|
             <piano_1_v3>  |(solb2, {sol2, la2}), (sol2, {la2, sib2}), (do3, do3 sol3 sib3), (do3 sol3 sib3, do3 sol3 sib3)|
@@ -876,9 +876,9 @@ Section de développement 20 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 21 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
+8 mesures. Tempo Allegro moderato, environ 80 BPM. Signature 4/4. Tonalite Fa mineur vers Fa majeur. La recapitulation reunit les themes sous Fa mineur, avec une resolution possible en Fa majeur qui apporte la lumiere attendue apres la tension, procede cher a Schubert qui aime conclure en majeur relatif. Ce passage de mineur en majeur a la recapitulation produit un sentiment de liberation et de paix. Laisser le glissement vers Fa majeur s'operer avec naturel, comme une resolution inevitable et bienvenue.
 </meta>
-    <section=section_22, n_mesure=8, bpm=90, format=4/4, tonalite=Fa_mineur>
+    <section=recapitulation_22, n_mesure=8, bpm=80, format=4/4, tonalite=Fa_mineur>
         <mesure num=1>
             <piano_1_v1>  |(mib5 mib6, re5 re6), (re5 re6, reb5 reb6), (reb5 reb6, re5 re6), (re5 re6, la4 la5)|
             <piano_1_v3>  |(mib3 mib4, re3 re4), (re3 re4, reb3 reb4), (reb3 reb4, re3 re4), (re3 re4, la2 la3)|
@@ -917,9 +917,9 @@ Section de développement 21 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 22 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
+8 mesures. Tempo Allegro moderato, environ 80 BPM. Signature 4/4. Tonalite Fa mineur vers Fa majeur. La recapitulation reunit les themes sous Fa mineur, avec une resolution possible en Fa majeur qui apporte la lumiere attendue apres la tension, procede cher a Schubert qui aime conclure en majeur relatif. Ce passage de mineur en majeur a la recapitulation produit un sentiment de liberation et de paix. Laisser le glissement vers Fa majeur s'operer avec naturel, comme une resolution inevitable et bienvenue.
 </meta>
-    <section=section_23, n_mesure=8, bpm=90, format=4/4, tonalite=Fa_mineur>
+    <section=recapitulation_23, n_mesure=8, bpm=80, format=4/4, tonalite=Fa_mineur>
         <mesure num=1>
             <piano_1_v1>  |(la3 do4 fa4, sol3 do4 mi4), (sol3 do4 mi4, sol3 do4 mi4), (sol3 do4 mi4, sol3 do4 mi4), (la3 do4 fa4, sib3 do4 sol4)|
             <piano_1_v3>  |(_, do3), (do3, do3), (do3, do3), (do3, do3)|
@@ -963,9 +963,9 @@ Section de développement 22 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 23 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
+8 mesures. Tempo Allegro moderato, environ 80 BPM. Signature 4/4. Tonalite Fa mineur vers Fa majeur. La recapitulation reunit les themes sous Fa mineur, avec une resolution possible en Fa majeur qui apporte la lumiere attendue apres la tension, procede cher a Schubert qui aime conclure en majeur relatif. Ce passage de mineur en majeur a la recapitulation produit un sentiment de liberation et de paix. Laisser le glissement vers Fa majeur s'operer avec naturel, comme une resolution inevitable et bienvenue.
 </meta>
-    <section=section_24, n_mesure=8, bpm=90, format=4/4, tonalite=Fa_mineur>
+    <section=recapitulation_24, n_mesure=8, bpm=80, format=4/4, tonalite=Fa_mineur>
         <mesure num=1>
             <piano_1_v1>  |(la4 do5 fa5, sol4 do5 mi5), (sol4 do5 mi5, sol4 do5 mi5), (sol4 do5 mi5, sol4 do5 mi5), (la4 do5 fa5, sib4 do5 sol5)|
             <piano_1_v3>  |(do3, sol3 do4 mi4), (sol3 do4 mi4, sol3 do4 mi4), (sol3 do4 mi4, sol3 do4 mi4), (la3 do4 fa4, sib3 do4 sol4)|
@@ -1007,9 +1007,9 @@ Section de développement 23 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 24 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
+8 mesures. Tempo Allegro moderato, environ 80 BPM. Signature 4/4. Tonalite Fa mineur. La coda revient sur Fa mineur pour confirmer la tonalite principale et apporter une conclusion affirmative, condensant le materiau pour une impression de boucle fermee et de resolution accomplie. Ce bref retour au mineur apporte une sobriete conclusive apres l'eclaircie de la recapitulation. Jouer la coda avec une energie concentree, les accents bien places pour signaler la conclusion.
 </meta>
-    <section=section_25, n_mesure=8, bpm=90, format=4/4, tonalite=Fa_mineur>
+    <section=coda_25, n_mesure=8, bpm=80, format=4/4, tonalite=Fa_mineur>
         <mesure num=1>
             <piano_1_v1>  |({do6, do7}, sib6, do6), ({do6, do7}, sib6, do6), ({do6, do7}, sib6, do6), ({la6, do7}, sol6, do7)|
             <piano_1_v3>  |(do3, sol3 do4 mi4), (sol3 do4 mi4, sol3 do4 mi4), (sol3 do4 mi4, sol3 do4 mi4), (la3 do4 fa4, sib3 do4 sol4)|
@@ -1045,9 +1045,9 @@ Section de développement 24 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 25 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
+8 mesures. Tempo Allegro moderato, environ 80 BPM. Signature 4/4. Tonalite Fa mineur. La coda revient sur Fa mineur pour confirmer la tonalite principale et apporter une conclusion affirmative, condensant le materiau pour une impression de boucle fermee et de resolution accomplie. Ce bref retour au mineur apporte une sobriete conclusive apres l'eclaircie de la recapitulation. Jouer la coda avec une energie concentree, les accents bien places pour signaler la conclusion.
 </meta>
-    <section=section_26, n_mesure=8, bpm=90, format=4/4, tonalite=Fa_mineur>
+    <section=coda_26, n_mesure=8, bpm=80, format=4/4, tonalite=Fa_mineur>
         <mesure num=1>
             <piano_1_v1>  |({lab4, do5}, do4, fa4), ({lab4, do5}, do4, fa4), ({lab4, do5}, do4, fa4), ({lab4, do5}, mi4 sib4, do5)|
             <piano_1_v3>  |lab5 do6, _, _, (lab3 do4, sol3 do4)|
@@ -1083,9 +1083,9 @@ Section de développement 25 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 26 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
+8 mesures. Tempo Allegro moderato, environ 80 BPM. Signature 4/4. Tonalite Fa mineur. La coda revient sur Fa mineur pour confirmer la tonalite principale et apporter une conclusion affirmative, condensant le materiau pour une impression de boucle fermee et de resolution accomplie. Ce bref retour au mineur apporte une sobriete conclusive apres l'eclaircie de la recapitulation. Jouer la coda avec une energie concentree, les accents bien places pour signaler la conclusion.
 </meta>
-    <section=section_27, n_mesure=8, bpm=90, format=4/4, tonalite=Fa_mineur>
+    <section=coda_27, n_mesure=8, bpm=80, format=4/4, tonalite=Fa_mineur>
         <mesure num=1>
             <piano_1_v1>  |({sib4, mib5}, mib4, lab4), ({sib4, mib5}, mib4, lab4), ({sib4, mib5}, mib4, sol4), ({sib4, mib5}, mib4, sol4)|
             <piano_1_v3>  |mib6, -, -, -|
@@ -1121,9 +1121,9 @@ Section de développement 26 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 27 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
+8 mesures. Tempo Allegro moderato, environ 80 BPM. Signature 4/4. Tonalite Fa mineur. La coda revient sur Fa mineur pour confirmer la tonalite principale et apporter une conclusion affirmative, condensant le materiau pour une impression de boucle fermee et de resolution accomplie. Ce bref retour au mineur apporte une sobriete conclusive apres l'eclaircie de la recapitulation. Jouer la coda avec une energie concentree, les accents bien places pour signaler la conclusion.
 </meta>
-    <section=section_28, n_mesure=8, bpm=90, format=4/4, tonalite=Fa_mineur>
+    <section=coda_28, n_mesure=8, bpm=80, format=4/4, tonalite=Fa_mineur>
         <mesure num=1>
             <piano_1_v1>  |({reb5, fa5}, fa4, lab4), ({reb5, fa5}, fa4, lab4), ({reb5, solb5}, solb4, la4), ({reb5, solb5}, solb4, la4)|
             <piano_1_v3>  |(reb6, _), reb3, -, (la5, si5)|
@@ -1159,9 +1159,9 @@ Section de développement 27 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 28 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
+8 mesures. Tempo Allegro moderato, environ 80 BPM. Signature 4/4. Tonalite Fa mineur. La coda revient sur Fa mineur pour confirmer la tonalite principale et apporter une conclusion affirmative, condensant le materiau pour une impression de boucle fermee et de resolution accomplie. Ce bref retour au mineur apporte une sobriete conclusive apres l'eclaircie de la recapitulation. Jouer la coda avec une energie concentree, les accents bien places pour signaler la conclusion.
 </meta>
-    <section=section_29, n_mesure=8, bpm=90, format=4/4, tonalite=Fa_mineur>
+    <section=coda_29, n_mesure=8, bpm=80, format=4/4, tonalite=Fa_mineur>
         <mesure num=1>
             <piano_1_v1>  |({si4, fa5}, fa4, sol4), ({si4, fa5}, fa4, sol4), ({sib4, do5}, do4, sol4), ({sib4, do5}, do4, sol4)|
             <piano_1_v3>  |re3, -, mi3, -|
@@ -1199,9 +1199,9 @@ Section de développement 28 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 29 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
+8 mesures. Tempo Allegro moderato, environ 80 BPM. Signature 4/4. Tonalite Fa mineur. La coda revient sur Fa mineur pour confirmer la tonalite principale et apporter une conclusion affirmative, condensant le materiau pour une impression de boucle fermee et de resolution accomplie. Ce bref retour au mineur apporte une sobriete conclusive apres l'eclaircie de la recapitulation. Jouer la coda avec une energie concentree, les accents bien places pour signaler la conclusion.
 </meta>
-    <section=section_30, n_mesure=8, bpm=90, format=4/4, tonalite=Fa_mineur>
+    <section=coda_30, n_mesure=8, bpm=80, format=4/4, tonalite=Fa_mineur>
         <mesure num=1>
             <piano_1_v1>  |({la4, do5}, do4, fa4), ({la4, do5}, do4, fa4), ({la4, do5}, fa4 la4, do5), ({mi4 sib4, do5}, mi4 sol4, do5)|
             <piano_1_v3>  |la5 do6, _, (_, la3 do4), (sol3 sib3, do3 sol3)|
@@ -1239,9 +1239,9 @@ Section de développement 29 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 30 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
+8 mesures. Tempo Allegro moderato, environ 80 BPM. Signature 4/4. Tonalite Fa mineur. La coda revient sur Fa mineur pour confirmer la tonalite principale et apporter une conclusion affirmative, condensant le materiau pour une impression de boucle fermee et de resolution accomplie. Ce bref retour au mineur apporte une sobriete conclusive apres l'eclaircie de la recapitulation. Jouer la coda avec une energie concentree, les accents bien places pour signaler la conclusion.
 </meta>
-    <section=section_31, n_mesure=8, bpm=90, format=4/4, tonalite=Fa_mineur>
+    <section=coda_31, n_mesure=8, bpm=80, format=4/4, tonalite=Fa_mineur>
         <mesure num=1>
             <piano_1_v1>  |({fa4, lab4}, lab3, do4), ({fa4, lab4}, lab3, do4), ({fa4, lab4}, do4, fa4), ({lab4, do5}, do4, fa4)|
             <piano_1_v3>  |(_, mi2), (fa2, lab2), (si2, do3), (fa3, sol3)|
@@ -1287,9 +1287,9 @@ Section de développement 30 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section conclusive — 2 mesures. Tonalité Fa mineur, tempo 90 BPM.
+2 mesures. Tempo Allegro moderato, environ 80 BPM. Signature 4/4. Tonalite Fa mineur. La coda revient sur Fa mineur pour confirmer la tonalite principale et apporter une conclusion affirmative, condensant le materiau pour une impression de boucle fermee et de resolution accomplie. Ce bref retour au mineur apporte une sobriete conclusive apres l'eclaircie de la recapitulation. Jouer la coda avec une energie concentree, les accents bien places pour signaler la conclusion.
 </meta>
-    <section=section_32, n_mesure=2, bpm=90, format=4/4, tonalite=Fa_mineur>
+    <section=coda_32, n_mesure=2, bpm=80, format=4/4, tonalite=Fa_mineur>
         <mesure num=1>
             <piano_1_v1>  |fa4, _, lab3 do4 fa4, _|
             <piano_1_v2>  |lab3, -, _, _|
