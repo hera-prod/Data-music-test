@@ -6,7 +6,7 @@ FORMAT : piano_solo
 NIVEAU : avance
 Titre : Prélude en do dièse mineur, BWV 873, Clavier bien tempéré II n°4
 Date : 1742
-Auteur : Johann Sebastian Bach
+Auteur : Bach
 Tonalite : Do#_mineur
 Unite : quarter
 Intention : Prélude lyrique à trois sujets thématiques distincts d'un caractère mélancolique et contemplatif en sicilienne lente, d'une richesse mélodique et harmonique rarissime dans le corpus des préludes baroques, avec une profusion d'ornements et de mordants. Forme prélude ternaire en do dièse mineur, mesure à 9/8, 59 mesures, tempo lent aux alentours de 90 pulsations par minute, avec une structure de type sonate innovante pour l'époque.
