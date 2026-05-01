@@ -9,11 +9,14 @@ Date : 1844
 Auteur : Frédéric Chopin
 Tonalite : Si_mineur
 Unite : quarter
-Intention : Finale exaltant d'une virtuosité héroïque, construit sur la tension permanente entre le thème agitato en si mineur et l'épisode lyrique en fa dièse majeur. Forme sonate-rondo ABABA en si mineur, mesure 6/8, 288 mesures, Presto ma non tanto ; l'écriture en polyrhythme (trois contre quatre) et les sextuplets de croches en constante accélération conduisent à une coda triomphale en si majeur.
+Intention : Virtuosité héroïque et tension permanente entre agitation et lyrisme, ce finale exaltant oppose le thème agitato en si mineur à l'épisode lyrique en fa dièse majeur. Forme sonate-rondo ABABA en si mineur, mesure à 6/8, 288 mesures, Presto ma non tanto ; les sextuplets de croches en constante accélération conduisent à une coda triomphale en si majeur.
 </tete>
 
 <meta>
-Introduction dramatique en si mineur, 8 mesures ; une irruption violente fortissimo ouvre le finale par un geste d'une énergie dévastatrice. Puis un silence sur la pédale de dominante aiguë crée une suspension haletante avant le premier sujet. Attaquer avec toute la puissance disponible.
+8 mesures. BPM 90. Signature 6/8. Tonalité Si_mineur.
+Introduction dramatique en si mineur, 8 mesures ;
+une irruption violente fortissimo ouvre le finale par un geste d'une énergie dévastatrice. Puis un silence sur la pédale de dominante aiguë crée une suspension haletante avant le premier sujet.
+Attaquer avec toute la puissance disponible.
 </meta>
     <section=introduction, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
         <mesure num=1>
@@ -51,7 +54,10 @@ Introduction dramatique en si mineur, 8 mesures ; une irruption violente fortiss
     </section>
 
 <meta>
-Fin de l'introduction et pédale dominante ; la suspension sur la dominante aiguë prolonge la tension. Le premier sujet agitato entre alors dans un élan irrésistible. Maintenir le silence et la tension dans l'accord tenu avant l'entrée du rondo.
+8 mesures. BPM 90. Signature 6/8. Tonalité Si_mineur.
+Fin de l'introduction et pédale dominante ;
+la suspension sur la dominante aiguë prolonge la tension. Le premier sujet agitato entre alors dans un élan irrésistible.
+Maintenir le silence et la tension dans l'accord tenu avant l'entrée du rondo.
 </meta>
     <section=introduction, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
         <mesure num=1>
@@ -91,7 +97,10 @@ Fin de l'introduction et pédale dominante ; la suspension sur la dominante aigu
     </section>
 
 <meta>
-Premier sujet du rondo, si mineur, agitato ; la mélodie construite sur des suspensions chromatiques donne une impression d'instabilité perpétuelle. La main gauche en croches soutient la main droite en triolets dans une écriture polyrhythmique. Clarté des deux plans malgré la vitesse.
+8 mesures. BPM 90. Signature 6/8. Tonalité Si_mineur.
+Premier sujet du rondo, si mineur, agitato ;
+la mélodie construite sur des suspensions chromatiques donne une impression d'instabilité perpétuelle. La main gauche en croches soutient la main droite en triolets dans une écriture polyrhythmique.
+Clarté des deux plans malgré la vitesse.
 </meta>
     <section=theme_1, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
         <mesure num=1>
@@ -137,7 +146,10 @@ Premier sujet du rondo, si mineur, agitato ; la mélodie construite sur des susp
     </section>
 
 <meta>
-Continuation du premier sujet ; la reprise du thème en octaves fortissimo redouble l'intensité. Les deux mains jouent exactement le même rythme créant une puissance maximale. Coordination parfaite requise.
+8 mesures. BPM 90. Signature 6/8. Tonalité Si_mineur.
+Continuation du premier sujet ;
+la reprise du thème en octaves fortissimo redouble l'intensité. Les deux mains jouent exactement le même rythme créant une puissance maximale.
+Coordination parfaite requise.
 </meta>
     <section=theme_1, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
         <mesure num=1>
@@ -178,7 +190,10 @@ Continuation du premier sujet ; la reprise du thème en octaves fortissimo redou
     </section>
 
 <meta>
-Développement du premier sujet ; le thème revient une troisième fois dans une version encore plus intense, avec des sextuplets de croches à la main gauche contre des groupes de quatre à la main droite. Polyrhythme virtuose.
+8 mesures. BPM 90. Signature 6/8. Tonalité Si_mineur.
+Développement du premier sujet ;
+le thème revient une troisième fois dans une version encore plus intense, avec des sextuplets de croches à la main gauche contre des groupes de quatre à la main droite.
+Polyrhythme virtuose.
 </meta>
     <section=theme_1, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
         <mesure num=1>
@@ -220,7 +235,10 @@ Développement du premier sujet ; le thème revient une troisième fois dans une
     </section>
 
 <meta>
-Transition vers le deuxième sujet ; un passage en si majeur combine les thèmes de la codetta du premier mouvement et du trio du deuxième mouvement dans un rappel thématique cyclique. Qualité du legato dans ce pont expressif.
+8 mesures. BPM 90. Signature 6/8. Tonalité Si_mineur.
+Transition vers le deuxième sujet ;
+un passage en si majeur combine les thèmes de la codetta du premier mouvement et du trio du deuxième mouvement dans un rappel thématique cyclique.
+Qualité du legato dans ce pont expressif.
 </meta>
     <section=theme_1, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
         <mesure num=1>
@@ -258,7 +276,10 @@ Transition vers le deuxième sujet ; un passage en si majeur combine les thèmes
     </section>
 
 <meta>
-Préparation harmonique vers fa dièse majeur ; les accords modulants préparent l'entrée du deuxième sujet dans la dominante majeure. La clarté harmonique doit transparaître malgré la vitesse du tempo.
+8 mesures. BPM 90. Signature 6/8. Tonalité Si_mineur.
+Préparation harmonique vers fa dièse majeur ;
+les accords modulants préparent l'entrée du deuxième sujet dans la dominante majeure.
+La clarté harmonique doit transparaître malgré la vitesse du tempo.
 </meta>
     <section=theme_1, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
         <mesure num=1>
@@ -300,7 +321,10 @@ Préparation harmonique vers fa dièse majeur ; les accords modulants préparent
     </section>
 
 <meta>
-Demi-cadence sur la dominante de fa dièse majeur ; la suspension harmonique crée une attente expressive avant le deuxième sujet. Respecter la durée de la suspension avant d'enchaîner.
+8 mesures. BPM 90. Signature 6/8. Tonalité Si_mineur.
+Demi-cadence sur la dominante de fa dièse majeur ;
+la suspension harmonique crée une attente expressive avant le deuxième sujet.
+Respecter la durée de la suspension avant d'enchaîner.
 </meta>
     <section=theme_1, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
         <mesure num=1>
@@ -344,7 +368,10 @@ Demi-cadence sur la dominante de fa dièse majeur ; la suspension harmonique cr�
     </section>
 
 <meta>
-Deuxième sujet en fa dièse majeur ; thème plus héroïque et lyrique, confrontant un motif martial à des figurations rapides à la main droite. L'écriture en deux motifs contrastants crée un dialogue dramatique interne. Différencier clairement les deux caractères.
+8 mesures. BPM 90. Signature 6/8. Tonalité Si_mineur.
+Deuxième sujet en fa dièse majeur ;
+thème plus héroïque et lyrique, confrontant un motif martial à des figurations rapides à la main droite. L'écriture en deux motifs contrastants crée un dialogue dramatique interne.
+Différencier clairement les deux caractères.
 </meta>
     <section=theme_2, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
         <mesure num=1>
@@ -385,7 +412,10 @@ Deuxième sujet en fa dièse majeur ; thème plus héroïque et lyrique, confron
     </section>
 
 <meta>
-Continuation du deuxième sujet ; le motif héroïque et les figurations legiero alternent en un dialogue de plus en plus pressant. La tension dramatique monte par accumulation. Maintenir la clarté malgré la complexité.
+8 mesures. BPM 90. Signature 6/8. Tonalité Si_mineur.
+Continuation du deuxième sujet ;
+le motif héroïque et les figurations legiero alternent en un dialogue de plus en plus pressant. La tension dramatique monte par accumulation.
+Maintenir la clarté malgré la complexité.
 </meta>
     <section=theme_2, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
         <mesure num=1>
@@ -428,7 +458,10 @@ Continuation du deuxième sujet ; le motif héroïque et les figurations legiero
     </section>
 
 <meta>
-Développement du deuxième sujet ; une section en style d'étude legiero constitue la partie la plus virtuose du thème. La main droite file des traits rapides pendant que la gauche marque l'harmonie.
+8 mesures. BPM 90. Signature 6/8. Tonalité Si_mineur.
+Développement du deuxième sujet ;
+une section en style d'étude legiero constitue la partie la plus virtuose du thème.
+La main droite file des traits rapides pendant que la gauche marque l'harmonie.
 </meta>
     <section=theme_2, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
         <mesure num=1>
@@ -473,7 +506,10 @@ Développement du deuxième sujet ; une section en style d'étude legiero consti
     </section>
 
 <meta>
-Second épisode en mi bémol majeur ; après fa dièse majeur, une nouvelle présentation du deuxième sujet en mi bémol crée un contraste coloristique inattendu. L'écriture reste dans le même esprit virtuose.
+8 mesures. BPM 90. Signature 6/8. Tonalité Si_mineur.
+Second épisode en mi bémol majeur ;
+après fa dièse majeur, une nouvelle présentation du deuxième sujet en mi bémol crée un contraste coloristique inattendu.
+L'écriture reste dans le même esprit virtuose.
 </meta>
     <section=theme_2, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
         <mesure num=1>
@@ -516,7 +552,10 @@ Second épisode en mi bémol majeur ; après fa dièse majeur, une nouvelle pré
     </section>
 
 <meta>
-Clôture du deuxième sujet ; la phrase conclusive revient vers si mineur pour préparer la réapparition du premier sujet. La cadence demi-cadencielle crée l'attente du retour.
+8 mesures. BPM 90. Signature 6/8. Tonalité Si_mineur.
+Clôture du deuxième sujet ;
+la phrase conclusive revient vers si mineur pour préparer la réapparition du premier sujet.
+La cadence demi-cadencielle crée l'attente du retour.
 </meta>
     <section=theme_2, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
         <mesure num=1>
@@ -557,7 +596,10 @@ Clôture du deuxième sujet ; la phrase conclusive revient vers si mineur pour p
     </section>
 
 <meta>
-Transition vers le retour du premier sujet ; les chromatismes descendants reconduisent vers la tonique si mineur. Maintenir la tension jusqu'au bout du retour thématique.
+8 mesures. BPM 90. Signature 6/8. Tonalité Si_mineur.
+Transition vers le retour du premier sujet ;
+les chromatismes descendants reconduisent vers la tonique si mineur.
+Maintenir la tension jusqu'au bout du retour thématique.
 </meta>
     <section=theme_2, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
         <mesure num=1>
@@ -603,7 +645,10 @@ Transition vers le retour du premier sujet ; les chromatismes descendants recond
     </section>
 
 <meta>
-Retour du premier sujet en si mineur pour la deuxième fois ; la réapparition du thème agitato est identique à la première présentation mais avec une charge émotionnelle accrue. Redoubler l'intensité expressive.
+8 mesures. BPM 90. Signature 6/8. Tonalité Si_mineur.
+Retour du premier sujet en si mineur pour la deuxième fois ;
+la réapparition du thème agitato est identique à la première présentation mais avec une charge émotionnelle accrue.
+Redoubler l'intensité expressive.
 </meta>
     <section=theme_1, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
         <mesure num=1>
@@ -651,7 +696,10 @@ Retour du premier sujet en si mineur pour la deuxième fois ; la réapparition d
     </section>
 
 <meta>
-Continuation du retour du premier sujet ; les suspensions chromatiques reprennent leur rôle d'instabilisation. La main gauche en croches soutient la droite en triolets.
+8 mesures. BPM 90. Signature 6/8. Tonalité Si_mineur.
+Continuation du retour du premier sujet ;
+les suspensions chromatiques reprennent leur rôle d'instabilisation.
+La main gauche en croches soutient la droite en triolets.
 </meta>
     <section=theme_1, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
         <mesure num=1>
@@ -694,7 +742,10 @@ Continuation du retour du premier sujet ; les suspensions chromatiques reprennen
     </section>
 
 <meta>
-Développement du retour du premier sujet ; le thème en octaves fortissimo revient avec encore plus de puissance. L'accumulation progressive vers le sommet de l'œuvre commence.
+8 mesures. BPM 90. Signature 6/8. Tonalité Si_mineur.
+Développement du retour du premier sujet ;
+le thème en octaves fortissimo revient avec encore plus de puissance.
+L'accumulation progressive vers le sommet de l'œuvre commence.
 </meta>
     <section=theme_1, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
         <mesure num=1>
@@ -734,7 +785,10 @@ Développement du retour du premier sujet ; le thème en octaves fortissimo revi
     </section>
 
 <meta>
-Préparation du deuxième retour du deuxième sujet ; la transition modulante s'oriente maintenant vers mi bémol majeur pour la deuxième présentation du thème B.
+8 mesures. BPM 90. Signature 6/8. Tonalité Si_mineur.
+Préparation du deuxième retour du deuxième sujet ;
+la transition modulante s'oriente maintenant vers mi bémol majeur pour la deuxième présentation du thème B.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
     <section=theme_1, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
         <mesure num=1>
@@ -773,7 +827,10 @@ Préparation du deuxième retour du deuxième sujet ; la transition modulante s'
     </section>
 
 <meta>
-Transition harmonique complexe ; les modulations passagères par plusieurs tonalités avant le deuxième sujet en mi bémol créent un sentiment de montée d'adrénaline harmonique.
+8 mesures. BPM 90. Signature 6/8. Tonalité Si_mineur.
+Transition harmonique complexe ;
+les modulations passagères par plusieurs tonalités avant le deuxième sujet en mi bémol créent un sentiment de montée d'adrénaline harmonique.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
     <section=theme_1, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
         <mesure num=1>
@@ -817,7 +874,10 @@ Transition harmonique complexe ; les modulations passagères par plusieurs tonal
     </section>
 
 <meta>
-Suspension avant le deuxième retour du thème B ; la demi-cadence en mi bémol prépare l'entrée des figurations virtuoses du deuxième sujet.
+8 mesures. BPM 90. Signature 6/8. Tonalité Si_mineur.
+Suspension avant le deuxième retour du thème B ;
+la demi-cadence en mi bémol prépare l'entrée des figurations virtuoses du deuxième sujet.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
     <section=theme_1, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
         <mesure num=1>
@@ -860,7 +920,10 @@ Suspension avant le deuxième retour du thème B ; la demi-cadence en mi bémol 
     </section>
 
 <meta>
-Deuxième retour du deuxième sujet en mi bémol majeur ; la même alternance de motif héroïque et de figurations legiero, mais dans une tonalité différente de la première présentation. Le contraste harmonique renouvelle l'intérêt.
+8 mesures. BPM 90. Signature 6/8. Tonalité Si_mineur.
+Deuxième retour du deuxième sujet en mi bémol majeur ;
+la même alternance de motif héroïque et de figurations legiero, mais dans une tonalité différente de la première présentation.
+Le contraste harmonique renouvelle l'intérêt.
 </meta>
     <section=theme_2, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
         <mesure num=1>
@@ -904,7 +967,10 @@ Deuxième retour du deuxième sujet en mi bémol majeur ; la même alternance de
     </section>
 
 <meta>
-Continuation du deuxième retour ; les figurations legiero se font encore plus pressantes. La tension vers la troisième et dernière présentation du premier sujet s'intensifie.
+8 mesures. BPM 90. Signature 6/8. Tonalité Si_mineur.
+Continuation du deuxième retour ;
+les figurations legiero se font encore plus pressantes.
+La tension vers la troisième et dernière présentation du premier sujet s'intensifie.
 </meta>
     <section=theme_2, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
         <mesure num=1>
@@ -947,7 +1013,10 @@ Continuation du deuxième retour ; les figurations legiero se font encore plus p
     </section>
 
 <meta>
-Développement du deuxième retour ; la section en style d'étude atteint une vitesse et une intensité maximales. La coordination des mains en rythmes croisés est le défi technique principal.
+8 mesures. BPM 90. Signature 6/8. Tonalité Si_mineur.
+Développement du deuxième retour ;
+la section en style d'étude atteint une vitesse et une intensité maximales.
+La coordination des mains en rythmes croisés est le défi technique principal.
 </meta>
     <section=theme_2, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
         <mesure num=1>
@@ -994,7 +1063,10 @@ Développement du deuxième retour ; la section en style d'étude atteint une vi
     </section>
 
 <meta>
-Clôture du deuxième retour du thème B ; la cadence de retour s'oriente vers si mineur pour la troisième et dernière présentation du premier sujet.
+8 mesures. BPM 90. Signature 6/8. Tonalité Si_mineur.
+Clôture du deuxième retour du thème B ;
+la cadence de retour s'oriente vers si mineur pour la troisième et dernière présentation du premier sujet.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
     <section=theme_2, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
         <mesure num=1>
@@ -1037,7 +1109,10 @@ Clôture du deuxième retour du thème B ; la cadence de retour s'oriente vers s
     </section>
 
 <meta>
-Transition vers la troisième présentation du premier sujet ; les chromatismes et les accords transitoires conduisent vers la tonique avec une énergie encore accrue.
+8 mesures. BPM 90. Signature 6/8. Tonalité Si_mineur.
+Transition vers la troisième présentation du premier sujet ;
+les chromatismes et les accords transitoires conduisent vers la tonique avec une énergie encore accrue.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
     <section=theme_2, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
         <mesure num=1>
@@ -1079,7 +1154,10 @@ Transition vers la troisième présentation du premier sujet ; les chromatismes 
     </section>
 
 <meta>
-Dernières mesures de transition avant la récapitulation finale du premier sujet ; la tension harmonique est à son maximum. L'entrée du thème A pour la troisième fois sera suivie immédiatement de la coda triomphale.
+8 mesures. BPM 90. Signature 6/8. Tonalité Si_mineur.
+Dernières mesures de transition avant la récapitulation finale du premier sujet ;
+la tension harmonique est à son maximum.
+L'entrée du thème A pour la troisième fois sera suivie immédiatement de la coda triomphale.
 </meta>
     <section=theme_2, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
         <mesure num=1>
@@ -1117,7 +1195,10 @@ Dernières mesures de transition avant la récapitulation finale du premier suje
     </section>
 
 <meta>
-Troisième et dernière présentation du premier sujet en si mineur ; la version la plus puissante, avec les sextuplets de croches à la main gauche créant un polyrhythme 3 contre 4. Cette version finale est la plus virtuose et la plus intense de l'œuvre.
+8 mesures. BPM 90. Signature 6/8. Tonalité Si_mineur.
+Troisième et dernière présentation du premier sujet en si mineur ;
+la version la plus puissante, avec les sextuplets de croches à la main gauche créant un polyrhythme 3 contre 4.
+Cette version finale est la plus virtuose et la plus intense de l'œuvre.
 </meta>
     <section=theme_1, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
         <mesure num=1>
@@ -1155,7 +1236,10 @@ Troisième et dernière présentation du premier sujet en si mineur ; la version
     </section>
 
 <meta>
-Continuation de la troisième présentation ; les sextuplets en main gauche et les thèmes en main droite créent une texture à la complexité vertigineuse. La coordination doit rester parfaite.
+8 mesures. BPM 90. Signature 6/8. Tonalité Si_mineur.
+Continuation de la troisième présentation ;
+les sextuplets en main gauche et les thèmes en main droite créent une texture à la complexité vertigineuse.
+La coordination doit rester parfaite.
 </meta>
     <section=theme_1, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
         <mesure num=1>
@@ -1198,7 +1282,10 @@ Continuation de la troisième présentation ; les sextuplets en main gauche et l
     </section>
 
 <meta>
-Sommet absolu de l'œuvre ; la densité rythmique et harmonique atteint son apogée. L'énergie accumulée tout au long du mouvement se libère dans ces dernières mesures avant la coda.
+8 mesures. BPM 90. Signature 6/8. Tonalité Si_mineur.
+Sommet absolu de l'œuvre ;
+la densité rythmique et harmonique atteint son apogée.
+L'énergie accumulée tout au long du mouvement se libère dans ces dernières mesures avant la coda.
 </meta>
     <section=theme_1, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
         <mesure num=1>
@@ -1242,7 +1329,10 @@ Sommet absolu de l'œuvre ; la densité rythmique et harmonique atteint son apog
     </section>
 
 <meta>
-Préparation de la coda triomphale ; la musique s'oriente clairement vers si majeur (parallèle majeur) pour la conclusion. La transformation du mineur en majeur est le geste de victoire finale de toute la sonate.
+8 mesures. BPM 90. Signature 6/8. Tonalité Si_mineur.
+Préparation de la coda triomphale ;
+la musique s'oriente clairement vers si majeur (parallèle majeur) pour la conclusion.
+La transformation du mineur en majeur est le geste de victoire finale de toute la sonate.
 </meta>
     <section=theme_1, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
         <mesure num=1>
@@ -1284,7 +1374,10 @@ Préparation de la coda triomphale ; la musique s'oriente clairement vers si maj
     </section>
 
 <meta>
-Début de la coda triomphale en si majeur ; les accords majestueux en si majeur remplacent le si mineur initial dans une apotheose lumineuse. La puissance sonore est maximale. Jouer avec toute l'amplitude et la conviction disponibles.
+8 mesures. BPM 90. Signature 6/8. Tonalité Si_mineur.
+Début de la coda triomphale en si majeur ;
+les accords majestueux en si majeur remplacent le si mineur initial dans une apotheose lumineuse. La puissance sonore est maximale.
+Jouer avec toute l'amplitude et la conviction disponibles.
 </meta>
     <section=coda, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
         <mesure num=1>
@@ -1322,7 +1415,10 @@ Début de la coda triomphale en si majeur ; les accords majestueux en si majeur 
     </section>
 
 <meta>
-Développement de la coda en si majeur ; les traits d'octaves et les accords pléniers s'enchaînent dans une conclusion héroïque. La sonate, commencée dans la sombre agitation, se conclut dans la lumière et le triomphe.
+8 mesures. BPM 90. Signature 6/8. Tonalité Si_mineur.
+Développement de la coda en si majeur ;
+les traits d'octaves et les accords pléniers s'enchaînent dans une conclusion héroïque.
+La sonate, commencée dans la sombre agitation, se conclut dans la lumière et le triomphe.
 </meta>
     <section=coda, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
         <mesure num=1>
@@ -1360,7 +1456,10 @@ Développement de la coda en si majeur ; les traits d'octaves et les accords pl�
     </section>
 
 <meta>
-Péroraison de la coda ; les dernières mesures en si majeur proclament la victoire définitive du ton lumineux sur l'obscurité du mineur. Maintenir la puissance jusqu'au dernier accord.
+8 mesures. BPM 90. Signature 6/8. Tonalité Si_mineur.
+Péroraison de la coda ;
+les dernières mesures en si majeur proclament la victoire définitive du ton lumineux sur l'obscurité du mineur.
+Maintenir la puissance jusqu'au dernier accord.
 </meta>
     <section=coda, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
         <mesure num=1>
@@ -1400,7 +1499,10 @@ Péroraison de la coda ; les dernières mesures en si majeur proclament la victo
     </section>
 
 <meta>
-Avant-dernières mesures de la coda ; les accords fortissimo de si majeur s'affirment dans un geste conclusif péremptoire. La sonate n°3, seule des sonates de Chopin à se terminer en majeur, trouve ici sa résolution lumineuse.
+8 mesures. BPM 90. Signature 6/8. Tonalité Si_mineur.
+Avant-dernières mesures de la coda ;
+les accords fortissimo de si majeur s'affirment dans un geste conclusif péremptoire.
+La sonate n°3, seule des sonates de Chopin à se terminer en majeur, trouve ici sa résolution lumineuse.
 </meta>
     <section=coda, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
         <mesure num=1>
@@ -1438,7 +1540,10 @@ Avant-dernières mesures de la coda ; les accords fortissimo de si majeur s'affi
     </section>
 
 <meta>
-Avant-dernière mesure ; la force sonore se concentre sur les accords terminaux. Maintenir la clarté de chaque note dans la densité des accords.
+8 mesures. BPM 90. Signature 6/8. Tonalité Si_mineur.
+Avant-dernière mesure ;
+la force sonore se concentre sur les accords terminaux.
+Maintenir la clarté de chaque note dans la densité des accords.
 </meta>
     <section=coda, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
         <mesure num=1>
@@ -1476,7 +1581,10 @@ Avant-dernière mesure ; la force sonore se concentre sur les accords terminaux.
     </section>
 
 <meta>
-Accord final en si majeur ; la sonate n°3 op.58, commencée dans le si mineur sombre du premier mouvement, se conclut dans l'éclat triomphal du si majeur. Tenir l'accord final dans toute sa résonance.
+8 mesures. BPM 90. Signature 6/8. Tonalité Si_mineur.
+Accord final en si majeur ;
+la sonate n°3 op.58, commencée dans le si mineur sombre du premier mouvement, se conclut dans l'éclat triomphal du si majeur.
+Tenir l'accord final dans toute sa résonance.
 </meta>
     <section=coda, n_mesure=8, bpm=90, format=6/8, tonalite=Si_mineur>
         <mesure num=1>
