@@ -6,7 +6,7 @@ FORMAT : piano_solo
 NIVEAU : avance
 Titre : Prélude en la mineur, BWV 889, Clavier bien tempéré II n°20
 Date : 1742
-Auteur : Johann Sebastian Bach
+Auteur : Bach
 Tonalite : La_mineur
 Unite : quarter
 Intention : Prélude rigoureusement construit sur deux thèmes en contrepoint double, qui s'échangent leurs rôles de voix supérieure et inférieure à chaque mesure, créant une imitation perpétuelle d'une densité chromatique saisissante. Forme bipartite en la mineur, mesure à 4/4, 32 mesures divisées en deux périodes de 16 mesures, tempo modéré autour de 90 pulsations par minute, avec inversion complète des thèmes dans la seconde période.
