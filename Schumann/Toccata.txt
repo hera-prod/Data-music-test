@@ -3,19 +3,19 @@
 TACHE : composition
 STYLE : romantique
 FORMAT : piano_solo
-NIVEAU : simple
+NIVEAU : avance
 Titre : Toccata
-Date : ?
+Date : 1832
 Auteur : Schumann
 Tonalite : Do_majeur
 Unite : quarter
-Intention : Pièce pour piano solo, modéré, lumineux, au cadre binaire régulier. Tonalité : Do majeur. 283 mesures.
+Intention : Perpetuum mobile d'une virtuosité éblouissante, doubles-notes en cascade, élan mécanique transcendé par la poésie. Forme sonate en Do majeur, 4/4, Allegro, bpm 138, 283 mesures.
 </tete>
 
 <meta>
-Section d'ouverture — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+8 mesures. 4/4, 138 bpm. Do majeur. Exposition, première phrase : présentation du motif initial en doubles-notes, élan perpetuum mobile. La toccata de Schumann exige une égalité absolue entre les deux mains. Attaque précise, son perlé.
 </meta>
-    <section=section_1, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=exposition_a, n_mesure=8, bpm=138, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |(sol3, si4 fa5 si5), do5 mi5 do6|
             <piano_1_v4>  |(sol1 sol2, re3 sol3 re4), do3 do4|
@@ -63,9 +63,9 @@ Section d'ouverture — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 1 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+8 mesures. 4/4, 138 bpm. Do majeur. Exposition, deuxième phrase : continuation du flux de doubles-notes, texture serrée. La virtuosité doit paraître naturelle. Régularité implacable.
 </meta>
-    <section=section_2, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=exposition_b, n_mesure=8, bpm=138, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |({mi5, re5}, mi5, re5), ({mi5, re5}, re5, do5)|
             <piano_1_v2>  |({re4, la4}, re4, la4), ({re4, la4}, do4, la4)|
@@ -117,9 +117,9 @@ Section de développement 1 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 2 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+8 mesures. 4/4, 138 bpm. Do majeur. Exposition, troisième phrase : développement thématique, variations de la cellule initiale. Le discours se densifie. Maintenir la fluidité.
 </meta>
-    <section=section_3, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=exposition_c, n_mesure=8, bpm=138, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |({sol5, fa#5}, sol5, fa#5), ({sol5, fa#5}, sol5, sol#5)|
             <piano_1_v2>  |({sol4, la#4}, sol4, do#5), ({sol4, do#5}, sol4, do#5)|
@@ -167,9 +167,9 @@ Section de développement 2 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 3 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+8 mesures. 4/4, 138 bpm. Do majeur. Exposition, quatrième phrase : intensification progressive, registre élargi. Crescendo organique.
 </meta>
-    <section=section_4, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=exposition_d, n_mesure=8, bpm=138, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |(mi6, mi5), (sol5, do5)|
             <piano_1_v2>  |(mi5 do6, mi5, re5), ({do5, si4}, do5, si4)|
@@ -229,9 +229,9 @@ Section de développement 3 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 4 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+8 mesures. 4/4, 138 bpm. Do majeur. Exposition, cinquième phrase : confirmation tonale, préparation du développement. Élan maintenu.
 </meta>
-    <section=section_5, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=exposition_e, n_mesure=8, bpm=138, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |({la2 do3, si2 re3}, do3 mi3, re3 fa3), ({mi3 sol3, fa3 la3}, sol3 si3, la3 do4)|
             <piano_1_v4>  |({la1 do2, si1 re2}, do2 mi2, re2 fa2), ({mi2 sol2, fa2 la2}, sol2 si2, la2 do3)|
@@ -270,9 +270,9 @@ Section de développement 4 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 5 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+8 mesures. 4/4, 138 bpm. Do majeur. Exposition, clôture : cadence conclusive en Do majeur, fin de l'exposition. Affirmée, prépare le voyage harmonique.
 </meta>
-    <section=section_6, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=exposition_f, n_mesure=8, bpm=138, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |({re5, si4}, do5, la4), ({si4, fa#4}, sol4, sol#4)|
             <piano_1_v2>  |({sol4, fa4}, mi4, re#4), ({re4, do4}, si3, re4)|
@@ -322,9 +322,9 @@ Section de développement 5 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 6 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+8 mesures. 4/4, 138 bpm. Modulant (Do majeur vers régions voisines). Développement, première section : fragmentation du motif, première modulation. La toile harmonique s'étend. Oreille attentive aux changements.
 </meta>
-    <section=section_7, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=developpement_a, n_mesure=8, bpm=138, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |re4 re5, (re4 re5, si4 si5)|
             <piano_1_v4>  |({si3, la#3}, si3, la#3), ({si3, la#3}, si3, sol3)|
@@ -376,9 +376,9 @@ Section de développement 6 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 7 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+8 mesures. 4/4, 138 bpm. Sol majeur. Développement, deuxième section : exploration en Sol majeur, dominante prolongée. La tension harmonique croît. Son brillant.
 </meta>
-    <section=section_8, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=developpement_b, n_mesure=8, bpm=138, format=4/4, tonalite=Sol_majeur>
         <mesure num=1>
             <piano_1_v1>  |({sol4, si4}, sol4, la4), la4|
             <piano_1_v2>  |(sol4, sol4), fa#4|
@@ -426,9 +426,9 @@ Section de développement 7 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 8 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+8 mesures. 4/4, 138 bpm. La mineur. Développement, troisième section : inflexion vers La mineur, ombre dramatique. Caractère plus intense et sombre.
 </meta>
-    <section=section_9, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=developpement_c, n_mesure=8, bpm=138, format=4/4, tonalite=La_mineur>
         <mesure num=1>
             <piano_1_v1>  |({la5, sol#5}, la5, sol#5), ({la5, sol#5}, la5, si5)|
             <piano_1_v2>  |({do5, re5}, mi5, fa5), ({mi5, re5}, do5, fa5)|
@@ -472,9 +472,9 @@ Section de développement 8 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 9 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+8 mesures. 4/4, 138 bpm. La mineur. Développement, quatrième section : exploitation du relatif mineur, tensions harmoniques accrues. Son plus appuyé et dense.
 </meta>
-    <section=section_10, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=developpement_d, n_mesure=8, bpm=138, format=4/4, tonalite=La_mineur>
         <mesure num=1>
             <piano_1_v1>  |({_, re5}, do#5, sol5), ({fa#5, re5}, la5, _)|
             <piano_1_v2>  |({re4, sol4}, do#5), (do5, fa#4, re4)|
@@ -521,9 +521,9 @@ Section de développement 9 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 10 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+8 mesures. 4/4, 138 bpm. Re mineur. Développement, cinquième section : nouvelle région harmonique, Re mineur, chromatisme. Intensité maintenue.
 </meta>
-    <section=section_11, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=developpement_e, n_mesure=8, bpm=138, format=4/4, tonalite=Re_mineur>
         <mesure num=1>
             <piano_1_v1>  |(re5, si5), (do5, la5)|
             <piano_1_v2>  |({si4, la#4}, si4, re5), ({do5, si4}, do5, re5)|
@@ -571,9 +571,9 @@ Section de développement 10 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 11 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+8 mesures. 4/4, 138 bpm. Re mineur. Développement, sixième section : exploration en Re mineur, tension maximale approchant. Crescendo soutenu.
 </meta>
-    <section=section_12, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=developpement_f, n_mesure=8, bpm=138, format=4/4, tonalite=Re_mineur>
         <mesure num=1>
             <piano_1_v1>  |re4, -|
             <piano_1_v2>  |({si3, la#3}, si3, la#3), ({si3, la#3}, si3, do4)|
@@ -625,9 +625,9 @@ Section de développement 11 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 12 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+8 mesures. 4/4, 138 bpm. Fa majeur. Développement, septième section : inflexion vers Fa majeur, détente relative. Contrepoint expressif dans le mouvement perpétuel.
 </meta>
-    <section=section_13, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=developpement_g, n_mesure=8, bpm=138, format=4/4, tonalite=Fa_majeur>
         <mesure num=1>
             <piano_1_v1>  |fa4, -|
             <piano_1_v2>  |si3, -|
@@ -672,9 +672,9 @@ Section de développement 12 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 13 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+8 mesures. 4/4, 138 bpm. Fa majeur. Développement, huitième section : continuation en Fa majeur, tension persistante. Nuance variée.
 </meta>
-    <section=section_14, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=developpement_h, n_mesure=8, bpm=138, format=4/4, tonalite=Fa_majeur>
         <mesure num=1>
             <piano_1_v1>  |({si5, la#5}, si5, la#5), ({si5, la#5}, do6, si5)|
             <piano_1_v2>  |({re5, fa5}, re5, fa5), ({re5, fa5}, re5, mi5)|
@@ -726,9 +726,9 @@ Section de développement 13 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 14 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+8 mesures. 4/4, 138 bpm. Retour vers Do majeur. Développement, neuvième section : préparation de la récapitulation, pédale dominante. Crescendo vers le retour.
 </meta>
-    <section=section_15, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=developpement_i, n_mesure=8, bpm=138, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |({la4 la5, la4 la5}, la4 la5, la4 la5), ({la4 la5, si4 si5}, do5 do6, re5 re6)|
             <piano_1_v4>  |({mi4, do3 mi3}, mi4, do3 mi3), ({mi4, do3 mi3}, mi4, do3 mi3)|
@@ -771,9 +771,9 @@ Section de développement 14 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 15 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+8 mesures. 4/4, 138 bpm. Do majeur. Développement, clôture : cadence de préparation, retour imminent. Tension à son comble, élan vers la récapitulation.
 </meta>
-    <section=section_16, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=developpement_j, n_mesure=8, bpm=138, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |({la4 la5, la4 la5}, la4 la5, la4 la5), ({la4 la5, si4 si5}, do#5 do#6, re5 re6)|
             <piano_1_v4>  |({la2, la3 do#4}, mi3, la3 do#4), ({la3 do#4, la3 do#4}, mi3, la3 do#4)|
@@ -817,9 +817,9 @@ Section de développement 15 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 16 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+8 mesures. 4/4, 138 bpm. Do majeur. Récapitulation, première phrase : retour triomphant du thème initial en Do majeur. Le retour de la tonique produit un effet de libération. Jouer avec fierté et clarté.
 </meta>
-    <section=section_17, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=recapitulation_a, n_mesure=8, bpm=138, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |(la4 la5, _), _|
             <piano_1_v4>  |(_, do4), re4|
@@ -870,9 +870,9 @@ Section de développement 16 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 17 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+8 mesures. 4/4, 138 bpm. Do majeur. Récapitulation, deuxième phrase : confirmation tonale, flux de doubles-notes retrouvé. Énergie régulière.
 </meta>
-    <section=section_18, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=recapitulation_b, n_mesure=8, bpm=138, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |(_, sol4), la4|
             <piano_1_v2>  |({fa4, fa4}, fa4, fa4), ({fa4, mi4}, re4, do4)|
@@ -923,9 +923,9 @@ Section de développement 17 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 18 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+8 mesures. 4/4, 138 bpm. Do majeur. Récapitulation, troisième phrase : développement dans la tonique, texture dense. Maintenir la régularité.
 </meta>
-    <section=section_19, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=recapitulation_c, n_mesure=8, bpm=138, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |({si4, si4}, mi5, re5), ({do5, si4}, la4 mi5)|
             <piano_1_v2>  |sol4, (mi4, la4, sol4)|
@@ -969,9 +969,9 @@ Section de développement 18 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 19 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+8 mesures. 4/4, 138 bpm. Do majeur. Récapitulation, quatrième phrase : intensification dans la tonique. Crescendo naturel.
 </meta>
-    <section=section_20, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=recapitulation_d, n_mesure=8, bpm=138, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |({do5, si4}, do5, si4), ({do5, si4}, do5, do#5)|
             <piano_1_v2>  |({mi4, fa4}, mi4, fa4), ({mi4, fa4}, mi4, sol4)|
@@ -1023,9 +1023,9 @@ Section de développement 19 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 20 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+8 mesures. 4/4, 138 bpm. Do majeur. Récapitulation, cinquième phrase : consolidation tonale, préparation de la coda. Élan vers la conclusion.
 </meta>
-    <section=section_21, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=recapitulation_e, n_mesure=8, bpm=138, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |({do5, si4}, do5, si4), ({do5, si4}, do5, do#5)|
             <piano_1_v2>  |({mi4, fa4}, mi4, fa4), ({mi4, fa4}, mi4, sol4)|
@@ -1077,9 +1077,9 @@ Section de développement 20 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 21 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+8 mesures. 4/4, 138 bpm. Do majeur. Récapitulation, sixième phrase : tension croissante, coda imminente. Forte et impétueux.
 </meta>
-    <section=section_22, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=recapitulation_f, n_mesure=8, bpm=138, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |({fa5, mi5}, fa5, mi5), ({fa5, mi5}, fa5, mi5)|
             <piano_1_v2>  |({mi4, do5}, sol4, do5), ({mi4, do5}, sol4, do5)|
@@ -1131,9 +1131,9 @@ Section de développement 21 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 22 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+8 mesures. 4/4, 138 bpm. Do majeur. Récapitulation, septième phrase : confirmation finale, dernière grande phrase avant coda. Majestueux.
 </meta>
-    <section=section_23, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=recapitulation_g, n_mesure=8, bpm=138, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |({mi4, do5 mi5}, mi4, mi5), ({re#5, mi5}, la4, la5)|
             <piano_1_v2>  |(mi4, _, si4), (la#4, _, mi5)|
@@ -1186,9 +1186,9 @@ Section de développement 22 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 23 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+8 mesures. 4/4, 138 bpm. Do majeur. Récapitulation, huitième phrase : intensification ultime. Toute l'énergie disponible.
 </meta>
-    <section=section_24, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=recapitulation_h, n_mesure=8, bpm=138, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |({do#5, la5 do#6}, fa4, re5 fa5), ({la4, mi5 la5}, re5, la5 re6)|
             <piano_1_v2>  |(do#5, fa4), (la4, re5)|
@@ -1240,9 +1240,9 @@ Section de développement 23 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 24 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+8 mesures. 4/4, 138 bpm. Do majeur. Récapitulation, neuvième phrase : tension maximale, annonce de la coda. Fortissimo.
 </meta>
-    <section=section_25, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=recapitulation_i, n_mesure=8, bpm=138, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |({mi5, do6 mi6}, re#5, do6 re#6), ({re5, si5 re6}, do5, la5 do6)|
             <piano_1_v2>  |(mi5, re#5), (re5, do5)|
@@ -1297,9 +1297,9 @@ Section de développement 24 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 25 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+8 mesures. 4/4, 138 bpm. Do majeur. Récapitulation, clôture : cadence conclusive, pivot vers la coda. Décisif et résolu.
 </meta>
-    <section=section_26, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=recapitulation_j, n_mesure=8, bpm=138, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |mi4 mi5, (do4 do5, la3 la4)|
             <piano_1_v4>  |_, _|
@@ -1349,9 +1349,9 @@ Section de développement 25 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 26 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+8 mesures. 4/4, 138 bpm. Do majeur. Coda, première section : élan conclusif, puissance entière. La coda de la Toccata est une cavalcade finale. Fortissimo et élan.
 </meta>
-    <section=section_27, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=coda_a, n_mesure=8, bpm=138, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |({_, mi4}, la4 mi5, re#5), ({re5, sol4}, si4, re4)|
             <piano_1_v2>  |({_, mi4}, re#4), (re4, re4)|
@@ -1404,9 +1404,9 @@ Section de développement 26 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 27 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+8 mesures. 4/4, 138 bpm. Do majeur. Coda, deuxième section : accélération expressive. Chaque phrase pousse vers le sommet.
 </meta>
-    <section=section_28, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=coda_b, n_mesure=8, bpm=138, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |({mi5 sol5 do6, si5}, do6, do#6), ({re6, la#5}, si5, re5 fa5 si5)|
             <piano_1_v2>  |({_, sol5}, mi5, la5), ({fa5, fa5}, re5, _)|
@@ -1458,9 +1458,9 @@ Section de développement 27 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 28 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+8 mesures. 4/4, 138 bpm. Do majeur. Coda, troisième section : intensity maximale du flux de doubles-notes. Son plein et brillant.
 </meta>
-    <section=section_29, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=coda_c, n_mesure=8, bpm=138, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |({mi5 sol5 do6, sol#5}, la5, sol#5), ({la5, sol#5}, la5, do5 re5 fa#5 la#5)|
             <piano_1_v2>  |({_, mi5}, do5, re#5), ({do5, mi5}, do5, _)|
@@ -1510,9 +1510,9 @@ Section de développement 28 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 29 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+8 mesures. 4/4, 138 bpm. Do majeur. Coda, quatrième section : maintien de l'élan, légère variation dynamique. Contraste interne.
 </meta>
-    <section=section_30, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=coda_d, n_mesure=8, bpm=138, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |({mi5 do6, sol5 si5}, mi5 do6, sol#5 do#6), ({fa5 re6, fa5 la#5}, re5 si5, sol5 si5)|
             <piano_1_v4>  |({sol4, sol3}, fa3), (fa4, sol4)|
@@ -1560,9 +1560,9 @@ Section de développement 29 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 30 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+8 mesures. 4/4, 138 bpm. Do majeur. Coda, cinquième section : préparation des derniers accords. Tension et énergie.
 </meta>
-    <section=section_31, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=coda_e, n_mesure=8, bpm=138, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |({_, _}, do6 mi6), (re6, sol#5 do6)|
             <piano_1_v2>  |({do5 do6, la5 si5}, do5 do6, mi5), ({la5, re5}, do6, do5)|
@@ -1608,9 +1608,9 @@ Section de développement 30 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 31 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+8 mesures. 4/4, 138 bpm. Do majeur. Coda, sixième section : accords conclusifs approchant. Forte affirmé.
 </meta>
-    <section=section_32, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=coda_f, n_mesure=8, bpm=138, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |({la4, re4}, re5, mi4 mi5), ({la4, re4}, re5, mi4 mi5)|
             <piano_1_v4>  |({do3, re3}, la3, sol2), ({do3, re3}, sol3, la2)|
@@ -1662,9 +1662,9 @@ Section de développement 31 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 32 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+8 mesures. 4/4, 138 bpm. Do majeur. Coda, septième section : dernières grandes phrases en Do majeur. Majestueux et puissant.
 </meta>
-    <section=section_33, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=coda_g, n_mesure=8, bpm=138, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |({la5 do6 fa6 la6, sol5 la5 do#6 mi6 sol6}, fa#5 la5 do6 re6 fa#6), ({fa#5 la5 do6 re6 fa#6, fa5 sol5 si5 re6 fa6}, mi5 sol5 do6 mi6)|
             <piano_1_v4>  |(fa3 la3 do4 fa4, la3 do#4 mi4 la4), (re4 fa#4 la4 re5, sol4 si4 re5)|
@@ -1715,9 +1715,9 @@ Section de développement 32 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 33 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+8 mesures. 4/4, 138 bpm. Do majeur. Coda, huitième section : avant-dernière salve, intensité extrême. Tout pour la conclusion.
 </meta>
-    <section=section_34, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=coda_h, n_mesure=8, bpm=138, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |(mi5, re5, mi5), (mi5, re5, mi5)|
             <piano_1_v2>  |({mi4, re4}, mi4), ({mi4, re4}, mi4)|
@@ -1771,9 +1771,9 @@ Section de développement 33 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 34 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
+8 mesures. 4/4, 138 bpm. Do majeur. Coda, neuvième section : descente vers les dernières mesures. Decrescendo spectaculaire.
 </meta>
-    <section=section_35, n_mesure=8, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=coda_i, n_mesure=8, bpm=138, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |(mi4, re4, mi4), (mi4, re4, mi4)|
             <piano_1_v2>  |({mi3, re3}, mi3), ({mi3, re3}, mi3)|
@@ -1825,9 +1825,9 @@ Section de développement 34 — 8 mesures. Tonalité Do majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section conclusive — 3 mesures. Tonalité Do majeur, tempo 90 BPM.
+3 mesures. 4/4, 138 bpm. Do majeur. Coda finale : trois mesures conclusives, accords finaux percutants en Do majeur. Fin lapidaire et éblouissante. Dernier accord tenu, résonance naturelle.
 </meta>
-    <section=section_36, n_mesure=3, bpm=90, format=2/4, tonalite=Do_majeur>
+    <section=coda_j, n_mesure=3, bpm=138, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |(do3 la3 do4, _), do4 fa4 la4 do5|
             <piano_1_v4>  |(fa1 fa2, _), fa2 do3 la3|
