@@ -6,7 +6,7 @@ FORMAT : piano_solo
 NIVEAU : intermediaire
 Titre : Prélude en Mi majeur, BWV 854
 Date : 1722
-Auteur : Johann Sebastian Bach
+Auteur : Bach
 Tonalite : Mi_majeur
 Unite : quarter
 Intention : Prélude lumineux et élancé, fondé sur une figure mélodique ornementale continue en 12/8, qui déploie une énergie douce et régulière propre à l'écriture baroque de Bach. Forme tripartite en Mi majeur, 22 mesures à 90 BPM, où la texture à trois ou quatre voix au piano fait alterner pédale de tonique, incursions modulantes et retour expressif à la tonalité principale.
