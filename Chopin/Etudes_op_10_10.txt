@@ -4,16 +4,19 @@ TACHE : composition
 STYLE : romantique
 FORMAT : piano_solo
 NIVEAU : avance
-Titre : Étude op. 10 n° 10 en La bémol majeur
+Titre : Étude op.10 n°10 en La bémol majeur
 Date : 1829
 Auteur : Frédéric Chopin
 Tonalite : Lab_majeur
 Unite : quarter
-Intention : Étude d'une légèreté piquante et d'un charme fantastique, bâtie sur un tissu de doublettes arpégées à la main droite dont les accents se déplacent de groupe de deux notes vers groupe de trois, créant une instabilité rythmique envoûtante. Forme ternaire avec coda, en La bémol majeur, 78 mesures, mesure à 12/8, tempo Vivace assai à la noire pointée égale 90.
+Intention : Légèreté piquante et charme fantastique, cette étude bâtit son tissu de doublettes arpégées à la main droite dont les accents se déplacent de groupes de deux vers groupes de trois, créant une instabilité rythmique envoûtante. Forme ternaire avec coda, en la bémol majeur, 78 mesures, mesure à 12/8, Vivace assai à la noire pointée égale 90.
 </tete>
 
 <meta>
-78 mesures, Vivace assai, 12/8, La bémol majeur. Étude de doublettes arpégées dont les accents se déplacent : les premières mesures groupent les doubles croches par deux (doublets), puis les mesures 5-8 les groupent par trois (triolets), ce qui déplace les accents et crée un sentiment de flottement rythmique caractéristique. La section staccato (mesures 13-16) est unique dans l'ensemble des études de l'opus 10. Pour l'interprétation, accentuer par inclinaison de la main vers le premier ou le cinquième doigt selon le groupe ; les mesures en staccato demandent une attaque sèche avec pédale légère.
+8 mesures. BPM 90. Signature 12/8. Tonalité Lab_majeur.
+78 mesures, Vivace assai, 12/8, La bémol majeur.
+Étude de doublettes arpégées dont les accents se déplacent : les premières mesures groupent les doubles croches par deux (doublets), puis les mesures 5-8 les groupent par trois (triolets), ce qui déplace les accents et crée un sentiment de flottement rythmique caractéristique. La section staccato (mesures 13-16) est unique dans l'ensemble des études de l'opus 10. Pour l'interprétation, accentuer par inclinaison de la main vers le premier ou le cinquième doigt selon le groupe ;
+les mesures en staccato demandent une attaque sèche avec pédale légère.
 </meta>
     <section=theme_1, n_mesure=8, bpm=90, format=12/8, tonalite=Lab_majeur>
         <mesure num=1>
@@ -58,7 +61,10 @@ Intention : Étude d'une légèreté piquante et d'un charme fantastique, bâtie
     </section>
 
 <meta>
-Suite de la section A : les doublets et triolets arpégés poursuivent leur jeu de déplacement d'accents. La texture staccato caractéristique (unique dans l'opus 10) réapparaît par intermittence, ajoutant une couleur sèche et piquante à la texture habituelle. La main gauche maintient son accompagnement régulier en octaves et accords.
+8 mesures. BPM 90. Signature 12/8. Tonalité Lab_majeur.
+Suite de la section A : les doublets et triolets arpégés poursuivent leur jeu de déplacement d'accents.
+La texture staccato caractéristique (unique dans l'opus 10) réapparaît par intermittence, ajoutant une couleur sèche et piquante à la texture habituelle.
+La main gauche maintient son accompagnement régulier en octaves et accords.
 </meta>
     <section=theme_1, n_mesure=8, bpm=90, format=12/8, tonalite=Lab_majeur>
         <mesure num=1>
@@ -100,7 +106,10 @@ Suite de la section A : les doublets et triolets arpégés poursuivent leur jeu 
     </section>
 
 <meta>
-Fin de la section A et approche du développement : les arpèges de doublettes s'élèvent vers le registre aigu. La texture harmonique s'enrichit d'appogiatures chromatiques. La main gauche commence à étendre ses sauts (mesure 43 : grands sauts chromatiques jusqu'à Ré et Sol). Jouer les passages aigus avec une légèreté particulière.
+8 mesures. BPM 90. Signature 12/8. Tonalité Lab_majeur.
+Fin de la section A et approche du développement : les arpèges de doublettes s'élèvent vers le registre aigu.
+La texture harmonique s'enrichit d'appogiatures chromatiques. La main gauche commence à étendre ses sauts (mesure 43 : grands sauts chromatiques jusqu'à Ré et Sol).
+Jouer les passages aigus avec une légèreté particulière.
 </meta>
     <section=theme_1, n_mesure=8, bpm=90, format=12/8, tonalite=Lab_majeur>
         <mesure num=1>
@@ -139,7 +148,10 @@ Fin de la section A et approche du développement : les arpèges de doublettes s
     </section>
 
 <meta>
-Section B (développement) : les grands sauts de la main gauche créent une ligne chromatique descendante vers le bas, pendant que la main droite maintient ses arpèges de doublettes. La tension harmonique s'accentue avec des suspensions (mesures 51-53) sur la ligne chromatique descendante Do-Ré bémol-Do-Ré bémol-Ré naturel. Jouer les sauts de la main gauche avec précision absolue, en s'y préparant mentalement à l'avance.
+8 mesures. BPM 90. Signature 12/8. Tonalité Lab_majeur.
+Section B (développement) : les grands sauts de la main gauche créent une ligne chromatique descendante vers le bas, pendant que la main droite maintient ses arpèges de doublettes.
+La tension harmonique s'accentue avec des suspensions (mesures 51-53) sur la ligne chromatique descendante Do-Ré bémol-Do-Ré bémol-Ré naturel.
+Jouer les sauts de la main gauche avec précision absolue, en s'y préparant mentalement à l'avance.
 </meta>
     <section=developpement, n_mesure=8, bpm=90, format=12/8, tonalite=Lab_majeur>
         <mesure num=1>
@@ -177,7 +189,10 @@ Section B (développement) : les grands sauts de la main gauche créent une lign
     </section>
 
 <meta>
-Continuation du développement : les suspensions harmoniques se résolvent progressivement. La ligne chromatique à la main gauche s'aventure en La chromatique (mesure 55). Les arpèges de doublettes maintiennent leur légèreté malgré la densité harmonique croissante. L'interprète doit rester attentif aux changements subtils de groupement rythmique.
+8 mesures. BPM 90. Signature 12/8. Tonalité Lab_majeur.
+Continuation du développement : les suspensions harmoniques se résolvent progressivement.
+La ligne chromatique à la main gauche s'aventure en La chromatique (mesure 55). Les arpèges de doublettes maintiennent leur légèreté malgré la densité harmonique croissante.
+L'interprète doit rester attentif aux changements subtils de groupement rythmique.
 </meta>
     <section=developpement, n_mesure=8, bpm=90, format=12/8, tonalite=Lab_majeur>
         <mesure num=1>
@@ -215,7 +230,10 @@ Continuation du développement : les suspensions harmoniques se résolvent progr
     </section>
 
 <meta>
-Transition vers la réexposition : le développement se résout vers la dominante Mib. La ligne chromatique de la main gauche s'apaise. La légèreté piquante caractéristique reprend le dessus, préparant le retour du thème A dans sa transparence initiale.
+8 mesures. BPM 90. Signature 12/8. Tonalité Lab_majeur.
+Transition vers la réexposition : le développement se résout vers la dominante Mib.
+La ligne chromatique de la main gauche s'apaise.
+La légèreté piquante caractéristique reprend le dessus, préparant le retour du thème A dans sa transparence initiale.
 </meta>
     <section=transition, n_mesure=8, bpm=90, format=12/8, tonalite=Lab_majeur>
         <mesure num=1>
@@ -253,7 +271,10 @@ Transition vers la réexposition : le développement se résout vers la dominant
     </section>
 
 <meta>
-Suite de la transition : les arpèges de doublettes reprennent leur groupe de deux et de trois notes alternés. La main gauche se stabilise sur la dominante Mib. La légèreté revient ; jouer avec le charme fantastique du début, en anticipant le retour triomphant de A.
+8 mesures. BPM 90. Signature 12/8. Tonalité Lab_majeur.
+Suite de la transition : les arpèges de doublettes reprennent leur groupe de deux et de trois notes alternés.
+La main gauche se stabilise sur la dominante Mib. La légèreté revient ;
+jouer avec le charme fantastique du début, en anticipant le retour triomphant de A.
 </meta>
     <section=transition, n_mesure=8, bpm=90, format=12/8, tonalite=Lab_majeur>
         <mesure num=1>
@@ -295,7 +316,10 @@ Suite de la transition : les arpèges de doublettes reprennent leur groupe de de
     </section>
 
 <meta>
-Réexposition (retour de A) : les arpèges de doublettes reprennent en La bémol majeur avec la même légèreté initiale. Le thème se déroule à nouveau avec ses déplacements d'accents caractéristiques. À la mesure 69, le Do est répété une octave plus haut, ajoutant une nuance expressive à la réexposition.
+8 mesures. BPM 90. Signature 12/8. Tonalité Lab_majeur.
+Réexposition (retour de A) : les arpèges de doublettes reprennent en La bémol majeur avec la même légèreté initiale.
+Le thème se déroule à nouveau avec ses déplacements d'accents caractéristiques.
+À la mesure 69, le Do est répété une octave plus haut, ajoutant une nuance expressive à la réexposition.
 </meta>
     <section=recapitulation, n_mesure=8, bpm=90, format=12/8, tonalite=Lab_majeur>
         <mesure num=1>
@@ -333,7 +357,10 @@ Réexposition (retour de A) : les arpèges de doublettes reprennent en La bémol
     </section>
 
 <meta>
-Suite de la réexposition et approche de la coda : la main droite exécute un arpège de grande amplitude aux mesures 75-76 (adduction du pouce remplaçant le cinquième doigt sur Lab). La main gauche donne les derniers accords de dominante (V-I). Jouer lentement et profondément aux arpèges finaux pour les réaliser avec clarté.
+8 mesures. BPM 90. Signature 12/8. Tonalité Lab_majeur.
+Suite de la réexposition et approche de la coda : la main droite exécute un arpège de grande amplitude aux mesures 75-76 (adduction du pouce remplaçant le cinquième doigt sur Lab).
+La main gauche donne les derniers accords de dominante (V-I).
+Jouer lentement et profondément aux arpèges finaux pour les réaliser avec clarté.
 </meta>
     <section=recapitulation, n_mesure=8, bpm=90, format=12/8, tonalite=Lab_majeur>
         <mesure num=1>
@@ -371,7 +398,10 @@ Suite de la réexposition et approche de la coda : la main droite exécute un ar
     </section>
 
 <meta>
-Coda de 6 mesures : la main droite déploie un dernier arpège descendant suivi d'accords conclusifs en La bémol majeur. La suspension finale (main droite) se résout vers la tonique. La main gauche donne le La bémol terminal en octave. Laisser la résonance de la tonique s'épanouir dans le silence.
+6 mesures. BPM 90. Signature 12/8. Tonalité Lab_majeur.
+Coda de 6 mesures : la main droite déploie un dernier arpège descendant suivi d'accords conclusifs en La bémol majeur.
+La suspension finale (main droite) se résout vers la tonique. La main gauche donne le La bémol terminal en octave.
+Laisser la résonance de la tonique s'épanouir dans le silence.
 </meta>
     <section=coda, n_mesure=6, bpm=90, format=12/8, tonalite=Lab_majeur>
         <mesure num=1>
