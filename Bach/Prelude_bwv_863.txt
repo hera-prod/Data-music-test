@@ -6,7 +6,7 @@ FORMAT : piano_solo
 NIVEAU : intermediaire
 Titre : Prélude en Sol dièse mineur, BWV 863, Clavier bien tempéré I n°18
 Date : 1722
-Auteur : Johann Sebastian Bach
+Auteur : Bach
 Tonalite : Sol#_mineur
 Unite : quarter
 Intention : Prélude d'un caractère introspectif et ondulant, tissé d'un flux continu de doubles croches en mesure ternaire, portant une expression mélancolique et sombre propre à la tonalité de Sol dièse mineur. Forme en deux périodes avec coda, 6/8, 29 mesures, modulant vers le relatif majeur, Ré dièse mineur et Fa dièse mineur, tempo modéré à 90 BPM.
