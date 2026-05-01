@@ -9,11 +9,14 @@ Date : 1836
 Auteur : Frédéric Chopin
 Tonalite : Mi_mineur
 Unite : quarter
-Intention : Humour capricieux et léger, cette étude tire son surnom des secondes mineures omniprésentes dans le thème principal, qui donnent l'impression de fausses notes intentionnelles dans un contexte par ailleurs brillant et enjoué; la section centrale en Mi majeur révèle un Chopin lyrique et héroïque. Forme ABA' en Mi mineur, 139 mesures en 3/4, Vivace (184 BPM), exigeant une grande virtuosité dans les ornements de la main gauche et la précision de la main droite en registre extrême.
+Intention : Humour capricieux et légèreté piquante, cette étude tire son surnom des secondes mineures omniprésentes dans le thème principal qui donnent l'impression de fausses notes intentionnelles, tandis que la section centrale en mi majeur révèle un Chopin lyrique et héroïque. Forme ABA' en mi mineur, 139 mesures en 3/4, Vivace (184 BPM).
 </tete>
 
 <meta>
-8 mesures, tonalité Mi mineur, tempo 184 BPM. Présentation du motif scintillant avec ses secondes mineures caractéristiques à la main droite, sur une main gauche en sauts avec ornements. Ces secondes mineures, jouées legato, produisent une légèreté ambiguë entre humour et mélancolie. Soigner l'équilibre entre les deux mains pour que la plaisanterie reste élégante.
+8 mesures. BPM 184. Signature 3/4. Tonalité Mi_mineur.
+8 mesures, tonalité Mi mineur, tempo 184 BPM.
+Présentation du motif scintillant avec ses secondes mineures caractéristiques à la main droite, sur une main gauche en sauts avec ornements. Ces secondes mineures, jouées legato, produisent une légèreté ambiguë entre humour et mélancolie.
+Soigner l'équilibre entre les deux mains pour que la plaisanterie reste élégante.
 </meta>
     <section=partie_A, n_mesure=8, bpm=184, format=3/4, tonalite=Mi_mineur>
         <mesure num=1>
@@ -51,7 +54,10 @@ Intention : Humour capricieux et léger, cette étude tire son surnom des second
     </section>
 
 <meta>
-8 mesures, Mi mineur, tempo 184 BPM. Extension du motif principal vers le registre aigu; la main droite enchaîne des figures en octaves détachées alternant avec les secondes chromatiques. La main gauche amplifie son rôle de contrepoint avec des sauts couvrant l'étendue du clavier.
+8 mesures. BPM 184. Signature 3/4. Tonalité Mi_mineur.
+8 mesures, Mi mineur, tempo 184 BPM.
+Extension du motif principal vers le registre aigu; la main droite enchaîne des figures en octaves détachées alternant avec les secondes chromatiques.
+La main gauche amplifie son rôle de contrepoint avec des sauts couvrant l'étendue du clavier.
 </meta>
     <section=partie_A, n_mesure=8, bpm=184, format=3/4, tonalite=Mi_mineur>
         <mesure num=1>
@@ -90,7 +96,10 @@ Intention : Humour capricieux et léger, cette étude tire son surnom des second
     </section>
 
 <meta>
-8 mesures, Mi mineur, development harmonique, tempo 184 BPM. Premier développement des motifs principaux avec modulations vers les tons voisins; la texture reste légère malgré l'augmentation des sauts de main gauche. Conserver un toucher très superficiel pour la main droite, effleurant les touches.
+8 mesures. BPM 184. Signature 3/4. Tonalité Mi_mineur.
+8 mesures, Mi mineur, development harmonique, tempo 184 BPM.
+Premier développement des motifs principaux avec modulations vers les tons voisins; la texture reste légère malgré l'augmentation des sauts de main gauche.
+Conserver un toucher très superficiel pour la main droite, effleurant les touches.
 </meta>
     <section=partie_A, n_mesure=8, bpm=184, format=3/4, tonalite=Mi_mineur>
         <mesure num=1>
@@ -136,7 +145,10 @@ Intention : Humour capricieux et léger, cette étude tire son surnom des second
     </section>
 
 <meta>
-8 mesures, vers la dominante Si mineur, tempo 184 BPM. Transition modulante vers la dominante; le jeu de secondes mineures se densifie harmoniquement. La suspension sur la dominante crée l'attente du contraste majeur qui va suivre. Ne pas accélérer ici malgré la montée de la tension.
+8 mesures. BPM 184. Signature 3/4. Tonalité Mi_mineur.
+8 mesures, vers la dominante Si mineur, tempo 184 BPM.
+Transition modulante vers la dominante; le jeu de secondes mineures se densifie harmoniquement. La suspension sur la dominante crée l'attente du contraste majeur qui va suivre.
+Ne pas accélérer ici malgré la montée de la tension.
 </meta>
     <section=partie_A, n_mesure=8, bpm=184, format=3/4, tonalite=Mi_mineur>
         <mesure num=1>
@@ -178,7 +190,10 @@ Intention : Humour capricieux et léger, cette étude tire son surnom des second
     </section>
 
 <meta>
-8 mesures, Mi mineur, tempo 184 BPM. Continuation de la partie A avec développement ornamental plus élaboré de la main gauche. Les trilles et battements de la gauche encadrent maintenant la mélodie de la droite dans une texture plus riche tout en conservant la légèreté du caractère.
+8 mesures. BPM 184. Signature 3/4. Tonalité Mi_mineur.
+8 mesures, Mi mineur, tempo 184 BPM.
+Continuation de la partie A avec développement ornamental plus élaboré de la main gauche.
+Les trilles et battements de la gauche encadrent maintenant la mélodie de la droite dans une texture plus riche tout en conservant la légèreté du caractère.
 </meta>
     <section=partie_A, n_mesure=8, bpm=184, format=3/4, tonalite=Mi_mineur>
         <mesure num=1>
@@ -223,7 +238,10 @@ Intention : Humour capricieux et léger, cette étude tire son surnom des second
     </section>
 
 <meta>
-8 mesures, Mi majeur, tempo 184 BPM. Irruption lumineuse de la section centrale en Mi majeur; le caractère bascule vers le lyrique et l'héroïque. La main gauche prend le thème en accords et octaves martelés tandis que la droite s'envole en arpèges. Ce contraste structurel est l'un des moments les plus dramatiques de l'opus 25.
+8 mesures. BPM 184. Signature 3/4. Tonalité Mi_mineur.
+8 mesures, Mi majeur, tempo 184 BPM.
+Irruption lumineuse de la section centrale en Mi majeur; le caractère bascule vers le lyrique et l'héroïque. La main gauche prend le thème en accords et octaves martelés tandis que la droite s'envole en arpèges.
+Ce contraste structurel est l'un des moments les plus dramatiques de l'opus 25.
 </meta>
     <section=partie_B, n_mesure=8, bpm=184, format=3/4, tonalite=Mi_mineur>
         <mesure num=1>
@@ -266,7 +284,10 @@ Intention : Humour capricieux et léger, cette étude tire son surnom des second
     </section>
 
 <meta>
-8 mesures, Mi majeur, climax, tempo 184 BPM. Climax de la section centrale avec un registre aigu culminant; l'écriture s'élargit à toute l'étendue du clavier dans les deux mains. La dynamique forte prend tout son sens après la légèreté de la partie A. Laisser résonner les grandes phrases sans les précipiter.
+8 mesures. BPM 184. Signature 3/4. Tonalité Mi_mineur.
+8 mesures, Mi majeur, climax, tempo 184 BPM.
+Climax de la section centrale avec un registre aigu culminant; l'écriture s'élargit à toute l'étendue du clavier dans les deux mains. La dynamique forte prend tout son sens après la légèreté de la partie A.
+Laisser résonner les grandes phrases sans les précipiter.
 </meta>
     <section=partie_B, n_mesure=8, bpm=184, format=3/4, tonalite=Mi_mineur>
         <mesure num=1>
@@ -314,7 +335,10 @@ Intention : Humour capricieux et léger, cette étude tire son surnom des second
     </section>
 
 <meta>
-8 mesures, Mi majeur, densification, tempo 184 BPM. Deuxième occurrence du thème central, répété avec plus de puissance et de profondeur harmonique. Cette répétition à une octave supérieure crée un effet de perspective monumentale. Veiller à l'articulation des octaves de la main gauche.
+8 mesures. BPM 184. Signature 3/4. Tonalité Mi_mineur.
+8 mesures, Mi majeur, densification, tempo 184 BPM.
+Deuxième occurrence du thème central, répété avec plus de puissance et de profondeur harmonique. Cette répétition à une octave supérieure crée un effet de perspective monumentale.
+Veiller à l'articulation des octaves de la main gauche.
 </meta>
     <section=partie_B, n_mesure=8, bpm=184, format=3/4, tonalite=Mi_mineur>
         <mesure num=1>
@@ -357,7 +381,10 @@ Intention : Humour capricieux et léger, cette étude tire son surnom des second
     </section>
 
 <meta>
-8 mesures, retour Mi mineur, tempo 184 BPM. Réexposition du thème principal en Mi mineur; le retour des secondes mineures capricieuses prend une saveur ironique après la grandeur de la section centrale. La surprise du retour est un effet compositionnel délibéré.
+8 mesures. BPM 184. Signature 3/4. Tonalité Mi_mineur.
+8 mesures, retour Mi mineur, tempo 184 BPM.
+Réexposition du thème principal en Mi mineur; le retour des secondes mineures capricieuses prend une saveur ironique après la grandeur de la section centrale.
+La surprise du retour est un effet compositionnel délibéré.
 </meta>
     <section=partie_A, n_mesure=8, bpm=184, format=3/4, tonalite=Mi_mineur>
         <mesure num=1>
@@ -397,7 +424,10 @@ Intention : Humour capricieux et léger, cette étude tire son surnom des second
     </section>
 
 <meta>
-8 mesures, Mi mineur, tempo 184 BPM. Continuation de la réexposition avec enrichissement ornemental supplémentaire; la main gauche déploie ses sauts avec encore plus d'amplitude. Maintenir une légèreté constante malgré la complexité croissante.
+8 mesures. BPM 184. Signature 3/4. Tonalité Mi_mineur.
+8 mesures, Mi mineur, tempo 184 BPM.
+Continuation de la réexposition avec enrichissement ornemental supplémentaire; la main gauche déploie ses sauts avec encore plus d'amplitude.
+Maintenir une légèreté constante malgré la complexité croissante.
 </meta>
     <section=partie_A, n_mesure=8, bpm=184, format=3/4, tonalite=Mi_mineur>
         <mesure num=1>
@@ -441,7 +471,10 @@ Intention : Humour capricieux et léger, cette étude tire son surnom des second
     </section>
 
 <meta>
-8 mesures, Mi mineur, final approach, tempo 184 BPM. Ultime développement du thème A; l'écriture atteint son niveau de complexité maximal avec une superposition des deux difficultés techniques, ornements de gauche et secondes de droite. Soigner la clarté de chaque voix.
+8 mesures. BPM 184. Signature 3/4. Tonalité Mi_mineur.
+8 mesures, Mi mineur, final approach, tempo 184 BPM.
+Ultime développement du thème A; l'écriture atteint son niveau de complexité maximal avec une superposition des deux difficultés techniques, ornements de gauche et secondes de droite.
+Soigner la clarté de chaque voix.
 </meta>
     <section=partie_A, n_mesure=8, bpm=184, format=3/4, tonalite=Mi_mineur>
         <mesure num=1>
@@ -494,7 +527,10 @@ Intention : Humour capricieux et léger, cette étude tire son surnom des second
     </section>
 
 <meta>
-8 mesures, Mi mineur, tempo 184 BPM. Prolongation du thème avec variations dans les hauteurs; les secondes mineures s'enchaînent en formules plus longues. La tension harmonique s'accumule vers la conclusion imminente.
+8 mesures. BPM 184. Signature 3/4. Tonalité Mi_mineur.
+8 mesures, Mi mineur, tempo 184 BPM.
+Prolongation du thème avec variations dans les hauteurs; les secondes mineures s'enchaînent en formules plus longues.
+La tension harmonique s'accumule vers la conclusion imminente.
 </meta>
     <section=partie_A, n_mesure=8, bpm=184, format=3/4, tonalite=Mi_mineur>
         <mesure num=1>
@@ -545,7 +581,10 @@ Intention : Humour capricieux et léger, cette étude tire son surnom des second
     </section>
 
 <meta>
-8 mesures, Mi mineur, préparation de la coda, tempo 184 BPM. Avant-dernière section avec une montée dynamique vers le fortissimo; l'écriture rassemble tous les éléments techniques de l'étude. Ne pas forcer le tempo mais laisser la musique pousser naturellement vers l'accord final.
+8 mesures. BPM 184. Signature 3/4. Tonalité Mi_mineur.
+8 mesures, Mi mineur, préparation de la coda, tempo 184 BPM.
+Avant-dernière section avec une montée dynamique vers le fortissimo; l'écriture rassemble tous les éléments techniques de l'étude.
+Ne pas forcer le tempo mais laisser la musique pousser naturellement vers l'accord final.
 </meta>
     <section=partie_A, n_mesure=8, bpm=184, format=3/4, tonalite=Mi_mineur>
         <mesure num=1>
@@ -583,7 +622,10 @@ Intention : Humour capricieux et léger, cette étude tire son surnom des second
     </section>
 
 <meta>
-8 mesures, Mi mineur, tempo 184 BPM. Avant-coda avec accumulation d'accords en Mi mineur; les sauts de la main gauche culminent en arpèges ascendants dramatiques. Conserver la précision rythmique malgré l'augmentation de la densité.
+8 mesures. BPM 184. Signature 3/4. Tonalité Mi_mineur.
+8 mesures, Mi mineur, tempo 184 BPM.
+Avant-coda avec accumulation d'accords en Mi mineur; les sauts de la main gauche culminent en arpèges ascendants dramatiques.
+Conserver la précision rythmique malgré l'augmentation de la densité.
 </meta>
     <section=partie_A, n_mesure=8, bpm=184, format=3/4, tonalite=Mi_mineur>
         <mesure num=1>
@@ -621,7 +663,10 @@ Intention : Humour capricieux et léger, cette étude tire son surnom des second
     </section>
 
 <meta>
-8 mesures, Mi mineur, dissolution, tempo 184 BPM. La matière thématique se fragmente en éléments motifs isolés, signalant l'approche de la conclusion. Un ultime accord de dominante de Sol dièse crée la dernière suspension avant la résolution.
+8 mesures. BPM 184. Signature 3/4. Tonalité Mi_mineur.
+8 mesures, Mi mineur, dissolution, tempo 184 BPM.
+La matière thématique se fragmente en éléments motifs isolés, signalant l'approche de la conclusion.
+Un ultime accord de dominante de Sol dièse crée la dernière suspension avant la résolution.
 </meta>
     <section=partie_A, n_mesure=8, bpm=184, format=3/4, tonalite=Mi_mineur>
         <mesure num=1>
@@ -665,7 +710,10 @@ Intention : Humour capricieux et léger, cette étude tire son surnom des second
     </section>
 
 <meta>
-8 mesures, Mi mineur, coda approche, tempo 184 BPM. Ultime déploiement du motif à secondes mineures avant l'accord conclusif en arpège. Chopin termine par un arpège de septième de dominante ascendant, finissant sur le Sol dièse aigu, laissant la pièce en suspension humoristique.
+8 mesures. BPM 184. Signature 3/4. Tonalité Mi_mineur.
+8 mesures, Mi mineur, coda approche, tempo 184 BPM.
+Ultime déploiement du motif à secondes mineures avant l'accord conclusif en arpège.
+Chopin termine par un arpège de septième de dominante ascendant, finissant sur le Sol dièse aigu, laissant la pièce en suspension humoristique.
 </meta>
     <section=partie_A, n_mesure=8, bpm=184, format=3/4, tonalite=Mi_mineur>
         <mesure num=1>
@@ -706,7 +754,10 @@ Intention : Humour capricieux et léger, cette étude tire son surnom des second
     </section>
 
 <meta>
-8 mesures, Mi mineur, avant-dernière section, tempo 184 BPM. Réitération du geste conclusif avec renforcement de la dynamique; préparer la coda immédiate avec une légère retenue sur la dernière mesure.
+8 mesures. BPM 184. Signature 3/4. Tonalité Mi_mineur.
+8 mesures, Mi mineur, avant-dernière section, tempo 184 BPM.
+Réitération du geste conclusif avec renforcement de la dynamique;
+préparer la coda immédiate avec une légère retenue sur la dernière mesure.
 </meta>
     <section=partie_A, n_mesure=8, bpm=184, format=3/4, tonalite=Mi_mineur>
         <mesure num=1>
@@ -761,7 +812,10 @@ Intention : Humour capricieux et léger, cette étude tire son surnom des second
     </section>
 
 <meta>
-3 mesures conclusives, Mi mineur, tempo 184 BPM. La coda concentre l'essence du caractère capricieux de l'étude: un dernier arpège lumineux de dominante septième suivi d'un accord de tenue en Mi mineur. Chopin conclut avec une ironie légère, sans la grandeur attendue, respectant l'esprit de la pièce.
+3 mesures. BPM 184. Signature 3/4. Tonalité Mi_mineur.
+3 mesures conclusives, Mi mineur, tempo 184 BPM.
+La coda concentre l'essence du caractère capricieux de l'étude: un dernier arpège lumineux de dominante septième suivi d'un accord de tenue en Mi mineur.
+Chopin conclut avec une ironie légère, sans la grandeur attendue, respectant l'esprit de la pièce.
 </meta>
     <section=coda, n_mesure=3, bpm=184, format=3/4, tonalite=Mi_mineur>
         <mesure num=1>
