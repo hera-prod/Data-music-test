@@ -6,7 +6,7 @@ FORMAT : piano_solo
 NIVEAU : avance
 Titre : Prélude en Sib mineur, BWV 867, Clavier bien tempéré I n°22
 Date : 1722
-Auteur : Johann Sebastian Bach
+Auteur : Bach
 Tonalite : Sib_mineur
 Unite : quarter
 Intention : Ce prélude en arioso déploie une intensité mélancolique et contemplative, ses voix entrelacées jusqu'à sept parties nominales évoquant une déploration funèbre d'une profondeur rare. Prélude en Sib mineur à 4/4, 24 mesures, structuré en deux grandes périodes avec pédale de tonique et pédale de dominante, parcourant les tons de Mib mineur, Lab majeur et Reb majeur avant le retour au ton principal.
