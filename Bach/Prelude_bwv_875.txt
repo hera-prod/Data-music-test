@@ -6,7 +6,7 @@ FORMAT : piano_solo
 NIVEAU : intermediaire
 Titre : Prélude en Ré mineur, BWV 875 (Clavier bien tempéré, Livre II, n°6)
 Date : 1742
-Auteur : Johann Sebastian Bach
+Auteur : Bach
 Tonalite : Re_mineur
 Unite : quarter
 Intention : Prélude pour deux voix d'un caractère sérieux, dévot et fluide, bâti en moto perpetuo sur une harmonie simple qui laisse courir les figures imitatives sans heurt, dans le style d'un balancement ternaire continu. Tonalité Ré mineur, mesure 3/4, 58 mesures, tempo modéré d'environ 90 BPM ; la structure se divise en deux grandes parties d'ampleur quasi égale, la première cadençant sur la dominante mineur, la seconde revenant à la tonique avec une courte coda pédale.
