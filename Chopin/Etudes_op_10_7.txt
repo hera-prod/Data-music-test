@@ -4,16 +4,19 @@ TACHE : composition
 STYLE : romantique
 FORMAT : piano_solo
 NIVEAU : avance
-Titre : Étude op. 10 n° 7 en Do majeur
+Titre : Étude op.10 n°7 en Do majeur
 Date : 1832
 Auteur : Frédéric Chopin
 Tonalite : Do_majeur
 Unite : quarter
-Intention : Étude d'une élégance sereine et d'un raffinement délicat, fondée sur les doubles notes de la main droite où la note inférieure est répétée en legato pendant que la supérieure progresse mélodiquement. La main gauche déploie une ligne chromatiquement descendante jusqu'à Lab avant de remonter en cercle de quintes. Forme ternaire avec coda, en Do majeur, 60 mesures, mesure à 6/8, tempo Vivace à la noire pointée égale 90.
+Intention : Élégance sereine et raffinement délicat, cette étude déploie des doubles notes à la main droite où la note inférieure est répétée en legato pendant que la mélodie supérieure progresse librement, sur une ligne de basse chromatiquement descendante. Forme ternaire avec coda, en do majeur, 60 mesures, mesure à 6/8, Vivace à la noire pointée égale 90.
 </tete>
 
 <meta>
-60 mesures, Vivace, 6/8, Do majeur. Étude de doubles notes à la main droite : la note inférieure est constamment répétée en legato grâce à un changement de doigté discret (doigt 2 vers doigt 1, ou poignet bas vers haut), pendant que la mélodie du dessus progresse librement. La main gauche joue en legato de doigts (finger pedaling) une ligne qui descend chromatiquement jusqu'à Lab avant de remonter en cercle de quintes (La mineur, Ré mineur, Sol majeur, Do majeur, Ré majeur, Sol majeur). Pour l'interprétation, la note supérieure droite doit résonner comme une voix distincte ; la main gauche légèrement pédalée pour lier les harmonies.
+8 mesures. BPM 90. Signature 6/8. Tonalité Do_majeur.
+60 mesures, Vivace, 6/8, Do majeur.
+Étude de doubles notes à la main droite : la note inférieure est constamment répétée en legato grâce à un changement de doigté discret (doigt 2 vers doigt 1, ou poignet bas vers haut), pendant que la mélodie du dessus progresse librement. La main gauche joue en legato de doigts (finger pedaling) une ligne qui descend chromatiquement jusqu'à Lab avant de remonter en cercle de quintes (La mineur, Ré mineur, Sol majeur, Do majeur, Ré majeur, Sol majeur). Pour l'interprétation, la note supérieure droite doit résonner comme une voix distincte ;
+la main gauche légèrement pédalée pour lier les harmonies.
 </meta>
     <section=theme_1, n_mesure=8, bpm=90, format=6/8, tonalite=Do_majeur>
         <mesure num=1>
@@ -55,7 +58,10 @@ Intention : Étude d'une élégance sereine et d'un raffinement délicat, fondé
     </section>
 
 <meta>
-Répétition variée du thème initial : les doubles notes de la main droite reprennent leur discours avec de légères variations dans les voix mélodiques. La main gauche continue sa progression chromatique descendante. Ces deux premières sections constituent la période A de la forme ternaire.
+8 mesures. BPM 90. Signature 6/8. Tonalité Do_majeur.
+Répétition variée du thème initial : les doubles notes de la main droite reprennent leur discours avec de légères variations dans les voix mélodiques.
+La main gauche continue sa progression chromatique descendante.
+Ces deux premières sections constituent la période A de la forme ternaire.
 </meta>
     <section=contre_exposition, n_mesure=8, bpm=90, format=6/8, tonalite=Do_majeur>
         <mesure num=1>
@@ -94,7 +100,10 @@ Répétition variée du thème initial : les doubles notes de la main droite rep
     </section>
 
 <meta>
-Section B (développement central) : de grands sauts à la main gauche remplacent la descente chromatique, avec une pédale de dominante (Sol) tenue au basse à partir de la mesure 26 pendant plusieurs mesures. Le cercle de quintes guide les modulations (La majeur, Ré mineur, Sol majeur, Do majeur, Ré majeur, Sol majeur). Les doubles notes de la main droite maintiennent leur caractère cantabile.
+8 mesures. BPM 90. Signature 6/8. Tonalité Do_majeur.
+Section B (développement central) : de grands sauts à la main gauche remplacent la descente chromatique, avec une pédale de dominante (Sol) tenue au basse à partir de la mesure 26 pendant plusieurs mesures.
+Le cercle de quintes guide les modulations (La majeur, Ré mineur, Sol majeur, Do majeur, Ré majeur, Sol majeur).
+Les doubles notes de la main droite maintiennent leur caractère cantabile.
 </meta>
     <section=developpement, n_mesure=8, bpm=90, format=6/8, tonalite=Do_majeur>
         <mesure num=1>
@@ -132,7 +141,10 @@ Section B (développement central) : de grands sauts à la main gauche remplacen
     </section>
 
 <meta>
-Continuation du développement : la pédale de dominante Sol se résout après un long passage d'oscillation harmonique. Le retour chromatique de la ligne de basse prépare la réexposition. Les doubles notes de la main droite maintiennent leur tension expressive sur les harmonies instables.
+8 mesures. BPM 90. Signature 6/8. Tonalité Do_majeur.
+Continuation du développement : la pédale de dominante Sol se résout après un long passage d'oscillation harmonique.
+Le retour chromatique de la ligne de basse prépare la réexposition.
+Les doubles notes de la main droite maintiennent leur tension expressive sur les harmonies instables.
 </meta>
     <section=developpement, n_mesure=8, bpm=90, format=6/8, tonalite=Do_majeur>
         <mesure num=1>
@@ -170,7 +182,10 @@ Continuation du développement : la pédale de dominante Sol se résout après u
     </section>
 
 <meta>
-Réexposition (retour de A) : les doubles notes du thème initial reviennent dans leur clarté première en Do majeur. La main gauche retrouve sa ligne descendante chromatique. La transparence de la texture se rétablit après la densité du développement.
+8 mesures. BPM 90. Signature 6/8. Tonalité Do_majeur.
+Réexposition (retour de A) : les doubles notes du thème initial reviennent dans leur clarté première en Do majeur.
+La main gauche retrouve sa ligne descendante chromatique.
+La transparence de la texture se rétablit après la densité du développement.
 </meta>
     <section=recapitulation, n_mesure=8, bpm=90, format=6/8, tonalite=Do_majeur>
         <mesure num=1>
@@ -209,7 +224,10 @@ Réexposition (retour de A) : les doubles notes du thème initial reviennent dan
     </section>
 
 <meta>
-Suite de la réexposition : les doubles notes poursuivent leur discours serein. La main gauche progresse vers la cadence finale. Les dernières phrases de la réexposition se stabilisent sur la dominante en préparation de la coda conclusive.
+8 mesures. BPM 90. Signature 6/8. Tonalité Do_majeur.
+Suite de la réexposition : les doubles notes poursuivent leur discours serein.
+La main gauche progresse vers la cadence finale.
+Les dernières phrases de la réexposition se stabilisent sur la dominante en préparation de la coda conclusive.
 </meta>
     <section=recapitulation, n_mesure=8, bpm=90, format=6/8, tonalite=Do_majeur>
         <mesure num=1>
@@ -252,7 +270,10 @@ Suite de la réexposition : les doubles notes poursuivent leur discours serein. 
     </section>
 
 <meta>
-Extension finale avant la coda : la tonique est prolongée harmoniquement par un mouvement oscillatoire de six mesures. Les doubles notes de la main droite prennent une teinte plus recueillie, comme une confidence finale. La main gauche s'ancre sur la tonique.
+8 mesures. BPM 90. Signature 6/8. Tonalité Do_majeur.
+Extension finale avant la coda : la tonique est prolongée harmoniquement par un mouvement oscillatoire de six mesures.
+Les doubles notes de la main droite prennent une teinte plus recueillie, comme une confidence finale.
+La main gauche s'ancre sur la tonique.
 </meta>
     <section=pont, n_mesure=8, bpm=90, format=6/8, tonalite=Do_majeur>
         <mesure num=1>
@@ -290,7 +311,10 @@ Extension finale avant la coda : la tonique est prolongée harmoniquement par un
     </section>
 
 <meta>
-Coda de 4 mesures : prolongation de la tonique en Do majeur dans un pianissimo serein. Les doubles notes s'éteignent doucement sur un accord final. La pédale de sustain prolonge la résonance finale. Laisser l'accord s'éteindre naturellement.
+4 mesures. BPM 90. Signature 6/8. Tonalité Do_majeur.
+Coda de 4 mesures : prolongation de la tonique en Do majeur dans un pianissimo serein.
+Les doubles notes s'éteignent doucement sur un accord final. La pédale de sustain prolonge la résonance finale.
+Laisser l'accord s'éteindre naturellement.
 </meta>
     <section=coda, n_mesure=4, bpm=90, format=6/8, tonalite=Do_majeur>
         <mesure num=1>
