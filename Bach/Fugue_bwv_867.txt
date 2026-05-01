@@ -6,7 +6,7 @@ FORMAT : piano_solo
 NIVEAU : avance
 Titre : Fugue en Sib mineur, BWV 867, Clavier bien tempéré I n°22
 Date : 1722
-Auteur : Johann Sebastian Bach
+Auteur : Bach
 Tonalite : Sib_mineur
 Unite : quarter
 Intention : Cette fugue à cinq voix incarne une gravité intense et recueillie, portée par un sujet chromatique à l'intervalle de neuvième mineure et par des suspensions rhétoriques qui confèrent au discours une éloquence sombre. Fugue en Sib mineur en 2/2 (alla breve), 75 mesures, construite sur une exposition en cinq parties, trois épisodes, deux strettes complètes et une coda terminée sur une tierce de Picardie, proche du style antico.
