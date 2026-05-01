@@ -6,7 +6,7 @@ FORMAT : piano_solo
 NIVEAU : avance
 Titre : Fugue en La majeur, BWV 864, Clavier bien tempéré I n°19
 Date : 1722
-Auteur : Johann Sebastian Bach
+Auteur : Bach
 Tonalite : La_majeur
 Unite : quarter
 Intention : Fugue d'un caractère lumineux et énergique à trois voix, animée par un sujet aux quartes ascendantes et tierces descendantes alternées qui génère une texture géométrique et rayonnante propre à La majeur. Forme fuguée en 9/8, 54 mesures, avec exposition, quatre épisodes modulants traversant Fa# mineur, Mi majeur, Ré majeur et Si mineur, et une coda conclusive à partir de la mesure 46, tempo modéré à 90 BPM.
