@@ -6,7 +6,7 @@ FORMAT : piano_solo
 NIVEAU : avance
 Titre : Fugue en Ré majeur, BWV 874 (Clavier bien tempéré, Livre II, n°5)
 Date : 1742
-Auteur : Johann Sebastian Bach
+Auteur : Bach
 Tonalite : Re_majeur
 Unite : quarter
 Intention : Fugue à quatre voix d'un caractère festif et lumineux, construite sur un sujet bref en style antico dont les entrées s'enchaînent dans une architecture monumentale de strettes successives. Tonalité Ré majeur, mesure alla breve (2/2), 50 mesures, tempo vif d'environ 90 BPM ; la texture s'épaissit progressivement jusqu'à la superposition de toutes les voix dans les strettes finales.
