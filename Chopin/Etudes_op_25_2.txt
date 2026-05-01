@@ -9,11 +9,14 @@ Date : 1836
 Auteur : Frédéric Chopin
 Tonalite : Fa_mineur
 Unite : quarter
-Intention : Légèreté inquiète et bourdonnante, cette étude oppose un essaim de triolets de croches à la main droite (joués sotto voce et leggiero) à des triolets de noires syncopés à la main gauche, établissant une polyrythmie délicate qui met à l'épreuve l'indépendance et la transparence des deux mains. Forme ABA en Fa mineur, 70 mesures en alla breve (2/2), Presto (90 BPM), tout en nuances piano, ce qui en fait paradoxalement l'une des études les plus difficiles à maîtriser musicalement.
+Intention : Légèreté inquiète et bourdonnante, cette étude oppose un essaim de triolets de croches à la main droite à des triolets de noires syncopés à la main gauche, établissant une polyrythmie délicate qui met à l'épreuve l'indépendance et la transparence des deux mains. Forme ABA en fa mineur, 70 mesures en alla breve 2/2, Presto (90 BPM).
 </tete>
 
 <meta>
-8 mesures, tonalité Fa mineur, tempo 90 BPM. La main droite égrène un motif de triolets de doubles croches en flux ininterrompu, portant une mélodie vocale au-dessus d'une pédalisation harmonique à la main gauche. La difficulté fondamentale est de jouer très vite et très doucement simultanément, en gardant la polyrythmie 2:3 lisible sans l'accentuer de façon mécanique.
+8 mesures. BPM 90. Signature 2/2. Tonalité Fa_mineur.
+8 mesures, tonalité Fa mineur, tempo 90 BPM.
+La main droite égrène un motif de triolets de doubles croches en flux ininterrompu, portant une mélodie vocale au-dessus d'une pédalisation harmonique à la main gauche.
+La difficulté fondamentale est de jouer très vite et très doucement simultanément, en gardant la polyrythmie 2:3 lisible sans l'accentuer de façon mécanique.
 </meta>
     <section=partie_A, n_mesure=8, bpm=90, format=2/2, tonalite=Fa_mineur>
         <mesure num=1>
@@ -51,7 +54,10 @@ Intention : Légèreté inquiète et bourdonnante, cette étude oppose un essaim
     </section>
 
 <meta>
-8 mesures, Fa mineur, tempo 90 BPM. Répétition variée du premier thème avec des extensions mélodiques vers le registre aigu; la ligne intérieure de la main gauche commence à affirmer un contrechant expressif. Veiller à la fluidité des rotations de poignet qui rendent possible la légèreté du toucher.
+8 mesures. BPM 90. Signature 2/2. Tonalité Fa_mineur.
+8 mesures, Fa mineur, tempo 90 BPM.
+Répétition variée du premier thème avec des extensions mélodiques vers le registre aigu; la ligne intérieure de la main gauche commence à affirmer un contrechant expressif.
+Veiller à la fluidité des rotations de poignet qui rendent possible la légèreté du toucher.
 </meta>
     <section=partie_A, n_mesure=8, bpm=90, format=2/2, tonalite=Fa_mineur>
         <mesure num=1>
@@ -89,7 +95,10 @@ Intention : Légèreté inquiète et bourdonnante, cette étude oppose un essaim
     </section>
 
 <meta>
-8 mesures, modulation vers La bémol majeur relatif, tempo 90 BPM. La section centrale apporte une couleur majeure apaisée; le motif de triolets se transforme en lignes plus lyriques. L'accent mis sur les deuxièmes temps de la main gauche crée une basse mélodique que l'oreille perçoit comme une voix indépendante. Mettre en valeur discrètement ce contrepoint.
+8 mesures. BPM 90. Signature 2/2. Tonalité Fa_mineur.
+8 mesures, modulation vers La bémol majeur relatif, tempo 90 BPM.
+La section centrale apporte une couleur majeure apaisée; le motif de triolets se transforme en lignes plus lyriques. L'accent mis sur les deuxièmes temps de la main gauche crée une basse mélodique que l'oreille perçoit comme une voix indépendante.
+Mettre en valeur discrètement ce contrepoint.
 </meta>
     <section=partie_B, n_mesure=8, bpm=90, format=2/2, tonalite=Fa_mineur>
         <mesure num=1>
@@ -127,7 +136,10 @@ Intention : Légèreté inquiète et bourdonnante, cette étude oppose un essaim
     </section>
 
 <meta>
-8 mesures, développement harmonique, tempo 90 BPM. Enrichissement chromatique de la texture avec des inflexions vers les tons voisins; le contrechant de la main gauche s'intensifie avant le retour du thème principal. La dynamique reste piano malgré l'augmentation de la densité harmonique.
+8 mesures. BPM 90. Signature 2/2. Tonalité Fa_mineur.
+8 mesures, développement harmonique, tempo 90 BPM.
+Enrichissement chromatique de la texture avec des inflexions vers les tons voisins; le contrechant de la main gauche s'intensifie avant le retour du thème principal.
+La dynamique reste piano malgré l'augmentation de la densité harmonique.
 </meta>
     <section=partie_B, n_mesure=8, bpm=90, format=2/2, tonalite=Fa_mineur>
         <mesure num=1>
@@ -165,7 +177,10 @@ Intention : Légèreté inquiète et bourdonnante, cette étude oppose un essaim
     </section>
 
 <meta>
-8 mesures, retour en Fa mineur, tempo 90 BPM. Réexposition du premier thème avec de légères variations ornementales; le retour crée une impression de résolution après les tensions harmoniques de la partie centrale. Appliquer le rubato indiqué dans la coda: allongement du tempo sur la montée, resserrement sur la descente.
+8 mesures. BPM 90. Signature 2/2. Tonalité Fa_mineur.
+8 mesures, retour en Fa mineur, tempo 90 BPM.
+Réexposition du premier thème avec de légères variations ornementales; le retour crée une impression de résolution après les tensions harmoniques de la partie centrale.
+Appliquer le rubato indiqué dans la coda: allongement du tempo sur la montée, resserrement sur la descente.
 </meta>
     <section=partie_A, n_mesure=8, bpm=90, format=2/2, tonalite=Fa_mineur>
         <mesure num=1>
@@ -203,7 +218,10 @@ Intention : Légèreté inquiète et bourdonnante, cette étude oppose un essaim
     </section>
 
 <meta>
-8 mesures, Fa mineur développé, tempo 90 BPM. L'écriture s'élargit vers le registre suraigu, accentuant la brillance et l'intensité expressives. La polyrythmie atteint ici son point de friction maximale entre les deux mains; maintenir impérativement la pulsation intérieure à deux temps (alla breve).
+8 mesures. BPM 90. Signature 2/2. Tonalité Fa_mineur.
+8 mesures, Fa mineur développé, tempo 90 BPM.
+L'écriture s'élargit vers le registre suraigu, accentuant la brillance et l'intensité expressives. La polyrythmie atteint ici son point de friction maximale entre les deux mains;
+maintenir impérativement la pulsation intérieure à deux temps (alla breve).
 </meta>
     <section=partie_A, n_mesure=8, bpm=90, format=2/2, tonalite=Fa_mineur>
         <mesure num=1>
@@ -241,7 +259,10 @@ Intention : Légèreté inquiète et bourdonnante, cette étude oppose un essaim
     </section>
 
 <meta>
-8 mesures, continuation en Fa mineur, tempo 90 BPM. Continuation du développement thématique avec des sauts plus larges dans la main droite, prolongeant la tension expressive avant la grande coda. La main gauche doit garder un rôle de soutien rythmique précis sans alourdissement.
+8 mesures. BPM 90. Signature 2/2. Tonalité Fa_mineur.
+8 mesures, continuation en Fa mineur, tempo 90 BPM.
+Continuation du développement thématique avec des sauts plus larges dans la main droite, prolongeant la tension expressive avant la grande coda.
+La main gauche doit garder un rôle de soutien rythmique précis sans alourdissement.
 </meta>
     <section=partie_A, n_mesure=8, bpm=90, format=2/2, tonalite=Fa_mineur>
         <mesure num=1>
@@ -279,7 +300,10 @@ Intention : Légèreté inquiète et bourdonnante, cette étude oppose un essaim
     </section>
 
 <meta>
-8 mesures, retour du thème initial, tempo 90 BPM. Ultime réaffirmation du thème, légèrement plus ornée, conduisant vers la résolution finale. Une courte ligne descendante chromatique au registre aigu annonce la coda en conduisant à une suspension expressive avant la conclusion.
+8 mesures. BPM 90. Signature 2/2. Tonalité Fa_mineur.
+8 mesures, retour du thème initial, tempo 90 BPM.
+Ultime réaffirmation du thème, légèrement plus ornée, conduisant vers la résolution finale.
+Une courte ligne descendante chromatique au registre aigu annonce la coda en conduisant à une suspension expressive avant la conclusion.
 </meta>
     <section=recapitulation, n_mesure=8, bpm=90, format=2/2, tonalite=Fa_mineur>
         <mesure num=1>
@@ -317,7 +341,10 @@ Intention : Légèreté inquiète et bourdonnante, cette étude oppose un essaim
     </section>
 
 <meta>
-6 mesures conclusives en Fa mineur, tempo 90 BPM. La coda distille l'essence harmonique en quelques accords purs en Fa mineur, les triolets s'immobilisent progressivement jusqu'à la dernière quinte creuse. Le silence final doit être aussi éloquent que la note.
+6 mesures. BPM 90. Signature 2/2. Tonalité Fa_mineur.
+6 mesures conclusives en Fa mineur, tempo 90 BPM.
+La coda distille l'essence harmonique en quelques accords purs en Fa mineur, les triolets s'immobilisent progressivement jusqu'à la dernière quinte creuse.
+Le silence final doit être aussi éloquent que la note.
 </meta>
     <section=coda, n_mesure=6, bpm=90, format=2/2, tonalite=Fa_mineur>
         <mesure num=1>
