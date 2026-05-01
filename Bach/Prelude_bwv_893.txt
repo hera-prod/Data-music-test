@@ -6,7 +6,7 @@ FORMAT : piano_solo
 NIVEAU : avance
 Titre : Prélude en Si mineur, BWV 893, Le Clavier bien tempéré Livre II n°24
 Date : 1742
-Auteur : Johann Sebastian Bach
+Auteur : Bach
 Tonalite : Si_mineur
 Unite : quarter
 Intention : Prélude moderne en trois sections aux caractères distincts, jouant de contrastes expressifs entre un discours ornemental dense, une texture imitatrice ondoyante et des figures séquentielles énergiques, démontrant que Bach savait adopter le style galant de ses fils sans pour autant quitter sa propre manière d'épuiser tout le potentiel d'un matériau donné. Prélude en Si mineur, 2/2, 66 mesures à 76 BPM, articulé en quatre périodes cadentielles successives.
