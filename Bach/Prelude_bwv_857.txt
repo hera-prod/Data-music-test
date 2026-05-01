@@ -6,7 +6,7 @@ FORMAT : piano_solo
 NIVEAU : avance
 Titre : Prélude en Fa mineur, BWV 857 (Clavier bien tempéré I, n°12)
 Date : 1722
-Auteur : Johann Sebastian Bach
+Auteur : Bach
 Tonalite : Fa_mineur
 Unite : quarter
 Intention : Ce prélude exhale une mélancolie sombre et recueillie, fondée sur un chant principal en croches à mouvement conjoint qui progresse avec gravité dans une texture polyphonique libre à quatre voix implicites, rehaussée de figurations en doubles croches et de trilles expressifs. La forme est bipartite en Fa mineur sur 22 mesures à 4/4, au tempo de 66 à la noire, avec une pédale de tonique aux deux premières mesures et une pédale de dominante aux mesures 17-21 menant à une cadence finale en Fa majeur par tierce picarde.
