@@ -3,19 +3,23 @@
 TACHE : composition
 STYLE : impressionniste
 FORMAT : piano_solo
-NIVEAU : simple
+NIVEAU : intermediaire
 Titre : Pavane
-Date : ?
+Date : 1899
 Auteur : Ravel
 Tonalite : Sol_majeur
 Unite : quarter
-Intention : Pièce pour piano solo, lent et expressif, lumineux, au cadre binaire régulier. Tonalité : Sol majeur. 72 mesures.
+Intention : Hommage poétique d'une noble simplicité à une infante disparue, évoquant avec une économie de moyens saisissante la solennité et la grâce d'une danse de cour espagnole ancienne, dans un langage tonal au seuil de l'impressionnisme. Forme ternaire (section_A, section_B, section_A_prime), 72 mesures en 4/4 Assez doux et très lié, tonalité de Sol majeur, tempo d'environ 54 noires par minute.
 </tete>
 
 <meta>
-Section d'ouverture — 8 mesures. Tonalité Sol majeur, tempo 54 BPM.
+32 mesures. Assez doux et très lié, 4/4, Sol majeur / Ré mineur.
+Ravel ouvre avec un thème d'une simplicité presque délibérée, mais d'une beauté mélodique inoubliable : la ligne chantante en Sol majeur évoque la pavane, cette danse de cour lente et cérémonieuse, avec une légèreté qui fait de l'oeuvre une évocation plutôt qu'une reconstitution.
+L'oreille est touchée par la pureté et la noblesse du chant, sa douceur et sa tristesse retenue, dans un équilibre parfait entre simplicité de surface et profondeur expressive.
+Jouer très lié et très doux, en respectant scrupuleusement les nuances indiquées ; les silences ont autant d'importance que les notes, et le rubato doit être discret et naturel.
+<section=section_A, n_mesure=32, bpm=54, format=4/4, tonalite=Sol_majeur>
 </meta>
-    <section=section_1, n_mesure=8, bpm=54, format=4/4, tonalite=Sol_majeur>
+    <section=section_A, n_mesure=32, bpm=54, format=4/4, tonalite=Sol_majeur>
         <mesure num=1>
             <piano_1_v1>  |sol4, -, (sol4, la4), (fa#4, mi4)|
             <piano_1_v2>  |(si3, re4), (si3, re4), (si3, mi4), (si3, mi4)|
@@ -58,124 +62,109 @@ Section d'ouverture — 8 mesures. Tonalité Sol majeur, tempo 54 BPM.
             <piano_1_v5>  |la1, -, -, -|
             <piano_1_v6>  |_, si3, (si3, la3), (re4, si3)|
         </mesure>
-    </section>
 
-<meta>
-Section de développement 1 — 8 mesures. Tonalité Sol majeur, tempo 54 BPM.
-</meta>
-    <section=section_2, n_mesure=8, bpm=54, format=4/4, tonalite=Sol_majeur>
-        <mesure num=1>
+        <mesure num=9>
             <piano_1_v1>  |si4, la4, sol4, la4|
             <piano_1_v2>  |(do4, fa#3 mi4), (la4, mi4), (do4, mi4), (la4, mi4)|
             <piano_1_v5>  |(_, re2 la2), re2 la2, re2 la2, -|
             <piano_1_v6>  |si3, fa#3, si3, la3|
         </mesure>
-        <mesure num=2>
+        <mesure num=10>
             <piano_1_v1>  |mi4, -, (_, do5 re5), (_, do5 re5)|
             <piano_1_v2>  |(_, si3), (mi4, si4), (mi4, re4), (sol4, fa#4)|
             <piano_1_v5>  |sol3, _, (mi2 mi3, re2 re3), (sol2 sol3, fa#2 fa#3)|
             <piano_1_v6>  |_, _, _, _|
         </mesure>
-        <mesure num=3>
+        <mesure num=11>
             <piano_1_v1>  |(si4 mi5, _), si4, re4 fa#4, mi4|
             <piano_1_v2>  |mi4, (re4, mi4), (do4, {si3, la3})|
             <piano_1_v5>  |si3|
             <piano_1_v6>  |mi2 mi3, _, sol#3, fa#3|
             <piano_1_v7>  |_, _, mi2 si2, re2 la2|
         </mesure>
-        <mesure num=4>
+        <mesure num=12>
             <piano_1_v1>  |si3 fa#4, -, -, (re4 fa#4, fa#4 si4)|
             <piano_1_v2>  |_, _, _, _|
             <piano_1_v5>  |_, _, (fa#3 si3, si3 re4)|
             <piano_1_v6>  |fa#3, -, _, _|
             <piano_1_v7>  |si1 fa#2 re3, -, _, _|
         </mesure>
-        <mesure num=5>
+        <mesure num=13>
             <piano_1_v1>  |fa#5, sol5, (sol5, si4 re5 fa#5), (si4 re5 sol5, si4 re5 la5)|
             <piano_1_v2>  |(la4 si4 re5, la4 si4 re5), (sol4 si4 re5, sol4 si4 re5), (sol4 si4 re5, la4), (sol4, fa#4)|
             <piano_1_v5>  |si1 si2, -, si1 si2, -|
         </mesure>
-        <mesure num=6>
+        <mesure num=14>
             <piano_1_v1>  |re5, do#5, do#5, -|
             <piano_1_v2>  |(mi4 sol4 si4, mi4 sol4 si4), (mi4 sol4 si4, mi4 sol4 si4), (mi4 sol4 si4, sol4 si4), (sol4 si4, sol4 si4)|
             <piano_1_v3>  |_, _, mi4, (si3, mi4)|
             <piano_1_v5>  |si1 si2, -, -, -|
         </mesure>
-        <mesure num=7>
+        <mesure num=15>
             <piano_1_v1>  |re5, mi5, (mi5, sol4 si4 re5), (sol4 si4 mi5, sol4 si4 fa#5)|
             <piano_1_v2>  |(fa#4 sol4 si4, fa#4 sol4 si4), (mi4 sol4 si4, mi4 sol4 si4), (mi4 sol4 si4, fa#4), (mi4, re4)|
             <piano_1_v5>  |si1 si2, -, si1 si2, -|
         </mesure>
-        <mesure num=8>
+        <mesure num=16>
             <piano_1_v1>  |si4, la4, fa#4, -|
             <piano_1_v2>  |(do#4 mi4 sol4, do#4 mi4 sol4), (do#4 mi4 sol4, do#4 mi4 sol4), (do#4 re4 fa#4, do#4 re4 fa#4), (do#4 re4 fa#4, do#4 re4 fa#4)|
             <piano_1_v5>  |si1 si2, -, -, -|
         </mesure>
-    </section>
 
-<meta>
-Section de développement 2 — 8 mesures. Tonalité Sol majeur, tempo 54 BPM.
-</meta>
-    <section=section_3, n_mesure=8, bpm=54, format=4/4, tonalite=Sol_majeur>
-        <mesure num=1>
+        <mesure num=17>
             <piano_1_v1>  |la4, si4, (si4, re4 fa#4 la4), (re4 fa#4 si4, re4 fa#4 do#5)|
             <piano_1_v2>  |(do#4 re4 fa#4, do#4 re4 fa#4), (si3 re4 fa#4, si3 re4 fa#4), (si3 re4 fa#4, do#4), (si3, la3)|
             <piano_1_v5>  |la1, -, la1, -|
         </mesure>
-        <mesure num=2>
+        <mesure num=18>
             <piano_1_v1>  |sol3 re4 fa#4, sol3 si3 mi4, fa#3 la3 re4, (sol3 si3 mi4, sol3 re4 fa#4)|
             <piano_1_v5>  |mi2 si2, la2 mi3, re3 la3, (la2 mi3, mi2 si2)|
         </mesure>
-        <mesure num=3, format=2/4>
+        <mesure num=19, format=2/4>
             <piano_1_v1>  |sol3 si3 mi4, fa#3 la3 re4|
             <piano_1_v5>  |la2 mi3, re3 la3|
         </mesure>
-        <mesure num=4>
+        <mesure num=20>
             <piano_1_v1>  |fa#5, sol5, (sol5, si4 re5 fa#5), (si4 re5 sol5, si4 re5 la5)|
             <piano_1_v2>  |(la4 si4 re5, la4 si4 re5), (sol4 si4 re5, sol4 si4 re5), (sol4 si4 re5, la4), (sol4, fa#4)|
             <piano_1_v5>  |si1 si2, -, -, -|
         </mesure>
-        <mesure num=5>
+        <mesure num=21>
             <piano_1_v1>  |re5, do#5, do#5, -|
             <piano_1_v2>  |(mi4 sol4 si4, mi4 sol4 si4), (mi4 sol4 si4, mi4 sol4 si4), (mi4 sol4 si4, sol4 si4), (sol4 si4, sol4 si4)|
             <piano_1_v3>  |_, _, mi4, (si3, mi4)|
             <piano_1_v5>  |mi2 mi3, -, -, -|
         </mesure>
-        <mesure num=6>
+        <mesure num=22>
             <piano_1_v1>  |re5, mi5, (mi5, sol4 si4 re5), (sol4 si4 mi5, sol4 si4 fa#5)|
             <piano_1_v2>  |(fa#4 sol4 si4, fa#4 sol4 si4), (mi4 sol4 si4, mi4 sol4 si4), (mi4 sol4 si4, fa#4), (mi4, re4)|
             <piano_1_v5>  |sol2 la3, -, -, -|
         </mesure>
-        <mesure num=7>
+        <mesure num=23>
             <piano_1_v1>  |si4, la4, fa#4, -|
             <piano_1_v2>  |(do#4 mi4 sol4, do#4 mi4 sol4), (do#4 mi4 sol4, do#4 mi4 sol4), (do#4 re4 fa#4, do#4 re4 fa#4), (do#4 re4 fa#4, do#4 re4 fa#4)|
             <piano_1_v5>  |_, la1 la2, re2 re3, -|
         </mesure>
-        <mesure num=8>
+        <mesure num=24>
             <piano_1_v1>  |la4, si4, (si4, re4 fa#4 la4), (re4 fa#4 si4, re4 fa#4 do#5)|
             <piano_1_v2>  |(do#4 re4 fa#4, do#4 re4 fa#4), (si3 re4 fa#4, si3 re4 fa#4), (si3 re4 fa#4, do#4), (si3, la3)|
             <piano_1_v5>  |sol1 sol2, -, -, si1 si2|
         </mesure>
-    </section>
 
-<meta>
-Section de développement 3 — 8 mesures. Tonalité Sol majeur, tempo 54 BPM.
-</meta>
-    <section=section_4, n_mesure=8, bpm=54, format=4/4, tonalite=Sol_majeur>
-        <mesure num=1>
+        <mesure num=25>
             <piano_1_v1>  |sol#3 do#4 re4 fa#4, sol3 si3 do#4 mi4, fa#3 si3 re4, (sol3 si3 do#4 mi4, sol#3 do#4 re4 fa#4)|
             <piano_1_v5>  |mi2 si2, la2 mi3, re3 la3, (la2 mi3, mi2 si2)|
         </mesure>
-        <mesure num=2>
+        <mesure num=26>
             <piano_1_v1>  |sol3 si3 do#4 mi4, (fa#3 la3 re4, _), sol#3 re4 fa#4, fa#3 do4 mi4|
             <piano_1_v5>  |la2 mi3, (re3 la3, _), mi2 si2, re2 la2|
         </mesure>
-        <mesure num=3>
+        <mesure num=27>
             <piano_1_v1>  |(fa#3 do4 mi4, mi3 la#3 re4), (fa#3 do4 mi4, sol#3 re4 fa#4), la#3 mi4, fa#3 la3 do4 re4|
             <piano_1_v2>  |_, _, (fa3 sol3, fa#3 sol#3), _|
             <piano_1_v5>  |(re2 la2, do2 sol2), (re2 la2, mi2 si2), sol2 re3, re2 la2|
         </mesure>
-        <mesure num=4>
+        <mesure num=28>
             <piano_1_v1>  |sol5, -, (sol5, la5), (fa#5, mi5)|
             <piano_1_v2>  |(re4 si4, re5), (re4 si4, re5), (mi4 si4, mi5), (mi4 si4, mi5)|
             <piano_1_v3>  |(re4 si4 sol5, sol5), sol5|
@@ -183,33 +172,39 @@ Section de développement 3 — 8 mesures. Tonalité Sol majeur, tempo 54 BPM.
             <piano_1_v6>  |_, si3 si4, _, si3 si4|
             <piano_1_v7>  |sol2 re3 si3|
         </mesure>
-        <mesure num=5>
+        <mesure num=29>
             <piano_1_v1>  |re5, (mi5, fa#5), (fa#5, mi5), mi5|
             <piano_1_v2>  |(si3 fa#4, si4), (_, re5), (mi4 si4, si4), (mi4, si4)|
             <piano_1_v5>  |re2 si2 fa#3, _, mi2 si2 sol3, _|
             <piano_1_v6>  |_, si3 fa#4, _, si3 sol4|
         </mesure>
-        <mesure num=6>
+        <mesure num=30>
             <piano_1_v1>  |si5, -, (si5, do6), (la5, sol4 sol5)|
             <piano_1_v2>  |(si4 do5, mi5), (si4 do5, mi5), (si4 do5, mi5), (sol4 la4, mi5)|
             <piano_1_v5>  |do3 sol3 mi4, mi4 do5, la2 mi3 do4, mi4 do5|
         </mesure>
-        <mesure num=7>
+        <mesure num=31>
             <piano_1_v1>  |fa#4 fa#5, (sol4 sol5, la4 la5), (la5, si5), (sol5, fa#5)|
             <piano_1_v2>  |(fa#4, si4 re5), (sol4, re5), (fa#4 si4, re5), (sol4, re5)|
             <piano_1_v5>  |si2 fa#3 re4, re4 fa#4 si4, sol2 re3 si3, re4 fa#4 si4|
         </mesure>
-        <mesure num=8>
+        <mesure num=32>
             <piano_1_v1>  |mi4 mi5, (fa#4 fa#5, sol4 sol5), (sol5, la5), (fa#5, mi5)|
             <piano_1_v2>  |(si4, do5), (_, do5), (mi4 la4, do5), (mi4, do5)|
             <piano_1_v5>  |la2 mi3 do4, do4 mi4 la4, fa#2 do3 la3, do4 mi4 la4|
         </mesure>
+
     </section>
 
+
 <meta>
-Section de développement 4 — 8 mesures. Tonalité Sol majeur, tempo 54 BPM.
+24 mesures. Assez doux et très lié, 4/4, Si mineur / Sol majeur.
+La section centrale explore des couleurs harmoniques plus sombres en Si mineur, avec une mélodie qui prend une teinte plus mélancolique et introspective avant de revenir vers Sol majeur dans sa conclusion ; c'est le moment le plus expressif de l'oeuvre.
+L'oreille perçoit un approfondissement de la tristesse, comme si le souvenir de l'infante se précisait et prenait une réalité plus poignante.
+Autoriser un rubato légèrement plus prononcé dans les sommets mélodiques ; les changements harmoniques doivent être mis en valeur par une légère variation de toucher.
+<section=section_B, n_mesure=24, bpm=54, format=4/4, tonalite=Si_mineur>
 </meta>
-    <section=section_5, n_mesure=8, bpm=54, format=4/4, tonalite=Sol_majeur>
+    <section=section_B, n_mesure=24, bpm=54, format=4/4, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |fa#5, -, (mi4 la4 do5, do4 mi4 la4), (si3 re4 fa#4, fa#3 do4 mi4)|
             <piano_1_v2>  |(fa#4 si4, re5), (re4 si4, re5), (_, _), (_, _)|
@@ -266,25 +261,20 @@ Section de développement 4 — 8 mesures. Tonalité Sol majeur, tempo 54 BPM.
             <piano_1_v3>  |(la#5, do6), (re6, fa6), fa6, (mi6, re6)|
             <piano_1_v5>  |_, _, re5, re5|
         </mesure>
-    </section>
 
-<meta>
-Section de développement 5 — 8 mesures. Tonalité Sol majeur, tempo 54 BPM.
-</meta>
-    <section=section_6, n_mesure=8, bpm=54, format=4/4, tonalite=Sol_majeur>
-        <mesure num=1>
+        <mesure num=9>
             <piano_1_v1>  |(_, _), (_, _), (la3 do4 fa4, do4 fa4 la4), (la3 do4 fa4, fa3 la3 re4)|
             <piano_1_v2>  |(sol5 la#5, sol5 la#5), fa5 la5|
             <piano_1_v3>  |(mi6, do6), re6|
             <piano_1_v5>  |(do5, {sol4, do5}), (_, sol3), sol3 re4, sol3 re4|
             <piano_1_v6>  |_, re4, re4|
         </mesure>
-        <mesure num=2>
+        <mesure num=10>
             <piano_1_v1>  |(la3 do4 fa4, {do4 fa4 la4, fa4 la4 re5}), fa4 la4 mi5, (fa4 la4 mi5, la3 do4 fa4), (do4 fa4 la4, fa4 la4 re5)|
             <piano_1_v5>  |(sol3 re4, sol3 do4), re3 si3, re3 si3, (_, {sol3 re4, sol3 do4})|
             <piano_1_v6>  |_, _, (sol2, sol2)|
         </mesure>
-        <mesure num=3>
+        <mesure num=11>
             <piano_1_v1>  |fa4 la4 mi5, (fa4 la4 mi5, fa4 la4 mi5), do5, -|
             <piano_1_v2>  |_, _, fa4 sol4, mi4 sol4|
             <piano_1_v3>  |_, _, _, do5|
@@ -293,50 +283,45 @@ Section de développement 5 — 8 mesures. Tonalité Sol majeur, tempo 54 BPM.
             <piano_1_v6>  |re3 si3, (re3 si3, sol3 si3), do3 sol3, _|
             <piano_1_v7>  |(_, sol2), sol2|
         </mesure>
-        <mesure num=4>
+        <mesure num=12>
             <piano_1_v1>  |_, _, _, _|
             <piano_1_v2>  |(do5, re#5), do5 re#5, do5 re#5, do5 re#5|
             <piano_1_v3>  |(re#5, fa#5), (sol5, la#5), la#5, (la5, sol5)|
             <piano_1_v5>  |(re#4, re5), (do5, la#4), (sol4, la#4), (la4, sol4)|
         </mesure>
-        <mesure num=5>
+        <mesure num=13>
             <piano_1_v1>  |(_, _), (_, _), (re4 fa4 la#4, fa4 la4 re5), (re4 fa4 la#4, si3 re4 sol4)|
             <piano_1_v2>  |(do5 re#5, do5 re#5), la#4 re5|
             <piano_1_v3>  |(la5, fa5), sol5|
             <piano_1_v5>  |(fa4, {do4, fa4}), sol3, (la#3, re4), (la#3, sol3)|
             <piano_1_v6>  |_, (_, do2 sol2), do2 sol2, do2 sol2|
         </mesure>
-        <mesure num=6>
+        <mesure num=14>
             <piano_1_v1>  |(re4 fa4 la#4, {fa4 la4 re5, la4 re5 fa5}), la#4 re5 la5, (la#4 re5 la5, si3 re4 fa4 la#4), (re4 fa4 la4 re5, fa4 la4 re5 fa5)|
             <piano_1_v5>  |(la#3, {re4, la#3 fa4}), sol3 mi4, (sol3 mi4, re3 sol3), (fa3 la#3, la3 la#3 re4)|
             <piano_1_v6>  |do2 sol2, (_, do2 sol2), do2 sol2, -|
         </mesure>
-        <mesure num=7>
+        <mesure num=15>
             <piano_1_v1>  |la4 la#4 re5 la5, (la4 la#4 re5 la5, la4 mi5 la5), fa4 do5 fa5, (_, re#4 si4 re#5)|
             <piano_1_v2>  |_, (_, do5), (la#4, la4), (sol#4, sol4)|
             <piano_1_v5>  |sol3 la#3 mi4, (sol3 la#3 mi4, la#3 mi4), fa3 do4, (_, fa3 si3)|
             <piano_1_v6>  |(_, do2 sol2), do4, (la#3, la3), (sol#3, sol3)|
         </mesure>
-        <mesure num=8>
+        <mesure num=16>
             <piano_1_v1>  |do4 sol4 do5, (_, la#3 fa4 la#4), sol4, mi4|
             <piano_1_v2>  |(fa4, mi4), (re#4, re4), do4 re4, -|
             <piano_1_v5>  |do3 sol3, (_, do3 fa#3), sol3, mi3|
             <piano_1_v6>  |(fa3, mi3), (re#3, re3), re2 re3, -|
         </mesure>
-    </section>
 
-<meta>
-Section de développement 6 — 8 mesures. Tonalité Sol majeur, tempo 54 BPM.
-</meta>
-    <section=section_7, n_mesure=8, bpm=54, format=2/4, tonalite=Sol_majeur>
-        <mesure num=1>
+        <mesure num=17>
             <piano_1_v1>  |do4 re4 fa#4, la#3 re4 sol4|
             <piano_1_v2>  |_, sol5|
             <piano_1_v3>  |_, sol5|
             <piano_1_v5>  |fa#3, sol3|
             <piano_1_v6>  |re2 re3, sol1 sol2|
         </mesure>
-        <mesure num=2, format=4/4>
+        <mesure num=18, format=4/4>
             <piano_1_v1>  |_, _, ({sol5, la#5}, {fa6, _}), _|
             <piano_1_v2>  |(sol5, sol5 la#5), sol5 la#5, sol5 la#5, sol5 la#5|
             <piano_1_v3>  |(la#5, do6), (re6, fa6), fa6, (mi6, re6)|
@@ -344,19 +329,19 @@ Section de développement 6 — 8 mesures. Tonalité Sol majeur, tempo 54 BPM.
             <piano_1_v6>  |_, _, re5, re5|
             <piano_1_v7>  |_, _, (_, sol6), (_, fa6 sol6)|
         </mesure>
-        <mesure num=3>
+        <mesure num=19>
             <piano_1_v1>  |_, (fa5, {la5, re6, la6, _}, _), (la3 do4 fa4, do4 fa4 la4), (la3 do4 fa4, fa3 la3 re4)|
             <piano_1_v2>  |(sol5 la#5, sol5 la#5)|
             <piano_1_v3>  |(mi6, do6), (re6, _)|
             <piano_1_v5>  |_, {re4, la4, re5}|
             <piano_1_v6>  |(do5, {sol4, do5}), (re4, sol3 re4), sol3 re4, sol3 re4|
         </mesure>
-        <mesure num=4>
+        <mesure num=20>
             <piano_1_v1>  |(la3 do4 fa4, {do4 fa4 la4, fa4 la4 re5}), fa4 la4 mi5, (fa4 la4 mi5, la3 do4 fa4), (do4 fa4 la4, fa4 la4 re5)|
             <piano_1_v5>  |(sol3 re4, sol3 do4), re3 si3, (re3 si3, _), (sol3 re4, sol3 do4)|
             <piano_1_v6>  |_, (_, sol2), sol2, _|
         </mesure>
-        <mesure num=5>
+        <mesure num=21>
             <piano_1_v1>  |fa4 la4 mi5, (fa4 la4 mi5, fa4 la4 mi5), do5, -|
             <piano_1_v2>  |_, _, (_, fa4 sol4), mi4 sol4|
             <piano_1_v3>  |_, _, _, do5|
@@ -365,7 +350,7 @@ Section de développement 6 — 8 mesures. Tonalité Sol majeur, tempo 54 BPM.
             <piano_1_v6>  |re3 si3, (re3 si3, sol3 si3), do3 sol3, (_, _)|
             <piano_1_v7>  |(_, sol2), (sol2, _), _, _|
         </mesure>
-        <mesure num=6>
+        <mesure num=22>
             <piano_1_v1>  |_, _, (do5, {re#5, la#5, _}), _|
             <piano_1_v2>  |(do5, re#5), do5 re#5, do5 re#5, do5 re#5|
             <piano_1_v3>  |(re#5, fa5), (sol5, la#5), la#5, (la5, sol4 sol5)|
@@ -373,24 +358,30 @@ Section de développement 6 — 8 mesures. Tonalité Sol majeur, tempo 54 BPM.
             <piano_1_v6>  |(re#4, re5), (do5, la#4), sol4, (la4, _)|
             <piano_1_v7>  |_, _, (_, do6), la#5 do6|
         </mesure>
-        <mesure num=7>
+        <mesure num=23>
             <piano_1_v1>  |(_, la4 do5 re#5), (la#4, {re5, sol5, re6}), (re4 fa4 la#4, fa4 la4 re5), (re4 fa4 la#4, si3 re4 sol4)|
             <piano_1_v2>  |(do5 re#5 la5, fa5), sol5, -, -|
             <piano_1_v5>  |_, {sol3, re4, sol4}|
             <piano_1_v6>  |(fa4, {do4, fa4}), sol3, (la#3, re4), (la#3, sol3)|
             <piano_1_v7>  |(_, _), (_, do2 sol2), do2 sol2, do2 sol2|
         </mesure>
-        <mesure num=8>
+        <mesure num=24>
             <piano_1_v1>  |(re4 fa4 la#4, {fa4 la4 re5, la4 re5 fa5}), la#4 re5 la5, (la#4 re5 la5, si3 re4 fa4 la#4), (re4 fa4 la4 re5, fa4 la4 re5 fa5)|
             <piano_1_v5>  |(la#3, {re4, la#3 fa4}), sol3 mi4, (sol3 mi4, re3 sol3), (fa3 la#3, la3 la#3 re4)|
             <piano_1_v6>  |do2 sol2, (_, do2 sol2), do2 sol2, -|
         </mesure>
+
     </section>
 
+
 <meta>
-Section de développement 7 — 8 mesures. Tonalité Sol majeur, tempo 54 BPM.
+16 mesures. Assez doux et très lié, 4/4, Sol majeur.
+La reprise de la section A ramène le thème initial en Sol majeur avec une écriture légèrement enrichie, menant la pièce vers sa conclusion dans la même sérénité mélancolique du début.
+L'effet est celui d'un retour au calme, d'un adieu tendre et résigné à l'infante, le thème s'éteignant doucement dans la tonique.
+Laisser la mélodie s'effacer progressivement dans les dernières mesures ; la pédale finale doit permettre à la résonance de mourir naturellement dans le silence.
+<section=section_A_prime, n_mesure=16, bpm=54, format=4/4, tonalite=Sol_majeur>
 </meta>
-    <section=section_8, n_mesure=8, bpm=54, format=4/4, tonalite=Sol_majeur>
+    <section=section_A_prime, n_mesure=16, bpm=54, format=4/4, tonalite=Sol_majeur>
         <mesure num=1>
             <piano_1_v1>  |la4 la#4 re5 la5, (la4 la#4 re5 la5, la4 mi5 la5), fa4 do5 fa5, re#4 si4 re#5|
             <piano_1_v2>  |_, (_, do5), (la#4, la4), (sol#4, sol4)|
@@ -436,32 +427,27 @@ Section de développement 7 — 8 mesures. Tonalité Sol majeur, tempo 54 BPM.
             <piano_1_v2>  |({mi4, si4}, do5, si4), ({fa#4, si4}, do5, si4), ({mi4, la4}, do5, la4), ({fa#4, la4}, do5, la4)|
             <piano_1_v5>  |la2 mi3 do4, do4 mi4 la4, fa#2 do3 la3, do4 mi4 la4|
         </mesure>
-    </section>
 
-<meta>
-Section conclusive — 8 mesures. Tonalité Sol majeur, tempo 54 BPM.
-</meta>
-    <section=section_9, n_mesure=8, bpm=54, format=4/4, tonalite=Sol_majeur>
-        <mesure num=1>
+        <mesure num=9>
             <piano_1_v1>  |fa#5, -, (_, la4), (fa#4, mi4)|
             <piano_1_v2>  |({fa#4, si4}, re5, si4), ({re4, si4}, re5, si4), ({la4 do5, mi4}, mi4, do4), ({re4, si3}, do4, la3)|
             <piano_1_v5>  |si2 fa#3 re4, si3 fa#4, _, _|
             <piano_1_v6>  |_, _, fa#2, (si2, re3)|
         </mesure>
-        <mesure num=2>
+        <mesure num=10>
             <piano_1_v1>  |(si3 re4 fa#4, _), si4 si5, -, si4 si5, _|
             <piano_1_v2>  |_, _, _, (_, {do4, mi4, si4}, {do5, mi5, si5})|
             <piano_1_v5>  |_, _, _, si3|
             <piano_1_v6>  |si2, -, si1 si2, si3, _|
         </mesure>
-        <mesure num=3>
+        <mesure num=11>
             <piano_1_v1>  |si4 si5, -, (si4 si5, la4 la5), (re5 re6, si4 si5)|
             <piano_1_v2>  |(_, do5 mi5), do5 mi5, mi5 sol5, (_, do5 mi5)|
             <piano_1_v5>  |_, do4 mi4|
             <piano_1_v6>  |la2 mi3 si3, -, (si3, la3), (re4, si3)|
             <piano_1_v7>  |_, _, mi4 sol4, (_, do4 mi4)|
         </mesure>
-        <mesure num=4>
+        <mesure num=12>
             <piano_1_v1>  |si4 si5, la4 la5, sol4 sol5, la4 la5|
             <piano_1_v2>  |(_, fa#3 do4 mi4), fa#3 do4 mi4, -, do5 mi5|
             <piano_1_v3>  |_, do5 mi5, do5 mi5, -|
@@ -469,20 +455,20 @@ Section conclusive — 8 mesures. Tonalité Sol majeur, tempo 54 BPM.
             <piano_1_v6>  |si3, fa#3, si3, la3|
             <piano_1_v7>  |_, do4 mi4, do4 mi4, do4 mi4|
         </mesure>
-        <mesure num=5>
+        <mesure num=13>
             <piano_1_v1>  |mi4 mi5, -, (mi4 mi5, re4 re5), (sol4 sol5, fa#4 fa#5)|
             <piano_1_v2>  |(do5 mi5, si4 mi5), si4 mi5, do5, do5 re5|
             <piano_1_v5>  |_, _, (mi2 mi3, re2 re3), (sol2 sol3, fa#2 fa#3)|
             <piano_1_v6>  |sol3, -, do3, do3 re3|
             <piano_1_v7>  |(do4 mi4, si3 mi4), si3 mi4, -, -|
         </mesure>
-        <mesure num=6>
+        <mesure num=14>
             <piano_1_v1>  |mi4 mi5, si4, sol#3 re4 re5 si5, mi5 la5 re6|
             <piano_1_v2>  |(si4 mi5, si3), (re4, mi4), (fa#4, _), (do5, {si4, la4})|
             <piano_1_v5>  |mi2 mi3, _, mi2 si2 fa#3, {re2 la2, re2 la2 fa#3 mi4}|
             <piano_1_v6>  |(si2 mi3, si2), (re3, mi3), (fa#3, _), (do4, {si3, la3})|
         </mesure>
-        <mesure num=7>
+        <mesure num=15>
             <piano_1_v1>  |{si4, fa#5, si5}, si4 fa#5 si5, -, si4 fa#5 si5|
             <piano_1_v2>  |_, re6, -, re6|
             <piano_1_v3>  |_, _, _, mi4, re4|
@@ -490,11 +476,12 @@ Section conclusive — 8 mesures. Tonalité Sol majeur, tempo 54 BPM.
             <piano_1_v6>  |_, sol1 sol2, -, sol1 sol2 si3|
             <piano_1_v7>  |_, fa#3 si3 fa#4, -, mi2 mi3, re2 re3|
         </mesure>
-        <mesure num=8>
+        <mesure num=16>
             <piano_1_v1>  |re5 sol5 re6, -, _, _|
             <piano_1_v5>  |{sol1 sol2, sol1 sol2}, _, _|
             <piano_1_v6>  |re3 sol3 re4, -, _, _|
         </mesure>
+
     </section>
 
 [EOS]
