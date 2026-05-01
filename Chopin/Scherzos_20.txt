@@ -9,11 +9,14 @@ Date : 1835
 Auteur : Frédéric Chopin
 Tonalite : Si_mineur
 Unite : quarter
-Intention : Premier scherzo de Chopin, oeuvre révolutionnaire d'une violence et d'une intensité dramatique sans précédent, écrit dans le contexte du soulèvement polonais contre l'occupation russe. Forme scherzo en si mineur, mesure 3/4, 620 mesures, Presto con fuoco ; la section A d'une agitation farouche (forme ABABA étendue) encadre un trio en si majeur basé sur un noël polonais (Lulajze Jezuniu), la coda finale ajoutant des arpèges vertigineux et une série de dix accords à neuf notes pour conclure.
+Intention : Violence dramatique sans précédent et révolution esthétique, ce premier scherzo s'ouvre par deux accords foudroyants avant de déployer une agitation farouche entourant un trio d'une douceur naïve basé sur un noël polonais. Forme scherzo ABA étendue en si mineur, mesure à 3/4, 620 mesures, Presto con fuoco ; la coda finale ajoute des arpèges vertigineux et une série d'accords massifs pour conclure.
 </tete>
 
 <meta>
-Introduction du Scherzo n°1, si mineur, Presto con fuoco ; deux accords violents (inversions du demi-diminué de la supertoni et de la dominante septième) frappent le silence. Ces deux accords d'une brutalité saisissante constituent le signal de départ de l'un des scherzos les plus dramatiques du répertoire.
+8 mesures. BPM 90. Signature 3/4. Tonalité Si_mineur.
+Introduction du Scherzo n°1, si mineur, Presto con fuoco ;
+deux accords violents (inversions du demi-diminué de la supertoni et de la dominante septième) frappent le silence.
+Ces deux accords d'une brutalité saisissante constituent le signal de départ de l'un des scherzos les plus dramatiques du répertoire.
 </meta>
     <section=introduction, n_mesure=8, bpm=90, format=3/4, tonalite=Si_mineur>
         <mesure num=1>
@@ -51,7 +54,10 @@ Introduction du Scherzo n°1, si mineur, Presto con fuoco ; deux accords violent
     </section>
 
 <meta>
-Thème principal de la section A en si mineur, tonica pédal à la basse ; la mélodie fragmentée en si mineur puis mi mineur avec pédale de dominante crée une atmosphère d'agitation et d'urgence. Les diminuées septièmes ponctuent la progression harmonique.
+8 mesures. BPM 90. Signature 3/4. Tonalité Si_mineur.
+Thème principal de la section A en si mineur, tonica pédal à la basse ;
+la mélodie fragmentée en si mineur puis mi mineur avec pédale de dominante crée une atmosphère d'agitation et d'urgence.
+Les diminuées septièmes ponctuent la progression harmonique.
 </meta>
     <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Si_mineur>
         <mesure num=1>
@@ -89,7 +95,10 @@ Thème principal de la section A en si mineur, tonica pédal à la basse ; la m�
     </section>
 
 <meta>
-Interlude de la section A ; passage plus doux avec des éclats fortissimo alternés, toujours en si mineur. La nuance piano éphémère contraste avec les explosions soudaines. Soigner l'inégalité dynamique expressive.
+8 mesures. BPM 90. Signature 3/4. Tonalité Si_mineur.
+Interlude de la section A ;
+passage plus doux avec des éclats fortissimo alternés, toujours en si mineur. La nuance piano éphémère contraste avec les explosions soudaines.
+Soigner l'inégalité dynamique expressive.
 </meta>
     <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Si_mineur>
         <mesure num=1>
@@ -127,7 +136,10 @@ Interlude de la section A ; passage plus doux avec des éclats fortissimo altern
     </section>
 
 <meta>
-Section B de la section A étendue, agitato ; séquences basées sur le rythme et les figurations du thème principal traversant ré majeur, fa dièse mineur et la majeur. Clarté harmonique dans les enchaînements séquentiels.
+8 mesures. BPM 90. Signature 3/4. Tonalité Si_mineur.
+Section B de la section A étendue, agitato ;
+séquences basées sur le rythme et les figurations du thème principal traversant ré majeur, fa dièse mineur et la majeur.
+Clarté harmonique dans les enchaînements séquentiels.
 </meta>
     <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Si_mineur>
         <mesure num=1>
@@ -176,7 +188,10 @@ Section B de la section A étendue, agitato ; séquences basées sur le rythme e
     </section>
 
 <meta>
-Suite de la section B agitato ; augmented sixth et accords de dominante de do dièse mineur, do mineur et si mineur créent une progression dramatique par demi-tons. Maintenir l'élan moteur sans précipiter.
+8 mesures. BPM 90. Signature 3/4. Tonalité Si_mineur.
+Suite de la section B agitato ;
+augmented sixth et accords de dominante de do dièse mineur, do mineur et si mineur créent une progression dramatique par demi-tons.
+Maintenir l'élan moteur sans précipiter.
 </meta>
     <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Si_mineur>
         <mesure num=1>
@@ -218,7 +233,10 @@ Suite de la section B agitato ; augmented sixth et accords de dominante de do di
     </section>
 
 <meta>
-Épisode en fa dièse majeur (dominante majeure) ; cadences parfaites en fa dièse majeur avec sixte aplatie (ré naturel). Ce moment lumineux contraste avec le si mineur environnant.
+8 mesures. BPM 90. Signature 3/4. Tonalité Si_mineur.
+Épisode en fa dièse majeur (dominante majeure) ;
+cadences parfaites en fa dièse majeur avec sixte aplatie (ré naturel).
+Ce moment lumineux contraste avec le si mineur environnant.
 </meta>
     <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Si_mineur>
         <mesure num=1>
@@ -260,7 +278,10 @@ Suite de la section B agitato ; augmented sixth et accords de dominante de do di
     </section>
 
 <meta>
-Retour en si mineur avec pédale de dominante ; les cadences de septièmes diminuées enchaînées en triples croches préparent la réapparition du thème principal. Construire la tension harmonique.
+8 mesures. BPM 90. Signature 3/4. Tonalité Si_mineur.
+Retour en si mineur avec pédale de dominante ;
+les cadences de septièmes diminuées enchaînées en triples croches préparent la réapparition du thème principal.
+Construire la tension harmonique.
 </meta>
     <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Si_mineur>
         <mesure num=1>
@@ -302,7 +323,10 @@ Retour en si mineur avec pédale de dominante ; les cadences de septièmes dimin
     </section>
 
 <meta>
-Retour du thème principal A, première répétition ; identique à la présentation initiale mais son retour psychologiquement amplifié. Même brutalité, même articulation tranchante.
+8 mesures. BPM 90. Signature 3/4. Tonalité Si_mineur.
+Retour du thème principal A, première répétition ;
+identique à la présentation initiale mais son retour psychologiquement amplifié.
+Même brutalité, même articulation tranchante.
 </meta>
     <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Si_mineur>
         <mesure num=1>
@@ -347,7 +371,10 @@ Retour du thème principal A, première répétition ; identique à la présenta
     </section>
 
 <meta>
-Interlude de la deuxième occurrence de A ; les mêmes contrastes piano-forte avec la même alternance déstabilisante. Maîtrise dynamique absolue.
+8 mesures. BPM 90. Signature 3/4. Tonalité Si_mineur.
+Interlude de la deuxième occurrence de A ;
+les mêmes contrastes piano-forte avec la même alternance déstabilisante.
+Maîtrise dynamique absolue.
 </meta>
     <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Si_mineur>
         <mesure num=1>
@@ -385,7 +412,10 @@ Interlude de la deuxième occurrence de A ; les mêmes contrastes piano-forte av
     </section>
 
 <meta>
-Section B agitato, deuxième occurrence ; les séquences modales reprennent leur course dans les mêmes tonalités. La répétition de la structure renforce la cohérence formelle du scherzo.
+8 mesures. BPM 90. Signature 3/4. Tonalité Si_mineur.
+Section B agitato, deuxième occurrence ;
+les séquences modales reprennent leur course dans les mêmes tonalités.
+La répétition de la structure renforce la cohérence formelle du scherzo.
 </meta>
     <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Si_mineur>
         <mesure num=1>
@@ -423,7 +453,10 @@ Section B agitato, deuxième occurrence ; les séquences modales reprennent leur
     </section>
 
 <meta>
-Suite de la section B agitato, deuxième occurrence ; les accords de sixte augmentée et de dominante créent à nouveau leur progression dramatique par demi-tons. Caractère implacable.
+8 mesures. BPM 90. Signature 3/4. Tonalité Si_mineur.
+Suite de la section B agitato, deuxième occurrence ;
+les accords de sixte augmentée et de dominante créent à nouveau leur progression dramatique par demi-tons.
+Caractère implacable.
 </meta>
     <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Si_mineur>
         <mesure num=1>
@@ -461,7 +494,10 @@ Suite de la section B agitato, deuxième occurrence ; les accords de sixte augme
     </section>
 
 <meta>
-Épisode en fa dièse majeur, deuxième occurrence ; même couleur lumineuse avant le retour au si mineur. La répétition confère à l'œuvre sa structure architecturale régulière.
+8 mesures. BPM 90. Signature 3/4. Tonalité Si_mineur.
+Épisode en fa dièse majeur, deuxième occurrence ;
+même couleur lumineuse avant le retour au si mineur.
+La répétition confère à l'œuvre sa structure architecturale régulière.
 </meta>
     <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Si_mineur>
         <mesure num=1>
@@ -507,7 +543,10 @@ Suite de la section B agitato, deuxième occurrence ; les accords de sixte augme
     </section>
 
 <meta>
-Retour du thème A, troisième occurrence ; ce retour constitue la fin de l'exposition étendue. La section A prend ici un caractère conclusif, même si la coda de la section A modifie le cours attendu.
+8 mesures. BPM 90. Signature 3/4. Tonalité Si_mineur.
+Retour du thème A, troisième occurrence ;
+ce retour constitue la fin de l'exposition étendue.
+La section A prend ici un caractère conclusif, même si la coda de la section A modifie le cours attendu.
 </meta>
     <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Si_mineur>
         <mesure num=1>
@@ -545,7 +584,10 @@ Retour du thème A, troisième occurrence ; ce retour constitue la fin de l'expo
     </section>
 
 <meta>
-Transition magique vers le trio en si majeur ; le pivot harmonique de si mineur à si majeur (homonyme) est l'un des changements de couleur les plus poétiques de l'oeuvre. Ralentissement progressif (Molto piu lento).
+8 mesures. BPM 90. Signature 3/4. Tonalité Si_mineur.
+Transition magique vers le trio en si majeur ;
+le pivot harmonique de si mineur à si majeur (homonyme) est l'un des changements de couleur les plus poétiques de l'oeuvre.
+Ralentissement progressif (Molto piu lento).
 </meta>
     <section=trio, n_mesure=8, bpm=90, format=3/4, tonalite=Si_mineur>
         <mesure num=1>
@@ -583,7 +625,10 @@ Transition magique vers le trio en si majeur ; le pivot harmonique de si mineur 
     </section>
 
 <meta>
-Thème A du trio en si majeur ; mélodie basée sur le noël polonais 'Lulajze Jezuniu' (Dors petit Jésus), d'une tendresse bercante et apaisante. Écriture entièrement diatonique, texture cristalline. Legato parfait, chanter la mélodie avec douceur.
+8 mesures. BPM 90. Signature 3/4. Tonalité Si_mineur.
+Thème A du trio en si majeur ;
+mélodie basée sur le noël polonais 'Lulajze Jezuniu' (Dors petit Jésus), d'une tendresse bercante et apaisante. Écriture entièrement diatonique, texture cristalline.
+Legato parfait, chanter la mélodie avec douceur.
 </meta>
     <section=trio, n_mesure=8, bpm=90, format=3/4, tonalite=Si_mineur>
         <mesure num=1>
@@ -625,7 +670,10 @@ Thème A du trio en si majeur ; mélodie basée sur le noël polonais 'Lulajze J
     </section>
 
 <meta>
-Section B du trio, si majeur ; début de modulation vers sol dièse mineur avec accord de septième diminuée et demi-cadence en sol dièse mineur. Maintenir le caractère paisible malgré la modulation.
+8 mesures. BPM 90. Signature 3/4. Tonalité Si_mineur.
+Section B du trio, si majeur ;
+début de modulation vers sol dièse mineur avec accord de septième diminuée et demi-cadence en sol dièse mineur.
+Maintenir le caractère paisible malgré la modulation.
 </meta>
     <section=trio, n_mesure=8, bpm=90, format=3/4, tonalite=Si_mineur>
         <mesure num=1>
@@ -667,7 +715,10 @@ Section B du trio, si majeur ; début de modulation vers sol dièse mineur avec 
     </section>
 
 <meta>
-Retour de la section A du trio en si majeur ; le thème du noël réapparaît jusqu'à la mesure 376, avec pédale de dominante et accord diminué septième avant l'augmented sixth (ré-fa dièse-la-si dièse) menant à fa dièse mineur.
+8 mesures. BPM 90. Signature 3/4. Tonalité Si_mineur.
+Retour de la section A du trio en si majeur ;
+le thème du noël réapparaît jusqu'à la mesure 376, avec pédale de dominante et accord diminué septième avant l'augmented sixth (ré-fa dièse-la-si dièse) menant à fa dièse mineur.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
     <section=trio, n_mesure=8, bpm=90, format=3/4, tonalite=Si_mineur>
         <mesure num=1>
@@ -705,7 +756,10 @@ Retour de la section A du trio en si majeur ; le thème du noël réapparaît ju
     </section>
 
 <meta>
-Transition trio vers section A finale ; retour des deux accords de l'introduction en fortissimo, superposés aux vestiges du thème du trio pianissimo smorzando. Ce contraste brutal est l'un des moments les plus saisissants de l'œuvre. Ne pas anticiper l'entrée des accords.
+8 mesures. BPM 90. Signature 3/4. Tonalité Si_mineur.
+Transition trio vers section A finale ;
+retour des deux accords de l'introduction en fortissimo, superposés aux vestiges du thème du trio pianissimo smorzando. Ce contraste brutal est l'un des moments les plus saisissants de l'œuvre.
+Ne pas anticiper l'entrée des accords.
 </meta>
     <section=trio, n_mesure=8, bpm=90, format=3/4, tonalite=Si_mineur>
         <mesure num=1>
@@ -746,7 +800,10 @@ Transition trio vers section A finale ; retour des deux accords de l'introductio
     </section>
 
 <meta>
-Suite du trio en si majeur ; les mesures expressives du thème de berceau s'approfondissent harmoniquement avec de légères tensions avant de revenir à l'apaisement.
+8 mesures. BPM 90. Signature 3/4. Tonalité Si_mineur.
+Suite du trio en si majeur ;
+les mesures expressives du thème de berceau s'approfondissent harmoniquement avec de légères tensions avant de revenir à l'apaisement.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
     <section=trio, n_mesure=8, bpm=90, format=3/4, tonalite=Si_mineur>
         <mesure num=1>
@@ -794,7 +851,10 @@ Suite du trio en si majeur ; les mesures expressives du thème de berceau s'appr
     </section>
 
 <meta>
-Développement expressif du trio ; la mélodie s'élève dans le registre aigu avec une chaleur accrue. L'accompagnement en croches régulières crée une berceuse hypnotique.
+8 mesures. BPM 90. Signature 3/4. Tonalité Si_mineur.
+Développement expressif du trio ;
+la mélodie s'élève dans le registre aigu avec une chaleur accrue.
+L'accompagnement en croches régulières crée une berceuse hypnotique.
 </meta>
     <section=trio, n_mesure=8, bpm=90, format=3/4, tonalite=Si_mineur>
         <mesure num=1>
@@ -837,7 +897,10 @@ Développement expressif du trio ; la mélodie s'élève dans le registre aigu a
     </section>
 
 <meta>
-Clôture du trio en si majeur ; la dernière phrase du thème s'éteint en pianissimo sur la cadence parfaite. La douceur ultime du trio rend le retour du scherzo encore plus brutal.
+8 mesures. BPM 90. Signature 3/4. Tonalité Si_mineur.
+Clôture du trio en si majeur ;
+la dernière phrase du thème s'éteint en pianissimo sur la cadence parfaite.
+La douceur ultime du trio rend le retour du scherzo encore plus brutal.
 </meta>
     <section=trio, n_mesure=8, bpm=90, format=3/4, tonalite=Si_mineur>
         <mesure num=1>
@@ -878,7 +941,10 @@ Clôture du trio en si majeur ; la dernière phrase du thème s'éteint en piani
     </section>
 
 <meta>
-Interlude de transition ; les deux accords violents réapparaissent, le thème du trio s'estompe. Ce pont dramatique entre deux mondes expressifs opposés est d'une efficacité dramaturgique incomparable.
+8 mesures. BPM 90. Signature 3/4. Tonalité Si_mineur.
+Interlude de transition ;
+les deux accords violents réapparaissent, le thème du trio s'estompe.
+Ce pont dramatique entre deux mondes expressifs opposés est d'une efficacité dramaturgique incomparable.
 </meta>
     <section=trio, n_mesure=8, bpm=90, format=3/4, tonalite=Si_mineur>
         <mesure num=1>
@@ -921,7 +987,10 @@ Interlude de transition ; les deux accords violents réapparaissent, le thème d
     </section>
 
 <meta>
-Dernier écho du trio ; quelques notes résiduelles du thème de noël s'éteignent avant la réapparition impétueuse du scherzo. Laisser ces notes sonner dans le silence.
+8 mesures. BPM 90. Signature 3/4. Tonalité Si_mineur.
+Dernier écho du trio ;
+quelques notes résiduelles du thème de noël s'éteignent avant la réapparition impétueuse du scherzo.
+Laisser ces notes sonner dans le silence.
 </meta>
     <section=trio, n_mesure=8, bpm=90, format=3/4, tonalite=Si_mineur>
         <mesure num=1>
@@ -963,7 +1032,10 @@ Dernier écho du trio ; quelques notes résiduelles du thème de noël s'éteign
     </section>
 
 <meta>
-Retour de la section A en si mineur ; la réapparition du thème initial après le trio est encore plus violente par contraste. La brutalité des deux accords d'ouverture reprend sa pleine mesure.
+8 mesures. BPM 90. Signature 3/4. Tonalité Si_mineur.
+Retour de la section A en si mineur ;
+la réapparition du thème initial après le trio est encore plus violente par contraste.
+La brutalité des deux accords d'ouverture reprend sa pleine mesure.
 </meta>
     <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Si_mineur>
         <mesure num=1>
@@ -1001,7 +1073,10 @@ Retour de la section A en si mineur ; la réapparition du thème initial après 
     </section>
 
 <meta>
-Thème principal A dans le retour de la section A, si mineur ; identique aux présentations précédentes. La répétition formelle stricte crée la cohérence architecturale de l'œuvre.
+8 mesures. BPM 90. Signature 3/4. Tonalité Si_mineur.
+Thème principal A dans le retour de la section A, si mineur ;
+identique aux présentations précédentes.
+La répétition formelle stricte crée la cohérence architecturale de l'œuvre.
 </meta>
     <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Si_mineur>
         <mesure num=1>
@@ -1039,7 +1114,10 @@ Thème principal A dans le retour de la section A, si mineur ; identique aux pr�
     </section>
 
 <meta>
-Interlude du retour de la section A ; passage piano avec éclats fortissimo. Le contraste dynamique reste aussi saisissant qu'au début.
+8 mesures. BPM 90. Signature 3/4. Tonalité Si_mineur.
+Interlude du retour de la section A ;
+passage piano avec éclats fortissimo.
+Le contraste dynamique reste aussi saisissant qu'au début.
 </meta>
     <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Si_mineur>
         <mesure num=1>
@@ -1081,7 +1159,10 @@ Interlude du retour de la section A ; passage piano avec éclats fortissimo. Le 
     </section>
 
 <meta>
-Section B agitato dans le retour de A ; les séquences modales reprennent dans ré majeur, fa dièse mineur et la majeur.
+8 mesures. BPM 90. Signature 3/4. Tonalité Si_mineur.
+Section B agitato dans le retour de A ;
+les séquences modales reprennent dans ré majeur, fa dièse mineur et la majeur.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
     <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Si_mineur>
         <mesure num=1>
@@ -1123,7 +1204,10 @@ Section B agitato dans le retour de A ; les séquences modales reprennent dans r
     </section>
 
 <meta>
-Suite de la section B agitato dans le retour de A ; les accords de sixte augmentée et de dominante progressent à nouveau par demi-tons descendants.
+8 mesures. BPM 90. Signature 3/4. Tonalité Si_mineur.
+Suite de la section B agitato dans le retour de A ;
+les accords de sixte augmentée et de dominante progressent à nouveau par demi-tons descendants.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
     <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Si_mineur>
         <mesure num=1>
@@ -1161,7 +1245,10 @@ Suite de la section B agitato dans le retour de A ; les accords de sixte augment
     </section>
 
 <meta>
-Épisode en fa dièse majeur dans le retour de A ; même contraste lumineux avant le retour au si mineur.
+8 mesures. BPM 90. Signature 3/4. Tonalité Si_mineur.
+Épisode en fa dièse majeur dans le retour de A ;
+même contraste lumineux avant le retour au si mineur.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
     <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Si_mineur>
         <mesure num=1>
@@ -1199,7 +1286,10 @@ Suite de la section B agitato dans le retour de A ; les accords de sixte augment
     </section>
 
 <meta>
-Thème principal A, simple forme ternaire ABA de la section finale ; la dernière occurrence du thème principal commence à tisser la conclusion imminente.
+8 mesures. BPM 90. Signature 3/4. Tonalité Si_mineur.
+Thème principal A, simple forme ternaire ABA de la section finale ;
+la dernière occurrence du thème principal commence à tisser la conclusion imminente.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
     <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Si_mineur>
         <mesure num=1>
@@ -1245,7 +1335,10 @@ Thème principal A, simple forme ternaire ABA de la section finale ; la dernièr
     </section>
 
 <meta>
-Interlude légèrement modifié et étendu de la section A finale ; l'interlude se termine ici sur la note de dominante plutôt que sur une cadence parfaite, altérant la structure attendue pour mener vers la coda.
+8 mesures. BPM 90. Signature 3/4. Tonalité Si_mineur.
+Interlude légèrement modifié et étendu de la section A finale ;
+l'interlude se termine ici sur la note de dominante plutôt que sur une cadence parfaite, altérant la structure attendue pour mener vers la coda.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
     <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Si_mineur>
         <mesure num=1>
@@ -1283,7 +1376,10 @@ Interlude légèrement modifié et étendu de la section A finale ; l'interlude 
     </section>
 
 <meta>
-Section B agitato finale ; plus agitée encore, avec un geste final plus pressant. Les septièmes diminuées s'enchaînent en accélération vers la coda.
+8 mesures. BPM 90. Signature 3/4. Tonalité Si_mineur.
+Section B agitato finale ;
+plus agitée encore, avec un geste final plus pressant.
+Les septièmes diminuées s'enchaînent en accélération vers la coda.
 </meta>
     <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Si_mineur>
         <mesure num=1>
@@ -1321,7 +1417,10 @@ Section B agitato finale ; plus agitée encore, avec un geste final plus pressan
     </section>
 
 <meta>
-Interlude de transition finale, légèrement modifié et étendu ; de plus en plus agité, se termine sur la dominante pour l'élan final vers la coda. La tension est maximale.
+8 mesures. BPM 90. Signature 3/4. Tonalité Si_mineur.
+Interlude de transition finale, légèrement modifié et étendu ;
+de plus en plus agité, se termine sur la dominante pour l'élan final vers la coda.
+La tension est maximale.
 </meta>
     <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Si_mineur>
         <mesure num=1>
@@ -1370,7 +1469,10 @@ Interlude de transition finale, légèrement modifié et étendu ; de plus en pl
     </section>
 
 <meta>
-Préparation immédiate de la coda ; les arpèges de septièmes diminuées en triples croches préparent la démonstration virtuose finale. Ne pas ralentir, maintenir la vitesse du Presto.
+8 mesures. BPM 90. Signature 3/4. Tonalité Si_mineur.
+Préparation immédiate de la coda ;
+les arpèges de septièmes diminuées en triples croches préparent la démonstration virtuose finale.
+Ne pas ralentir, maintenir la vitesse du Presto.
 </meta>
     <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Si_mineur>
         <mesure num=1>
@@ -1412,7 +1514,10 @@ Préparation immédiate de la coda ; les arpèges de septièmes diminuées en tr
     </section>
 
 <meta>
-Développement de la transition coda ; pédale de dominante en basse, diminished seventh chords, la coda devient inévitable. L'accumulation harmonique crée une vague d'énergie irrésistible.
+8 mesures. BPM 90. Signature 3/4. Tonalité Si_mineur.
+Développement de la transition coda ;
+pédale de dominante en basse, diminished seventh chords, la coda devient inévitable.
+L'accumulation harmonique crée une vague d'énergie irrésistible.
 </meta>
     <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Si_mineur>
         <mesure num=1>
@@ -1454,7 +1559,10 @@ Développement de la transition coda ; pédale de dominante en basse, diminished
     </section>
 
 <meta>
-Approche immédiate de la coda ; la répétition finale du thème A avec une légère variation à la main droite annonce l'explosion finale de la coda.
+8 mesures. BPM 90. Signature 3/4. Tonalité Si_mineur.
+Approche immédiate de la coda ;
+la répétition finale du thème A avec une légère variation à la main droite annonce l'explosion finale de la coda.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
     <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Si_mineur>
         <mesure num=1>
@@ -1496,7 +1604,10 @@ Approche immédiate de la coda ; la répétition finale du thème A avec une lé
     </section>
 
 <meta>
-Fin de la section A avant la coda ; les arpèges vertigineux de la coda commencent ici, montant et descendant sur tout le clavier en demi-pas chromatiques.
+8 mesures. BPM 90. Signature 3/4. Tonalité Si_mineur.
+Fin de la section A avant la coda ;
+les arpèges vertigineux de la coda commencent ici, montant et descendant sur tout le clavier en demi-pas chromatiques.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
     <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Si_mineur>
         <mesure num=1>
@@ -1541,7 +1652,10 @@ Fin de la section A avant la coda ; les arpèges vertigineux de la coda commence
     </section>
 
 <meta>
-Début de la coda ; les arpèges brisés en triples croches parcourent l'ensemble du clavier à une vitesse vertigineuse. La pédale de dominante en basse ancre harmoniquement cet envol. La série de dix accords à neuf notes (diminuée septième) clôt le passage virtuose.
+8 mesures. BPM 90. Signature 3/4. Tonalité Si_mineur.
+Début de la coda ;
+les arpèges brisés en triples croches parcourent l'ensemble du clavier à une vitesse vertigineuse. La pédale de dominante en basse ancre harmoniquement cet envol.
+La série de dix accords à neuf notes (diminuée septième) clôt le passage virtuose.
 </meta>
     <section=coda, n_mesure=8, bpm=90, format=3/4, tonalite=Si_mineur>
         <mesure num=1>
@@ -1581,7 +1695,10 @@ Début de la coda ; les arpèges brisés en triples croches parcourent l'ensembl
     </section>
 
 <meta>
-Conclusion de la coda et accord terminal en si mineur ; les neuf accords à dix notes (septième diminuée avec tierce diminuée, augmented sixth en position fondamentale, accord de septième sensible de la tonique si) concluent l'œuvre dans une affirmation tonitruante. L'accord final en si mineur est le point d'exclamation de cette œuvre révolutionnaire.
+8 mesures. BPM 90. Signature 3/4. Tonalité Si_mineur.
+Conclusion de la coda et accord terminal en si mineur ;
+les neuf accords à dix notes (septième diminuée avec tierce diminuée, augmented sixth en position fondamentale, accord de septième sensible de la tonique si) concluent l'œuvre dans une affirmation tonitruante.
+L'accord final en si mineur est le point d'exclamation de cette œuvre révolutionnaire.
 </meta>
     <section=coda, n_mesure=8, bpm=90, format=3/4, tonalite=Si_mineur>
         <mesure num=1>
@@ -1627,7 +1744,10 @@ Conclusion de la coda et accord terminal en si mineur ; les neuf accords à dix 
     </section>
 
 <meta>
-Développement intermédiaire de la section A ; séquences harmoniques en progression par demi-tons créant une instabilité caractéristique. La rigeur rythmique ne doit jamais faiblir.
+8 mesures. BPM 90. Signature 3/4. Tonalité Si_mineur.
+Développement intermédiaire de la section A ;
+séquences harmoniques en progression par demi-tons créant une instabilité caractéristique.
+La rigeur rythmique ne doit jamais faiblir.
 </meta>
     <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Si_mineur>
         <mesure num=1>
@@ -1666,7 +1786,10 @@ Développement intermédiaire de la section A ; séquences harmoniques en progre
     </section>
 
 <meta>
-Épisode de transition dans la section A ; les accords de quartes et de quintes alternent dans une texture motrice persistante.
+8 mesures. BPM 90. Signature 3/4. Tonalité Si_mineur.
+Épisode de transition dans la section A ;
+les accords de quartes et de quintes alternent dans une texture motrice persistante.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
     <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Si_mineur>
         <mesure num=1>
@@ -1713,7 +1836,10 @@ Développement intermédiaire de la section A ; séquences harmoniques en progre
     </section>
 
 <meta>
-Continuation séquentielle de la section A ; les motifs se décalent harmoniquement, chaque répétition ajoutant une demi-tension supplémentaire.
+8 mesures. BPM 90. Signature 3/4. Tonalité Si_mineur.
+Continuation séquentielle de la section A ;
+les motifs se décalent harmoniquement, chaque répétition ajoutant une demi-tension supplémentaire.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
     <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Si_mineur>
         <mesure num=1>
@@ -1759,7 +1885,10 @@ Continuation séquentielle de la section A ; les motifs se décalent harmoniquem
     </section>
 
 <meta>
-Passage contrapuntique de la section A ; les voix s'entrecroisent brièvement dans une polyphonie incisive avant de retourner à la verticalité harmonique des accords.
+8 mesures. BPM 90. Signature 3/4. Tonalité Si_mineur.
+Passage contrapuntique de la section A ;
+les voix s'entrecroisent brièvement dans une polyphonie incisive avant de retourner à la verticalité harmonique des accords.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
     <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Si_mineur>
         <mesure num=1>
@@ -1797,7 +1926,10 @@ Passage contrapuntique de la section A ; les voix s'entrecroisent brièvement da
     </section>
 
 <meta>
-Intensification de la section A ; la dynamique monte progressivement vers un nouveau paroxysme fortissimo. Maintenir la régularité métrique dans l'intensité.
+8 mesures. BPM 90. Signature 3/4. Tonalité Si_mineur.
+Intensification de la section A ;
+la dynamique monte progressivement vers un nouveau paroxysme fortissimo.
+Maintenir la régularité métrique dans l'intensité.
 </meta>
     <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Si_mineur>
         <mesure num=1>
@@ -1836,7 +1968,10 @@ Intensification de la section A ; la dynamique monte progressivement vers un nou
     </section>
 
 <meta>
-Réaffirmation du thème principal dans la section A ; retour de l'ostinato rythmique initial qui structure l'ensemble du scherzo.
+8 mesures. BPM 90. Signature 3/4. Tonalité Si_mineur.
+Réaffirmation du thème principal dans la section A ;
+retour de l'ostinato rythmique initial qui structure l'ensemble du scherzo.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
     <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Si_mineur>
         <mesure num=1>
@@ -1883,7 +2018,10 @@ Réaffirmation du thème principal dans la section A ; retour de l'ostinato ryth
     </section>
 
 <meta>
-Développement harmonique avancé de la section A ; les modulations rapides par cercle de quintes rappellent l'art harmonique chopin et sa maîtrise des transitions tonales.
+8 mesures. BPM 90. Signature 3/4. Tonalité Si_mineur.
+Développement harmonique avancé de la section A ;
+les modulations rapides par cercle de quintes rappellent l'art harmonique chopin et sa maîtrise des transitions tonales.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
     <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Si_mineur>
         <mesure num=1>
@@ -1929,7 +2067,10 @@ Développement harmonique avancé de la section A ; les modulations rapides par 
     </section>
 
 <meta>
-Passage de la section A explorant le registre grave ; les octaves profondes à la main gauche donnent une assise harmonique solide aux traits rapides de la main droite.
+8 mesures. BPM 90. Signature 3/4. Tonalité Si_mineur.
+Passage de la section A explorant le registre grave ;
+les octaves profondes à la main gauche donnent une assise harmonique solide aux traits rapides de la main droite.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
     <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Si_mineur>
         <mesure num=1>
@@ -1968,7 +2109,10 @@ Passage de la section A explorant le registre grave ; les octaves profondes à l
     </section>
 
 <meta>
-Section de préparation au sommet de la section A ; crescendo progressif, les séquences accélèrent vers le point culminant.
+8 mesures. BPM 90. Signature 3/4. Tonalité Si_mineur.
+Section de préparation au sommet de la section A ;
+crescendo progressif, les séquences accélèrent vers le point culminant.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
     <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Si_mineur>
         <mesure num=1>
@@ -2008,7 +2152,10 @@ Section de préparation au sommet de la section A ; crescendo progressif, les s�
     </section>
 
 <meta>
-Sommet intermédiaire de la section A ; fortissimo global, accords compacts dans les deux mains, l'énergie est à son maximum avant une retombée en piano.
+8 mesures. BPM 90. Signature 3/4. Tonalité Si_mineur.
+Sommet intermédiaire de la section A ;
+fortissimo global, accords compacts dans les deux mains, l'énergie est à son maximum avant une retombée en piano.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
     <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Si_mineur>
         <mesure num=1>
@@ -2046,7 +2193,10 @@ Sommet intermédiaire de la section A ; fortissimo global, accords compacts dans
     </section>
 
 <meta>
-Section paisible du trio ; les mesures lentes de la berceuse se déroulent dans une régularité hypnotique. Chaque note est une goutte de silence musical.
+8 mesures. BPM 90. Signature 3/4. Tonalité Si_mineur.
+Section paisible du trio ;
+les mesures lentes de la berceuse se déroulent dans une régularité hypnotique.
+Chaque note est une goutte de silence musical.
 </meta>
     <section=trio, n_mesure=8, bpm=90, format=3/4, tonalite=Si_mineur>
         <mesure num=1>
@@ -2084,7 +2234,10 @@ Section paisible du trio ; les mesures lentes de la berceuse se déroulent dans 
     </section>
 
 <meta>
-Développement lyrique du trio ; la mélodie du noël polonais s'enrichit de nuances expressives discrètes. Chaque répétition de phrase ajoute une couche d'intimité.
+8 mesures. BPM 90. Signature 3/4. Tonalité Si_mineur.
+Développement lyrique du trio ;
+la mélodie du noël polonais s'enrichit de nuances expressives discrètes.
+Chaque répétition de phrase ajoute une couche d'intimité.
 </meta>
     <section=trio, n_mesure=8, bpm=90, format=3/4, tonalite=Si_mineur>
         <mesure num=1>
@@ -2125,7 +2278,10 @@ Développement lyrique du trio ; la mélodie du noël polonais s'enrichit de nua
     </section>
 
 <meta>
-Fin du développement du trio ; la tension harmonique légère de la modulation vers sol dièse mineur se résout dans la sérénité du si majeur.
+8 mesures. BPM 90. Signature 3/4. Tonalité Si_mineur.
+Fin du développement du trio ;
+la tension harmonique légère de la modulation vers sol dièse mineur se résout dans la sérénité du si majeur.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
     <section=trio, n_mesure=8, bpm=90, format=3/4, tonalite=Si_mineur>
         <mesure num=1>
@@ -2173,7 +2329,10 @@ Fin du développement du trio ; la tension harmonique légère de la modulation 
     </section>
 
 <meta>
-Retour supplémentaire du matériau A après le trio ; la réaffirmation de l'agitation initiale est encore renforcée par le souvenir du trio paisible.
+8 mesures. BPM 90. Signature 3/4. Tonalité Si_mineur.
+Retour supplémentaire du matériau A après le trio ;
+la réaffirmation de l'agitation initiale est encore renforcée par le souvenir du trio paisible.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
     <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Si_mineur>
         <mesure num=1>
@@ -2216,7 +2375,10 @@ Retour supplémentaire du matériau A après le trio ; la réaffirmation de l'ag
     </section>
 
 <meta>
-Développement final dans le retour de A ; les accords de septième diminuée s'accumulent de manière implacable.
+8 mesures. BPM 90. Signature 3/4. Tonalité Si_mineur.
+Développement final dans le retour de A ;
+les accords de septième diminuée s'accumulent de manière implacable.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
     <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Si_mineur>
         <mesure num=1>
@@ -2257,7 +2419,10 @@ Développement final dans le retour de A ; les accords de septième diminuée s'
     </section>
 
 <meta>
-Section B supplémentaire dans le retour de A ; les séquences traversent de nouvelles régions harmoniques dans leur progression vers la coda.
+8 mesures. BPM 90. Signature 3/4. Tonalité Si_mineur.
+Section B supplémentaire dans le retour de A ;
+les séquences traversent de nouvelles régions harmoniques dans leur progression vers la coda.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
     <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Si_mineur>
         <mesure num=1>
@@ -2300,7 +2465,10 @@ Section B supplémentaire dans le retour de A ; les séquences traversent de nou
     </section>
 
 <meta>
-Développement de la coda préparatoire ; les arpèges chromatiques en triples croches commencent à défiler à une vitesse croissante.
+8 mesures. BPM 90. Signature 3/4. Tonalité Si_mineur.
+Développement de la coda préparatoire ;
+les arpèges chromatiques en triples croches commencent à défiler à une vitesse croissante.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
     <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Si_mineur>
         <mesure num=1>
@@ -2342,7 +2510,10 @@ Développement de la coda préparatoire ; les arpèges chromatiques en triples c
     </section>
 
 <meta>
-Première partie de la coda virtuose ; les arpèges brisés s'élancent dans les registres extrêmes du clavier. La pédale de dominante tient ferme dans les graves.
+8 mesures. BPM 90. Signature 3/4. Tonalité Si_mineur.
+Première partie de la coda virtuose ;
+les arpèges brisés s'élancent dans les registres extrêmes du clavier.
+La pédale de dominante tient ferme dans les graves.
 </meta>
     <section=coda, n_mesure=8, bpm=90, format=3/4, tonalite=Si_mineur>
         <mesure num=1>
@@ -2380,7 +2551,10 @@ Première partie de la coda virtuose ; les arpèges brisés s'élancent dans les
     </section>
 
 <meta>
-Développement de la coda ; les arpèges continuent leur ascension vertigineuse, la tension de dominante restant non résolue jusqu'aux accords de septième diminuée.
+8 mesures. BPM 90. Signature 3/4. Tonalité Si_mineur.
+Développement de la coda ;
+les arpèges continuent leur ascension vertigineuse, la tension de dominante restant non résolue jusqu'aux accords de septième diminuée.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
     <section=coda, n_mesure=8, bpm=90, format=3/4, tonalite=Si_mineur>
         <mesure num=1>
@@ -2418,7 +2592,10 @@ Développement de la coda ; les arpèges continuent leur ascension vertigineuse,
     </section>
 
 <meta>
-Approche de la conclusion ; les neuf accords à haute densité (neuf et dix notes) commencent à sonner. La puissance sonore doit être maximale.
+8 mesures. BPM 90. Signature 3/4. Tonalité Si_mineur.
+Approche de la conclusion ;
+les neuf accords à haute densité (neuf et dix notes) commencent à sonner.
+La puissance sonore doit être maximale.
 </meta>
     <section=coda, n_mesure=8, bpm=90, format=3/4, tonalite=Si_mineur>
         <mesure num=1>
@@ -2460,7 +2637,10 @@ Approche de la conclusion ; les neuf accords à haute densité (neuf et dix note
     </section>
 
 <meta>
-Avant-dernière phase de la coda ; les accords s'enchaînent dans un rythme régulier et implacable. Chaque accord est une affirmation de la tonique si mineur.
+8 mesures. BPM 90. Signature 3/4. Tonalité Si_mineur.
+Avant-dernière phase de la coda ;
+les accords s'enchaînent dans un rythme régulier et implacable.
+Chaque accord est une affirmation de la tonique si mineur.
 </meta>
     <section=coda, n_mesure=8, bpm=90, format=3/4, tonalite=Si_mineur>
         <mesure num=1>
@@ -2502,7 +2682,10 @@ Avant-dernière phase de la coda ; les accords s'enchaînent dans un rythme rég
     </section>
 
 <meta>
-Conclusion ultime de la coda ; la série complète des accords à neuf notes résonne dans un fortissimo integral. La cadence finale est définitive et péremptoire.
+8 mesures. BPM 90. Signature 3/4. Tonalité Si_mineur.
+Conclusion ultime de la coda ;
+la série complète des accords à neuf notes résonne dans un fortissimo integral.
+La cadence finale est définitive et péremptoire.
 </meta>
     <section=coda, n_mesure=8, bpm=90, format=3/4, tonalite=Si_mineur>
         <mesure num=1>
@@ -2540,9 +2723,12 @@ Conclusion ultime de la coda ; la série complète des accords à neuf notes ré
     </section>
 
 <meta>
-Section de développement 61 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
+8 mesures. BPM 90. Signature 3/4. Tonalité Si_mineur.
+Section de développement 61 — 8 mesures.
+Tonalité Si mineur, tempo 90 BPM.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
-    <section=section_62, n_mesure=8, bpm=90, format=3/4, tonalite=Si_mineur>
+    <section=coda, n_mesure=8, bpm=90, format=3/4, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |mi5 sol5 la#5 do#6 mi6, _, _|
             <piano_1_v4>  |fa#3 do#4 mi4, _, _|
@@ -2578,9 +2764,12 @@ Section de développement 61 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 62 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
+8 mesures. BPM 90. Signature 3/4. Tonalité Si_mineur.
+Section de développement 62 — 8 mesures.
+Tonalité Si mineur, tempo 90 BPM.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
-    <section=section_63, n_mesure=8, bpm=90, format=3/4, tonalite=Si_mineur>
+    <section=coda, n_mesure=8, bpm=90, format=3/4, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |_, (_, do#4), (sol4, mi5)|
             <piano_1_v2>  |_, do#4, -|
@@ -2624,9 +2813,12 @@ Section de développement 62 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 63 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
+8 mesures. BPM 90. Signature 3/4. Tonalité Si_mineur.
+Section de développement 63 — 8 mesures.
+Tonalité Si mineur, tempo 90 BPM.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
-    <section=section_64, n_mesure=8, bpm=90, format=3/4, tonalite=Si_mineur>
+    <section=coda, n_mesure=8, bpm=90, format=3/4, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |_, (_, fa3), (fa#3, si3)|
             <piano_1_v4>  |(fa2 re3, fa#2), (si1, _), _|
@@ -2662,9 +2854,12 @@ Section de développement 63 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 64 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
+8 mesures. BPM 90. Signature 3/4. Tonalité Si_mineur.
+Section de développement 64 — 8 mesures.
+Tonalité Si mineur, tempo 90 BPM.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
-    <section=section_65, n_mesure=8, bpm=90, format=3/4, tonalite=Si_mineur>
+    <section=coda, n_mesure=8, bpm=90, format=3/4, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |_, (_, la#3), (si3, mi4)|
             <piano_1_v4>  |(fa#2 mi3, sol2), (si1, _), _|
@@ -2700,9 +2895,12 @@ Section de développement 64 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 65 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
+8 mesures. BPM 90. Signature 3/4. Tonalité Si_mineur.
+Section de développement 65 — 8 mesures.
+Tonalité Si mineur, tempo 90 BPM.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
-    <section=section_66, n_mesure=8, bpm=90, format=3/4, tonalite=Si_mineur>
+    <section=coda, n_mesure=8, bpm=90, format=3/4, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |fa#6, (sol6, fa#6), (fa6, mi6)|
             <piano_1_v4>  |fa#5, sol5, -|
@@ -2749,9 +2947,12 @@ Section de développement 65 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 66 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
+8 mesures. BPM 90. Signature 3/4. Tonalité Si_mineur.
+Section de développement 66 — 8 mesures.
+Tonalité Si mineur, tempo 90 BPM.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
-    <section=section_67, n_mesure=8, bpm=90, format=3/4, tonalite=Si_mineur>
+    <section=coda, n_mesure=8, bpm=90, format=3/4, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |(fa#4, _), (sol4, fa#4), (fa4, mi4)|
             <piano_1_v4>  |(fa#3 la#3, _), fa#1 fa#2, _|
@@ -2791,9 +2992,12 @@ Section de développement 66 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 67 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
+8 mesures. BPM 90. Signature 3/4. Tonalité Si_mineur.
+Section de développement 67 — 8 mesures.
+Tonalité Si mineur, tempo 90 BPM.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
-    <section=section_68, n_mesure=8, bpm=90, format=3/4, tonalite=Si_mineur>
+    <section=coda, n_mesure=8, bpm=90, format=3/4, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |(la#3, do#4), (mi4, sol4), (la#4, do#5)|
             <piano_1_v4>  |sol3, -, -|
@@ -2833,9 +3037,12 @@ Section de développement 67 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 68 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
+8 mesures. BPM 90. Signature 3/4. Tonalité Si_mineur.
+Section de développement 68 — 8 mesures.
+Tonalité Si mineur, tempo 90 BPM.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
-    <section=section_69, n_mesure=8, bpm=90, format=3/4, tonalite=Si_mineur>
+    <section=coda, n_mesure=8, bpm=90, format=3/4, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |_, _, mi4 sol4 mi5|
             <piano_1_v4>  |si1 si2, -, -|
@@ -2875,9 +3082,12 @@ Section de développement 68 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 69 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
+8 mesures. BPM 90. Signature 3/4. Tonalité Si_mineur.
+Section de développement 69 — 8 mesures.
+Tonalité Si mineur, tempo 90 BPM.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
-    <section=section_70, n_mesure=8, bpm=90, format=3/4, tonalite=Si_mineur>
+    <section=coda, n_mesure=8, bpm=90, format=3/4, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |re4, -, do#4|
             <piano_1_v2>  |sol3 si3, -, -|
@@ -2920,9 +3130,12 @@ Section de développement 69 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 70 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
+8 mesures. BPM 90. Signature 3/4. Tonalité Si_mineur.
+Section de développement 70 — 8 mesures.
+Tonalité Si mineur, tempo 90 BPM.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
-    <section=section_71, n_mesure=8, bpm=90, format=3/4, tonalite=Si_mineur>
+    <section=coda, n_mesure=8, bpm=90, format=3/4, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |mi5, -, -|
             <piano_1_v2>  |do#5, -, -|
@@ -2960,9 +3173,12 @@ Section de développement 70 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 71 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
+8 mesures. BPM 90. Signature 3/4. Tonalité Si_mineur.
+Section de développement 71 — 8 mesures.
+Tonalité Si mineur, tempo 90 BPM.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
-    <section=section_72, n_mesure=8, bpm=90, format=3/4, tonalite=Si_mineur>
+    <section=coda, n_mesure=8, bpm=90, format=3/4, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |_, _, _|
             <piano_1_v4>  |si1 si2, _, _|
@@ -2998,9 +3214,12 @@ Section de développement 71 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 72 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
+8 mesures. BPM 90. Signature 3/4. Tonalité Si_mineur.
+Section de développement 72 — 8 mesures.
+Tonalité Si mineur, tempo 90 BPM.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
-    <section=section_73, n_mesure=8, bpm=90, format=3/4, tonalite=Si_mineur>
+    <section=coda, n_mesure=8, bpm=90, format=3/4, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |(la#4, si4), (si5, re5), (fa#5, si4)|
             <piano_1_v4>  |si2 si3, re4 fa#4, -|
@@ -3036,9 +3255,12 @@ Section de développement 72 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 73 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
+8 mesures. BPM 90. Signature 3/4. Tonalité Si_mineur.
+Section de développement 73 — 8 mesures.
+Tonalité Si mineur, tempo 90 BPM.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
-    <section=section_74, n_mesure=8, bpm=90, format=3/4, tonalite=Si_mineur>
+    <section=coda, n_mesure=8, bpm=90, format=3/4, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |(la#5, si5), (si6, sol#6), (fa6, do#6)|
             <piano_1_v4>  |sol#4 si4 do#5 fa5 sol#5, _, _|
@@ -3074,9 +3296,12 @@ Section de développement 73 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 74 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
+8 mesures. BPM 90. Signature 3/4. Tonalité Si_mineur.
+Section de développement 74 — 8 mesures.
+Tonalité Si mineur, tempo 90 BPM.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
-    <section=section_75, n_mesure=8, bpm=90, format=3/4, tonalite=Si_mineur>
+    <section=coda, n_mesure=8, bpm=90, format=3/4, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |fa5 sol5 si5 re6 sol6, -, -|
             <piano_1_v4>  |fa#3 si3 re4 fa4 sol4, -, -|
@@ -3112,9 +3337,12 @@ Section de développement 74 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 75 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
+8 mesures. BPM 90. Signature 3/4. Tonalité Si_mineur.
+Section de développement 75 — 8 mesures.
+Tonalité Si mineur, tempo 90 BPM.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
-    <section=section_76, n_mesure=8, bpm=90, format=3/4, tonalite=Si_mineur>
+    <section=coda, n_mesure=8, bpm=90, format=3/4, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |(fa#4 si4, re4), fa#4 si4, re4 fa#4|
             <piano_1_v4>  |_, la#3, si3|
@@ -3153,9 +3381,12 @@ Section de développement 75 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 76 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
+8 mesures. BPM 90. Signature 3/4. Tonalité Si_mineur.
+Section de développement 76 — 8 mesures.
+Tonalité Si mineur, tempo 90 BPM.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
-    <section=section_77, n_mesure=8, bpm=90, format=3/4, tonalite=Si_mineur>
+    <section=coda, n_mesure=8, bpm=90, format=3/4, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |(fa5, fa#5), (sol5, sol#5), (la5, la#5)|
             <piano_1_v4>  |(fa4, fa#4), (sol4, sol#4), (la4, la#4)|
@@ -3191,9 +3422,12 @@ Section de développement 76 — 8 mesures. Tonalité Si mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section conclusive — 4 mesures. Tonalité Si mineur, tempo 90 BPM.
+4 mesures. BPM 90. Signature 3/4. Tonalité Si_mineur.
+Section conclusive — 4 mesures.
+Tonalité Si mineur, tempo 90 BPM.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
-    <section=section_78, n_mesure=4, bpm=90, format=3/4, tonalite=Si_mineur>
+    <section=coda, n_mesure=4, bpm=90, format=3/4, tonalite=Si_mineur>
         <mesure num=1>
             <piano_1_v1>  |_, _, _|
             <piano_1_v4>  |_, _, _|
