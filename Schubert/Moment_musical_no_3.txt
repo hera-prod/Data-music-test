@@ -3,19 +3,19 @@
 TACHE : composition
 STYLE : romantique
 FORMAT : piano_solo
-NIVEAU : simple
+NIVEAU : intermediaire
 Titre : Moment_musical_no_3
-Date : ?
+Date : 1823
 Auteur : Schubert
 Tonalite : Fa_mineur
 Unite : quarter
-Intention : Pièce pour piano solo, modéré, mélancolique, au cadre binaire régulier. Tonalité : Fa mineur. 78 mesures.
+Intention : Allegretto capricieux et populaire, ce troisieme Moment Musical en Fa mineur est l'une des pages les plus immediatement saisissantes de Schubert, avec son rythme pointu et son contraste entre ombre et lumiere. Forme ternaire en Fa mineur, 2/4, Allegretto (environ 84 BPM), 78 mesures, section B en Lab majeur.
 </tete>
 
 <meta>
-Section d'ouverture — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
+8 mesures. Tempo Allegretto, environ 84 BPM. Signature 2/4. Tonalite Fa mineur. La section A en Fa mineur etablit le caractere populaire et capricieux de cette page, Schubert utilisant un rythme pointu et une melodie incisive qui rappellent la danse populaire viennoise tout en conservant une profondeur romantique. Ce rythme caracteristique est reconnaissable entre tous et constitue la signature de cette oeuvre celebre. Jouer les rythmes pointes avec precision et legerete, sans exces de pesanteur, l'articulation nette.
 </meta>
-    <section=section_1, n_mesure=8, bpm=90, format=2/4, tonalite=Fa_mineur>
+    <section=section_A_1, n_mesure=8, bpm=84, format=2/4, tonalite=Fa_mineur>
         <mesure num=1>
             <piano_1_v1>  |_, _|
             <piano_1_v3>  |(fa3, do4 fa4), (fa3, do4 fa4)|
@@ -58,9 +58,9 @@ Section d'ouverture — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 1 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
+8 mesures. Tempo Allegretto, environ 84 BPM. Signature 2/4. Tonalite Fa mineur. La section A en Fa mineur etablit le caractere populaire et capricieux de cette page, Schubert utilisant un rythme pointu et une melodie incisive qui rappellent la danse populaire viennoise tout en conservant une profondeur romantique. Ce rythme caracteristique est reconnaissable entre tous et constitue la signature de cette oeuvre celebre. Jouer les rythmes pointes avec precision et legerete, sans exces de pesanteur, l'articulation nette.
 </meta>
-    <section=section_2, n_mesure=8, bpm=90, format=2/4, tonalite=Fa_mineur>
+    <section=section_A_2, n_mesure=8, bpm=84, format=2/4, tonalite=Fa_mineur>
         <mesure num=1>
             <piano_1_v1>  |({lab4 do5, sol4 sib4}, fa4 lab4, sol4 sib4), ({do5, reb5}, do5, mi5)|
             <piano_1_v2>  |_, (lab4, sol4 sib4)|
@@ -104,9 +104,9 @@ Section de développement 1 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 2 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
+8 mesures. Tempo Allegretto, environ 84 BPM. Signature 2/4. Tonalite Fa mineur. La section A en Fa mineur etablit le caractere populaire et capricieux de cette page, Schubert utilisant un rythme pointu et une melodie incisive qui rappellent la danse populaire viennoise tout en conservant une profondeur romantique. Ce rythme caracteristique est reconnaissable entre tous et constitue la signature de cette oeuvre celebre. Jouer les rythmes pointes avec precision et legerete, sans exces de pesanteur, l'articulation nette.
 </meta>
-    <section=section_3, n_mesure=8, bpm=90, format=2/4, tonalite=Fa_mineur>
+    <section=section_A_3, n_mesure=8, bpm=84, format=2/4, tonalite=Fa_mineur>
         <mesure num=1>
             <piano_1_v1>  |({lab4 do5, sol4 sib4}, fa4 lab4, sol4 sib4), ({do5, reb5}, do5, mi5)|
             <piano_1_v2>  |_, (lab4, sol4 sib4)|
@@ -145,9 +145,9 @@ Section de développement 2 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 3 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
+8 mesures. Tempo Allegretto, environ 84 BPM. Signature 2/4. Tonalite Lab majeur. La section B en Lab majeur, relatif majeur de Fa mineur, apporte une lumiere contrastante et chaleureuse, Schubert glissant naturellement entre les deux modes pour enrichir le discours expressif sans rupture brutale. Ce contraste entre Fa mineur et Lab majeur est l'une des plus belles illustrations du genie harmonique schubertien. Laisser Lab majeur sonner avec plus de chaleur et d'ouverture que le Fa mineur qui precede.
 </meta>
-    <section=section_4, n_mesure=8, bpm=90, format=2/4, tonalite=Fa_mineur>
+    <section=section_B_4, n_mesure=8, bpm=84, format=2/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |({fa5, mib5}, reb5 mib5), reb5 mib5|
             <piano_1_v2>  |(sol4 reb5, sol4, lab4), (sib4, lab4, sol4)|
@@ -186,9 +186,9 @@ Section de développement 3 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 4 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
+8 mesures. Tempo Allegretto, environ 84 BPM. Signature 2/4. Tonalite Lab majeur. La section B en Lab majeur, relatif majeur de Fa mineur, apporte une lumiere contrastante et chaleureuse, Schubert glissant naturellement entre les deux modes pour enrichir le discours expressif sans rupture brutale. Ce contraste entre Fa mineur et Lab majeur est l'une des plus belles illustrations du genie harmonique schubertien. Laisser Lab majeur sonner avec plus de chaleur et d'ouverture que le Fa mineur qui precede.
 </meta>
-    <section=section_5, n_mesure=8, bpm=90, format=2/4, tonalite=Fa_mineur>
+    <section=section_B_5, n_mesure=8, bpm=84, format=2/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |({fa5, mib5}, reb5 mib5), reb5 mib5|
             <piano_1_v2>  |(sol4 reb5, sol4, lab4), (sib4, lab4, sol4)|
@@ -230,9 +230,9 @@ Section de développement 4 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 5 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
+8 mesures. Tempo Allegretto, environ 84 BPM. Signature 2/4. Tonalite Lab majeur. La section B en Lab majeur, relatif majeur de Fa mineur, apporte une lumiere contrastante et chaleureuse, Schubert glissant naturellement entre les deux modes pour enrichir le discours expressif sans rupture brutale. Ce contraste entre Fa mineur et Lab majeur est l'une des plus belles illustrations du genie harmonique schubertien. Laisser Lab majeur sonner avec plus de chaleur et d'ouverture que le Fa mineur qui precede.
 </meta>
-    <section=section_6, n_mesure=8, bpm=90, format=2/4, tonalite=Fa_mineur>
+    <section=section_B_6, n_mesure=8, bpm=84, format=2/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |(do4 lab4, do4 lab4), ({do4 lab4, reb4 sib4}, mib4 do5, reb4 sib4)|
             <piano_1_v3>  |(mib2, mib3 lab3), (mib2, mib3 sol3)|
@@ -273,9 +273,9 @@ Section de développement 5 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 6 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
+8 mesures. Tempo Allegretto, environ 84 BPM. Signature 2/4. Tonalite Fa mineur. Le retour de la section A en Fa mineur ramene le caractere capricieux initial, Schubert y integrant une coda pour conclure l'oeuvre avec la meme vitalite rythmique qui l'a ouverte. Ce retour confirme le caractere rond et ferme de la forme ternaire. Retrouver le tonus rythmique et l'articulation nette du debut, la note finale bien affirmee.
 </meta>
-    <section=section_7, n_mesure=8, bpm=90, format=2/4, tonalite=Fa_mineur>
+    <section=section_A_prime_7, n_mesure=8, bpm=84, format=2/4, tonalite=Fa_mineur>
         <mesure num=1>
             <piano_1_v1>  |(do4 lab4, do4 lab4), ({do4 lab4, reb4 sib4}, mib4 do5, reb4 sib4)|
             <piano_1_v3>  |(mib2, mib3 lab3), (mib2, mib3 sol3)|
@@ -318,9 +318,9 @@ Section de développement 6 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 7 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
+8 mesures. Tempo Allegretto, environ 84 BPM. Signature 2/4. Tonalite Fa mineur. Le retour de la section A en Fa mineur ramene le caractere capricieux initial, Schubert y integrant une coda pour conclure l'oeuvre avec la meme vitalite rythmique qui l'a ouverte. Ce retour confirme le caractere rond et ferme de la forme ternaire. Retrouver le tonus rythmique et l'articulation nette du debut, la note finale bien affirmee.
 </meta>
-    <section=section_8, n_mesure=8, bpm=90, format=2/4, tonalite=Fa_mineur>
+    <section=section_A_prime_8, n_mesure=8, bpm=84, format=2/4, tonalite=Fa_mineur>
         <mesure num=1>
             <piano_1_v1>  |({lab4 do5, sol4 sib4}, fa4 lab4, sol4 sib4), ({do5, reb5}, do5, mi5)|
             <piano_1_v2>  |_, (lab4, sol4 sib4)|
@@ -364,9 +364,9 @@ Section de développement 7 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 8 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
+8 mesures. Tempo Allegretto, environ 84 BPM. Signature 2/4. Tonalite Fa mineur. Le retour de la section A en Fa mineur ramene le caractere capricieux initial, Schubert y integrant une coda pour conclure l'oeuvre avec la meme vitalite rythmique qui l'a ouverte. Ce retour confirme le caractere rond et ferme de la forme ternaire. Retrouver le tonus rythmique et l'articulation nette du debut, la note finale bien affirmee.
 </meta>
-    <section=section_9, n_mesure=8, bpm=90, format=2/4, tonalite=Fa_mineur>
+    <section=section_A_prime_9, n_mesure=8, bpm=84, format=2/4, tonalite=Fa_mineur>
         <mesure num=1>
             <piano_1_v1>  |(do5, do5, re5), (do5, re5, {_, re5})|
             <piano_1_v2>  |(la4, la4), sib4|
@@ -410,9 +410,9 @@ Section de développement 8 — 8 mesures. Tonalité Fa mineur, tempo 90 BPM.
     </section>
 
 <meta>
-Section conclusive — 6 mesures. Tonalité Fa mineur, tempo 90 BPM.
+6 mesures. Tempo Allegretto, environ 84 BPM. Signature 2/4. Tonalite Fa mineur. Le retour de la section A en Fa mineur ramene le caractere capricieux initial, Schubert y integrant une coda pour conclure l'oeuvre avec la meme vitalite rythmique qui l'a ouverte. Ce retour confirme le caractere rond et ferme de la forme ternaire. Retrouver le tonus rythmique et l'articulation nette du debut, la note finale bien affirmee.
 </meta>
-    <section=section_10, n_mesure=6, bpm=90, format=2/4, tonalite=Fa_mineur>
+    <section=section_A_prime_10, n_mesure=6, bpm=84, format=2/4, tonalite=Fa_mineur>
         <mesure num=1>
             <piano_1_v1>  |(do5, do5, re5), (do5, la4)|
             <piano_1_v2>  |(la4, la4), mib4|
