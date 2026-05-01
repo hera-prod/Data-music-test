@@ -6,7 +6,7 @@ FORMAT : piano_solo
 NIVEAU : avance
 Titre : Prélude en sib mineur, BWV 891, Clavier bien tempéré II n°22
 Date : 1742
-Auteur : Johann Sebastian Bach
+Auteur : Bach
 Tonalite : Sib_mineur
 Unite : quarter
 Intention : Prélude d'une densité contrapuntique sinfoniaque, construit sur deux thèmes complémentaires qui se combinent, s'inversent et se déplacent entre les voix dans un dialogue implacable, évoquant par moments une fugue à part entière. Forme prélude en quatre grandes périodes en sib mineur, mesure à 2/2, 83 mesures, tempo modéré autour de 90 pulsations par minute, avec un Thème I chromatique étendu sur cinq mesures et un Thème II en croches qui apparaît quarante-sept fois en formes directe et inversée.
