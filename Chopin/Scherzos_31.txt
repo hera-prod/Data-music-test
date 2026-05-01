@@ -9,11 +9,14 @@ Date : 1837
 Auteur : Frédéric Chopin
 Tonalite : Sib_mineur
 Unite : quarter
-Intention : Scherzo de la maturité chopinienne, d'une sophistication harmonique et structurelle incomparable, bâti comme une architecture de quatre colonnes (AA-BB) surmontée d'un développement culminant avant le retour de A. Forme scherzo en si bémol mineur, mesure 3/4, 773 mesures, Presto ; le trio en la majeur (do dièse majeur enharmonique) offre des thèmes d'une délicatesse exquise avant que le développement central ne porte le drame à son paroxysme.
+Intention : Sophistication harmonique incomparable et architecture en quatre colonnes, ce scherzo de la maturité chopinienne oppose un thème mystérieux pianissimo en si bémol mineur à des éruptions fortissimo et déploie un trio en do dièse majeur d'une délicatesse exquise. Forme scherzo en si bémol mineur, mesure à 3/4, 773 mesures, Presto ; le développement central porte le drame à son paroxysme avant la récapitulation.
 </tete>
 
 <meta>
-Ouverture du Scherzo n°2 en si bémol mineur, Presto ; le thème 1 commence en si bémol mineur avec deux accords de question mystérieux pianissimo avant l'explosion forte. Ce dialogue entre silence et éruption est la signature caractéristique de ce scherzo.
+8 mesures. BPM 90. Signature 3/4. Tonalité Do#_majeur.
+Ouverture du Scherzo n°2 en si bémol mineur, Presto ;
+le thème 1 commence en si bémol mineur avec deux accords de question mystérieux pianissimo avant l'explosion forte.
+Ce dialogue entre silence et éruption est la signature caractéristique de ce scherzo.
 </meta>
     <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Do#_majeur>
         <mesure num=1>
@@ -59,7 +62,10 @@ Ouverture du Scherzo n°2 en si bémol mineur, Presto ; le thème 1 commence en 
     </section>
 
 <meta>
-Suite du thème 1 en si bémol mineur ; la modulation vers ré bémol majeur (relatif majeur) mesures 13-17 apporte un rayon de lumière fugace avant le retour brutal en si bémol mineur mesure 18.
+8 mesures. BPM 90. Signature 3/4. Tonalité Do#_majeur.
+Suite du thème 1 en si bémol mineur ;
+la modulation vers ré bémol majeur (relatif majeur) mesures 13-17 apporte un rayon de lumière fugace avant le retour brutal en si bémol mineur mesure 18.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
     <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Do#_majeur>
         <mesure num=1>
@@ -105,7 +111,10 @@ Suite du thème 1 en si bémol mineur ; la modulation vers ré bémol majeur (re
     </section>
 
 <meta>
-Première répétition du thème 1 ; la phrase reprend en si bémol mineur mais module vers fa mineur (dominante) au lieu de ré bémol majeur, variant la conclusion tonale de manière inattendue.
+8 mesures. BPM 90. Signature 3/4. Tonalité Do#_majeur.
+Première répétition du thème 1 ;
+la phrase reprend en si bémol mineur mais module vers fa mineur (dominante) au lieu de ré bémol majeur, variant la conclusion tonale de manière inattendue.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
     <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Do#_majeur>
         <mesure num=1>
@@ -149,7 +158,10 @@ Première répétition du thème 1 ; la phrase reprend en si bémol mineur mais 
     </section>
 
 <meta>
-Thème 2 en ré bémol majeur ; une nouvelle idée apparaît, utilisant le sixième degré abaissé (si double bémol) dans un accord de neuvième de dominante. Le charme harmonique est saisissant. Mettre en valeur les appogiatures expressives.
+8 mesures. BPM 90. Signature 3/4. Tonalité Do#_majeur.
+Thème 2 en ré bémol majeur ;
+une nouvelle idée apparaît, utilisant le sixième degré abaissé (si double bémol) dans un accord de neuvième de dominante. Le charme harmonique est saisissant.
+Mettre en valeur les appogiatures expressives.
 </meta>
     <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Do#_majeur>
         <mesure num=1>
@@ -195,7 +207,10 @@ Thème 2 en ré bémol majeur ; une nouvelle idée apparaît, utilisant le sixi�
     </section>
 
 <meta>
-Thème 3 (con anima) en sol bémol majeur ; début en sol bémol major puis modulation vers la bémol majeur (mesures 73-80) dans une séquence expressivo. Pédales de dominante et accord de septième diminuée ponctuent le développement.
+8 mesures. BPM 90. Signature 3/4. Tonalité Do#_majeur.
+Thème 3 (con anima) en sol bémol majeur ;
+début en sol bémol major puis modulation vers la bémol majeur (mesures 73-80) dans une séquence expressivo.
+Pédales de dominante et accord de septième diminuée ponctuent le développement.
 </meta>
     <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Do#_majeur>
         <mesure num=1>
@@ -241,7 +256,10 @@ Thème 3 (con anima) en sol bémol majeur ; début en sol bémol major puis modu
     </section>
 
 <meta>
-Suite du thème 3 con anima ; la progression harmonique explore ré bémol majeur avant la pédale de dominante mesures 107-116 menant à la cadence parfaite. Suspensions et appogiatures à soigner particulièrement.
+8 mesures. BPM 90. Signature 3/4. Tonalité Do#_majeur.
+Suite du thème 3 con anima ;
+la progression harmonique explore ré bémol majeur avant la pédale de dominante mesures 107-116 menant à la cadence parfaite.
+Suspensions et appogiatures à soigner particulièrement.
 </meta>
     <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Do#_majeur>
         <mesure num=1>
@@ -285,7 +303,10 @@ Suite du thème 3 con anima ; la progression harmonique explore ré bémol majeu
     </section>
 
 <meta>
-Thème conclusif de fermeture de A ; arpèges de tonique et de dominante septième en ré bémol majeur. Ces arpèges limpides referment la première exposition de A dans la sérénité.
+8 mesures. BPM 90. Signature 3/4. Tonalité Do#_majeur.
+Thème conclusif de fermeture de A ;
+arpèges de tonique et de dominante septième en ré bémol majeur.
+Ces arpèges limpides referment la première exposition de A dans la sérénité.
 </meta>
     <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Do#_majeur>
         <mesure num=1>
@@ -331,7 +352,10 @@ Thème conclusif de fermeture de A ; arpèges de tonique et de dominante septiè
     </section>
 
 <meta>
-Fin de la première exposition A ; la structure thématique de A est complète : thème 1 (bis), thème 2, thème 3 (con anima), thème conclusif. Cette cohérence architecturale est la base de la construction en 'quatre colonnes'.
+8 mesures. BPM 90. Signature 3/4. Tonalité Do#_majeur.
+Fin de la première exposition A ;
+la structure thématique de A est complète : thème 1 (bis), thème 2, thème 3 (con anima), thème conclusif.
+Cette cohérence architecturale est la base de la construction en 'quatre colonnes'.
 </meta>
     <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Do#_majeur>
         <mesure num=1>
@@ -377,7 +401,10 @@ Fin de la première exposition A ; la structure thématique de A est complète :
     </section>
 
 <meta>
-Développement intermédiaire de A ; les motifs thématiques circulent dans différentes nuances. La variété textuelle maintient l'intérêt de la répétition structurelle.
+8 mesures. BPM 90. Signature 3/4. Tonalité Do#_majeur.
+Développement intermédiaire de A ;
+les motifs thématiques circulent dans différentes nuances.
+La variété textuelle maintient l'intérêt de la répétition structurelle.
 </meta>
     <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Do#_majeur>
         <mesure num=1>
@@ -439,7 +466,10 @@ Développement intermédiaire de A ; les motifs thématiques circulent dans diff
     </section>
 
 <meta>
-Continuation des éléments thématiques de A ; les trois thèmes principaux s'enchaînent dans un ordre légèrement varié pour enrichir l'exposition.
+8 mesures. BPM 90. Signature 3/4. Tonalité Do#_majeur.
+Continuation des éléments thématiques de A ;
+les trois thèmes principaux s'enchaînent dans un ordre légèrement varié pour enrichir l'exposition.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
     <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Do#_majeur>
         <mesure num=1>
@@ -502,7 +532,10 @@ Continuation des éléments thématiques de A ; les trois thèmes principaux s'e
     </section>
 
 <meta>
-Développement harmonique de A ; les modulations passagères ajoutent de la profondeur à la répétition formelle. Les accords de septième diminuée de la mesure 87 et suivantes créent des tensions expressives.
+8 mesures. BPM 90. Signature 3/4. Tonalité Do#_majeur.
+Développement harmonique de A ;
+les modulations passagères ajoutent de la profondeur à la répétition formelle.
+Les accords de septième diminuée de la mesure 87 et suivantes créent des tensions expressives.
 </meta>
     <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Do#_majeur>
         <mesure num=1>
@@ -556,7 +589,10 @@ Développement harmonique de A ; les modulations passagères ajoutent de la prof
     </section>
 
 <meta>
-Suite de la construction thématique de A ; le thème 3 con anima revient dans sa progression harmonique vers ré bémol majeur.
+8 mesures. BPM 90. Signature 3/4. Tonalité Do#_majeur.
+Suite de la construction thématique de A ;
+le thème 3 con anima revient dans sa progression harmonique vers ré bémol majeur.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
     <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Do#_majeur>
         <mesure num=1>
@@ -611,7 +647,10 @@ Suite de la construction thématique de A ; le thème 3 con anima revient dans s
     </section>
 
 <meta>
-Pédale de dominante étendue de A ; les mesures 107-116 de la première exposition maintiennent une tension harmonique prolongée au-dessus de la basse dominante.
+8 mesures. BPM 90. Signature 3/4. Tonalité Do#_majeur.
+Pédale de dominante étendue de A ;
+les mesures 107-116 de la première exposition maintiennent une tension harmonique prolongée au-dessus de la basse dominante.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
     <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Do#_majeur>
         <mesure num=1>
@@ -669,7 +708,10 @@ Pédale de dominante étendue de A ; les mesures 107-116 de la première exposit
     </section>
 
 <meta>
-Cadence parfaite de fermeture de A ; la résolution en ré bémol majeur (mesures 116-117) conclut la première colonne de l'architecture.
+8 mesures. BPM 90. Signature 3/4. Tonalité Do#_majeur.
+Cadence parfaite de fermeture de A ;
+la résolution en ré bémol majeur (mesures 116-117) conclut la première colonne de l'architecture.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
     <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Do#_majeur>
         <mesure num=1>
@@ -723,7 +765,10 @@ Cadence parfaite de fermeture de A ; la résolution en ré bémol majeur (mesure
     </section>
 
 <meta>
-Transition vers la répétition de A ; quelques mesures de liaison entre la première et la deuxième colonne de A. La continuité du tempo Presto doit être maintenue.
+8 mesures. BPM 90. Signature 3/4. Tonalité Do#_majeur.
+Transition vers la répétition de A ;
+quelques mesures de liaison entre la première et la deuxième colonne de A.
+La continuité du tempo Presto doit être maintenue.
 </meta>
     <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Do#_majeur>
         <mesure num=1>
@@ -773,7 +818,10 @@ Transition vers la répétition de A ; quelques mesures de liaison entre la prem
     </section>
 
 <meta>
-Préparation de la deuxième exposition de A ; une légère variation de quelques notes du thème 1 annonce la répétition légèrement modifiée.
+8 mesures. BPM 90. Signature 3/4. Tonalité Do#_majeur.
+Préparation de la deuxième exposition de A ;
+une légère variation de quelques notes du thème 1 annonce la répétition légèrement modifiée.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
     <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Do#_majeur>
         <mesure num=1>
@@ -820,7 +868,10 @@ Préparation de la deuxième exposition de A ; une légère variation de quelque
     </section>
 
 <meta>
-Deuxième exposition de A (répétition de mesures 1-132) ; le thème 1 reprend avec de légères variations rythmiques qui maintiennent l'intérêt de la répétition formelle. Cette deuxième 'colonne' renforce l'architecture.
+8 mesures. BPM 90. Signature 3/4. Tonalité Do#_majeur.
+Deuxième exposition de A (répétition de mesures 1-132) ;
+le thème 1 reprend avec de légères variations rythmiques qui maintiennent l'intérêt de la répétition formelle.
+Cette deuxième 'colonne' renforce l'architecture.
 </meta>
     <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Do#_majeur>
         <mesure num=1>
@@ -864,7 +915,10 @@ Deuxième exposition de A (répétition de mesures 1-132) ; le thème 1 reprend 
     </section>
 
 <meta>
-Suite de la deuxième exposition du thème 1 ; la modulation vers ré bémol majeur puis le retour en si bémol mineur s'effectuent avec les mêmes variations de la deuxième présentation.
+8 mesures. BPM 90. Signature 3/4. Tonalité Do#_majeur.
+Suite de la deuxième exposition du thème 1 ;
+la modulation vers ré bémol majeur puis le retour en si bémol mineur s'effectuent avec les mêmes variations de la deuxième présentation.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
     <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Do#_majeur>
         <mesure num=1>
@@ -910,7 +964,10 @@ Suite de la deuxième exposition du thème 1 ; la modulation vers ré bémol maj
     </section>
 
 <meta>
-Deuxième exposition du thème 1 vers fa mineur ; comme dans la deuxième phrase de la première exposition, fa mineur apparaît au lieu de ré bémol pour varier la conclusion.
+8 mesures. BPM 90. Signature 3/4. Tonalité Do#_majeur.
+Deuxième exposition du thème 1 vers fa mineur ;
+comme dans la deuxième phrase de la première exposition, fa mineur apparaît au lieu de ré bémol pour varier la conclusion.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
     <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Do#_majeur>
         <mesure num=1>
@@ -956,7 +1013,10 @@ Deuxième exposition du thème 1 vers fa mineur ; comme dans la deuxième phrase
     </section>
 
 <meta>
-Deuxième exposition du thème 2 en ré bémol majeur ; le sixième degré abaissé réapparaît dans son harmonie caractéristique. Même soin pour les appogiatures.
+8 mesures. BPM 90. Signature 3/4. Tonalité Do#_majeur.
+Deuxième exposition du thème 2 en ré bémol majeur ;
+le sixième degré abaissé réapparaît dans son harmonie caractéristique.
+Même soin pour les appogiatures.
 </meta>
     <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Do#_majeur>
         <mesure num=1>
@@ -1000,7 +1060,10 @@ Deuxième exposition du thème 2 en ré bémol majeur ; le sixième degré abais
     </section>
 
 <meta>
-Deuxième exposition du thème 3 con anima en sol bémol majeur ; la progression harmonique vers la bémol majeur se répète, confirmant la solidité structurelle de la section.
+8 mesures. BPM 90. Signature 3/4. Tonalité Do#_majeur.
+Deuxième exposition du thème 3 con anima en sol bémol majeur ;
+la progression harmonique vers la bémol majeur se répète, confirmant la solidité structurelle de la section.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
     <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Do#_majeur>
         <mesure num=1>
@@ -1046,7 +1109,10 @@ Deuxième exposition du thème 3 con anima en sol bémol majeur ; la progression
     </section>
 
 <meta>
-Développement de la deuxième exposition du thème 3 ; pédale de dominante et résolution cadentielle identiques à la première exposition.
+8 mesures. BPM 90. Signature 3/4. Tonalité Do#_majeur.
+Développement de la deuxième exposition du thème 3 ;
+pédale de dominante et résolution cadentielle identiques à la première exposition.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
     <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Do#_majeur>
         <mesure num=1>
@@ -1092,7 +1158,10 @@ Développement de la deuxième exposition du thème 3 ; pédale de dominante et 
     </section>
 
 <meta>
-Deuxième thème conclusif en ré bémol majeur ; les arpèges de fermeture reviennent pour clôturer cette deuxième colonne.
+8 mesures. BPM 90. Signature 3/4. Tonalité Do#_majeur.
+Deuxième thème conclusif en ré bémol majeur ;
+les arpèges de fermeture reviennent pour clôturer cette deuxième colonne.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
     <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Do#_majeur>
         <mesure num=1>
@@ -1144,7 +1213,10 @@ Deuxième thème conclusif en ré bémol majeur ; les arpèges de fermeture revi
     </section>
 
 <meta>
-Fin de la deuxième exposition de A ; l'architecture est double : deux colonnes A construites en miroir. La troisième colonne sera le trio B.
+8 mesures. BPM 90. Signature 3/4. Tonalité Do#_majeur.
+Fin de la deuxième exposition de A ;
+l'architecture est double : deux colonnes A construites en miroir.
+La troisième colonne sera le trio B.
 </meta>
     <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Do#_majeur>
         <mesure num=1>
@@ -1190,7 +1262,10 @@ Fin de la deuxième exposition de A ; l'architecture est double : deux colonnes 
     </section>
 
 <meta>
-Consolidation de la répétition A ; les éléments thématiques se renforcent mutuellement dans cette deuxième présentation.
+8 mesures. BPM 90. Signature 3/4. Tonalité Do#_majeur.
+Consolidation de la répétition A ;
+les éléments thématiques se renforcent mutuellement dans cette deuxième présentation.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
     <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Do#_majeur>
         <mesure num=1>
@@ -1246,7 +1321,10 @@ Consolidation de la répétition A ; les éléments thématiques se renforcent m
     </section>
 
 <meta>
-Continuation de la répétition de A avec variations subtiles ; quelques ornements supplémentaires enrichissent la texture sans modifier la structure.
+8 mesures. BPM 90. Signature 3/4. Tonalité Do#_majeur.
+Continuation de la répétition de A avec variations subtiles ;
+quelques ornements supplémentaires enrichissent la texture sans modifier la structure.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
     <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Do#_majeur>
         <mesure num=1>
@@ -1309,7 +1387,10 @@ Continuation de la répétition de A avec variations subtiles ; quelques ornemen
     </section>
 
 <meta>
-Suite de la deuxième exposition A ; la cohérence formelle est absolument maintenue dans le respect de la structure thématique.
+8 mesures. BPM 90. Signature 3/4. Tonalité Do#_majeur.
+Suite de la deuxième exposition A ;
+la cohérence formelle est absolument maintenue dans le respect de la structure thématique.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
     <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Do#_majeur>
         <mesure num=1>
@@ -1366,7 +1447,10 @@ Suite de la deuxième exposition A ; la cohérence formelle est absolument maint
     </section>
 
 <meta>
-Approche de la fin de la deuxième exposition A ; la progression vers la clôture de la deuxième colonne s'effectue naturellement.
+8 mesures. BPM 90. Signature 3/4. Tonalité Do#_majeur.
+Approche de la fin de la deuxième exposition A ;
+la progression vers la clôture de la deuxième colonne s'effectue naturellement.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
     <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Do#_majeur>
         <mesure num=1>
@@ -1420,7 +1504,10 @@ Approche de la fin de la deuxième exposition A ; la progression vers la clôtur
     </section>
 
 <meta>
-Clôture de la deuxième exposition A ; les arpèges conclusifs en ré bémol majeur achèvent la construction en deux colonnes A avant l'entrée du trio.
+8 mesures. BPM 90. Signature 3/4. Tonalité Do#_majeur.
+Clôture de la deuxième exposition A ;
+les arpèges conclusifs en ré bémol majeur achèvent la construction en deux colonnes A avant l'entrée du trio.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
     <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Do#_majeur>
         <mesure num=1>
@@ -1478,7 +1565,10 @@ Clôture de la deuxième exposition A ; les arpèges conclusifs en ré bémol ma
     </section>
 
 <meta>
-Transition vers le trio B ; la musique s'oriente harmoniquement de ré bémol majeur vers la majeur (do dièse majeur enharmonique). Ce pivot enharmonique (ré bémol = do dièse) est audacieux.
+8 mesures. BPM 90. Signature 3/4. Tonalité Do#_majeur.
+Transition vers le trio B ;
+la musique s'oriente harmoniquement de ré bémol majeur vers la majeur (do dièse majeur enharmonique).
+Ce pivot enharmonique (ré bémol = do dièse) est audacieux.
 </meta>
     <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Do#_majeur>
         <mesure num=1>
@@ -1532,7 +1622,10 @@ Transition vers le trio B ; la musique s'oriente harmoniquement de ré bémol ma
     </section>
 
 <meta>
-Préparation harmonique du trio B ; la tension entre ré bémol majeur et la majeur est résolue par le changement enharmonique. La surprise coloristique doit s'imposer naturellement.
+8 mesures. BPM 90. Signature 3/4. Tonalité Do#_majeur.
+Préparation harmonique du trio B ;
+la tension entre ré bémol majeur et la majeur est résolue par le changement enharmonique.
+La surprise coloristique doit s'imposer naturellement.
 </meta>
     <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Do#_majeur>
         <mesure num=1>
@@ -1585,7 +1678,10 @@ Préparation harmonique du trio B ; la tension entre ré bémol majeur et la maj
     </section>
 
 <meta>
-Dernières mesures de A avant le trio ; la cadence finale de la deuxième exposition A pose la question harmonique à laquelle le trio en la majeur répondra de façon inattendue.
+8 mesures. BPM 90. Signature 3/4. Tonalité Do#_majeur.
+Dernières mesures de A avant le trio ;
+la cadence finale de la deuxième exposition A pose la question harmonique à laquelle le trio en la majeur répondra de façon inattendue.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
     <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Do#_majeur>
         <mesure num=1>
@@ -1631,7 +1727,10 @@ Dernières mesures de A avant le trio ; la cadence finale de la deuxième exposi
     </section>
 
 <meta>
-Début du trio B en la majeur (enharmonique de ré bémol majeur, do dièse par enharmonie) ; le thème 4 commence dans la clé de la majeur, exploitant le fait que ré bémol (la note tonique précédente) devient do dièse (tierce de la majeur). Contraste total avec le scherzo.
+8 mesures. BPM 90. Signature 3/4. Tonalité Do#_majeur.
+Début du trio B en la majeur (enharmonique de ré bémol majeur, do dièse par enharmonie) ;
+le thème 4 commence dans la clé de la majeur, exploitant le fait que ré bémol (la note tonique précédente) devient do dièse (tierce de la majeur).
+Contraste total avec le scherzo.
 </meta>
     <section=trio, n_mesure=8, bpm=90, format=3/4, tonalite=Do#_majeur>
         <mesure num=1>
@@ -1677,7 +1776,10 @@ Début du trio B en la majeur (enharmonique de ré bémol majeur, do dièse par 
     </section>
 
 <meta>
-Suite du thème 4 du trio ; modulation vers fa dièse mineur mesures 277-284 avec demi-cadence et arpeggiation delicatissimo de l'accord de dominante. Ce passage délicat doit être joué avec une légèreté aérienne.
+8 mesures. BPM 90. Signature 3/4. Tonalité Do#_majeur.
+Suite du thème 4 du trio ;
+modulation vers fa dièse mineur mesures 277-284 avec demi-cadence et arpeggiation delicatissimo de l'accord de dominante.
+Ce passage délicat doit être joué avec une légèreté aérienne.
 </meta>
     <section=trio, n_mesure=8, bpm=90, format=3/4, tonalite=Do#_majeur>
         <mesure num=1>
@@ -1732,7 +1834,10 @@ Suite du thème 4 du trio ; modulation vers fa dièse mineur mesures 277-284 ave
     </section>
 
 <meta>
-Répétition du thème 4 ; reprend en la majeur mesures 285-298, puis modulation vers do dièse mineur à partir de la mesure 299. La couleur mélancolique du mineur colore le thème de façon inattendue.
+8 mesures. BPM 90. Signature 3/4. Tonalité Do#_majeur.
+Répétition du thème 4 ;
+reprend en la majeur mesures 285-298, puis modulation vers do dièse mineur à partir de la mesure 299.
+La couleur mélancolique du mineur colore le thème de façon inattendue.
 </meta>
     <section=trio, n_mesure=8, bpm=90, format=3/4, tonalite=Do#_majeur>
         <mesure num=1>
@@ -1783,7 +1888,10 @@ Répétition du thème 4 ; reprend en la majeur mesures 285-298, puis modulation
     </section>
 
 <meta>
-Thème 5 (espressivo) en do dièse mineur ; une nouvelle idée mélodique chantante émerge, modulant vers fa dièse mineur, puis revenant à do dièse mineur jusqu'à mi majeur dans les deux dernières mesures. Grande expressivité requise.
+8 mesures. BPM 90. Signature 3/4. Tonalité Do#_majeur.
+Thème 5 (espressivo) en do dièse mineur ;
+une nouvelle idée mélodique chantante émerge, modulant vers fa dièse mineur, puis revenant à do dièse mineur jusqu'à mi majeur dans les deux dernières mesures.
+Grande expressivité requise.
 </meta>
     <section=trio, n_mesure=8, bpm=90, format=3/4, tonalite=Do#_majeur>
         <mesure num=1>
@@ -1834,7 +1942,10 @@ Thème 5 (espressivo) en do dièse mineur ; une nouvelle idée mélodique chanta
     </section>
 
 <meta>
-Thème 6 (leggiero) en mi majeur ; passage virtuose et léger utilisant l'accord de demi-diminué de la supertoni (mesures 352-353 et 356-357). La légèreté de touche est absolument indispensable.
+8 mesures. BPM 90. Signature 3/4. Tonalité Do#_majeur.
+Thème 6 (leggiero) en mi majeur ;
+passage virtuose et léger utilisant l'accord de demi-diminué de la supertoni (mesures 352-353 et 356-357).
+La légèreté de touche est absolument indispensable.
 </meta>
     <section=trio, n_mesure=8, bpm=90, format=3/4, tonalite=Do#_majeur>
         <mesure num=1>
@@ -1890,7 +2001,10 @@ Thème 6 (leggiero) en mi majeur ; passage virtuose et léger utilisant l'accord
     </section>
 
 <meta>
-Développement du trio B ; les thèmes 4, 5 et 6 sont développés avec des variations harmoniques. L'atmosphère reste délicate et introspective.
+8 mesures. BPM 90. Signature 3/4. Tonalité Do#_majeur.
+Développement du trio B ;
+les thèmes 4, 5 et 6 sont développés avec des variations harmoniques.
+L'atmosphère reste délicate et introspective.
 </meta>
     <section=trio, n_mesure=8, bpm=90, format=3/4, tonalite=Do#_majeur>
         <mesure num=1>
@@ -1936,7 +2050,10 @@ Développement du trio B ; les thèmes 4, 5 et 6 sont développés avec des vari
     </section>
 
 <meta>
-Continuation du développement du trio B ; les modulations traversent plusieurs tonalités voisines de la majeur. La tendresse du caractère doit être maintenue.
+8 mesures. BPM 90. Signature 3/4. Tonalité Do#_majeur.
+Continuation du développement du trio B ;
+les modulations traversent plusieurs tonalités voisines de la majeur.
+La tendresse du caractère doit être maintenue.
 </meta>
     <section=trio, n_mesure=8, bpm=90, format=3/4, tonalite=Do#_majeur>
         <mesure num=1>
@@ -1990,7 +2107,10 @@ Continuation du développement du trio B ; les modulations traversent plusieurs 
     </section>
 
 <meta>
-Section centrale du trio B ; les thèmes s'entrelacent dans une texture à plusieurs voix de grande sophistication harmonique.
+8 mesures. BPM 90. Signature 3/4. Tonalité Do#_majeur.
+Section centrale du trio B ;
+les thèmes s'entrelacent dans une texture à plusieurs voix de grande sophistication harmonique.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
     <section=trio, n_mesure=8, bpm=90, format=3/4, tonalite=Do#_majeur>
         <mesure num=1>
@@ -2051,7 +2171,10 @@ Section centrale du trio B ; les thèmes s'entrelacent dans une texture à plusi
     </section>
 
 <meta>
-Continuation du trio B ; le motif du thème 5 espressivo enrichit l'écriture de ses chromatismes expressifs caractéristiques.
+8 mesures. BPM 90. Signature 3/4. Tonalité Do#_majeur.
+Continuation du trio B ;
+le motif du thème 5 espressivo enrichit l'écriture de ses chromatismes expressifs caractéristiques.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
     <section=trio, n_mesure=8, bpm=90, format=3/4, tonalite=Do#_majeur>
         <mesure num=1>
@@ -2112,7 +2235,10 @@ Continuation du trio B ; le motif du thème 5 espressivo enrichit l'écriture de
     </section>
 
 <meta>
-Développement avancé du trio B ; les modulations s'approfondissent, créant un tissu harmonique de grande richesse. La voix principale doit toujours dominer.
+8 mesures. BPM 90. Signature 3/4. Tonalité Do#_majeur.
+Développement avancé du trio B ;
+les modulations s'approfondissent, créant un tissu harmonique de grande richesse.
+La voix principale doit toujours dominer.
 </meta>
     <section=trio, n_mesure=8, bpm=90, format=3/4, tonalite=Do#_majeur>
         <mesure num=1>
@@ -2171,7 +2297,10 @@ Développement avancé du trio B ; les modulations s'approfondissent, créant un
     </section>
 
 <meta>
-Approche de la répétition du trio B ; la structure AABB du scherzo implique une répétition de la section B. Les variations d'ornements annoncent cette répétition.
+8 mesures. BPM 90. Signature 3/4. Tonalité Do#_majeur.
+Approche de la répétition du trio B ;
+la structure AABB du scherzo implique une répétition de la section B.
+Les variations d'ornements annoncent cette répétition.
 </meta>
     <section=trio, n_mesure=8, bpm=90, format=3/4, tonalite=Do#_majeur>
         <mesure num=1>
@@ -2222,7 +2351,10 @@ Approche de la répétition du trio B ; la structure AABB du scherzo implique un
     </section>
 
 <meta>
-Clôture de la première section B avant sa répétition ; la cadence en la majeur prépare la répétition de la troisième colonne de l'architecture.
+8 mesures. BPM 90. Signature 3/4. Tonalité Do#_majeur.
+Clôture de la première section B avant sa répétition ;
+la cadence en la majeur prépare la répétition de la troisième colonne de l'architecture.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
     <section=trio, n_mesure=8, bpm=90, format=3/4, tonalite=Do#_majeur>
         <mesure num=1>
@@ -2272,7 +2404,10 @@ Clôture de la première section B avant sa répétition ; la cadence en la maje
     </section>
 
 <meta>
-Transition interne du trio B ; quelques mesures de liaison avant la répétition de la section B.
+8 mesures. BPM 90. Signature 3/4. Tonalité Do#_majeur.
+Transition interne du trio B ;
+quelques mesures de liaison avant la répétition de la section B.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
     <section=trio, n_mesure=8, bpm=90, format=3/4, tonalite=Do#_majeur>
         <mesure num=1>
@@ -2323,7 +2458,10 @@ Transition interne du trio B ; quelques mesures de liaison avant la répétition
     </section>
 
 <meta>
-Préparation de la répétition de B ; une légère variation des ornements signale la deuxième présentation du trio.
+8 mesures. BPM 90. Signature 3/4. Tonalité Do#_majeur.
+Préparation de la répétition de B ;
+une légère variation des ornements signale la deuxième présentation du trio.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
     <section=trio, n_mesure=8, bpm=90, format=3/4, tonalite=Do#_majeur>
         <mesure num=1>
@@ -2375,7 +2513,10 @@ Préparation de la répétition de B ; une légère variation des ornements sign
     </section>
 
 <meta>
-Fin de la section B avant la répétition ; la cadence de fermeture se prépare avec une suspension harmonique.
+8 mesures. BPM 90. Signature 3/4. Tonalité Do#_majeur.
+Fin de la section B avant la répétition ;
+la cadence de fermeture se prépare avec une suspension harmonique.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
     <section=trio, n_mesure=8, bpm=90, format=3/4, tonalite=Do#_majeur>
         <mesure num=1>
@@ -2430,7 +2571,10 @@ Fin de la section B avant la répétition ; la cadence de fermeture se prépare 
     </section>
 
 <meta>
-Préparation de la quatrième colonne de l'architecture ; la répétition de B constituera la quatrième et dernière colonne avant le développement central.
+8 mesures. BPM 90. Signature 3/4. Tonalité Do#_majeur.
+Préparation de la quatrième colonne de l'architecture ;
+la répétition de B constituera la quatrième et dernière colonne avant le développement central.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
     <section=trio, n_mesure=8, bpm=90, format=3/4, tonalite=Do#_majeur>
         <mesure num=1>
@@ -2477,7 +2621,10 @@ Préparation de la quatrième colonne de l'architecture ; la répétition de B c
     </section>
 
 <meta>
-Clôture définitive avant la répétition de B ; la cadence parfaite en la majeur pose la base de la reprise.
+8 mesures. BPM 90. Signature 3/4. Tonalité Do#_majeur.
+Clôture définitive avant la répétition de B ;
+la cadence parfaite en la majeur pose la base de la reprise.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
     <section=trio, n_mesure=8, bpm=90, format=3/4, tonalite=Do#_majeur>
         <mesure num=1>
@@ -2531,7 +2678,10 @@ Clôture définitive avant la répétition de B ; la cadence parfaite en la maje
     </section>
 
 <meta>
-Répétition de la section B (troisième et quatrième colonnes de l'architecture) ; le thème 4 reprend en la majeur avec de légères variations des ornements à la première reprise. La quatrième colonne rejoint les trois précédentes.
+8 mesures. BPM 90. Signature 3/4. Tonalité Do#_majeur.
+Répétition de la section B (troisième et quatrième colonnes de l'architecture) ;
+le thème 4 reprend en la majeur avec de légères variations des ornements à la première reprise.
+La quatrième colonne rejoint les trois précédentes.
 </meta>
     <section=trio, n_mesure=8, bpm=90, format=3/4, tonalite=Do#_majeur>
         <mesure num=1>
@@ -2583,7 +2733,10 @@ Répétition de la section B (troisième et quatrième colonnes de l'architectur
     </section>
 
 <meta>
-Suite de la répétition du thème 4 du trio ; fa dièse mineur réapparaît comme dans la première exposition, mais la mesure 374 ajoute une mesure supplémentaire (omise dans la première fois). Subtile variation de durée.
+8 mesures. BPM 90. Signature 3/4. Tonalité Do#_majeur.
+Suite de la répétition du thème 4 du trio ;
+fa dièse mineur réapparaît comme dans la première exposition, mais la mesure 374 ajoute une mesure supplémentaire (omise dans la première fois).
+Subtile variation de durée.
 </meta>
     <section=trio, n_mesure=8, bpm=90, format=3/4, tonalite=Do#_majeur>
         <mesure num=1>
@@ -2629,7 +2782,10 @@ Suite de la répétition du thème 4 du trio ; fa dièse mineur réapparaît com
     </section>
 
 <meta>
-Répétition du thème 5 espressivo en do dièse mineur ; même couleur mélancolique, mêmes inflexions chromatiques. La répétition affermit l'attachement émotionnel du public aux thèmes du trio.
+8 mesures. BPM 90. Signature 3/4. Tonalité Do#_majeur.
+Répétition du thème 5 espressivo en do dièse mineur ;
+même couleur mélancolique, mêmes inflexions chromatiques.
+La répétition affermit l'attachement émotionnel du public aux thèmes du trio.
 </meta>
     <section=trio, n_mesure=8, bpm=90, format=3/4, tonalite=Do#_majeur>
         <mesure num=1>
@@ -2690,7 +2846,10 @@ Répétition du thème 5 espressivo en do dièse mineur ; même couleur mélanco
     </section>
 
 <meta>
-Répétition du thème 6 leggiero en mi majeur ; même légèreté, même caractère virtuose. La cohérence de la répétition confirme l'architecture symétrique de la section B.
+8 mesures. BPM 90. Signature 3/4. Tonalité Do#_majeur.
+Répétition du thème 6 leggiero en mi majeur ;
+même légèreté, même caractère virtuose.
+La cohérence de la répétition confirme l'architecture symétrique de la section B.
 </meta>
     <section=trio, n_mesure=8, bpm=90, format=3/4, tonalite=Do#_majeur>
         <mesure num=1>
@@ -2751,7 +2910,10 @@ Répétition du thème 6 leggiero en mi majeur ; même légèreté, même caract
     </section>
 
 <meta>
-Développement dans la répétition de B ; les thèmes s'enchaînent avec les mêmes variations harmoniques que dans la première exposition.
+8 mesures. BPM 90. Signature 3/4. Tonalité Do#_majeur.
+Développement dans la répétition de B ;
+les thèmes s'enchaînent avec les mêmes variations harmoniques que dans la première exposition.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
     <section=trio, n_mesure=8, bpm=90, format=3/4, tonalite=Do#_majeur>
         <mesure num=1>
@@ -2815,7 +2977,10 @@ Développement dans la répétition de B ; les thèmes s'enchaînent avec les m�
     </section>
 
 <meta>
-Continuation de la répétition de B ; la texture reste délicate, les ornements légèrement variés maintiennent l'intérêt.
+8 mesures. BPM 90. Signature 3/4. Tonalité Do#_majeur.
+Continuation de la répétition de B ;
+la texture reste délicate, les ornements légèrement variés maintiennent l'intérêt.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
     <section=trio, n_mesure=8, bpm=90, format=3/4, tonalite=Do#_majeur>
         <mesure num=1>
@@ -2866,7 +3031,10 @@ Continuation de la répétition de B ; la texture reste délicate, les ornements
     </section>
 
 <meta>
-Centre de la répétition de B ; les thèmes 4, 5 et 6 se succèdent dans leur ordre habituel avec les nuances expressives caractéristiques.
+8 mesures. BPM 90. Signature 3/4. Tonalité Do#_majeur.
+Centre de la répétition de B ;
+les thèmes 4, 5 et 6 se succèdent dans leur ordre habituel avec les nuances expressives caractéristiques.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
     <section=trio, n_mesure=8, bpm=90, format=3/4, tonalite=Do#_majeur>
         <mesure num=1>
@@ -2917,7 +3085,10 @@ Centre de la répétition de B ; les thèmes 4, 5 et 6 se succèdent dans leur o
     </section>
 
 <meta>
-Suite de la répétition de B ; la modulation vers do dièse mineur s'effectue comme dans la première exposition.
+8 mesures. BPM 90. Signature 3/4. Tonalité Do#_majeur.
+Suite de la répétition de B ;
+la modulation vers do dièse mineur s'effectue comme dans la première exposition.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
     <section=trio, n_mesure=8, bpm=90, format=3/4, tonalite=Do#_majeur>
         <mesure num=1>
@@ -2968,7 +3139,10 @@ Suite de la répétition de B ; la modulation vers do dièse mineur s'effectue c
     </section>
 
 <meta>
-Approche du développement central ; la clôture de la répétition de B prépare l'entrée dans le développement, la section centrale dramatique la plus intense de l'œuvre.
+8 mesures. BPM 90. Signature 3/4. Tonalité Do#_majeur.
+Approche du développement central ;
+la clôture de la répétition de B prépare l'entrée dans le développement, la section centrale dramatique la plus intense de l'œuvre.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
     <section=trio, n_mesure=8, bpm=90, format=3/4, tonalite=Do#_majeur>
         <mesure num=1>
@@ -3018,7 +3192,10 @@ Approche du développement central ; la clôture de la répétition de B prépar
     </section>
 
 <meta>
-Transition vers le développement ; les dernières mesures de la section B se raccordent au développement par un enchaînement harmonique subtil.
+8 mesures. BPM 90. Signature 3/4. Tonalité Do#_majeur.
+Transition vers le développement ;
+les dernières mesures de la section B se raccordent au développement par un enchaînement harmonique subtil.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
     <section=trio, n_mesure=8, bpm=90, format=3/4, tonalite=Do#_majeur>
         <mesure num=1>
@@ -3065,7 +3242,10 @@ Transition vers le développement ; les dernières mesures de la section B se ra
     </section>
 
 <meta>
-Préparation du développement central ; le passage vers la mineur (depuis mi majeur) annonce les modulations du développement à venir.
+8 mesures. BPM 90. Signature 3/4. Tonalité Do#_majeur.
+Préparation du développement central ;
+le passage vers la mineur (depuis mi majeur) annonce les modulations du développement à venir.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
     <section=trio, n_mesure=8, bpm=90, format=3/4, tonalite=Do#_majeur>
         <mesure num=1>
@@ -3111,7 +3291,10 @@ Préparation du développement central ; le passage vers la mineur (depuis mi ma
     </section>
 
 <meta>
-Clôture de la répétition de B avant le développement ; la cadence de la quatrième colonne prépare le dénouement dramatique du développement.
+8 mesures. BPM 90. Signature 3/4. Tonalité Do#_majeur.
+Clôture de la répétition de B avant le développement ;
+la cadence de la quatrième colonne prépare le dénouement dramatique du développement.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
     <section=trio, n_mesure=8, bpm=90, format=3/4, tonalite=Do#_majeur>
         <mesure num=1>
@@ -3160,7 +3343,10 @@ Clôture de la répétition de B avant le développement ; la cadence de la quat
     </section>
 
 <meta>
-Dernières mesures de B avant le développement central ; la tension s'accumule imperceptiblement avant l'entrée dans le développement.
+8 mesures. BPM 90. Signature 3/4. Tonalité Do#_majeur.
+Dernières mesures de B avant le développement central ;
+la tension s'accumule imperceptiblement avant l'entrée dans le développement.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
     <section=trio, n_mesure=8, bpm=90, format=3/4, tonalite=Do#_majeur>
         <mesure num=1>
@@ -3218,7 +3404,10 @@ Dernières mesures de B avant le développement central ; la tension s'accumule 
     </section>
 
 <meta>
-Préparation directe du développement ; les harmonies de la fin du trio B s'orientent vers le développement à venir.
+8 mesures. BPM 90. Signature 3/4. Tonalité Do#_majeur.
+Préparation directe du développement ;
+les harmonies de la fin du trio B s'orientent vers le développement à venir.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
     <section=trio, n_mesure=8, bpm=90, format=3/4, tonalite=Do#_majeur>
         <mesure num=1>
@@ -3280,7 +3469,10 @@ Préparation directe du développement ; les harmonies de la fin du trio B s'ori
     </section>
 
 <meta>
-Point de jonction B-développement ; la cadence finale du trio cède la place au développement dans un enchaînement harmonique savamment préparé.
+8 mesures. BPM 90. Signature 3/4. Tonalité Do#_majeur.
+Point de jonction B-développement ;
+la cadence finale du trio cède la place au développement dans un enchaînement harmonique savamment préparé.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
     <section=trio, n_mesure=8, bpm=90, format=3/4, tonalite=Do#_majeur>
         <mesure num=1>
@@ -3333,7 +3525,10 @@ Point de jonction B-développement ; la cadence finale du trio cède la place au
     </section>
 
 <meta>
-Dernière mesure de la section B ; la clôture du trio B marque la fin des quatre colonnes de l'architecture avant que le développement central ne prenne toute sa dimension dramatique.
+8 mesures. BPM 90. Signature 3/4. Tonalité Do#_majeur.
+Dernière mesure de la section B ;
+la clôture du trio B marque la fin des quatre colonnes de l'architecture avant que le développement central ne prenne toute sa dimension dramatique.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
     <section=trio, n_mesure=8, bpm=90, format=3/4, tonalite=Do#_majeur>
         <mesure num=1>
@@ -3379,7 +3574,10 @@ Dernière mesure de la section B ; la clôture du trio B marque la fin des quatr
     </section>
 
 <meta>
-Entrée du développement ; après les quatre colonnes (AA-BB), le développement central porte le drame à son paroxysme. Le thème 6 se poursuit en la mineur (mesures 468-475), fa dièse majeur (mesures 476-483) et sol majeur (mesures 484-491).
+8 mesures. BPM 90. Signature 3/4. Tonalité Do#_majeur.
+Entrée du développement ;
+après les quatre colonnes (AA-BB), le développement central porte le drame à son paroxysme.
+Le thème 6 se poursuit en la mineur (mesures 468-475), fa dièse majeur (mesures 476-483) et sol majeur (mesures 484-491).
 </meta>
     <section=trio, n_mesure=8, bpm=90, format=3/4, tonalite=Do#_majeur>
         <mesure num=1>
@@ -3425,7 +3623,10 @@ Entrée du développement ; après les quatre colonnes (AA-BB), le développemen
     </section>
 
 <meta>
-Développement central, continuation du thème 6 ; passage par la mineur, fa dièse majeur et sol majeur sans s'installer dans aucune de ces tonalités. La fluidité harmonique est la clé.
+8 mesures. BPM 90. Signature 3/4. Tonalité Do#_majeur.
+Développement central, continuation du thème 6 ;
+passage par la mineur, fa dièse majeur et sol majeur sans s'installer dans aucune de ces tonalités.
+La fluidité harmonique est la clé.
 </meta>
     <section=developpement, n_mesure=8, bpm=90, format=3/4, tonalite=Do#_majeur>
         <mesure num=1>
@@ -3471,7 +3672,10 @@ Développement central, continuation du thème 6 ; passage par la mineur, fa di�
     </section>
 
 <meta>
-Développement, thème 5 en sol mineur, do mineur et la bémol mineur (mesures 492-515) ; la progression par demi-tons descendants crée une tension dramatique croissante. Maintenir la ligne expressive dans cette descente harmonique.
+8 mesures. BPM 90. Signature 3/4. Tonalité Do#_majeur.
+Développement, thème 5 en sol mineur, do mineur et la bémol mineur (mesures 492-515) ;
+la progression par demi-tons descendants crée une tension dramatique croissante.
+Maintenir la ligne expressive dans cette descente harmonique.
 </meta>
     <section=developpement, n_mesure=8, bpm=90, format=3/4, tonalite=Do#_majeur>
         <mesure num=1>
@@ -3517,7 +3721,10 @@ Développement, thème 5 en sol mineur, do mineur et la bémol mineur (mesures 4
     </section>
 
 <meta>
-Développement, retour du thème 2 de la section A (mesures 516-543) ; en mi majeur, puis fa dièse mineur, sol dièse mineur et si bémol mineur dans une progression séquentielle ascendante. La récupération du matériau de A dans la section de développement crée un lien thématique puissant.
+8 mesures. BPM 90. Signature 3/4. Tonalité Do#_majeur.
+Développement, retour du thème 2 de la section A (mesures 516-543) ;
+en mi majeur, puis fa dièse mineur, sol dièse mineur et si bémol mineur dans une progression séquentielle ascendante.
+La récupération du matériau de A dans la section de développement crée un lien thématique puissant.
 </meta>
     <section=developpement, n_mesure=8, bpm=90, format=3/4, tonalite=Do#_majeur>
         <mesure num=1>
@@ -3565,7 +3772,10 @@ Développement, retour du thème 2 de la section A (mesures 516-543) ; en mi maj
     </section>
 
 <meta>
-Développement, thème 5 (sempre con fuoco) en si bémol mineur (mesures 544-583) ; la dominante revient sans relâche dans les mesures 560-583, construisant une attente maximale pour le retour du scherzo initial. Ressemblance entre les mesures 578 et 584 pour un retour sans couture.
+8 mesures. BPM 90. Signature 3/4. Tonalité Do#_majeur.
+Développement, thème 5 (sempre con fuoco) en si bémol mineur (mesures 544-583) ;
+la dominante revient sans relâche dans les mesures 560-583, construisant une attente maximale pour le retour du scherzo initial.
+Ressemblance entre les mesures 578 et 584 pour un retour sans couture.
 </meta>
     <section=developpement, n_mesure=8, bpm=90, format=3/4, tonalite=Do#_majeur>
         <mesure num=1>
@@ -3611,7 +3821,10 @@ Développement, thème 5 (sempre con fuoco) en si bémol mineur (mesures 544-583
     </section>
 
 <meta>
-Culmination du développement ; la tension harmonique atteint son maximum. La pédale de dominante de si bémol mineur tient ferme sous les harmonies turbulentes.
+8 mesures. BPM 90. Signature 3/4. Tonalité Do#_majeur.
+Culmination du développement ;
+la tension harmonique atteint son maximum.
+La pédale de dominante de si bémol mineur tient ferme sous les harmonies turbulentes.
 </meta>
     <section=developpement, n_mesure=8, bpm=90, format=3/4, tonalite=Do#_majeur>
         <mesure num=1>
@@ -3657,7 +3870,10 @@ Culmination du développement ; la tension harmonique atteint son maximum. La p�
     </section>
 
 <meta>
-Préparation du retour de A depuis le développement ; le motif en triolets de la mesure 578 prépare l'entrée du thème 1 de A à la mesure 584 dans une transition de génie.
+8 mesures. BPM 90. Signature 3/4. Tonalité Do#_majeur.
+Préparation du retour de A depuis le développement ;
+le motif en triolets de la mesure 578 prépare l'entrée du thème 1 de A à la mesure 584 dans une transition de génie.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
     <section=developpement, n_mesure=8, bpm=90, format=3/4, tonalite=Do#_majeur>
         <mesure num=1>
@@ -3703,7 +3919,10 @@ Préparation du retour de A depuis le développement ; le motif en triolets de l
     </section>
 
 <meta>
-Transition développement-retour de A ; l'entrée du thème 1 à la mesure 584 est préparée harmoniquement par la similarité intervallique des deux passages. La soudaineté du retour doit frapper l'auditoire.
+8 mesures. BPM 90. Signature 3/4. Tonalité Do#_majeur.
+Transition développement-retour de A ;
+l'entrée du thème 1 à la mesure 584 est préparée harmoniquement par la similarité intervallique des deux passages.
+La soudaineté du retour doit frapper l'auditoire.
 </meta>
     <section=developpement, n_mesure=8, bpm=90, format=3/4, tonalite=Do#_majeur>
         <mesure num=1>
@@ -3749,7 +3968,10 @@ Transition développement-retour de A ; l'entrée du thème 1 à la mesure 584 e
     </section>
 
 <meta>
-Fin du développement et retour de A ; la cadence dominante se résout dans le thème 1 en si bémol mineur pour le retour de la section principale.
+8 mesures. BPM 90. Signature 3/4. Tonalité Do#_majeur.
+Fin du développement et retour de A ;
+la cadence dominante se résout dans le thème 1 en si bémol mineur pour le retour de la section principale.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
     <section=developpement, n_mesure=8, bpm=90, format=3/4, tonalite=Do#_majeur>
         <mesure num=1>
@@ -3795,7 +4017,10 @@ Fin du développement et retour de A ; la cadence dominante se résout dans le t
     </section>
 
 <meta>
-Dernières tensions du développement avant le retour de A ; les chromatismes finals préparent la clarté harmonique du retour en si bémol mineur.
+8 mesures. BPM 90. Signature 3/4. Tonalité Do#_majeur.
+Dernières tensions du développement avant le retour de A ;
+les chromatismes finals préparent la clarté harmonique du retour en si bémol mineur.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
     <section=developpement, n_mesure=8, bpm=90, format=3/4, tonalite=Do#_majeur>
         <mesure num=1>
@@ -3840,7 +4065,10 @@ Dernières tensions du développement avant le retour de A ; les chromatismes fi
     </section>
 
 <meta>
-Point culminant du développement central ; l'intensité dramatique est à son maximum, la pression harmonique sur la dominante de si bémol mineur atteint son paroxysme.
+8 mesures. BPM 90. Signature 3/4. Tonalité Do#_majeur.
+Point culminant du développement central ;
+l'intensité dramatique est à son maximum, la pression harmonique sur la dominante de si bémol mineur atteint son paroxysme.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
     <section=developpement, n_mesure=8, bpm=90, format=3/4, tonalite=Do#_majeur>
         <mesure num=1>
@@ -3885,7 +4113,10 @@ Point culminant du développement central ; l'intensité dramatique est à son m
     </section>
 
 <meta>
-Amorce du retour de A depuis le développement ; le thème de début de A commence à se profiler harmoniquement.
+8 mesures. BPM 90. Signature 3/4. Tonalité Do#_majeur.
+Amorce du retour de A depuis le développement ;
+le thème de début de A commence à se profiler harmoniquement.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
     <section=developpement, n_mesure=8, bpm=90, format=3/4, tonalite=Do#_majeur>
         <mesure num=1>
@@ -3931,7 +4162,10 @@ Amorce du retour de A depuis le développement ; le thème de début de A commen
     </section>
 
 <meta>
-Entrée définitive du retour de la section A (mesure 584) ; le thème 1 réapparaît en si bémol mineur avec un trille supplémentaire à la main gauche (mesure 630), petite variation qui densifie la texture.
+8 mesures. BPM 90. Signature 3/4. Tonalité Do#_majeur.
+Entrée définitive du retour de la section A (mesure 584) ;
+le thème 1 réapparaît en si bémol mineur avec un trille supplémentaire à la main gauche (mesure 630), petite variation qui densifie la texture.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
     <section=developpement, n_mesure=8, bpm=90, format=3/4, tonalite=Do#_majeur>
         <mesure num=1>
@@ -3983,7 +4217,10 @@ Entrée définitive du retour de la section A (mesure 584) ; le thème 1 réappa
     </section>
 
 <meta>
-Retour de la section A (mesures 584-715) ; similaire aux mesures 1-124 avec des variations subtiles. Le trille à la main gauche (mesure 630) est une addition remarquable. Le retour de A après le développement possède une force irrésistible de conclusion.
+8 mesures. BPM 90. Signature 3/4. Tonalité Do#_majeur.
+Retour de la section A (mesures 584-715) ;
+similaire aux mesures 1-124 avec des variations subtiles. Le trille à la main gauche (mesure 630) est une addition remarquable.
+Le retour de A après le développement possède une force irrésistible de conclusion.
 </meta>
     <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Do#_majeur>
         <mesure num=1>
@@ -4029,7 +4266,10 @@ Retour de la section A (mesures 584-715) ; similaire aux mesures 1-124 avec des 
     </section>
 
 <meta>
-Suite du retour de la section A ; le thème 1 se déroule avec les légères variations de la troisième présentation.
+8 mesures. BPM 90. Signature 3/4. Tonalité Do#_majeur.
+Suite du retour de la section A ;
+le thème 1 se déroule avec les légères variations de la troisième présentation.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
     <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Do#_majeur>
         <mesure num=1>
@@ -4075,7 +4315,10 @@ Suite du retour de la section A ; le thème 1 se déroule avec les légères var
     </section>
 
 <meta>
-Développement interne du retour de A ; le thème 2 en ré bémol majeur réapparaît avec sa couleur harmonique caractéristique.
+8 mesures. BPM 90. Signature 3/4. Tonalité Do#_majeur.
+Développement interne du retour de A ;
+le thème 2 en ré bémol majeur réapparaît avec sa couleur harmonique caractéristique.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
     <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Do#_majeur>
         <mesure num=1>
@@ -4137,7 +4380,10 @@ Développement interne du retour de A ; le thème 2 en ré bémol majeur réappa
     </section>
 
 <meta>
-Thème 3 con anima dans le retour de A ; la progression harmonique vers la bémol majeur reprend sa course séquentielle.
+8 mesures. BPM 90. Signature 3/4. Tonalité Do#_majeur.
+Thème 3 con anima dans le retour de A ;
+la progression harmonique vers la bémol majeur reprend sa course séquentielle.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
     <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Do#_majeur>
         <mesure num=1>
@@ -4200,7 +4446,10 @@ Thème 3 con anima dans le retour de A ; la progression harmonique vers la bémo
     </section>
 
 <meta>
-Développement du thème 3 dans le retour de A ; la pédale de dominante mesures 107-116 (de la reprise) maintient sa tension caractéristique.
+8 mesures. BPM 90. Signature 3/4. Tonalité Do#_majeur.
+Développement du thème 3 dans le retour de A ;
+la pédale de dominante mesures 107-116 (de la reprise) maintient sa tension caractéristique.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
     <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Do#_majeur>
         <mesure num=1>
@@ -4254,7 +4503,10 @@ Développement du thème 3 dans le retour de A ; la pédale de dominante mesures
     </section>
 
 <meta>
-Passage cadentiel étendu du retour de A (mesures 701-707) ; pédale de dominante à la basse, nombreux accords de septième diminuée et accord de neuvième de dominante à la mesure 707, menant à la cadence parfaite mesures 707-708.
+8 mesures. BPM 90. Signature 3/4. Tonalité Do#_majeur.
+Passage cadentiel étendu du retour de A (mesures 701-707) ;
+pédale de dominante à la basse, nombreux accords de septième diminuée et accord de neuvième de dominante à la mesure 707, menant à la cadence parfaite mesures 707-708.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
     <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Do#_majeur>
         <mesure num=1>
@@ -4309,7 +4561,10 @@ Passage cadentiel étendu du retour de A (mesures 701-707) ; pédale de dominant
     </section>
 
 <meta>
-Cadence parfaite du retour de A (mesures 707-708) ; la résolution en si bémol mineur est particulièrement solennelle avant l'entrée de la coda.
+8 mesures. BPM 90. Signature 3/4. Tonalité Do#_majeur.
+Cadence parfaite du retour de A (mesures 707-708) ;
+la résolution en si bémol mineur est particulièrement solennelle avant l'entrée de la coda.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
     <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Do#_majeur>
         <mesure num=1>
@@ -4366,7 +4621,10 @@ Cadence parfaite du retour de A (mesures 707-708) ; la résolution en si bémol 
     </section>
 
 <meta>
-Transition vers la coda ; les dernières mesures du retour de A préparent l'entrée de la coda dans l'inattendue tonalité de la majeur.
+8 mesures. BPM 90. Signature 3/4. Tonalité Do#_majeur.
+Transition vers la coda ;
+les dernières mesures du retour de A préparent l'entrée de la coda dans l'inattendue tonalité de la majeur.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
     <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Do#_majeur>
         <mesure num=1>
@@ -4420,7 +4678,10 @@ Transition vers la coda ; les dernières mesures du retour de A préparent l'ent
     </section>
 
 <meta>
-Approche de la coda finale ; la fin du retour de A converge harmoniquement vers la coda. L'anticipation de la conclusion doit maintenir la tension.
+8 mesures. BPM 90. Signature 3/4. Tonalité Do#_majeur.
+Approche de la coda finale ;
+la fin du retour de A converge harmoniquement vers la coda.
+L'anticipation de la conclusion doit maintenir la tension.
 </meta>
     <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Do#_majeur>
         <mesure num=1>
@@ -4474,7 +4735,10 @@ Approche de la coda finale ; la fin du retour de A converge harmoniquement vers 
     </section>
 
 <meta>
-Fin du retour de la section A ; la structure formelle du scherzo est complète : AA-BB-Développement-A. La coda finale sera la conclusion de cet édifice monumental.
+8 mesures. BPM 90. Signature 3/4. Tonalité Do#_majeur.
+Fin du retour de la section A ;
+la structure formelle du scherzo est complète : AA-BB-Développement-A.
+La coda finale sera la conclusion de cet édifice monumental.
 </meta>
     <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Do#_majeur>
         <mesure num=1>
@@ -4524,7 +4788,10 @@ Fin du retour de la section A ; la structure formelle du scherzo est complète :
     </section>
 
 <meta>
-Préparation directe de la coda ; les derniers accords du retour de A posent la question harmonique à laquelle la coda répondra de façon inattendue en la majeur.
+8 mesures. BPM 90. Signature 3/4. Tonalité Do#_majeur.
+Préparation directe de la coda ;
+les derniers accords du retour de A posent la question harmonique à laquelle la coda répondra de façon inattendue en la majeur.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
     <section=partie_A, n_mesure=8, bpm=90, format=3/4, tonalite=Do#_majeur>
         <mesure num=1>
@@ -4570,7 +4837,10 @@ Préparation directe de la coda ; les derniers accords du retour de A posent la 
     </section>
 
 <meta>
-Début de la coda (mesure 716) ; modification inattendue du thème 2 dans la tonalité surprenante de la majeur (mesures 716-723). Ce choix harmonique déstabilise l'oreille après si bémol mineur. Jouer avec la surprise et la légèreté requises.
+8 mesures. BPM 90. Signature 3/4. Tonalité Do#_majeur.
+Début de la coda (mesure 716) ;
+modification inattendue du thème 2 dans la tonalité surprenante de la majeur (mesures 716-723). Ce choix harmonique déstabilise l'oreille après si bémol mineur.
+Jouer avec la surprise et la légèreté requises.
 </meta>
     <section=coda, n_mesure=8, bpm=90, format=3/4, tonalite=Do#_majeur>
         <mesure num=1>
@@ -4616,7 +4886,10 @@ Début de la coda (mesure 716) ; modification inattendue du thème 2 dans la ton
     </section>
 
 <meta>
-Continuation de la coda ; le rythme du thème 2 continue en si bémol mineur (mesure 724), évoluant chromatiquement mesures 727-731 vers ré bémol majeur. La progression chromatique doit être claire malgré la vitesse.
+8 mesures. BPM 90. Signature 3/4. Tonalité Do#_majeur.
+Continuation de la coda ;
+le rythme du thème 2 continue en si bémol mineur (mesure 724), évoluant chromatiquement mesures 727-731 vers ré bémol majeur.
+La progression chromatique doit être claire malgré la vitesse.
 </meta>
     <section=coda, n_mesure=8, bpm=90, format=3/4, tonalite=Do#_majeur>
         <mesure num=1>
@@ -4662,7 +4935,10 @@ Continuation de la coda ; le rythme du thème 2 continue en si bémol mineur (me
     </section>
 
 <meta>
-Thème 1 en ré bémol majeur dans la coda (mesures 733-756) ; avec quelques chromatismes, un stretto avant la cadence parfaite mesures 755-756. Cette réapparition du thème 1 en majeur est particulièrement marquante.
+8 mesures. BPM 90. Signature 3/4. Tonalité Do#_majeur.
+Thème 1 en ré bémol majeur dans la coda (mesures 733-756) ;
+avec quelques chromatismes, un stretto avant la cadence parfaite mesures 755-756.
+Cette réapparition du thème 1 en majeur est particulièrement marquante.
 </meta>
     <section=coda, n_mesure=8, bpm=90, format=3/4, tonalite=Do#_majeur>
         <mesure num=1>
@@ -4708,7 +4984,10 @@ Thème 1 en ré bémol majeur dans la coda (mesures 733-756) ; avec quelques chr
     </section>
 
 <meta>
-Thème 2 en ré bémol majeur dans la coda (mesures 756-780) ; avec des chromatismes autour de la dominante et une suggestion brève de fa majeur mesures 772-774, se terminant par la cadence parfaite mesures 775-776.
+8 mesures. BPM 90. Signature 3/4. Tonalité Do#_majeur.
+Thème 2 en ré bémol majeur dans la coda (mesures 756-780) ;
+avec des chromatismes autour de la dominante et une suggestion brève de fa majeur mesures 772-774, se terminant par la cadence parfaite mesures 775-776.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
     <section=coda, n_mesure=8, bpm=90, format=3/4, tonalite=Do#_majeur>
         <mesure num=1>
@@ -4762,7 +5041,10 @@ Thème 2 en ré bémol majeur dans la coda (mesures 756-780) ; avec des chromati
     </section>
 
 <meta>
-Développement de la coda finale ; les deux thèmes 1 et 2 alternent en ré bémol majeur dans une conclusion de grande ampleur.
+8 mesures. BPM 90. Signature 3/4. Tonalité Do#_majeur.
+Développement de la coda finale ;
+les deux thèmes 1 et 2 alternent en ré bémol majeur dans une conclusion de grande ampleur.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
     <section=coda, n_mesure=8, bpm=90, format=3/4, tonalite=Do#_majeur>
         <mesure num=1>
@@ -4817,7 +5099,10 @@ Développement de la coda finale ; les deux thèmes 1 et 2 alternent en ré bém
     </section>
 
 <meta>
-Péroraison de la coda ; les accords conclusifs s'affermissent vers la résolution finale. La dynamique monte vers le fortissimo terminal.
+8 mesures. BPM 90. Signature 3/4. Tonalité Do#_majeur.
+Péroraison de la coda ;
+les accords conclusifs s'affermissent vers la résolution finale.
+La dynamique monte vers le fortissimo terminal.
 </meta>
     <section=coda, n_mesure=8, bpm=90, format=3/4, tonalite=Do#_majeur>
         <mesure num=1>
@@ -4864,7 +5149,10 @@ Péroraison de la coda ; les accords conclusifs s'affermissent vers la résoluti
     </section>
 
 <meta>
-Avant-dernières mesures de la coda ; les chromatismes finaux conduisent à la cadence parfaite irréversible.
+8 mesures. BPM 90. Signature 3/4. Tonalité Do#_majeur.
+Avant-dernières mesures de la coda ;
+les chromatismes finaux conduisent à la cadence parfaite irréversible.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
     <section=coda, n_mesure=8, bpm=90, format=3/4, tonalite=Do#_majeur>
         <mesure num=1>
@@ -4910,7 +5198,10 @@ Avant-dernières mesures de la coda ; les chromatismes finaux conduisent à la c
     </section>
 
 <meta>
-Accord final de la coda du Scherzo n°2 ; la cadence parfaite en ré bémol majeur conclut ce chef-d'oeuvre de la forme scherzo dans un accord lumineux et définitif. La conclusion en majeur tempère le si bémol mineur initial.
+5 mesures. BPM 90. Signature 3/4. Tonalité Do#_majeur.
+Accord final de la coda du Scherzo n°2 ;
+la cadence parfaite en ré bémol majeur conclut ce chef-d'oeuvre de la forme scherzo dans un accord lumineux et définitif.
+La conclusion en majeur tempère le si bémol mineur initial.
 </meta>
     <section=coda, n_mesure=5, bpm=90, format=3/4, tonalite=Do#_majeur>
         <mesure num=1>
