@@ -9,11 +9,14 @@ Date : 1836
 Auteur : Frédéric Chopin
 Tonalite : Si_mineur
 Unite : quarter
-Intention : Puissance colossale et endurance héroïque, cette étude est la plus exigeante techniquement de l'opus 25, imposant des octaves chromatiques rapides dans les deux mains sur toute l'étendue du clavier; Horowitz la qualifiait de quasi injouable telle qu'écrite. Forme ternaire ABA' en Si mineur, 119 mesures en 4/4, Allegro con fuoco (72 BPM), avec une section centrale plus lente et chantante en Si majeur offrant un répit expressif entre deux tempêtes d'octaves.
+Intention : Puissance colossale et endurance héroïque, cette étude impose des octaves chromatiques rapides dans les deux mains sur toute l'étendue du clavier, constituant l'un des défis les plus extrêmes du répertoire pianistique romantique. Forme ternaire ABA' en si mineur, 119 mesures en 4/4, Allegro con fuoco (72 BPM), avec une section centrale chantante en si majeur entre deux tempêtes d'octaves.
 </tete>
 
 <meta>
-8 mesures, Si mineur, tempo 72 BPM. Présentation de l'ossature chromatique ascendante et descendante en octaves dans les deux mains en parallèle, créant immédiatement une impression de force indomptable. La coordination des octaves entre les deux mains est le premier obstacle; chaque octave doit sonner comme un bloc unique, sans priorité d'une main sur l'autre.
+8 mesures. BPM 72. Signature 4/4. Tonalité Si_mineur.
+8 mesures, Si mineur, tempo 72 BPM.
+Présentation de l'ossature chromatique ascendante et descendante en octaves dans les deux mains en parallèle, créant immédiatement une impression de force indomptable. La coordination des octaves entre les deux mains est le premier obstacle;
+chaque octave doit sonner comme un bloc unique, sans priorité d'une main sur l'autre.
 </meta>
     <section=partie_A, n_mesure=8, bpm=72, format=4/4, tonalite=Si_mineur>
         <mesure num=1>
@@ -59,7 +62,10 @@ Intention : Puissance colossale et endurance héroïque, cette étude est la plu
     </section>
 
 <meta>
-8 mesures, Si mineur, tempo 72 BPM. Continuation du thème A avec des figures chromatiques ascendantes plus longues. L'endurance musculaire commence à être sollicitée dès cette section; la rotation d'avant-bras doit rester détendue pour éviter les crampes. Jouer d'abord à tempo lent en maintenant la qualité de l'octave.
+8 mesures. BPM 72. Signature 4/4. Tonalité Si_mineur.
+8 mesures, Si mineur, tempo 72 BPM.
+Continuation du thème A avec des figures chromatiques ascendantes plus longues. L'endurance musculaire commence à être sollicitée dès cette section; la rotation d'avant-bras doit rester détendue pour éviter les crampes.
+Jouer d'abord à tempo lent en maintenant la qualité de l'octave.
 </meta>
     <section=partie_A, n_mesure=8, bpm=72, format=4/4, tonalite=Si_mineur>
         <mesure num=1>
@@ -111,7 +117,10 @@ Intention : Puissance colossale et endurance héroïque, cette étude est la plu
     </section>
 
 <meta>
-8 mesures, Si mineur, développement, tempo 72 BPM. Développement du matériau initial avec des sauts plus larges entre les groupes d'octaves; la dynamique monte progressivement vers le forte. Garder les poignets souples et les épaules relâchées à chaque instant.
+8 mesures. BPM 72. Signature 4/4. Tonalité Si_mineur.
+8 mesures, Si mineur, développement, tempo 72 BPM.
+Développement du matériau initial avec des sauts plus larges entre les groupes d'octaves; la dynamique monte progressivement vers le forte.
+Garder les poignets souples et les épaules relâchées à chaque instant.
 </meta>
     <section=partie_A, n_mesure=8, bpm=72, format=4/4, tonalite=Si_mineur>
         <mesure num=1>
@@ -155,7 +164,10 @@ Intention : Puissance colossale et endurance héroïque, cette étude est la plu
     </section>
 
 <meta>
-8 mesures, Si mineur, intensification, tempo 72 BPM. La texture s'épaissit avec des accords intérieurs ajoutés aux octaves; les notes centrales des accords (à ne pas écourter selon Horowitz) enrichissent la couleur harmonique. La dynamique atteint son apex avant la transition vers la section lente.
+8 mesures. BPM 72. Signature 4/4. Tonalité Si_mineur.
+8 mesures, Si mineur, intensification, tempo 72 BPM.
+La texture s'épaissit avec des accords intérieurs ajoutés aux octaves; les notes centrales des accords (à ne pas écourter selon Horowitz) enrichissent la couleur harmonique.
+La dynamique atteint son apex avant la transition vers la section lente.
 </meta>
     <section=partie_A, n_mesure=8, bpm=72, format=4/4, tonalite=Si_mineur>
         <mesure num=1>
@@ -195,7 +207,10 @@ Intention : Puissance colossale et endurance héroïque, cette étude est la plu
     </section>
 
 <meta>
-8 mesures, transition vers Si majeur, tempo 72 BPM. Transition harmonique préparant le section B; les octaves se font plus lyriques. Quatre accords forts marquent la césure structurelle entre les sections A et B. Prendre légèrement plus de temps sur ces accords pour signaler le changement de caractère.
+8 mesures. BPM 72. Signature 4/4. Tonalité Si_mineur.
+8 mesures, transition vers Si majeur, tempo 72 BPM.
+Transition harmonique préparant le section B; les octaves se font plus lyriques. Quatre accords forts marquent la césure structurelle entre les sections A et B.
+Prendre légèrement plus de temps sur ces accords pour signaler le changement de caractère.
 </meta>
     <section=partie_A, n_mesure=8, bpm=72, format=4/4, tonalite=Si_mineur>
         <mesure num=1>
@@ -238,7 +253,10 @@ Intention : Puissance colossale et endurance héroïque, cette étude est la plu
     </section>
 
 <meta>
-8 mesures, Si majeur, Andante, tempo 72 BPM. Section centrale lyrique et contemplative en Si majeur; les octaves se transforment en lignes chantées. Cette section apporte un répit expressif après la violence des sections extérieures. Jouer les octaves de la section B avec un toucher plus enveloppant et une pédale généreuse.
+8 mesures. BPM 72. Signature 4/4. Tonalité Si_mineur.
+8 mesures, Si majeur, Andante, tempo 72 BPM.
+Section centrale lyrique et contemplative en Si majeur; les octaves se transforment en lignes chantées. Cette section apporte un répit expressif après la violence des sections extérieures.
+Jouer les octaves de la section B avec un toucher plus enveloppant et une pédale généreuse.
 </meta>
     <section=partie_B, n_mesure=8, bpm=72, format=4/4, tonalite=Si_mineur>
         <mesure num=1>
@@ -281,7 +299,10 @@ Intention : Puissance colossale et endurance héroïque, cette étude est la plu
     </section>
 
 <meta>
-8 mesures, Si majeur, développement lyrique, tempo 72 BPM. Les octaves de la section B sont plus espacées, parfois à une octave de distance, créant des contrastes d'ambitus importants. La ligne mélodique doit s'épanouir vocalement, comme si un chanteur de grande envergure prenait la parole.
+8 mesures. BPM 72. Signature 4/4. Tonalité Si_mineur.
+8 mesures, Si majeur, développement lyrique, tempo 72 BPM.
+Les octaves de la section B sont plus espacées, parfois à une octave de distance, créant des contrastes d'ambitus importants.
+La ligne mélodique doit s'épanouir vocalement, comme si un chanteur de grande envergure prenait la parole.
 </meta>
     <section=partie_B, n_mesure=8, bpm=72, format=4/4, tonalite=Si_mineur>
         <mesure num=1>
@@ -333,7 +354,10 @@ Intention : Puissance colossale et endurance héroïque, cette étude est la plu
     </section>
 
 <meta>
-8 mesures, Si majeur, profondeur expressive, tempo 72 BPM. Moment d'intensité poétique maximale de l'étude; les harmonies s'enrichissent de modulations inattendues. Permettre au rubato de s'exprimer pleinement dans cette section, en dilatant les moments expressifs.
+8 mesures. BPM 72. Signature 4/4. Tonalité Si_mineur.
+8 mesures, Si majeur, profondeur expressive, tempo 72 BPM.
+Moment d'intensité poétique maximale de l'étude; les harmonies s'enrichissent de modulations inattendues.
+Permettre au rubato de s'exprimer pleinement dans cette section, en dilatant les moments expressifs.
 </meta>
     <section=partie_B, n_mesure=8, bpm=72, format=4/4, tonalite=Si_mineur>
         <mesure num=1>
@@ -381,7 +405,10 @@ Intention : Puissance colossale et endurance héroïque, cette étude est la plu
     </section>
 
 <meta>
-8 mesures, progression vers la réexposition, tempo 72 BPM. Progression harmonique menant au retour du Si mineur; les octaves commencent à se réchauffer. Un accelerando progressif prépare l'auditeur à la réexposition des octaves chromatiques en Si mineur.
+8 mesures. BPM 72. Signature 4/4. Tonalité Si_mineur.
+8 mesures, progression vers la réexposition, tempo 72 BPM.
+Progression harmonique menant au retour du Si mineur; les octaves commencent à se réchauffer.
+Un accelerando progressif prépare l'auditeur à la réexposition des octaves chromatiques en Si mineur.
 </meta>
     <section=partie_B, n_mesure=8, bpm=72, format=4/4, tonalite=Si_mineur>
         <mesure num=1>
@@ -427,7 +454,10 @@ Intention : Puissance colossale et endurance héroïque, cette étude est la plu
     </section>
 
 <meta>
-8 mesures, retour Si mineur, tempo 72 BPM. Réexposition du thème A avec une intensité renouvelée après la section B; le contraste avec la douceur précédente est maximal et délibéré. Reprendre le niveau de tension dynamique du début immédiatement.
+8 mesures. BPM 72. Signature 4/4. Tonalité Si_mineur.
+8 mesures, retour Si mineur, tempo 72 BPM.
+Réexposition du thème A avec une intensité renouvelée après la section B; le contraste avec la douceur précédente est maximal et délibéré.
+Reprendre le niveau de tension dynamique du début immédiatement.
 </meta>
     <section=partie_A, n_mesure=8, bpm=72, format=4/4, tonalite=Si_mineur>
         <mesure num=1>
@@ -480,7 +510,10 @@ Intention : Puissance colossale et endurance héroïque, cette étude est la plu
     </section>
 
 <meta>
-8 mesures, Si mineur, densification finale, tempo 72 BPM. Développement final avec octaves de plus en plus amples et passage par des harmonies de séptième diminuée. La fatigue physique à ce stade est réelle; maintenir la qualité du toucher coûte que coûte.
+8 mesures. BPM 72. Signature 4/4. Tonalité Si_mineur.
+8 mesures, Si mineur, densification finale, tempo 72 BPM.
+Développement final avec octaves de plus en plus amples et passage par des harmonies de séptième diminuée. La fatigue physique à ce stade est réelle;
+maintenir la qualité du toucher coûte que coûte.
 </meta>
     <section=partie_A, n_mesure=8, bpm=72, format=4/4, tonalite=Si_mineur>
         <mesure num=1>
@@ -523,7 +556,10 @@ Intention : Puissance colossale et endurance héroïque, cette étude est la plu
     </section>
 
 <meta>
-8 mesures, Si mineur, avant-coda, tempo 72 BPM. Accumulation d'énergie vers le point culminant de la pièce; les octaves envahissent les deux extrêmes du clavier simultanément. Ce passage crée la plus grande densité sonore de toute l'étude.
+8 mesures. BPM 72. Signature 4/4. Tonalité Si_mineur.
+8 mesures, Si mineur, avant-coda, tempo 72 BPM.
+Accumulation d'énergie vers le point culminant de la pièce; les octaves envahissent les deux extrêmes du clavier simultanément.
+Ce passage crée la plus grande densité sonore de toute l'étude.
 </meta>
     <section=partie_A, n_mesure=8, bpm=72, format=4/4, tonalite=Si_mineur>
         <mesure num=1>
@@ -570,7 +606,10 @@ Intention : Puissance colossale et endurance héroïque, cette étude est la plu
     </section>
 
 <meta>
-8 mesures, Si mineur, réexposition conclusive, tempo 72 BPM. Ultime réexposition du matériau A dans sa forme la plus condensée et la plus puissante. Chaque octave doit sonner comme un coup de marteau musical; l'énergie accumulée tout au long de la pièce se déverse ici.
+8 mesures. BPM 72. Signature 4/4. Tonalité Si_mineur.
+8 mesures, Si mineur, réexposition conclusive, tempo 72 BPM.
+Ultime réexposition du matériau A dans sa forme la plus condensée et la plus puissante. Chaque octave doit sonner comme un coup de marteau musical;
+l'énergie accumulée tout au long de la pièce se déverse ici.
 </meta>
     <section=recapitulation, n_mesure=8, bpm=72, format=4/4, tonalite=Si_mineur>
         <mesure num=1>
@@ -615,7 +654,10 @@ Intention : Puissance colossale et endurance héroïque, cette étude est la plu
     </section>
 
 <meta>
-8 mesures, Si mineur, approche de la coda, tempo 72 BPM. Approche du point final avec des octaves conclusives en Si mineur, alternant les registres grave et aigu dans un dialogue de plus en plus condensé.
+8 mesures. BPM 72. Signature 4/4. Tonalité Si_mineur.
+8 mesures, Si mineur, approche de la coda, tempo 72 BPM.
+Approche du point final avec des octaves conclusives en Si mineur, alternant les registres grave et aigu dans un dialogue de plus en plus condensé.
+Jouer avec sensibilité et respect du phrasé chopinien.
 </meta>
     <section=recapitulation, n_mesure=8, bpm=72, format=4/4, tonalite=Si_mineur>
         <mesure num=1>
@@ -667,7 +709,10 @@ Intention : Puissance colossale et endurance héroïque, cette étude est la plu
     </section>
 
 <meta>
-7 mesures conclusives, Si mineur, tempo 72 BPM. La coda résout le conflit harmonique en affirmant Si mineur avec une série d'accords massifs. Le trémolo final d'octaves doit avoir une intensité de tonnerre avant le silence soudain. L'accord final, fortissimo, laisse résonner toute la puissance de l'étude dans le grave.
+7 mesures. BPM 72. Signature 4/4. Tonalité Si_mineur.
+7 mesures conclusives, Si mineur, tempo 72 BPM.
+La coda résout le conflit harmonique en affirmant Si mineur avec une série d'accords massifs. Le trémolo final d'octaves doit avoir une intensité de tonnerre avant le silence soudain.
+L'accord final, fortissimo, laisse résonner toute la puissance de l'étude dans le grave.
 </meta>
     <section=coda, n_mesure=7, bpm=72, format=4/4, tonalite=Si_mineur>
         <mesure num=1>
