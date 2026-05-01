@@ -14,7 +14,9 @@ Intention : La Gondoliera évoque l'atmosphère nocturne et mélancolique de Ven
 
 <meta>
 48 mesures. Andante, 69 BPM. 12/8. Si bémol mineur.
-Test meta.
+Le thème principal imite le mouvement régulier de la gondole sur les eaux lagunaires, le 12/8 créant une pulsation ternaire continue qui berce l'oreille. Liszt choisit si bémol mineur pour sa couleur sombre et introspective, propre à évoquer la mélancolie vénitienne.
+A l'oreille, le balancement du 12/8 produit une douce oscillation, presque hypnotique, tandis que le registre grave ancre la pulsation et que les voix supérieures tracent une cantilène expressive.
+Jouer avec un toucher legato profond, en laissant résonner les basses et en nuançant les voix internes pour faire chanter le thème principal, avec un rubato naturel qui imite les mouvements de l'eau.
 <section=theme_A, n_mesure=48, bpm=69, format=12/8, tonalite=Sib_mineur>
 </meta>
     <section=theme_A, n_mesure=48, bpm=69, format=12/8, tonalite=Sib_mineur>
@@ -333,7 +335,9 @@ Test meta.
 
 <meta>
 32 mesures. Andante, 69 BPM. 12/8. Ré bémol majeur.
-Test meta.
+La modulation vers la relative majeure apporte un contraste lumineux et espérant, typique de la forme ternaire romantique, créant un relâchement émotionnel après la mélancolie du thème principal. Ce choix tonal illustre le procédé romantique d'alternance entre ombre et lumière.
+A l'oreille, le passage en majeur allège la texture, offrant une clarté chaleureuse qui contraste avec l'obscurité initiale, comme un rayon de soleil traversant la brume lagunaire.
+Jouer avec un timbre plus lumineux, légèrement plus souple dans le phrasé, en soulignant les lignes mélodiques dans les voix médianes et en laissant la pédale enrichir les harmonies.
 <section=theme_B, n_mesure=32, bpm=69, format=12/8, tonalite=Reb_majeur>
 </meta>
     <section=theme_B, n_mesure=32, bpm=69, format=12/8, tonalite=Reb_majeur>
@@ -562,7 +566,9 @@ Test meta.
 
 <meta>
 43 mesures. Andante, 69 BPM. 12/8. Si bémol mineur.
-Test meta.
+Le retour au thème principal en si bémol mineur clôt la forme ternaire avec une résignation sereine, le matériau thématique se pare de nouvelles ornementations qui enrichissent l'expression sans rompre l'unité stylistique, confirmant le caractère cyclique de la pièce.
+A l'oreille, la récapitulation crée un sentiment d'apaisement et de clôture, la répétition du matériau conférant une impression de fatalité douce et d'acceptation mélancolique.
+Jouer avec plus de retenue dynamique qu'à l'exposition, en laissant le phrasé s'effacer progressivement vers le silence, la texture se raréfiant jusqu'aux dernières notes pianissimo.
 <section=recapitulation, n_mesure=43, bpm=69, format=12/8, tonalite=Sib_mineur>
 </meta>
     <section=recapitulation, n_mesure=43, bpm=69, format=12/8, tonalite=Sib_mineur>
