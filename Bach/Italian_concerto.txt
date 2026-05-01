@@ -6,7 +6,7 @@ FORMAT : piano_solo
 NIVEAU : avance
 Titre : Concerto italien BWV 971, 2ème mouvement Andante en Ré mineur
 Date : 1735
-Auteur : Johann Sebastian Bach
+Auteur : Bach
 Tonalite : Re_mineur
 Unite : quarter
 Intention : Mouvement central d'une austérité et d'une profondeur expressive rares, où une ligne mélodique ornée et continue à la voix supérieure se déploie librement au-dessus d'une basse obstinée répétitive évoquant l'accompagnement de cordes d'un orchestre baroque. Arioso en Ré mineur, 3/4, 49 mesures, tempo andante, au caractère mélancolique et méditatif, avec une ornementation riche et une conduite mélodique qui ne reprend jamais deux fois exactement le même contour.
