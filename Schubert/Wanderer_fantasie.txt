@@ -3,19 +3,19 @@
 TACHE : composition
 STYLE : romantique
 FORMAT : piano_solo
-NIVEAU : simple
+NIVEAU : avance
 Titre : Wanderer_fantasie
-Date : ?
+Date : 1822
 Auteur : Schubert
-Tonalite : Lab_majeur
+Tonalite : Do_majeur
 Unite : quarter
-Intention : Pièce pour piano solo, modéré, lumineux, au cadre binaire régulier. Tonalité : Lab majeur. 718 mesures.
+Intention : Monument du piano romantique, la Fantaisie du Voyageur enchaine quatre mouvements d'un seul souffle expressif, unis autour du theme melancolique du Lied 'Der Wanderer' qui traverse l'oeuvre comme un fil d'ariane entre errance et apaisement. Quatre sections enchainees en Do majeur, 4/4 variable (Allegro con fuoco, Adagio, Presto, Allegro-fugue), 718 mesures, modulant de Do majeur a Do diese mineur, Lab majeur et retour en Do majeur.
 </tete>
 
 <meta>
-Section d'ouverture — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Allegro con fuoco, environ 112 BPM. Signature 4/4. Tonalite Do majeur. Le premier mouvement Allegro con fuoco etablit le caractere heroique et ardent de la fantaisie, Do majeur servant de point d'ancrage tonal pour un discours musical exuberant qui demontre une virtuosite pianistique sans precedent en 1822. Ce premier mouvement d'une intensite extreme pose les bases harmoniques et motiviques de toute l'oeuvre. Jouer avec un feu interieur et une technique impeccable, les octaves bien articulees, le discours toujours dirige.
 </meta>
-    <section=section_1, n_mesure=8, bpm=90, format=4/4, tonalite=Lab_majeur>
+    <section=allegro_1, n_mesure=8, bpm=112, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |do4 mi4, (do4 mi4, do4 mi4), do4 mi4, (do4 mi4, do4 mi4)|
             <piano_1_v4>  |do2 sol2 do3, (do2 sol2 do3, do2 sol2 do3), do2 sol2 do3, (do2 sol2 do3, do2 sol2 do3)|
@@ -56,9 +56,9 @@ Section d'ouverture — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 1 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Allegro con fuoco, environ 112 BPM. Signature 4/4. Tonalite Do majeur. Le premier mouvement Allegro con fuoco etablit le caractere heroique et ardent de la fantaisie, Do majeur servant de point d'ancrage tonal pour un discours musical exuberant qui demontre une virtuosite pianistique sans precedent en 1822. Ce premier mouvement d'une intensite extreme pose les bases harmoniques et motiviques de toute l'oeuvre. Jouer avec un feu interieur et une technique impeccable, les octaves bien articulees, le discours toujours dirige.
 </meta>
-    <section=section_2, n_mesure=8, bpm=90, format=4/4, tonalite=Lab_majeur>
+    <section=allegro_2, n_mesure=8, bpm=112, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |sol4 mi5 sol5, (sol4 mi5 sol5, sol4 mi5 sol5), sol4 re5 sol5, sol4 re5 sol5|
             <piano_1_v4>  |do2 do3, -, si1 si2, (si2 si3, si2 si3)|
@@ -94,9 +94,9 @@ Section de développement 1 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 2 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Allegro con fuoco, environ 112 BPM. Signature 4/4. Tonalite Do majeur. Le premier mouvement Allegro con fuoco etablit le caractere heroique et ardent de la fantaisie, Do majeur servant de point d'ancrage tonal pour un discours musical exuberant qui demontre une virtuosite pianistique sans precedent en 1822. Ce premier mouvement d'une intensite extreme pose les bases harmoniques et motiviques de toute l'oeuvre. Jouer avec un feu interieur et une technique impeccable, les octaves bien articulees, le discours toujours dirige.
 </meta>
-    <section=section_3, n_mesure=8, bpm=90, format=4/4, tonalite=Lab_majeur>
+    <section=allegro_3, n_mesure=8, bpm=112, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |si4 mi5 lab5 si5, mi5 lab5 si5 mi6, _, _|
             <piano_1_v4>  |mi3 mi4, mi2 mi3, _, _|
@@ -139,9 +139,9 @@ Section de développement 2 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 3 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Allegro con fuoco, environ 112 BPM. Signature 4/4. Tonalite Do majeur. Le premier mouvement Allegro con fuoco etablit le caractere heroique et ardent de la fantaisie, Do majeur servant de point d'ancrage tonal pour un discours musical exuberant qui demontre une virtuosite pianistique sans precedent en 1822. Ce premier mouvement d'une intensite extreme pose les bases harmoniques et motiviques de toute l'oeuvre. Jouer avec un feu interieur et une technique impeccable, les octaves bien articulees, le discours toujours dirige.
 </meta>
-    <section=section_4, n_mesure=8, bpm=90, format=4/4, tonalite=Lab_majeur>
+    <section=allegro_4, n_mesure=8, bpm=112, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |fa5 do6, -, (_, la3, do4), ({fa4, la4}, do5, fa5)|
             <piano_1_v2>  |la4 do5, -, -, -|
@@ -181,9 +181,9 @@ Section de développement 3 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 4 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Allegro con fuoco, environ 112 BPM. Signature 4/4. Tonalite Do majeur. Le premier mouvement Allegro con fuoco etablit le caractere heroique et ardent de la fantaisie, Do majeur servant de point d'ancrage tonal pour un discours musical exuberant qui demontre une virtuosite pianistique sans precedent en 1822. Ce premier mouvement d'une intensite extreme pose les bases harmoniques et motiviques de toute l'oeuvre. Jouer avec un feu interieur et une technique impeccable, les octaves bien articulees, le discours toujours dirige.
 </meta>
-    <section=section_5, n_mesure=8, bpm=90, format=4/4, tonalite=Lab_majeur>
+    <section=allegro_5, n_mesure=8, bpm=112, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |({mi6, sol6}, mi6, reb6), ({sib5, sol5}, mi5, reb5), ({mi5, sol5}, mi5, reb5), ({sib4, sol4}, mi4, reb4)|
             <piano_1_v4>  |({reb4, mi4}, reb4, sib3), ({sol3, mi3}, reb3, sib2), ({reb3, mi3}, reb3, sib2), ({sol2, mi2}, reb2, sib1)|
@@ -222,9 +222,9 @@ Section de développement 4 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 5 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Allegro con fuoco, environ 112 BPM. Signature 4/4. Tonalite Do majeur. Le premier mouvement Allegro con fuoco etablit le caractere heroique et ardent de la fantaisie, Do majeur servant de point d'ancrage tonal pour un discours musical exuberant qui demontre une virtuosite pianistique sans precedent en 1822. Ce premier mouvement d'une intensite extreme pose les bases harmoniques et motiviques de toute l'oeuvre. Jouer avec un feu interieur et une technique impeccable, les octaves bien articulees, le discours toujours dirige.
 </meta>
-    <section=section_6, n_mesure=8, bpm=90, format=4/4, tonalite=Lab_majeur>
+    <section=allegro_6, n_mesure=8, bpm=112, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |({re4, sol4}, re4, sol3), ({re4, sol4}, re4, sol3), ({re4, sol4}, re4, sol3), ({re4, sol4}, re4, sol3)|
             <piano_1_v4>  |({si1, re2}, sol2, re2), ({si1, re2}, sol2, re2), ({si1, re2}, sol2, re2), ({si1, re2}, sol2, re2)|
@@ -265,9 +265,9 @@ Section de développement 5 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 6 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Allegro con fuoco, environ 112 BPM. Signature 4/4. Tonalite Do majeur. Le premier mouvement Allegro con fuoco etablit le caractere heroique et ardent de la fantaisie, Do majeur servant de point d'ancrage tonal pour un discours musical exuberant qui demontre une virtuosite pianistique sans precedent en 1822. Ce premier mouvement d'une intensite extreme pose les bases harmoniques et motiviques de toute l'oeuvre. Jouer avec un feu interieur et une technique impeccable, les octaves bien articulees, le discours toujours dirige.
 </meta>
-    <section=section_7, n_mesure=8, bpm=90, format=4/4, tonalite=Lab_majeur>
+    <section=allegro_7, n_mesure=8, bpm=112, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |la3 la4, (la3 la4, la3 la4), la3 la4, (la3 la4, la3 la4)|
             <piano_1_v4>  |solb2, -, solb2, -|
@@ -314,9 +314,9 @@ Section de développement 6 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 7 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Allegro con fuoco, environ 112 BPM. Signature 4/4. Tonalite Do majeur. Le premier mouvement Allegro con fuoco etablit le caractere heroique et ardent de la fantaisie, Do majeur servant de point d'ancrage tonal pour un discours musical exuberant qui demontre une virtuosite pianistique sans precedent en 1822. Ce premier mouvement d'une intensite extreme pose les bases harmoniques et motiviques de toute l'oeuvre. Jouer avec un feu interieur et une technique impeccable, les octaves bien articulees, le discours toujours dirige.
 </meta>
-    <section=section_8, n_mesure=8, bpm=90, format=4/4, tonalite=Lab_majeur>
+    <section=allegro_8, n_mesure=8, bpm=112, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |(si4 si5, re5 re6), do5 do6, mi5 mi6, do5 do6|
             <piano_1_v4>  |la3, -, -, -|
@@ -360,9 +360,9 @@ Section de développement 7 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 8 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Allegro con fuoco, environ 112 BPM. Signature 4/4. Tonalite Do majeur. Le premier mouvement Allegro con fuoco etablit le caractere heroique et ardent de la fantaisie, Do majeur servant de point d'ancrage tonal pour un discours musical exuberant qui demontre une virtuosite pianistique sans precedent en 1822. Ce premier mouvement d'une intensite extreme pose les bases harmoniques et motiviques de toute l'oeuvre. Jouer avec un feu interieur et une technique impeccable, les octaves bien articulees, le discours toujours dirige.
 </meta>
-    <section=section_9, n_mesure=8, bpm=90, format=4/4, tonalite=Lab_majeur>
+    <section=allegro_9, n_mesure=8, bpm=112, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |mi4, (mib4, si3 mi4), solb4, (lab4, si4)|
             <piano_1_v2>  |_, _, si3 mib4, (si3 mi4, si3 mib4)|
@@ -401,9 +401,9 @@ Section de développement 8 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 9 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Allegro con fuoco, environ 112 BPM. Signature 4/4. Tonalite Do majeur. Le premier mouvement Allegro con fuoco etablit le caractere heroique et ardent de la fantaisie, Do majeur servant de point d'ancrage tonal pour un discours musical exuberant qui demontre une virtuosite pianistique sans precedent en 1822. Ce premier mouvement d'une intensite extreme pose les bases harmoniques et motiviques de toute l'oeuvre. Jouer avec un feu interieur et une technique impeccable, les octaves bien articulees, le discours toujours dirige.
 </meta>
-    <section=section_10, n_mesure=8, bpm=90, format=4/4, tonalite=Lab_majeur>
+    <section=allegro_10, n_mesure=8, bpm=112, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |fa5 sol5 si5 re6, (fa5 sol5 si5 re6, fa5 sol5 si5 re6), fa5 sol5 si5 re6, (fa5 sol5 si5 re6, fa5 sol5 si5 re6)|
             <piano_1_v4>  |sol3 sol4, (sol3 sol4, sol3 sol4), sol3 sol4, (sol3 sol4, sol3 sol4)|
@@ -439,9 +439,9 @@ Section de développement 9 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 10 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Allegro con fuoco, environ 112 BPM. Signature 4/4. Tonalite Do majeur. Le premier mouvement Allegro con fuoco etablit le caractere heroique et ardent de la fantaisie, Do majeur servant de point d'ancrage tonal pour un discours musical exuberant qui demontre une virtuosite pianistique sans precedent en 1822. Ce premier mouvement d'une intensite extreme pose les bases harmoniques et motiviques de toute l'oeuvre. Jouer avec un feu interieur et une technique impeccable, les octaves bien articulees, le discours toujours dirige.
 </meta>
-    <section=section_11, n_mesure=8, bpm=90, format=4/4, tonalite=Lab_majeur>
+    <section=allegro_11, n_mesure=8, bpm=112, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |fa5 do6 fa6, (fa5 si5 fa6, fa5 si5 fa6), mi5 si5 mi6, mi5 la5 mi6|
             <piano_1_v4>  |re3 re4, sol2 sol3, do3 do4, (fa2 fa3, fa2 fa3)|
@@ -477,9 +477,9 @@ Section de développement 10 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 11 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Allegro con fuoco, environ 112 BPM. Signature 4/4. Tonalite Do majeur. Le premier mouvement Allegro con fuoco etablit le caractere heroique et ardent de la fantaisie, Do majeur servant de point d'ancrage tonal pour un discours musical exuberant qui demontre une virtuosite pianistique sans precedent en 1822. Ce premier mouvement d'une intensite extreme pose les bases harmoniques et motiviques de toute l'oeuvre. Jouer avec un feu interieur et une technique impeccable, les octaves bien articulees, le discours toujours dirige.
 </meta>
-    <section=section_12, n_mesure=8, bpm=90, format=4/4, tonalite=Lab_majeur>
+    <section=allegro_12, n_mesure=8, bpm=112, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |({lab5, mib5}, mi5, lab4), ({la5, mib5}, mi5, la4), ({si5, mib5}, la5, si4), ({do6, mi5}, lab5, do5)|
             <piano_1_v4>  |si2 si3, do3 do4, fa3 fa4, mi3 mi4|
@@ -515,9 +515,9 @@ Section de développement 11 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 12 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Allegro con fuoco, environ 112 BPM. Signature 4/4. Tonalite Do majeur. Le premier mouvement Allegro con fuoco etablit le caractere heroique et ardent de la fantaisie, Do majeur servant de point d'ancrage tonal pour un discours musical exuberant qui demontre une virtuosite pianistique sans precedent en 1822. Ce premier mouvement d'une intensite extreme pose les bases harmoniques et motiviques de toute l'oeuvre. Jouer avec un feu interieur et une technique impeccable, les octaves bien articulees, le discours toujours dirige.
 </meta>
-    <section=section_13, n_mesure=8, bpm=90, format=4/4, tonalite=Lab_majeur>
+    <section=allegro_13, n_mesure=8, bpm=112, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |mi5 mi6, (re5 re6, do5 do6), do5 do6, si4 si5|
             <piano_1_v4>  |({do3, la3}, mi3, la3), ({re3, la3}, fa3, la3), ({mi3, do4}, la3, do4), ({mi3, re4}, lab3, re4)|
@@ -553,9 +553,9 @@ Section de développement 12 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 13 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Allegro con fuoco, environ 112 BPM. Signature 4/4. Tonalite Do majeur. Le premier mouvement Allegro con fuoco etablit le caractere heroique et ardent de la fantaisie, Do majeur servant de point d'ancrage tonal pour un discours musical exuberant qui demontre une virtuosite pianistique sans precedent en 1822. Ce premier mouvement d'une intensite extreme pose les bases harmoniques et motiviques de toute l'oeuvre. Jouer avec un feu interieur et une technique impeccable, les octaves bien articulees, le discours toujours dirige.
 </meta>
-    <section=section_14, n_mesure=8, bpm=90, format=4/4, tonalite=Lab_majeur>
+    <section=allegro_14, n_mesure=8, bpm=112, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |({la5, mib5}, mi5, la4), ({la4, mib4}, mi4, la3), ({sib5, mi5}, fa5, sib4), ({sib4, mi4}, fa4, sib3)|
             <piano_1_v4>  |(si1 si2, re2 re3), do2 do3, (reb2 reb3, mi2 mi3), re2 re3|
@@ -591,9 +591,9 @@ Section de développement 13 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 14 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Allegro con fuoco, environ 112 BPM. Signature 4/4. Tonalite Do majeur. Le premier mouvement Allegro con fuoco etablit le caractere heroique et ardent de la fantaisie, Do majeur servant de point d'ancrage tonal pour un discours musical exuberant qui demontre une virtuosite pianistique sans precedent en 1822. Ce premier mouvement d'une intensite extreme pose les bases harmoniques et motiviques de toute l'oeuvre. Jouer avec un feu interieur et une technique impeccable, les octaves bien articulees, le discours toujours dirige.
 </meta>
-    <section=section_15, n_mesure=8, bpm=90, format=4/4, tonalite=Lab_majeur>
+    <section=allegro_15, n_mesure=8, bpm=112, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |(la4, do5), sib4, do5, (re5, mib5)|
             <piano_1_v4>  |({mib3, sib3}, sol3, sib3), ({mib4, sib3}, sol3, sib3), ({mib3, sib3}, sol3, sib3), ({mib4, sib3}, sol3, sib3)|
@@ -629,9 +629,9 @@ Section de développement 14 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 15 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Allegro con fuoco, environ 112 BPM. Signature 4/4. Tonalite Do majeur. Le premier mouvement Allegro con fuoco etablit le caractere heroique et ardent de la fantaisie, Do majeur servant de point d'ancrage tonal pour un discours musical exuberant qui demontre une virtuosite pianistique sans precedent en 1822. Ce premier mouvement d'une intensite extreme pose les bases harmoniques et motiviques de toute l'oeuvre. Jouer avec un feu interieur et une technique impeccable, les octaves bien articulees, le discours toujours dirige.
 </meta>
-    <section=section_16, n_mesure=8, bpm=90, format=4/4, tonalite=Lab_majeur>
+    <section=allegro_16, n_mesure=8, bpm=112, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |(sol4 sol5, fa5 fa6), mib5 mib6, reb5 reb6, (sib4 sib5, sol4 sol5)|
             <piano_1_v4>  |({do3, sol3}, mib3, sol3), ({do4, sol3}, mib3, sol3), ({mib2, sol3}, mib3, sol3), ({reb4, sol3}, mib3, sol3)|
@@ -667,9 +667,9 @@ Section de développement 15 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 16 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Allegro con fuoco, environ 112 BPM. Signature 4/4. Tonalite Do majeur. Le premier mouvement Allegro con fuoco etablit le caractere heroique et ardent de la fantaisie, Do majeur servant de point d'ancrage tonal pour un discours musical exuberant qui demontre une virtuosite pianistique sans precedent en 1822. Ce premier mouvement d'une intensite extreme pose les bases harmoniques et motiviques de toute l'oeuvre. Jouer avec un feu interieur et une technique impeccable, les octaves bien articulees, le discours toujours dirige.
 </meta>
-    <section=section_17, n_mesure=8, bpm=90, format=4/4, tonalite=Lab_majeur>
+    <section=allegro_17, n_mesure=8, bpm=112, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |(do5 do6, sib5 sib6), lab5 lab6, solb5 solb6, (mib5 mib6, do5 do6)|
             <piano_1_v4>  |({fa3, do4}, lab3, do4), ({fa4, do4}, lab3, do4), ({lab2, lab3}, mib3, lab3), ({do4, lab3}, mib3, lab3)|
@@ -705,9 +705,9 @@ Section de développement 16 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 17 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Allegro con fuoco, environ 112 BPM. Signature 4/4. Tonalite Do majeur. Le premier mouvement Allegro con fuoco etablit le caractere heroique et ardent de la fantaisie, Do majeur servant de point d'ancrage tonal pour un discours musical exuberant qui demontre une virtuosite pianistique sans precedent en 1822. Ce premier mouvement d'une intensite extreme pose les bases harmoniques et motiviques de toute l'oeuvre. Jouer avec un feu interieur et une technique impeccable, les octaves bien articulees, le discours toujours dirige.
 </meta>
-    <section=section_18, n_mesure=8, bpm=90, format=4/4, tonalite=Lab_majeur>
+    <section=allegro_18, n_mesure=8, bpm=112, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |(solb5 lab5 mib6 solb6, solb5, fa5), ({mib5, fa5}, mib5, reb5), ({do5, reb5}, do5, reb5), ({mib5, fa5}, solb5, lab5)|
             <piano_1_v4>  |(do3 mib3 lab3 do4, mib4, reb4), ({do4, reb4}, do4, sib3), ({lab3, sib3}, lab3, sib3), ({do4, reb4}, mib4, fa4)|
@@ -743,9 +743,9 @@ Section de développement 17 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 18 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Allegro con fuoco, environ 112 BPM. Signature 4/4. Tonalite Do majeur. Le premier mouvement Allegro con fuoco etablit le caractere heroique et ardent de la fantaisie, Do majeur servant de point d'ancrage tonal pour un discours musical exuberant qui demontre une virtuosite pianistique sans precedent en 1822. Ce premier mouvement d'une intensite extreme pose les bases harmoniques et motiviques de toute l'oeuvre. Jouer avec un feu interieur et une technique impeccable, les octaves bien articulees, le discours toujours dirige.
 </meta>
-    <section=section_19, n_mesure=8, bpm=90, format=4/4, tonalite=Lab_majeur>
+    <section=allegro_19, n_mesure=8, bpm=112, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |lab4 do5 fa5, (lab4 do5 fa5, lab4 do5 fa5), lab4 do5 fa5, (lab4 do5 fa5, lab4 do5 fa5)|
             <piano_1_v4>  |({fa2, sol2}, fa2, sol2), ({lab2, sib2}, lab2, sib2), ({do3, re3}, do3, re3), ({mi3, fa3}, mi3, fa3)|
@@ -781,9 +781,9 @@ Section de développement 18 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 19 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Allegro con fuoco, environ 112 BPM. Signature 4/4. Tonalite Do majeur. Le premier mouvement Allegro con fuoco etablit le caractere heroique et ardent de la fantaisie, Do majeur servant de point d'ancrage tonal pour un discours musical exuberant qui demontre une virtuosite pianistique sans precedent en 1822. Ce premier mouvement d'une intensite extreme pose les bases harmoniques et motiviques de toute l'oeuvre. Jouer avec un feu interieur et une technique impeccable, les octaves bien articulees, le discours toujours dirige.
 </meta>
-    <section=section_20, n_mesure=8, bpm=90, format=4/4, tonalite=Lab_majeur>
+    <section=allegro_20, n_mesure=8, bpm=112, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |lab5 lab6, -, lab4 lab5, -|
             <piano_1_v4>  |(sol3 sol4, fa3 fa4, mi3 mi4), (fa3 fa4, fa2 fa3), (lab2 lab3, do3 do4), (re3 re4, mi3 mi4)|
@@ -819,9 +819,9 @@ Section de développement 19 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 20 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Allegro con fuoco, environ 112 BPM. Signature 4/4. Tonalite Do majeur. Le premier mouvement Allegro con fuoco etablit le caractere heroique et ardent de la fantaisie, Do majeur servant de point d'ancrage tonal pour un discours musical exuberant qui demontre une virtuosite pianistique sans precedent en 1822. Ce premier mouvement d'une intensite extreme pose les bases harmoniques et motiviques de toute l'oeuvre. Jouer avec un feu interieur et une technique impeccable, les octaves bien articulees, le discours toujours dirige.
 </meta>
-    <section=section_21, n_mesure=8, bpm=90, format=4/4, tonalite=Lab_majeur>
+    <section=allegro_21, n_mesure=8, bpm=112, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |si3 re4 sol4, ({re4 re5, mib4 mib5}, fa4 fa5, sol4 sol5), lab4 lab5, (do5 mib5 lab5, do5 mib5 lab5)|
             <piano_1_v4>  |sol2 si2 re3 sol3, (sol2 si2 re3 sol3, sol2 si2 re3 sol3), do2 mib2 lab2 do3, ({do2 do3, re2 re3}, mib2 mib3, fa2 fa3)|
@@ -857,9 +857,9 @@ Section de développement 20 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 21 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Allegro con fuoco, environ 112 BPM. Signature 4/4. Tonalite Do majeur. Le premier mouvement Allegro con fuoco etablit le caractere heroique et ardent de la fantaisie, Do majeur servant de point d'ancrage tonal pour un discours musical exuberant qui demontre une virtuosite pianistique sans precedent en 1822. Ce premier mouvement d'une intensite extreme pose les bases harmoniques et motiviques de toute l'oeuvre. Jouer avec un feu interieur et une technique impeccable, les octaves bien articulees, le discours toujours dirige.
 </meta>
-    <section=section_22, n_mesure=8, bpm=90, format=4/4, tonalite=Lab_majeur>
+    <section=allegro_22, n_mesure=8, bpm=112, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |lab4 si4 reb5 lab5, (lab4 si4, lab4 si4), lab4 si4 reb5, (lab4 si4 reb5, lab4 si4 reb5)|
             <piano_1_v4>  |fa2 si2 reb3 fa3, _, _, _|
@@ -895,9 +895,9 @@ Section de développement 21 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 22 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Allegro con fuoco, environ 112 BPM. Signature 4/4. Tonalite Do majeur. Le premier mouvement Allegro con fuoco etablit le caractere heroique et ardent de la fantaisie, Do majeur servant de point d'ancrage tonal pour un discours musical exuberant qui demontre une virtuosite pianistique sans precedent en 1822. Ce premier mouvement d'une intensite extreme pose les bases harmoniques et motiviques de toute l'oeuvre. Jouer avec un feu interieur et une technique impeccable, les octaves bien articulees, le discours toujours dirige.
 </meta>
-    <section=section_23, n_mesure=8, bpm=90, format=4/4, tonalite=Lab_majeur>
+    <section=allegro_23, n_mesure=8, bpm=112, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |mib4 lab4 do5 mib5, (do4 mib4, do4 mib4), do4 mib4, (do4 mib4, do4 mib4)|
             <piano_1_v4>  |lab2 lab3, _, _, ({lab1, do2}, mib2, lab2)|
@@ -933,9 +933,9 @@ Section de développement 22 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 23 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Adagio, environ 60 BPM. Signature 4/4. Tonalite Do diese mineur. Le mouvement lent Adagio est base sur le theme de son Lied 'Der Wanderer', dont la melodie melancolique et le caractere errant donnent leur nom a toute l'oeuvre, Do diese mineur ajoutant une profondeur dramatique et un sentiment d'isolement poignant. Ce theme du Wanderer est le fil conducteur de toute la fantaisie et constitue son coeur emotionnel. Jouer le theme du Wanderer avec une profondeur absolue, chaque note pesant de tout son sens expressif.
 </meta>
-    <section=section_24, n_mesure=8, bpm=90, format=4/4, tonalite=Lab_majeur>
+    <section=adagio_24, n_mesure=8, bpm=60, format=4/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |_, (lab3 solb4 lab4, lab3 solb4 lab4), lab3 solb4 lab4, _|
             <piano_1_v4>  |do3 mib3, _, _, (do3 mib3, do3 mib3)|
@@ -976,9 +976,9 @@ Section de développement 23 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 24 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Adagio, environ 60 BPM. Signature 4/4. Tonalite Do diese mineur. Le mouvement lent Adagio est base sur le theme de son Lied 'Der Wanderer', dont la melodie melancolique et le caractere errant donnent leur nom a toute l'oeuvre, Do diese mineur ajoutant une profondeur dramatique et un sentiment d'isolement poignant. Ce theme du Wanderer est le fil conducteur de toute la fantaisie et constitue son coeur emotionnel. Jouer le theme du Wanderer avec une profondeur absolue, chaque note pesant de tout son sens expressif.
 </meta>
-    <section=section_25, n_mesure=8, bpm=90, format=4/4, tonalite=Lab_majeur>
+    <section=adagio_25, n_mesure=8, bpm=60, format=4/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |reb4 mi4 lab4, (reb4 mi4 lab4, reb4 mi4 lab4), (lab4, la4), lab4|
             <piano_1_v2>  |_, _, mib4 solb4, -|
@@ -1028,9 +1028,9 @@ Section de développement 24 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 25 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Adagio, environ 60 BPM. Signature 4/4. Tonalite Do diese mineur. Le mouvement lent Adagio est base sur le theme de son Lied 'Der Wanderer', dont la melodie melancolique et le caractere errant donnent leur nom a toute l'oeuvre, Do diese mineur ajoutant une profondeur dramatique et un sentiment d'isolement poignant. Ce theme du Wanderer est le fil conducteur de toute la fantaisie et constitue son coeur emotionnel. Jouer le theme du Wanderer avec une profondeur absolue, chaque note pesant de tout son sens expressif.
 </meta>
-    <section=section_26, n_mesure=8, bpm=90, format=4/4, tonalite=Lab_majeur>
+    <section=adagio_26, n_mesure=8, bpm=60, format=4/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |do5, ({reb5, do5}, {mib5, reb5}, do5), do5, si4|
             <piano_1_v2>  |lab4, sol4, lab4, (la4, mib4)|
@@ -1077,9 +1077,9 @@ Section de développement 25 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 26 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Adagio, environ 60 BPM. Signature 4/4. Tonalite Do diese mineur. Le mouvement lent Adagio est base sur le theme de son Lied 'Der Wanderer', dont la melodie melancolique et le caractere errant donnent leur nom a toute l'oeuvre, Do diese mineur ajoutant une profondeur dramatique et un sentiment d'isolement poignant. Ce theme du Wanderer est le fil conducteur de toute la fantaisie et constitue son coeur emotionnel. Jouer le theme du Wanderer avec une profondeur absolue, chaque note pesant de tout son sens expressif.
 </meta>
-    <section=section_27, n_mesure=8, bpm=90, format=4/4, tonalite=Lab_majeur>
+    <section=adagio_27, n_mesure=8, bpm=60, format=4/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |do4 mib4 solb4 lab4 do5, reb4 mi4 lab4 reb5, mi4 lab4 reb5 mi5, sol4 reb5 mib5 sol5|
             <piano_1_v4>  |({lab2, sol2, lab2}, {sol2, lab2, sol2}, {lab2, solb2}), ({mi2, mib2, mi2}, {mib2, mi2, mib2}, {mi2, mib2}), ({reb2, do2, reb2}, {do2, reb2, do2}, {reb2, si1}), ({la1, lab1, la1}, {lab1, la1, reb2}, {mib2, la2})|
@@ -1115,9 +1115,9 @@ Section de développement 26 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 27 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Adagio, environ 60 BPM. Signature 4/4. Tonalite Do diese mineur. Le mouvement lent Adagio est base sur le theme de son Lied 'Der Wanderer', dont la melodie melancolique et le caractere errant donnent leur nom a toute l'oeuvre, Do diese mineur ajoutant une profondeur dramatique et un sentiment d'isolement poignant. Ce theme du Wanderer est le fil conducteur de toute la fantaisie et constitue son coeur emotionnel. Jouer le theme du Wanderer avec une profondeur absolue, chaque note pesant de tout son sens expressif.
 </meta>
-    <section=section_28, n_mesure=8, bpm=90, format=4/4, tonalite=Lab_majeur>
+    <section=adagio_28, n_mesure=8, bpm=60, format=4/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |fa4 fa5, ({mib4 mib5, fa4 fa5}, solb4 solb5, lab4 lab5), reb4 reb5, -|
             <piano_1_v4>  |({lab2, fa3}, {lab3, reb4, lab3}, fa3), ({lab2, solb3}, {lab3, do4, lab3}, solb3), ({reb3, fa3}, {lab3, reb4, lab3}, fa3), ({lab3, fa3}, {reb3, fa3, reb3}, lab2)|
@@ -1161,9 +1161,9 @@ Section de développement 27 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 28 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Adagio, environ 60 BPM. Signature 4/4. Tonalite Do diese mineur. Le mouvement lent Adagio est base sur le theme de son Lied 'Der Wanderer', dont la melodie melancolique et le caractere errant donnent leur nom a toute l'oeuvre, Do diese mineur ajoutant une profondeur dramatique et un sentiment d'isolement poignant. Ce theme du Wanderer est le fil conducteur de toute la fantaisie et constitue son coeur emotionnel. Jouer le theme du Wanderer avec une profondeur absolue, chaque note pesant de tout son sens expressif.
 </meta>
-    <section=section_29, n_mesure=8, bpm=90, format=4/4, tonalite=Lab_majeur>
+    <section=adagio_29, n_mesure=8, bpm=60, format=4/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |fa4, ({mib4, fa4}, solb4, lab4), reb4, do4 mib4|
             <piano_1_v4>  |({lab1, fa2}, lab2, reb3), ({lab1, solb2}, lab2, do3), ({reb2, fa2}, lab2, reb3), ({la1, la2}, lab1, lab2)|
@@ -1200,9 +1200,9 @@ Section de développement 28 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 29 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Adagio, environ 60 BPM. Signature 4/4. Tonalite Do diese mineur. Le mouvement lent Adagio est base sur le theme de son Lied 'Der Wanderer', dont la melodie melancolique et le caractere errant donnent leur nom a toute l'oeuvre, Do diese mineur ajoutant une profondeur dramatique et un sentiment d'isolement poignant. Ce theme du Wanderer est le fil conducteur de toute la fantaisie et constitue son coeur emotionnel. Jouer le theme du Wanderer avec une profondeur absolue, chaque note pesant de tout son sens expressif.
 </meta>
-    <section=section_30, n_mesure=8, bpm=90, format=4/4, tonalite=Lab_majeur>
+    <section=adagio_30, n_mesure=8, bpm=60, format=4/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |({si4, reb5, lab4, reb5, solb4}, {reb5, fa4, reb5, si4, re5, lab4, re5}, {solb4, re5, fa4, re5}), ({fa5 lab5 si5 re6, re5 fa5 lab5 si5, re5 fa5 lab5 si5}, {si4 re5 fa5 lab5, si4 re5 fa5 lab5, lab4 si4 re5 fa5}, {lab4 si4 re5 fa5, fa4 lab4 si4 re5}), ({si4, reb5, lab4, reb5, solb4}, {reb5, fa4, reb5, si4, re5, lab4, re5}, {solb4, re5, fa4, re5}), ({fa5 lab5 si5 re6, re5 fa5 lab5 si5, re5 fa5 lab5 si5}, {si4 re5 fa5 lab5, si4 re5 fa5 lab5, lab4 si4 re5 fa5}, {lab4 si4 re5 fa5, fa4 lab4 si4 re5})|
             <piano_1_v4>  |({si3, reb4, lab3, reb4, solb3}, {reb4, fa3, reb4, si3, re4, lab3, re4}, {solb3, re4, fa3, re4}), ({fa4 lab4 si4 re5, re4 fa4 lab4 si4, re4 fa4 lab4 si4}, {si3 re4 fa4 lab4, si3 re4 fa4 lab4, lab3 si3 re4 fa4}, {lab3 si3 re4 fa4, fa3 lab3 si3 re4}), ({si3, reb4, lab3, reb4, solb3}, {reb4, fa3, reb4, si3, re4, lab3, re4}, {solb3, re4, fa3, re4}), ({fa4 lab4 si4 re5, re4 fa4 lab4 si4, re4 fa4 lab4 si4}, {si3 re4 fa4 lab4, si3 re4 fa4 lab4, lab3 si3 re4 fa4}, {lab3 si3 re4 fa4, fa3 lab3 si3 re4})|
@@ -1240,9 +1240,9 @@ Section de développement 29 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 30 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Adagio, environ 60 BPM. Signature 4/4. Tonalite Do diese mineur. Le mouvement lent Adagio est base sur le theme de son Lied 'Der Wanderer', dont la melodie melancolique et le caractere errant donnent leur nom a toute l'oeuvre, Do diese mineur ajoutant une profondeur dramatique et un sentiment d'isolement poignant. Ce theme du Wanderer est le fil conducteur de toute la fantaisie et constitue son coeur emotionnel. Jouer le theme du Wanderer avec une profondeur absolue, chaque note pesant de tout son sens expressif.
 </meta>
-    <section=section_31, n_mesure=8, bpm=90, format=4/4, tonalite=Lab_majeur>
+    <section=adagio_31, n_mesure=8, bpm=60, format=4/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |mi5 mi6, _, mi5, ({mi5, mib5}, mi5, solb5)|
             <piano_1_v2>  |_, _, la4 do5, la4 do5|
@@ -1280,9 +1280,9 @@ Section de développement 30 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 31 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Adagio, environ 60 BPM. Signature 4/4. Tonalite Do diese mineur. Le mouvement lent Adagio est base sur le theme de son Lied 'Der Wanderer', dont la melodie melancolique et le caractere errant donnent leur nom a toute l'oeuvre, Do diese mineur ajoutant une profondeur dramatique et un sentiment d'isolement poignant. Ce theme du Wanderer est le fil conducteur de toute la fantaisie et constitue son coeur emotionnel. Jouer le theme du Wanderer avec une profondeur absolue, chaque note pesant de tout son sens expressif.
 </meta>
-    <section=section_32, n_mesure=8, bpm=90, format=4/4, tonalite=Lab_majeur>
+    <section=adagio_32, n_mesure=8, bpm=60, format=4/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |(mib4, lab4), (do5, mib5), lab5, -|
             <piano_1_v4>  |_, _, _, _|
@@ -1320,9 +1320,9 @@ Section de développement 31 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 32 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Adagio, environ 60 BPM. Signature 4/4. Tonalite Do diese mineur. Le mouvement lent Adagio est base sur le theme de son Lied 'Der Wanderer', dont la melodie melancolique et le caractere errant donnent leur nom a toute l'oeuvre, Do diese mineur ajoutant une profondeur dramatique et un sentiment d'isolement poignant. Ce theme du Wanderer est le fil conducteur de toute la fantaisie et constitue son coeur emotionnel. Jouer le theme du Wanderer avec une profondeur absolue, chaque note pesant de tout son sens expressif.
 </meta>
-    <section=section_33, n_mesure=8, bpm=90, format=4/4, tonalite=Lab_majeur>
+    <section=adagio_33, n_mesure=8, bpm=60, format=4/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |(sol4, lab4), (mib4, do4), lab3, -|
             <piano_1_v4>  |(sol3, lab3), (mib3, do3), lab2, -|
@@ -1358,9 +1358,9 @@ Section de développement 32 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 33 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Adagio, environ 60 BPM. Signature 4/4. Tonalite Do diese mineur. Le mouvement lent Adagio est base sur le theme de son Lied 'Der Wanderer', dont la melodie melancolique et le caractere errant donnent leur nom a toute l'oeuvre, Do diese mineur ajoutant une profondeur dramatique et un sentiment d'isolement poignant. Ce theme du Wanderer est le fil conducteur de toute la fantaisie et constitue son coeur emotionnel. Jouer le theme du Wanderer avec une profondeur absolue, chaque note pesant de tout son sens expressif.
 </meta>
-    <section=section_34, n_mesure=8, bpm=90, format=4/4, tonalite=Lab_majeur>
+    <section=adagio_34, n_mesure=8, bpm=60, format=4/4, tonalite=Do#_mineur>
         <mesure num=1>
             <piano_1_v1>  |(re5, mib5), (si4, lab4), mib4, -|
             <piano_1_v4>  |si1 si2, -, si2 mib3 lab3, -|
@@ -1396,9 +1396,9 @@ Section de développement 33 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 34 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Presto, environ 160 BPM. Signature 4/4. Tonalite Lab majeur. Le mouvement Presto en Lab majeur constitue le scherzo de la fantaisie, deployant une energie rythmique effreinee et un caractere demonique qui repoussent les limites techniques du piano romantique. Lab majeur, tonalite eloignee de Do majeur, cree un contraste maximal qui souligne le caractere fantaisiste et libre de l'oeuvre. Maintenir un tempo Presto rigoureux, la precision des doigts absolue malgre la vitesse extreme.
 </meta>
-    <section=section_35, n_mesure=8, bpm=90, format=4/4, tonalite=Lab_majeur>
+    <section=presto_35, n_mesure=8, bpm=160, format=4/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |mib4 sol4 sib4, mib4 sol4 sib4 mib5, _, _|
             <piano_1_v4>  |mib2 mib3, mib2, _, _|
@@ -1435,9 +1435,9 @@ Section de développement 34 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 35 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Presto, environ 160 BPM. Signature 4/4. Tonalite Lab majeur. Le mouvement Presto en Lab majeur constitue le scherzo de la fantaisie, deployant une energie rythmique effreinee et un caractere demonique qui repoussent les limites techniques du piano romantique. Lab majeur, tonalite eloignee de Do majeur, cree un contraste maximal qui souligne le caractere fantaisiste et libre de l'oeuvre. Maintenir un tempo Presto rigoureux, la precision des doigts absolue malgre la vitesse extreme.
 </meta>
-    <section=section_36, n_mesure=8, bpm=90, format=4/4, tonalite=Lab_majeur>
+    <section=presto_36, n_mesure=8, bpm=160, format=4/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |mib4 reb5 mib5, mib4 reb5 mib5, mib4 reb5 mib5, -|
             <piano_1_v4>  |sib2 mib3 sib3, sib2 mib3 sib3, sib2 mib3 sib3, -|
@@ -1474,9 +1474,9 @@ Section de développement 35 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 36 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Presto, environ 160 BPM. Signature 4/4. Tonalite Lab majeur. Le mouvement Presto en Lab majeur constitue le scherzo de la fantaisie, deployant une energie rythmique effreinee et un caractere demonique qui repoussent les limites techniques du piano romantique. Lab majeur, tonalite eloignee de Do majeur, cree un contraste maximal qui souligne le caractere fantaisiste et libre de l'oeuvre. Maintenir un tempo Presto rigoureux, la precision des doigts absolue malgre la vitesse extreme.
 </meta>
-    <section=section_37, n_mesure=8, bpm=90, format=4/4, tonalite=Lab_majeur>
+    <section=presto_37, n_mesure=8, bpm=160, format=4/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |(la4, sib4), fa5, -, -|
             <piano_1_v4>  |reb3 fa3 sib3, sib2 reb3 sib3, -, -|
@@ -1516,9 +1516,9 @@ Section de développement 36 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 37 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Presto, environ 160 BPM. Signature 4/4. Tonalite Lab majeur. Le mouvement Presto en Lab majeur constitue le scherzo de la fantaisie, deployant une energie rythmique effreinee et un caractere demonique qui repoussent les limites techniques du piano romantique. Lab majeur, tonalite eloignee de Do majeur, cree un contraste maximal qui souligne le caractere fantaisiste et libre de l'oeuvre. Maintenir un tempo Presto rigoureux, la precision des doigts absolue malgre la vitesse extreme.
 </meta>
-    <section=section_38, n_mesure=8, bpm=90, format=4/4, tonalite=Lab_majeur>
+    <section=presto_38, n_mesure=8, bpm=160, format=4/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |(lab4 re5, lab5), (lab4 re5, lab5), (lab4 re5, lab5)|
             <piano_1_v4>  |(si2, do3), (reb3, re3), (mib3, mi3)|
@@ -1555,9 +1555,9 @@ Section de développement 37 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 38 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Presto, environ 160 BPM. Signature 4/4. Tonalite Lab majeur. Le mouvement Presto en Lab majeur constitue le scherzo de la fantaisie, deployant une energie rythmique effreinee et un caractere demonique qui repoussent les limites techniques du piano romantique. Lab majeur, tonalite eloignee de Do majeur, cree un contraste maximal qui souligne le caractere fantaisiste et libre de l'oeuvre. Maintenir un tempo Presto rigoureux, la precision des doigts absolue malgre la vitesse extreme.
 </meta>
-    <section=section_39, n_mesure=8, bpm=90, format=4/4, tonalite=Lab_majeur>
+    <section=presto_39, n_mesure=8, bpm=160, format=4/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |_, (reb4, {mi4, sol4}), (sib4, {reb5, mi5})|
             <piano_1_v4>  |(mi3, {sol3, sib3})|
@@ -1596,9 +1596,9 @@ Section de développement 38 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 39 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Presto, environ 160 BPM. Signature 4/4. Tonalite Lab majeur. Le mouvement Presto en Lab majeur constitue le scherzo de la fantaisie, deployant une energie rythmique effreinee et un caractere demonique qui repoussent les limites techniques du piano romantique. Lab majeur, tonalite eloignee de Do majeur, cree un contraste maximal qui souligne le caractere fantaisiste et libre de l'oeuvre. Maintenir un tempo Presto rigoureux, la precision des doigts absolue malgre la vitesse extreme.
 </meta>
-    <section=section_40, n_mesure=8, bpm=90, format=4/4, tonalite=Lab_majeur>
+    <section=presto_40, n_mesure=8, bpm=160, format=4/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |si4 solb5 si5, si4 solb5 si5, si4 solb5 si5, -|
             <piano_1_v4>  |mib3 mib4, mib3 mib4, mib3 mib4, -|
@@ -1637,9 +1637,9 @@ Section de développement 39 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 40 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Presto, environ 160 BPM. Signature 4/4. Tonalite Lab majeur. Le mouvement Presto en Lab majeur constitue le scherzo de la fantaisie, deployant une energie rythmique effreinee et un caractere demonique qui repoussent les limites techniques du piano romantique. Lab majeur, tonalite eloignee de Do majeur, cree un contraste maximal qui souligne le caractere fantaisiste et libre de l'oeuvre. Maintenir un tempo Presto rigoureux, la precision des doigts absolue malgre la vitesse extreme.
 </meta>
-    <section=section_41, n_mesure=8, bpm=90, format=4/4, tonalite=Lab_majeur>
+    <section=presto_41, n_mesure=8, bpm=160, format=4/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |_, {re4, fa4}, ({lab4, si4}, re5, fa5)|
             <piano_1_v4>  |(re3, {fa3, lab3}), si3|
@@ -1676,9 +1676,9 @@ Section de développement 40 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 41 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Presto, environ 160 BPM. Signature 4/4. Tonalite Lab majeur. Le mouvement Presto en Lab majeur constitue le scherzo de la fantaisie, deployant une energie rythmique effreinee et un caractere demonique qui repoussent les limites techniques du piano romantique. Lab majeur, tonalite eloignee de Do majeur, cree un contraste maximal qui souligne le caractere fantaisiste et libre de l'oeuvre. Maintenir un tempo Presto rigoureux, la precision des doigts absolue malgre la vitesse extreme.
 </meta>
-    <section=section_42, n_mesure=8, bpm=90, format=4/4, tonalite=Lab_majeur>
+    <section=presto_42, n_mesure=8, bpm=160, format=4/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |solb4 solb5, mib6, (mi6, fa6)|
             <piano_1_v4>  |sib2, solb3 sib3 mi4, -, -|
@@ -1714,9 +1714,9 @@ Section de développement 41 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 42 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Presto, environ 160 BPM. Signature 4/4. Tonalite Lab majeur. Le mouvement Presto en Lab majeur constitue le scherzo de la fantaisie, deployant une energie rythmique effreinee et un caractere demonique qui repoussent les limites techniques du piano romantique. Lab majeur, tonalite eloignee de Do majeur, cree un contraste maximal qui souligne le caractere fantaisiste et libre de l'oeuvre. Maintenir un tempo Presto rigoureux, la precision des doigts absolue malgre la vitesse extreme.
 </meta>
-    <section=section_43, n_mesure=8, bpm=90, format=4/4, tonalite=Lab_majeur>
+    <section=presto_43, n_mesure=8, bpm=160, format=4/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |si5 si6, -, -, -|
             <piano_1_v4>  |(si2, solb3), (si3, mib4), (si3, solb3)|
@@ -1752,9 +1752,9 @@ Section de développement 42 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 43 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Presto, environ 160 BPM. Signature 4/4. Tonalite Lab majeur. Le mouvement Presto en Lab majeur constitue le scherzo de la fantaisie, deployant une energie rythmique effreinee et un caractere demonique qui repoussent les limites techniques du piano romantique. Lab majeur, tonalite eloignee de Do majeur, cree un contraste maximal qui souligne le caractere fantaisiste et libre de l'oeuvre. Maintenir un tempo Presto rigoureux, la precision des doigts absolue malgre la vitesse extreme.
 </meta>
-    <section=section_44, n_mesure=8, bpm=90, format=4/4, tonalite=Lab_majeur>
+    <section=presto_44, n_mesure=8, bpm=160, format=4/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |(_, sol4), (do5 fa5 sol5, sol4), (do5 mi5, sol4)|
             <piano_1_v4>  |do3 do4, -, -, -|
@@ -1790,9 +1790,9 @@ Section de développement 43 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 44 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Presto, environ 160 BPM. Signature 4/4. Tonalite Lab majeur. Le mouvement Presto en Lab majeur constitue le scherzo de la fantaisie, deployant une energie rythmique effreinee et un caractere demonique qui repoussent les limites techniques du piano romantique. Lab majeur, tonalite eloignee de Do majeur, cree un contraste maximal qui souligne le caractere fantaisiste et libre de l'oeuvre. Maintenir un tempo Presto rigoureux, la precision des doigts absolue malgre la vitesse extreme.
 </meta>
-    <section=section_45, n_mesure=8, bpm=90, format=4/4, tonalite=Lab_majeur>
+    <section=presto_45, n_mesure=8, bpm=160, format=4/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |(reb4, {mi4, sol4}), (sib4, {reb5, mi5}), (sol5, {sib5, reb6})|
             <piano_1_v4>  |reb2 reb3, -, -, -|
@@ -1830,9 +1830,9 @@ Section de développement 44 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 45 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Presto, environ 160 BPM. Signature 4/4. Tonalite Lab majeur. Le mouvement Presto en Lab majeur constitue le scherzo de la fantaisie, deployant une energie rythmique effreinee et un caractere demonique qui repoussent les limites techniques du piano romantique. Lab majeur, tonalite eloignee de Do majeur, cree un contraste maximal qui souligne le caractere fantaisiste et libre de l'oeuvre. Maintenir un tempo Presto rigoureux, la precision des doigts absolue malgre la vitesse extreme.
 </meta>
-    <section=section_46, n_mesure=8, bpm=90, format=4/4, tonalite=Lab_majeur>
+    <section=presto_46, n_mesure=8, bpm=160, format=4/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |(lab3, {si3, re4}), (lab4, {si4, re5}), (lab5, {si5, lab6})|
             <piano_1_v4>  |mi2 mi3, -, -, -|
@@ -1868,9 +1868,9 @@ Section de développement 45 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 46 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Presto, environ 160 BPM. Signature 4/4. Tonalite Lab majeur. Le mouvement Presto en Lab majeur constitue le scherzo de la fantaisie, deployant une energie rythmique effreinee et un caractere demonique qui repoussent les limites techniques du piano romantique. Lab majeur, tonalite eloignee de Do majeur, cree un contraste maximal qui souligne le caractere fantaisiste et libre de l'oeuvre. Maintenir un tempo Presto rigoureux, la precision des doigts absolue malgre la vitesse extreme.
 </meta>
-    <section=section_47, n_mesure=8, bpm=90, format=4/4, tonalite=Lab_majeur>
+    <section=presto_47, n_mesure=8, bpm=160, format=4/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |mib4 lab4 si4 mib5, mib4, mib4, -|
             <piano_1_v4>  |mib2 mib3, mib3, mib3, -|
@@ -1914,9 +1914,9 @@ Section de développement 46 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 47 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Presto, environ 160 BPM. Signature 4/4. Tonalite Lab majeur. Le mouvement Presto en Lab majeur constitue le scherzo de la fantaisie, deployant une energie rythmique effreinee et un caractere demonique qui repoussent les limites techniques du piano romantique. Lab majeur, tonalite eloignee de Do majeur, cree un contraste maximal qui souligne le caractere fantaisiste et libre de l'oeuvre. Maintenir un tempo Presto rigoureux, la precision des doigts absolue malgre la vitesse extreme.
 </meta>
-    <section=section_48, n_mesure=8, bpm=90, format=4/4, tonalite=Lab_majeur>
+    <section=presto_48, n_mesure=8, bpm=160, format=4/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |(mib4, lab4), (do5, mib5), lab5, -|
             <piano_1_v4>  |_, _, _, _|
@@ -1954,9 +1954,9 @@ Section de développement 47 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 48 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Presto, environ 160 BPM. Signature 4/4. Tonalite Lab majeur. Le mouvement Presto en Lab majeur constitue le scherzo de la fantaisie, deployant une energie rythmique effreinee et un caractere demonique qui repoussent les limites techniques du piano romantique. Lab majeur, tonalite eloignee de Do majeur, cree un contraste maximal qui souligne le caractere fantaisiste et libre de l'oeuvre. Maintenir un tempo Presto rigoureux, la precision des doigts absolue malgre la vitesse extreme.
 </meta>
-    <section=section_49, n_mesure=8, bpm=90, format=4/4, tonalite=Lab_majeur>
+    <section=presto_49, n_mesure=8, bpm=160, format=4/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |(sol4, lab4), (mib4, do4), lab3, -|
             <piano_1_v4>  |(sol3, lab3), (mib3, do3), lab2, -|
@@ -1992,9 +1992,9 @@ Section de développement 48 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 49 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Presto, environ 160 BPM. Signature 4/4. Tonalite Lab majeur. Le mouvement Presto en Lab majeur constitue le scherzo de la fantaisie, deployant une energie rythmique effreinee et un caractere demonique qui repoussent les limites techniques du piano romantique. Lab majeur, tonalite eloignee de Do majeur, cree un contraste maximal qui souligne le caractere fantaisiste et libre de l'oeuvre. Maintenir un tempo Presto rigoureux, la precision des doigts absolue malgre la vitesse extreme.
 </meta>
-    <section=section_50, n_mesure=8, bpm=90, format=4/4, tonalite=Lab_majeur>
+    <section=presto_50, n_mesure=8, bpm=160, format=4/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |(re5, mib5), (si4, lab4), mib4, -|
             <piano_1_v4>  |si1 si2, -, si2 mib3 lab3, -|
@@ -2030,9 +2030,9 @@ Section de développement 49 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 50 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Presto, environ 160 BPM. Signature 4/4. Tonalite Lab majeur. Le mouvement Presto en Lab majeur constitue le scherzo de la fantaisie, deployant une energie rythmique effreinee et un caractere demonique qui repoussent les limites techniques du piano romantique. Lab majeur, tonalite eloignee de Do majeur, cree un contraste maximal qui souligne le caractere fantaisiste et libre de l'oeuvre. Maintenir un tempo Presto rigoureux, la precision des doigts absolue malgre la vitesse extreme.
 </meta>
-    <section=section_51, n_mesure=8, bpm=90, format=4/4, tonalite=Lab_majeur>
+    <section=presto_51, n_mesure=8, bpm=160, format=4/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |mib5 sol5 sib5, mib5 sol5 mib6, _, _|
             <piano_1_v4>  |mib3 mib4, mib2 mib3, _, _|
@@ -2068,9 +2068,9 @@ Section de développement 50 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 51 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Presto, environ 160 BPM. Signature 4/4. Tonalite Lab majeur. Le mouvement Presto en Lab majeur constitue le scherzo de la fantaisie, deployant une energie rythmique effreinee et un caractere demonique qui repoussent les limites techniques du piano romantique. Lab majeur, tonalite eloignee de Do majeur, cree un contraste maximal qui souligne le caractere fantaisiste et libre de l'oeuvre. Maintenir un tempo Presto rigoureux, la precision des doigts absolue malgre la vitesse extreme.
 </meta>
-    <section=section_52, n_mesure=8, bpm=90, format=4/4, tonalite=Lab_majeur>
+    <section=presto_52, n_mesure=8, bpm=160, format=4/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |fa4 fa5, fa4 fa5, sib4 sib5, -|
             <piano_1_v4>  |reb2, fa3 sib3 reb4, -, -|
@@ -2106,9 +2106,9 @@ Section de développement 51 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 52 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Presto, environ 160 BPM. Signature 4/4. Tonalite Lab majeur. Le mouvement Presto en Lab majeur constitue le scherzo de la fantaisie, deployant une energie rythmique effreinee et un caractere demonique qui repoussent les limites techniques du piano romantique. Lab majeur, tonalite eloignee de Do majeur, cree un contraste maximal qui souligne le caractere fantaisiste et libre de l'oeuvre. Maintenir un tempo Presto rigoureux, la precision des doigts absolue malgre la vitesse extreme.
 </meta>
-    <section=section_53, n_mesure=8, bpm=90, format=4/4, tonalite=Lab_majeur>
+    <section=presto_53, n_mesure=8, bpm=160, format=4/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |fa5 fa6, fa5 fa6, sib5 sib6, -|
             <piano_1_v4>  |(reb2, fa3), (sib3, reb4), (sib3, fa3)|
@@ -2144,9 +2144,9 @@ Section de développement 52 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 53 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Presto, environ 160 BPM. Signature 4/4. Tonalite Lab majeur. Le mouvement Presto en Lab majeur constitue le scherzo de la fantaisie, deployant une energie rythmique effreinee et un caractere demonique qui repoussent les limites techniques du piano romantique. Lab majeur, tonalite eloignee de Do majeur, cree un contraste maximal qui souligne le caractere fantaisiste et libre de l'oeuvre. Maintenir un tempo Presto rigoureux, la precision des doigts absolue malgre la vitesse extreme.
 </meta>
-    <section=section_54, n_mesure=8, bpm=90, format=4/4, tonalite=Lab_majeur>
+    <section=presto_54, n_mesure=8, bpm=160, format=4/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |lab4, lab4, lab4, -|
             <piano_1_v4>  |_, _, _, _|
@@ -2182,9 +2182,9 @@ Section de développement 53 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 54 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Presto, environ 160 BPM. Signature 4/4. Tonalite Lab majeur. Le mouvement Presto en Lab majeur constitue le scherzo de la fantaisie, deployant une energie rythmique effreinee et un caractere demonique qui repoussent les limites techniques du piano romantique. Lab majeur, tonalite eloignee de Do majeur, cree un contraste maximal qui souligne le caractere fantaisiste et libre de l'oeuvre. Maintenir un tempo Presto rigoureux, la precision des doigts absolue malgre la vitesse extreme.
 </meta>
-    <section=section_55, n_mesure=8, bpm=90, format=4/4, tonalite=Lab_majeur>
+    <section=presto_55, n_mesure=8, bpm=160, format=4/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |reb5, -, -, -|
             <piano_1_v4>  |reb3 fa3 reb4, reb4 fa4, (lab3, _)|
@@ -2223,9 +2223,9 @@ Section de développement 54 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 55 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Presto, environ 160 BPM. Signature 4/4. Tonalite Lab majeur. Le mouvement Presto en Lab majeur constitue le scherzo de la fantaisie, deployant une energie rythmique effreinee et un caractere demonique qui repoussent les limites techniques du piano romantique. Lab majeur, tonalite eloignee de Do majeur, cree un contraste maximal qui souligne le caractere fantaisiste et libre de l'oeuvre. Maintenir un tempo Presto rigoureux, la precision des doigts absolue malgre la vitesse extreme.
 </meta>
-    <section=section_56, n_mesure=8, bpm=90, format=4/4, tonalite=Lab_majeur>
+    <section=presto_56, n_mesure=8, bpm=160, format=4/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |lab4, sol4, (sib4, lab4)|
             <piano_1_v2>  |do4, -, -, -|
@@ -2262,9 +2262,9 @@ Section de développement 55 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 56 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Presto, environ 160 BPM. Signature 4/4. Tonalite Lab majeur. Le mouvement Presto en Lab majeur constitue le scherzo de la fantaisie, deployant une energie rythmique effreinee et un caractere demonique qui repoussent les limites techniques du piano romantique. Lab majeur, tonalite eloignee de Do majeur, cree un contraste maximal qui souligne le caractere fantaisiste et libre de l'oeuvre. Maintenir un tempo Presto rigoureux, la precision des doigts absolue malgre la vitesse extreme.
 </meta>
-    <section=section_57, n_mesure=8, bpm=90, format=4/4, tonalite=Lab_majeur>
+    <section=presto_57, n_mesure=8, bpm=160, format=4/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |lab4, -, -, -|
             <piano_1_v4>  |do3 solb3 lab3, mib4 solb4, (lab3 mib4, _)|
@@ -2313,9 +2313,9 @@ Section de développement 56 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 57 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Presto, environ 160 BPM. Signature 4/4. Tonalite Lab majeur. Le mouvement Presto en Lab majeur constitue le scherzo de la fantaisie, deployant une energie rythmique effreinee et un caractere demonique qui repoussent les limites techniques du piano romantique. Lab majeur, tonalite eloignee de Do majeur, cree un contraste maximal qui souligne le caractere fantaisiste et libre de l'oeuvre. Maintenir un tempo Presto rigoureux, la precision des doigts absolue malgre la vitesse extreme.
 </meta>
-    <section=section_58, n_mesure=8, bpm=90, format=4/4, tonalite=Lab_majeur>
+    <section=presto_58, n_mesure=8, bpm=160, format=4/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |fa4, _, _, _|
             <piano_1_v4>  |lab3, (_, fa3), (solb3, fa3)|
@@ -2355,9 +2355,9 @@ Section de développement 57 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 58 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Presto, environ 160 BPM. Signature 4/4. Tonalite Lab majeur. Le mouvement Presto en Lab majeur constitue le scherzo de la fantaisie, deployant une energie rythmique effreinee et un caractere demonique qui repoussent les limites techniques du piano romantique. Lab majeur, tonalite eloignee de Do majeur, cree un contraste maximal qui souligne le caractere fantaisiste et libre de l'oeuvre. Maintenir un tempo Presto rigoureux, la precision des doigts absolue malgre la vitesse extreme.
 </meta>
-    <section=section_59, n_mesure=8, bpm=90, format=4/4, tonalite=Lab_majeur>
+    <section=presto_59, n_mesure=8, bpm=160, format=4/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |lab4, (mib5, _), _, _|
             <piano_1_v2>  |reb4, -, -, -|
@@ -2399,9 +2399,9 @@ Section de développement 58 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 59 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Presto, environ 160 BPM. Signature 4/4. Tonalite Lab majeur. Le mouvement Presto en Lab majeur constitue le scherzo de la fantaisie, deployant une energie rythmique effreinee et un caractere demonique qui repoussent les limites techniques du piano romantique. Lab majeur, tonalite eloignee de Do majeur, cree un contraste maximal qui souligne le caractere fantaisiste et libre de l'oeuvre. Maintenir un tempo Presto rigoureux, la precision des doigts absolue malgre la vitesse extreme.
 </meta>
-    <section=section_60, n_mesure=8, bpm=90, format=4/4, tonalite=Lab_majeur>
+    <section=presto_60, n_mesure=8, bpm=160, format=4/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |sib4, -, -, -|
             <piano_1_v2>  |reb4, -, re4, -|
@@ -2446,9 +2446,9 @@ Section de développement 59 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 60 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Presto, environ 160 BPM. Signature 4/4. Tonalite Lab majeur. Le mouvement Presto en Lab majeur constitue le scherzo de la fantaisie, deployant une energie rythmique effreinee et un caractere demonique qui repoussent les limites techniques du piano romantique. Lab majeur, tonalite eloignee de Do majeur, cree un contraste maximal qui souligne le caractere fantaisiste et libre de l'oeuvre. Maintenir un tempo Presto rigoureux, la precision des doigts absolue malgre la vitesse extreme.
 </meta>
-    <section=section_61, n_mesure=8, bpm=90, format=4/4, tonalite=Lab_majeur>
+    <section=presto_61, n_mesure=8, bpm=160, format=4/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |lab4, -, sib4, -|
             <piano_1_v2>  |si3, -, -, -|
@@ -2497,9 +2497,9 @@ Section de développement 60 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 61 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Presto, environ 160 BPM. Signature 4/4. Tonalite Lab majeur. Le mouvement Presto en Lab majeur constitue le scherzo de la fantaisie, deployant une energie rythmique effreinee et un caractere demonique qui repoussent les limites techniques du piano romantique. Lab majeur, tonalite eloignee de Do majeur, cree un contraste maximal qui souligne le caractere fantaisiste et libre de l'oeuvre. Maintenir un tempo Presto rigoureux, la precision des doigts absolue malgre la vitesse extreme.
 </meta>
-    <section=section_62, n_mesure=8, bpm=90, format=4/4, tonalite=Lab_majeur>
+    <section=presto_62, n_mesure=8, bpm=160, format=4/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |reb5, -, -, -|
             <piano_1_v4>  |reb3 fa3 reb4, reb4 fa4, (lab3, _)|
@@ -2535,9 +2535,9 @@ Section de développement 61 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 62 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Presto, environ 160 BPM. Signature 4/4. Tonalite Lab majeur. Le mouvement Presto en Lab majeur constitue le scherzo de la fantaisie, deployant une energie rythmique effreinee et un caractere demonique qui repoussent les limites techniques du piano romantique. Lab majeur, tonalite eloignee de Do majeur, cree un contraste maximal qui souligne le caractere fantaisiste et libre de l'oeuvre. Maintenir un tempo Presto rigoureux, la precision des doigts absolue malgre la vitesse extreme.
 </meta>
-    <section=section_63, n_mesure=8, bpm=90, format=4/4, tonalite=Lab_majeur>
+    <section=presto_63, n_mesure=8, bpm=160, format=4/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |reb5, sib5, lab5, -|
             <piano_1_v4>  |fa3 lab3 reb4, -, -, -|
@@ -2573,9 +2573,9 @@ Section de développement 62 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 63 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Presto, environ 160 BPM. Signature 4/4. Tonalite Lab majeur. Le mouvement Presto en Lab majeur constitue le scherzo de la fantaisie, deployant une energie rythmique effreinee et un caractere demonique qui repoussent les limites techniques du piano romantique. Lab majeur, tonalite eloignee de Do majeur, cree un contraste maximal qui souligne le caractere fantaisiste et libre de l'oeuvre. Maintenir un tempo Presto rigoureux, la precision des doigts absolue malgre la vitesse extreme.
 </meta>
-    <section=section_64, n_mesure=8, bpm=90, format=4/4, tonalite=Lab_majeur>
+    <section=presto_64, n_mesure=8, bpm=160, format=4/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |lab4 lab5, -, -, -|
             <piano_1_v4>  |do3 solb3 lab3, mib4 solb4, (lab3, _)|
@@ -2613,9 +2613,9 @@ Section de développement 63 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 64 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Presto, environ 160 BPM. Signature 4/4. Tonalite Lab majeur. Le mouvement Presto en Lab majeur constitue le scherzo de la fantaisie, deployant une energie rythmique effreinee et un caractere demonique qui repoussent les limites techniques du piano romantique. Lab majeur, tonalite eloignee de Do majeur, cree un contraste maximal qui souligne le caractere fantaisiste et libre de l'oeuvre. Maintenir un tempo Presto rigoureux, la precision des doigts absolue malgre la vitesse extreme.
 </meta>
-    <section=section_65, n_mesure=8, bpm=90, format=4/4, tonalite=Lab_majeur>
+    <section=presto_65, n_mesure=8, bpm=160, format=4/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |reb5, reb5, reb5, -|
             <piano_1_v4>  |_, _, _, _|
@@ -2651,9 +2651,9 @@ Section de développement 64 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 65 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Presto, environ 160 BPM. Signature 4/4. Tonalite Lab majeur. Le mouvement Presto en Lab majeur constitue le scherzo de la fantaisie, deployant une energie rythmique effreinee et un caractere demonique qui repoussent les limites techniques du piano romantique. Lab majeur, tonalite eloignee de Do majeur, cree un contraste maximal qui souligne le caractere fantaisiste et libre de l'oeuvre. Maintenir un tempo Presto rigoureux, la precision des doigts absolue malgre la vitesse extreme.
 </meta>
-    <section=section_66, n_mesure=8, bpm=90, format=4/4, tonalite=Lab_majeur>
+    <section=presto_66, n_mesure=8, bpm=160, format=4/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |mib4 do5 mib5, mib4 do5 mib5, mib4 do5 mib5, -|
             <piano_1_v4>  |lab2 mib3 lab3, lab2 mib3 lab3, lab2 mib3 lab3, -|
@@ -2690,9 +2690,9 @@ Section de développement 65 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 66 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Presto, environ 160 BPM. Signature 4/4. Tonalite Lab majeur. Le mouvement Presto en Lab majeur constitue le scherzo de la fantaisie, deployant une energie rythmique effreinee et un caractere demonique qui repoussent les limites techniques du piano romantique. Lab majeur, tonalite eloignee de Do majeur, cree un contraste maximal qui souligne le caractere fantaisiste et libre de l'oeuvre. Maintenir un tempo Presto rigoureux, la precision des doigts absolue malgre la vitesse extreme.
 </meta>
-    <section=section_67, n_mesure=8, bpm=90, format=4/4, tonalite=Lab_majeur>
+    <section=presto_67, n_mesure=8, bpm=160, format=4/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |(sol4, sib4), (reb5, mib5), sol5, -|
             <piano_1_v4>  |_, _, _, _|
@@ -2729,9 +2729,9 @@ Section de développement 66 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 67 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Presto, environ 160 BPM. Signature 4/4. Tonalite Lab majeur. Le mouvement Presto en Lab majeur constitue le scherzo de la fantaisie, deployant une energie rythmique effreinee et un caractere demonique qui repoussent les limites techniques du piano romantique. Lab majeur, tonalite eloignee de Do majeur, cree un contraste maximal qui souligne le caractere fantaisiste et libre de l'oeuvre. Maintenir un tempo Presto rigoureux, la precision des doigts absolue malgre la vitesse extreme.
 </meta>
-    <section=section_68, n_mesure=8, bpm=90, format=4/4, tonalite=Lab_majeur>
+    <section=presto_68, n_mesure=8, bpm=160, format=4/4, tonalite=Lab_majeur>
         <mesure num=1>
             <piano_1_v1>  |fa4 do5 mib5 fa5, fa4 do5 mib5 fa5, fa4 do5 mib5 fa5, -|
             <piano_1_v4>  |la2 fa3 la3, la2 fa3 la3, la2 fa3 la3, -|
@@ -2767,9 +2767,9 @@ Section de développement 67 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 68 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Allegro, environ 112 BPM. Signature 4/4. Tonalite Do majeur. Le finale en fugue ramene Do majeur pour conclure l'oeuvre dans un gigantesque edifice contrapuntique, Schubert reunissant le materiau thematique en une synthese intellectuelle et emotionnelle qui couronne cette oeuvre monumentale. La fugue finale transforme le materiau lyrique en architecture sonore, fusion unique du romantisme et du contrepoint baroque. Maintenir la clarte des lignes fugues sans jamais perdre l'energie et la direction vers la conclusion grandiose.
 </meta>
-    <section=section_69, n_mesure=8, bpm=90, format=4/4, tonalite=Lab_majeur>
+    <section=finale_fugue_69, n_mesure=8, bpm=112, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |(do5 sol5, do6), (do5 sol5, do6), (do5 sol5, do6)|
             <piano_1_v4>  |(lab1, lab2), (lab1, lab2), (lab1, lab2)|
@@ -2808,9 +2808,9 @@ Section de développement 68 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 69 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Allegro, environ 112 BPM. Signature 4/4. Tonalite Do majeur. Le finale en fugue ramene Do majeur pour conclure l'oeuvre dans un gigantesque edifice contrapuntique, Schubert reunissant le materiau thematique en une synthese intellectuelle et emotionnelle qui couronne cette oeuvre monumentale. La fugue finale transforme le materiau lyrique en architecture sonore, fusion unique du romantisme et du contrepoint baroque. Maintenir la clarte des lignes fugues sans jamais perdre l'energie et la direction vers la conclusion grandiose.
 </meta>
-    <section=section_70, n_mesure=8, bpm=90, format=4/4, tonalite=Lab_majeur>
+    <section=finale_fugue_70, n_mesure=8, bpm=112, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |la4 do5 mi5 la5, do5 mi5 la5 do6, _, _|
             <piano_1_v2>  |_, la4, -, -|
@@ -2849,9 +2849,9 @@ Section de développement 69 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 70 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Allegro, environ 112 BPM. Signature 4/4. Tonalite Do majeur. Le finale en fugue ramene Do majeur pour conclure l'oeuvre dans un gigantesque edifice contrapuntique, Schubert reunissant le materiau thematique en une synthese intellectuelle et emotionnelle qui couronne cette oeuvre monumentale. La fugue finale transforme le materiau lyrique en architecture sonore, fusion unique du romantisme et du contrepoint baroque. Maintenir la clarte des lignes fugues sans jamais perdre l'energie et la direction vers la conclusion grandiose.
 </meta>
-    <section=section_71, n_mesure=8, bpm=90, format=4/4, tonalite=Lab_majeur>
+    <section=finale_fugue_71, n_mesure=8, bpm=112, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |re5 fa5 la5 re6, fa5 la5 re6 fa6, _, _|
             <piano_1_v4>  |_, la2 la3, la1 la2, -|
@@ -2887,9 +2887,9 @@ Section de développement 70 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 71 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Allegro, environ 112 BPM. Signature 4/4. Tonalite Do majeur. Le finale en fugue ramene Do majeur pour conclure l'oeuvre dans un gigantesque edifice contrapuntique, Schubert reunissant le materiau thematique en une synthese intellectuelle et emotionnelle qui couronne cette oeuvre monumentale. La fugue finale transforme le materiau lyrique en architecture sonore, fusion unique du romantisme et du contrepoint baroque. Maintenir la clarte des lignes fugues sans jamais perdre l'energie et la direction vers la conclusion grandiose.
 </meta>
-    <section=section_72, n_mesure=8, bpm=90, format=4/4, tonalite=Lab_majeur>
+    <section=finale_fugue_72, n_mesure=8, bpm=112, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |(solb3, {sib3, mib4}), (solb4, {sib4, mib5}), (solb5, {sib5, mib6})|
             <piano_1_v4>  |sib1 sib2, sib2 sib3, sib2 sib3, -|
@@ -2925,9 +2925,9 @@ Section de développement 71 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 72 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Allegro, environ 112 BPM. Signature 4/4. Tonalite Do majeur. Le finale en fugue ramene Do majeur pour conclure l'oeuvre dans un gigantesque edifice contrapuntique, Schubert reunissant le materiau thematique en une synthese intellectuelle et emotionnelle qui couronne cette oeuvre monumentale. La fugue finale transforme le materiau lyrique en architecture sonore, fusion unique du romantisme et du contrepoint baroque. Maintenir la clarte des lignes fugues sans jamais perdre l'energie et la direction vers la conclusion grandiose.
 </meta>
-    <section=section_73, n_mesure=8, bpm=90, format=4/4, tonalite=Lab_majeur>
+    <section=finale_fugue_73, n_mesure=8, bpm=112, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |(la3, {mi4, sol4}), (la4, {mi5, sol5}), (la5, {reb6, mi6})|
             <piano_1_v4>  |reb2 reb3, reb3 reb4, reb3 reb4, -|
@@ -2963,9 +2963,9 @@ Section de développement 72 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 73 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Allegro, environ 112 BPM. Signature 4/4. Tonalite Do majeur. Le finale en fugue ramene Do majeur pour conclure l'oeuvre dans un gigantesque edifice contrapuntique, Schubert reunissant le materiau thematique en une synthese intellectuelle et emotionnelle qui couronne cette oeuvre monumentale. La fugue finale transforme le materiau lyrique en architecture sonore, fusion unique du romantisme et du contrepoint baroque. Maintenir la clarte des lignes fugues sans jamais perdre l'energie et la direction vers la conclusion grandiose.
 </meta>
-    <section=section_74, n_mesure=8, bpm=90, format=4/4, tonalite=Lab_majeur>
+    <section=finale_fugue_74, n_mesure=8, bpm=112, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |mib5 solb5 do6 mib6, mib5 solb5 do6 mib6, mib5 solb5 do6 mib6, -|
             <piano_1_v4>  |(mib2, mib3), (do2, do3), (lab2, lab3)|
@@ -3001,9 +3001,9 @@ Section de développement 73 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 74 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Allegro, environ 112 BPM. Signature 4/4. Tonalite Do majeur. Le finale en fugue ramene Do majeur pour conclure l'oeuvre dans un gigantesque edifice contrapuntique, Schubert reunissant le materiau thematique en une synthese intellectuelle et emotionnelle qui couronne cette oeuvre monumentale. La fugue finale transforme le materiau lyrique en architecture sonore, fusion unique du romantisme et du contrepoint baroque. Maintenir la clarte des lignes fugues sans jamais perdre l'energie et la direction vers la conclusion grandiose.
 </meta>
-    <section=section_75, n_mesure=8, bpm=90, format=4/4, tonalite=Lab_majeur>
+    <section=finale_fugue_75, n_mesure=8, bpm=112, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |_, _, _, _|
             <piano_1_v4>  |_, _, _, _|
@@ -3039,9 +3039,9 @@ Section de développement 74 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 75 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Allegro, environ 112 BPM. Signature 4/4. Tonalite Do majeur. Le finale en fugue ramene Do majeur pour conclure l'oeuvre dans un gigantesque edifice contrapuntique, Schubert reunissant le materiau thematique en une synthese intellectuelle et emotionnelle qui couronne cette oeuvre monumentale. La fugue finale transforme le materiau lyrique en architecture sonore, fusion unique du romantisme et du contrepoint baroque. Maintenir la clarte des lignes fugues sans jamais perdre l'energie et la direction vers la conclusion grandiose.
 </meta>
-    <section=section_76, n_mesure=8, bpm=90, format=4/4, tonalite=Lab_majeur>
+    <section=finale_fugue_76, n_mesure=8, bpm=112, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |_, _, _, _|
             <piano_1_v4>  |la2 la3, (la2 la3, la2 la3), do2 do3, do2 do3|
@@ -3077,9 +3077,9 @@ Section de développement 75 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 76 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Allegro, environ 112 BPM. Signature 4/4. Tonalite Do majeur. Le finale en fugue ramene Do majeur pour conclure l'oeuvre dans un gigantesque edifice contrapuntique, Schubert reunissant le materiau thematique en une synthese intellectuelle et emotionnelle qui couronne cette oeuvre monumentale. La fugue finale transforme le materiau lyrique en architecture sonore, fusion unique du romantisme et du contrepoint baroque. Maintenir la clarte des lignes fugues sans jamais perdre l'energie et la direction vers la conclusion grandiose.
 </meta>
-    <section=section_77, n_mesure=8, bpm=90, format=4/4, tonalite=Lab_majeur>
+    <section=finale_fugue_77, n_mesure=8, bpm=112, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |mi4 mi5, (mi4 mi5, mi4 mi5), sol3 sol4, sol3 sol4|
             <piano_1_v4>  |(sol1 sol2, sib1 sib2), (sol1 sol2, sib1 sib2), (mi2 mi3, mi2 mi3)|
@@ -3116,9 +3116,9 @@ Section de développement 76 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 77 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Allegro, environ 112 BPM. Signature 4/4. Tonalite Do majeur. Le finale en fugue ramene Do majeur pour conclure l'oeuvre dans un gigantesque edifice contrapuntique, Schubert reunissant le materiau thematique en une synthese intellectuelle et emotionnelle qui couronne cette oeuvre monumentale. La fugue finale transforme le materiau lyrique en architecture sonore, fusion unique du romantisme et du contrepoint baroque. Maintenir la clarte des lignes fugues sans jamais perdre l'energie et la direction vers la conclusion grandiose.
 </meta>
-    <section=section_78, n_mesure=8, bpm=90, format=4/4, tonalite=Lab_majeur>
+    <section=finale_fugue_78, n_mesure=8, bpm=112, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |sib4 sib5, (sib4 sib5, sib4 sib5), reb4 reb5, reb4 reb5|
             <piano_1_v4>  |(mi2 reb3, sol2 mi3), (mi2 reb3, sol2 mi3), (sol3 sib3, sol3 sib3)|
@@ -3155,9 +3155,9 @@ Section de développement 77 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 78 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Allegro, environ 112 BPM. Signature 4/4. Tonalite Do majeur. Le finale en fugue ramene Do majeur pour conclure l'oeuvre dans un gigantesque edifice contrapuntique, Schubert reunissant le materiau thematique en une synthese intellectuelle et emotionnelle qui couronne cette oeuvre monumentale. La fugue finale transforme le materiau lyrique en architecture sonore, fusion unique du romantisme et du contrepoint baroque. Maintenir la clarte des lignes fugues sans jamais perdre l'energie et la direction vers la conclusion grandiose.
 </meta>
-    <section=section_79, n_mesure=8, bpm=90, format=4/4, tonalite=Lab_majeur>
+    <section=finale_fugue_79, n_mesure=8, bpm=112, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |(reb4 mi4 reb5, mi4 sol4 mi5), (reb4 mi4 reb5, mi4 sol4 mi5), (sib4 sol5 sib5, sib4 sol5 sib5)|
             <piano_1_v4>  |sib2 sib3, (sib2 sib3, sib2 sib3), reb2 reb3, reb2 reb3|
@@ -3195,9 +3195,9 @@ Section de développement 78 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 79 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Allegro, environ 112 BPM. Signature 4/4. Tonalite Do majeur. Le finale en fugue ramene Do majeur pour conclure l'oeuvre dans un gigantesque edifice contrapuntique, Schubert reunissant le materiau thematique en une synthese intellectuelle et emotionnelle qui couronne cette oeuvre monumentale. La fugue finale transforme le materiau lyrique en architecture sonore, fusion unique du romantisme et du contrepoint baroque. Maintenir la clarte des lignes fugues sans jamais perdre l'energie et la direction vers la conclusion grandiose.
 </meta>
-    <section=section_80, n_mesure=8, bpm=90, format=4/4, tonalite=Lab_majeur>
+    <section=finale_fugue_80, n_mesure=8, bpm=112, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |({reb5, sol5}, sib5, reb6), ({re5, sol5}, si5, re6), ({mi5, sol5}, sib5, mi6), ({solb5, la5}, do6, solb6)|
             <piano_1_v4>  |mi2 mi3, re2 re3, reb2 reb3, re2 re3|
@@ -3233,9 +3233,9 @@ Section de développement 79 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 80 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Allegro, environ 112 BPM. Signature 4/4. Tonalite Do majeur. Le finale en fugue ramene Do majeur pour conclure l'oeuvre dans un gigantesque edifice contrapuntique, Schubert reunissant le materiau thematique en une synthese intellectuelle et emotionnelle qui couronne cette oeuvre monumentale. La fugue finale transforme le materiau lyrique en architecture sonore, fusion unique du romantisme et du contrepoint baroque. Maintenir la clarte des lignes fugues sans jamais perdre l'energie et la direction vers la conclusion grandiose.
 </meta>
-    <section=section_81, n_mesure=8, bpm=90, format=4/4, tonalite=Lab_majeur>
+    <section=finale_fugue_81, n_mesure=8, bpm=112, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |si4 re5 sol5 si5, (si4 re5 sol5 si5, si4 re5 sol5 si5), re5 solb5 la5 re6, si4 re5 sol5 si5|
             <piano_1_v4>  |({sol2, sol3}, si3, sol3), ({re3, sol3}, si2, re3), ({re2, re3}, solb3, la3), ({sol2, re3}, sol3, si3)|
@@ -3271,9 +3271,9 @@ Section de développement 80 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 81 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Allegro, environ 112 BPM. Signature 4/4. Tonalite Do majeur. Le finale en fugue ramene Do majeur pour conclure l'oeuvre dans un gigantesque edifice contrapuntique, Schubert reunissant le materiau thematique en une synthese intellectuelle et emotionnelle qui couronne cette oeuvre monumentale. La fugue finale transforme le materiau lyrique en architecture sonore, fusion unique du romantisme et du contrepoint baroque. Maintenir la clarte des lignes fugues sans jamais perdre l'energie et la direction vers la conclusion grandiose.
 </meta>
-    <section=section_82, n_mesure=8, bpm=90, format=4/4, tonalite=Lab_majeur>
+    <section=finale_fugue_82, n_mesure=8, bpm=112, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |fa5 fa6, (fa5 fa6, fa5 fa6), (lab4 lab5, si4 si5), (lab4 lab5, si4 si5)|
             <piano_1_v4>  |(si2 lab3, re3 si3), (si2 lab3, re3 si3), (re4 fa4, re4 fa4)|
@@ -3309,9 +3309,9 @@ Section de développement 81 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 82 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Allegro, environ 112 BPM. Signature 4/4. Tonalite Do majeur. Le finale en fugue ramene Do majeur pour conclure l'oeuvre dans un gigantesque edifice contrapuntique, Schubert reunissant le materiau thematique en une synthese intellectuelle et emotionnelle qui couronne cette oeuvre monumentale. La fugue finale transforme le materiau lyrique en architecture sonore, fusion unique du romantisme et du contrepoint baroque. Maintenir la clarte des lignes fugues sans jamais perdre l'energie et la direction vers la conclusion grandiose.
 </meta>
-    <section=section_83, n_mesure=8, bpm=90, format=4/4, tonalite=Lab_majeur>
+    <section=finale_fugue_83, n_mesure=8, bpm=112, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |({do6 mi6, do7}, sol6, mi6), ({do6, sol5}, mi5, sol5), (do5, mi6 sol6, sol5), ({fa6 la6, la5}, sol6 sib6, sib5)|
             <piano_1_v4>  |do2 do3, (do2 do3, do2 do3), do2 do3, (do2 do3, do2 do3)|
@@ -3347,9 +3347,9 @@ Section de développement 82 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 83 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Allegro, environ 112 BPM. Signature 4/4. Tonalite Do majeur. Le finale en fugue ramene Do majeur pour conclure l'oeuvre dans un gigantesque edifice contrapuntique, Schubert reunissant le materiau thematique en une synthese intellectuelle et emotionnelle qui couronne cette oeuvre monumentale. La fugue finale transforme le materiau lyrique en architecture sonore, fusion unique du romantisme et du contrepoint baroque. Maintenir la clarte des lignes fugues sans jamais perdre l'energie et la direction vers la conclusion grandiose.
 </meta>
-    <section=section_84, n_mesure=8, bpm=90, format=4/4, tonalite=Lab_majeur>
+    <section=finale_fugue_84, n_mesure=8, bpm=112, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |(mi6 si6 mi7, mi4), mi4, -, re4|
             <piano_1_v4>  |(lab2 lab3, lab1 lab2), lab1 lab2, -, -|
@@ -3387,9 +3387,9 @@ Section de développement 83 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 84 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Allegro, environ 112 BPM. Signature 4/4. Tonalite Do majeur. Le finale en fugue ramene Do majeur pour conclure l'oeuvre dans un gigantesque edifice contrapuntique, Schubert reunissant le materiau thematique en une synthese intellectuelle et emotionnelle qui couronne cette oeuvre monumentale. La fugue finale transforme le materiau lyrique en architecture sonore, fusion unique du romantisme et du contrepoint baroque. Maintenir la clarte des lignes fugues sans jamais perdre l'energie et la direction vers la conclusion grandiose.
 </meta>
-    <section=section_85, n_mesure=8, bpm=90, format=4/4, tonalite=Lab_majeur>
+    <section=finale_fugue_85, n_mesure=8, bpm=112, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |(mib5 solb5 do6 mib6, mib4 solb4 do5 mib5), mib4 solb4 do5 mib5, (re5 fa5 sib5 re6, re4 fa4 sib4 re5), re4 fa4 sib4 re5|
             <piano_1_v4>  |(la1 la2, la2 la3), la2 la3, (sib1 sib2, sib2 sib3), sib2 sib3|
@@ -3425,9 +3425,9 @@ Section de développement 84 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 85 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Allegro, environ 112 BPM. Signature 4/4. Tonalite Do majeur. Le finale en fugue ramene Do majeur pour conclure l'oeuvre dans un gigantesque edifice contrapuntique, Schubert reunissant le materiau thematique en une synthese intellectuelle et emotionnelle qui couronne cette oeuvre monumentale. La fugue finale transforme le materiau lyrique en architecture sonore, fusion unique du romantisme et du contrepoint baroque. Maintenir la clarte des lignes fugues sans jamais perdre l'energie et la direction vers la conclusion grandiose.
 </meta>
-    <section=section_86, n_mesure=8, bpm=90, format=4/4, tonalite=Lab_majeur>
+    <section=finale_fugue_86, n_mesure=8, bpm=112, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |({la5 re6 solb6, solb5}, la5 re6 solb6, solb5), ({re6 sol6, sol5}, re6 sol6, sol5), ({sol6 do7, do6}, sol6 do7, do6), ({solb6 do7, do6}, solb6 do7, do6)|
             <piano_1_v4>  |({do3, do4}, do3, do4), ({si2, si3}, si2, si3), ({la2, la3}, la2, la3), ({re2, re3}, re2, re3)|
@@ -3463,9 +3463,9 @@ Section de développement 85 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 86 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Allegro, environ 112 BPM. Signature 4/4. Tonalite Do majeur. Le finale en fugue ramene Do majeur pour conclure l'oeuvre dans un gigantesque edifice contrapuntique, Schubert reunissant le materiau thematique en une synthese intellectuelle et emotionnelle qui couronne cette oeuvre monumentale. La fugue finale transforme le materiau lyrique en architecture sonore, fusion unique du romantisme et du contrepoint baroque. Maintenir la clarte des lignes fugues sans jamais perdre l'energie et la direction vers la conclusion grandiose.
 </meta>
-    <section=section_87, n_mesure=8, bpm=90, format=4/4, tonalite=Lab_majeur>
+    <section=finale_fugue_87, n_mesure=8, bpm=112, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |({fa6, fa7}, do7, la6), ({fa6, do6}, la5, fa5), ({mi6, mi7}, do7, sol6), ({mi6, do6}, sol5, mi5)|
             <piano_1_v4>  |fa2 fa3, (la2 la3, la2 la3), do3 do4, (do2 do3, do2 do3)|
@@ -3501,9 +3501,9 @@ Section de développement 86 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 87 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Allegro, environ 112 BPM. Signature 4/4. Tonalite Do majeur. Le finale en fugue ramene Do majeur pour conclure l'oeuvre dans un gigantesque edifice contrapuntique, Schubert reunissant le materiau thematique en une synthese intellectuelle et emotionnelle qui couronne cette oeuvre monumentale. La fugue finale transforme le materiau lyrique en architecture sonore, fusion unique du romantisme et du contrepoint baroque. Maintenir la clarte des lignes fugues sans jamais perdre l'energie et la direction vers la conclusion grandiose.
 </meta>
-    <section=section_88, n_mesure=8, bpm=90, format=4/4, tonalite=Lab_majeur>
+    <section=finale_fugue_88, n_mesure=8, bpm=112, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |la5 do6 mib6 la6, (la4 do5 mib5 la5, la4 do5 mib5 la5), sib5 reb6 mi6 sib6, (sib4 reb5 mi5 sib5, sib4 reb5 mi5 sib5)|
             <piano_1_v4>  |({solb2, do3}, mib3, solb3), ({solb3, do4}, mib4, solb4), ({sol2, reb3}, mi3, sol3), ({sol3, reb4}, mi4, sol4)|
@@ -3541,9 +3541,9 @@ Section de développement 87 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section de développement 88 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Allegro, environ 112 BPM. Signature 4/4. Tonalite Do majeur. Le finale en fugue ramene Do majeur pour conclure l'oeuvre dans un gigantesque edifice contrapuntique, Schubert reunissant le materiau thematique en une synthese intellectuelle et emotionnelle qui couronne cette oeuvre monumentale. La fugue finale transforme le materiau lyrique en architecture sonore, fusion unique du romantisme et du contrepoint baroque. Maintenir la clarte des lignes fugues sans jamais perdre l'energie et la direction vers la conclusion grandiose.
 </meta>
-    <section=section_89, n_mesure=8, bpm=90, format=4/4, tonalite=Lab_majeur>
+    <section=finale_fugue_89, n_mesure=8, bpm=112, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |({do5, do6}, mi5 sol5, do6), ({do5, do6}, mib5 solb5, do6), ({do5, do6}, mi5 sol5, do6), ({si4, si5}, re5 sol5, si5)|
             <piano_1_v4>  |({do4, sol4}, mi4, sol4), ({lab3, solb4}, mib4, solb4), ({sol3, sol4}, do4 mi4, sol4), ({sol3, sol4}, si3 re4, sol4)|
@@ -3579,9 +3579,9 @@ Section de développement 88 — 8 mesures. Tonalité Lab majeur, tempo 90 BPM.
     </section>
 
 <meta>
-Section conclusive — 6 mesures. Tonalité Lab majeur, tempo 90 BPM.
+8 mesures. Tempo Allegro, environ 112 BPM. Signature 4/4. Tonalite Do majeur. Le finale en fugue ramene Do majeur pour conclure l'oeuvre dans un gigantesque edifice contrapuntique, Schubert reunissant le materiau thematique en une synthese intellectuelle et emotionnelle qui couronne cette oeuvre monumentale. La fugue finale transforme le materiau lyrique en architecture sonore, fusion unique du romantisme et du contrepoint baroque. Maintenir la clarte des lignes fugues sans jamais perdre l'energie et la direction vers la conclusion grandiose.
 </meta>
-    <section=section_90, n_mesure=6, bpm=90, format=4/4, tonalite=Lab_majeur>
+    <section=finale_fugue_90, n_mesure=8, bpm=112, format=4/4, tonalite=Do_majeur>
         <mesure num=1>
             <piano_1_v1>  |(do6 mi6 sol6 do7, mi7, do7), ({sol6, mi6}, do6, sol5), ({mi5, do5}, mi5, sol5), ({do6, mi6}, sol6, do7)|
             <piano_1_v4>  |(do5 mi5 sol5 do6, do4, sol3), ({mi3, do3}, sol2, mi2), ({do2, sol1}, do2, mi2), ({sol2, do3}, mi3, sol3)|
